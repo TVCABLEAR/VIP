@@ -2,9 +2,9 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:16
 #EXT-X-MEDIA-SEQUENCE:726
-#EXTINF:15.625000,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNICABLE)/Stream(01)/index.m3u8?_729.ts
+#EXTINF:15.625000,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNICABLE)/Stream(01)/index.m3u8?_726.ts
 #EXTINF:15.625000,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNICABLE)/Stream(01)/index.m3u8
 #EXTINF:15.625000,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNICABLE)/Stream(01)/index.m3u8
-#EXTINF:15.625000,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNICABLE)/Stream(01)/index.m3u8?_729.ts
 #EXTINF:15.625000,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNICABLE)/Stream(01)/index.m3u8
-#EXTINF:15.625000,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNICABLE)/Stream(01)/index.m3u8?_731.ts
+#EXTINF:15.625000,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNICABLE)/Stream(01)/index.m3u8
+#EXTINF:15.625000,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNICABLE)/Stream(01)/index.m3u8
