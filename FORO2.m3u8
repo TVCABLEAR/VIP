@@ -1,17 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:16
-#EXT-X-MEDIA-SEQUENCE:726
-#EXTINF:15.625000,
-http://ts.iptvultimate.com/get_ts/web/playlist/DiscoveryChannel/2/_726.ts
-#EXTINF:15.625000,
-http://ts.iptvultimate.com/get_ts/web/playlist/DiscoveryChannel/2/_727.ts
-#EXTINF:15.625000,
-https://raw.githubusercontent.com/TVCABLEAR/VIP/master/foro.ts
-#EXTINF:15.625000,
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
-#EXTINF:15.625000,
-http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
-#EXTINF:15.625000,
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2120892,RESOLUTION=541x406
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
 
