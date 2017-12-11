@@ -1,10 +1,16 @@
-#EXTM3U 
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
 
 
 
 #EXTINF:1, SMART TV MAX
-
-http:// 
+https://www.youtube.com/watch?v=bJFdt574s40
 
 
 #EXTINF:-1, Las Estrellas HD 
@@ -192,40 +198,35 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 , MLB NETWORK
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-1, TC HD http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:-1, TC HD 
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
 
-#EXTINF:-1, Bandamax http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:-1, Bandamax 
+http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
 
-#EXTINF:-1, Ritmoson latino http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
+#EXTINF:-1, Ritmoson latino 
+http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
 
 #EXTINF:-1, ANIMAX 
-
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
 
 #EXTINF:-1, NICK
-
 http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18l%2BF4A2kfmbDmsKYGLsXc96Vvf7YlB0IgQEc4HFC8tMnN03VaijrtdZixSDEVbWLfDG3F5MHme1w%3D%3D
 
 #EXTINF:-1, NICK JUNIOR
-
 http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
 
 #EXTINF:-1, DISNEY JUNIOR
-
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
 
 #EXTINF:-1, NATGEO KIDS
-
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
 
 #EXTINF:-1, TOONCAST
-
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
 
 #EXTINF:-1, CARTOON NETWORT
-
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
 
 #EXTINF:-1, CARTOON NETWORT
-
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
