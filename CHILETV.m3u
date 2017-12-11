@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
 #EXTINF:-1, tvg-logo="http://elpi.co/iptv/logos/lared.png" group-title="Canales Chile", La Red HD
 http://movilstream.digitalproserver.com/redtv/redtvvivo/redtv.smil/playlist.m3u8
  
