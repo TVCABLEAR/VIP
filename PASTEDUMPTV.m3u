@@ -1,0 +1,231 @@
+#EXTM3U 
+
+
+
+#EXTINF:1, SMART TV MAX
+
+http:// 
+
+
+#EXTINF:-1, Las Estrellas HD 
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8 
+
+#EXTINF:-1, Las Estrellas Latinoamerica 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:-1, Canal 5 
+http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
+
+#EXTINF:-1, Canal 5  SMART TV
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+
+#EXTINF:-1, FORO TV 
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1, Azteca Trece HD 
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1, Azteca 13 
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1, Azteca 7 
+http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/index.m3u8
+
+#EXTINF:-1, Azteca 7 SMART TV
+http://189.216.247.113/Content/HLS/Live/Channel(Azteca7)/index.m3u8
+
+#EXTINF:-1, AZCORAZON HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AZCORAZON_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1, A+ HD 
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+
+#EXTINF:-1, ADN 40 
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8 
+
+#EXTINF:-1, Azteca Honduras 
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Efekto Tv HD 
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1, TV Mas 
+mmloohttp://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?iptvgratis?chile.m3u8 
+
+#EXTINF:-1, Multimedios Monterrey 
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1, Unimas http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
+
+#EXTINF:-1, Telemundo 
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Univision 
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
+
+#EXTINF:-1, AXN
+http://cdn.prepro.cvattv.com.ar/live/live/AXNHD/SA_Live/AXNHD.m3u8
+
+#EXTINF:-1, AXN USA 
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+
+#EXTINF:-1, AXN USA SMART TV
+http://189.216.247.113/Content/HLS/Live/Channel(AXN)/index.m3u8
+
+#EXTINF:-1, A&E 
+http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
+
+#EXTINF:-1, A&E SMART TV
+http://189.216.247.113/Content/HLS/Live/Channel(AE)/index.m3u8
+
+#EXTINF:-1, AMC 
+http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1, AMC  SMART TV
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(06)/index.m3u8
+#EXTINF:-1, Warner Channel http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
+
+#EXTINF:-1, Warner Channel SMART  TV
+http://189.216.247.113/Content/HLS/Live/Channel(WARNER)/index.m3u8
+
+#EXTINF:-1, Cinemax 
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+
+#EXTINF:-1, Cinemax SMART TV
+http://189.216.247.113/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+
+#EXTINF:-1, Sony 
+http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
+
+#EXTINF:-1, Sony SMART TV
+http://189.216.247.113/Content/HLS/Live/Channel(SONY)/index.m3u8
+
+#EXTINF:-1, TNT 
+Series http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
+
+#EXTINF:-1, TNT Series SMART TV 
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
+
+#EXTINF:-1, TCM 
+http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8 
+
+#EXTINF:-1, TCM SMART TV
+http://189.216.247.113/Content/HLS/Live/Channel(TCM)/index.m3u8
+
+#EXTINF:-1, TLT 
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?time=1485382261151
+
+#EXTINF:-1, Comedy Central 
+http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
+
+#EXTINF:-1, Comedy Central SMART TV
+http://189.216.247.113/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
+
+#EXTINF:-1, Unicable 
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+
+#EXTINF:-1, Unicable SMART TV
+http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+
+#EXTINF:-1, Paramount 
+http://live.izzitv.mx/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8
+
+#EXTINF:-1, Paramount SMART TV 
+http://189.216.247.113/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8
+
+#EXTINF:-1, De Película 
+http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+
+#EXTINF:-1, De Película SMART TV 
+http://189.216.247.113/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+
+#EXTINF:-1, Cine + 
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1, FOX SERIES
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1, HBO
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1, HBO 2
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1, HBO PLUS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1, HBO FAMILY
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1, TDN 
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
+
+#EXTINF:-1, TDN SMART TV
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
+
+#EXTINF:-1, Univisión TDN 
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+
+#EXTINF:-1, Univisión TDN SMART TV
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+
+#EXTINF:-1, ESPN
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+
+#EXTINF:-1, ESPN SMART TV
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+
+#EXTINF:-1, Espn 2 
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+
+#EXTINF:-1, Espn 2 SMART TV
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+
+#EXTINF:-1, CLARO SPORT
+http://bit.ly/ClaroPelixmax
+
+#EXTINF:-1, F1 
+http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+
+#EXTINF:-1 , All sport 
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 , MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1, TC HD http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+#EXTINF:-1, Bandamax http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+
+#EXTINF:-1, Ritmoson latino http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
+
+#EXTINF:-1, ANIMAX 
+
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+
+#EXTINF:-1, NICK
+
+http://live.latino-webtv.com/live_3.m3u8?token=U2FsdGVkX18l%2BF4A2kfmbDmsKYGLsXc96Vvf7YlB0IgQEc4HFC8tMnN03VaijrtdZixSDEVbWLfDG3F5MHme1w%3D%3D
+
+#EXTINF:-1, NICK JUNIOR
+
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+
+#EXTINF:-1, DISNEY JUNIOR
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
+
+#EXTINF:-1, NATGEO KIDS
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1, TOONCAST
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
+
+#EXTINF:-1, CARTOON NETWORT
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1, CARTOON NETWORT
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
