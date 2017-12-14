@@ -1,26 +1,5 @@
 #EXTM3U 
-﻿
-﻿#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png" group-title="IPTV",CREADA POR ERWIN IPTV
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="http://www.reitzentrum-schwandorf.de/images/facebook.png" group-title="IPTV",PREMIER IPTV LISTAS GRATIS Y DE PAGO CHILE
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QHHJkv1.png" group-title="IPTV",MEGAPLAY
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CyOCnaY.png" group-title="IPTV",IPTV5REGION
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uQIP3Gx.jpg" group-title="IPTV",IPTV61W
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/cdb5d6_e6f2b3a8550b4a689b021b5545876c2e~mv2.png/v1/fill/w_146,h_99,al_c,usm_2.00_1.00_0.00/cdb5d6_e6f2b3a8550b4a689b021b5545876c2e~mv2.png" group-title="IPTV",T21
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CVPoxpy.png" group-title="IPTV",VEOPLAY
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZ5z9qo.png" group-title="IPTV",POWERIPTV
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="http://icon-icons.com/icons2/317/PNG/512/calendar-clock-icon_34472.png" group-title="IPTV",MES DE DICIEMBRE
-http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
 
-
-#EXTINF:0,-DEMO IPTV61W-
 
 #EXTINF:-1 Directv Eventos 1" DTV Sports" tvg-logo="http://3.bp.blogspot.com/-Ph7q98UL3m8/U8MfMnCuecI/AAAAAAAAACw/8KSreoq2hbw/s1600/directvsports.png" group-title="DEMO IPTV61W",DTV Sports
 http://iptv61w.com:25461/live/paultv/2010/7343.ts
