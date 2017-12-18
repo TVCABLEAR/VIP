@@ -104,7 +104,8 @@ http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17052.ts
 http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17055.ts
 #EXTINF:-1,FOX LIFE
 http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17020.ts
-#EXTINF:-1,FX http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17018.ts
+#EXTINF:-1,FX
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17018.ts
 #EXTINF:-1,FASHION TV
 http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17547.ts
 #EXTINF:-1,GALAVISION
@@ -217,19 +218,33 @@ http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/16293.ts
 http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/16288.ts
 #EXTINF:-1,Telemundo Miami
 http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/19775.ts
-#EXTINF:-1,Univision Miami http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/19776.ts
-#EXTINF:-1,Unimas Miami http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17567.ts
-#EXTINF:-1,Univision 41 HD http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/16281.ts
-#EXTINF:-1,Univision23 http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/16539.ts
-#EXTINF:-1,UNIVISION Puerto Rico http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/16287.ts
-#EXTINF:-1,Wapa http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17031.ts
-#EXTINF:-1,Wapa PR http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/16792.ts
-#EXTINF:-1,Wapa 2 PR http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/16793.ts
-#EXTINF:-1,Warner HD http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17030.ts
-#EXTINF:-1,Unicable HD http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17033.ts
-#EXTINF:-1,Universal HD http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17032.ts
-#EXTINF:-1,URUGUAY VTV HD http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/18963.ts
-#EXTINF:-1,WOBI http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/18962.ts
+
+#EXTINF:-1,Univision Miami
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/19776.ts
+#EXTINF:-1,Unimas Miami
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17567.ts
+#EXTINF:-1,Univision 41 HD
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/16281.ts
+#EXTINF:-1,Univision23
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/16539.ts
+#EXTINF:-1,UNIVISION Puerto Rico
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/16287.ts
+#EXTINF:-1,Wapa
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17031.ts
+#EXTINF:-1,Wapa PR
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/16792.ts
+#EXTINF:-1,Wapa 2 PR
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/16793.ts
+#EXTINF:-1,Warner HD
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17030.ts
+#EXTINF:-1,Unicable HD
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17033.ts
+#EXTINF:-1,Universal HD
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/17032.ts
+#EXTINF:-1,URUGUAY VTV HD
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/18963.ts
+#EXTINF:-1,WOBI
+http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/18962.ts
 #EXTINF:-1,<<<CANALES INFANTILES LATINOS>>>
 http://iptvluxe.servebeer.com:25461/live/bassiptv/bassiptv/7489.ts
 #EXTINF:-1, Baby TV
