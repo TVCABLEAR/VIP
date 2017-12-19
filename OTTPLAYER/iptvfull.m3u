@@ -1,38 +1,207 @@
 #EXTM3U
+#EXTINF:-1,CANAL +00
+http://5g.iptvmanagerpro.com/stream_00_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +01
+http://5g.iptvmanagerpro.com/stream_01_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +02
+http://5g.iptvmanagerpro.com/stream_02_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +03
+http://5g.iptvmanagerpro.com/stream_03_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +04
+http://5g.iptvmanagerpro.com/stream_04_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +05
+http://5g.iptvmanagerpro.com/stream_05_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +06
+http://5g.iptvmanagerpro.com/stream_06_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +07
+http://5g.iptvmanagerpro.com/stream_07_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +08
+http://5g.iptvmanagerpro.com/stream_08_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +09
+http://5g.iptvmanagerpro.com/stream_09_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
 
-#EXTINF:-1,ESPN 3
+#EXTINF:-1,CANAL +10
+http://5g.iptvmanagerpro.com/stream_10_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +11
+http://5g.iptvmanagerpro.com/stream_11_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +12
+http://5g.iptvmanagerpro.com/stream_12_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +13
+http://5g.iptvmanagerpro.com/stream_13_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +14
+http://5g.iptvmanagerpro.com/stream_14_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +15
+http://5g.iptvmanagerpro.com/stream_15_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +16
+http://5g.iptvmanagerpro.com/stream_16_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +17
+http://5g.iptvmanagerpro.com/stream_17_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +18
+http://5g.iptvmanagerpro.com/stream_18_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +19
+http://5g.iptvmanagerpro.com/stream_19_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+
+#EXTINF:-1,CANAL +20
+http://5g.iptvmanagerpro.com/stream_20_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +21
+http://5g.iptvmanagerpro.com/stream_21_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +22
+http://5g.iptvmanagerpro.com/stream_22_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +23
+http://5g.iptvmanagerpro.com/stream_23_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +24
+http://5g.iptvmanagerpro.com/stream_24_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +25
+http://5g.iptvmanagerpro.com/stream_25_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +26
+http://5g.iptvmanagerpro.com/stream_26_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +27
+http://5g.iptvmanagerpro.com/stream_27_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +28
+http://5g.iptvmanagerpro.com/stream_28_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL +29
+http://5g.iptvmanagerpro.com/stream_29_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+
+#EXTINF:-1,CANAL +30
+http://5g.iptvmanagerpro.com/stream_30_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL 31
+http://5g.iptvmanagerpro.com/stream_31_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL 32
+http://5g.iptvmanagerpro.com/stream_32_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL 33
+http://5g.iptvmanagerpro.com/stream_33_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL 34
+http://5g.iptvmanagerpro.com/stream_34_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+#EXTINF:-1,CANAL 35
+http://5g.iptvmanagerpro.com/stream_35_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
+
+#EXTINF:-1,36 ESPN 3
 http://5g.iptvmanagerpro.com/stream_36_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1,Golden Edge
+#EXTINF:-1,37 Golden Edge
 http://5g.iptvmanagerpro.com/stream_37_73515a667c815c8ad22862919d882939_1513462529.m3u8
-#EXTINF:-1,Nick Jr.
+#EXTINF:-1,CANAL 38
+http://5g.iptvmanagerpro.com/stream_38_73515a667c815c8ad22862919d882939_1513462529.m3u8
+#EXTINF:-1,CANAL 39
+http://5g.iptvmanagerpro.com/stream_39_73515a667c815c8ad22862919d882939_1513462529.m3u8
+
+#EXTINF:-1,CANAL +40
+http://5g.iptvmanagerpro.com/stream_40_73515a667c815c8ad22862919d882939_1513462529.m3u8
+#EXTINF:-1,CANAL +41
+http://5g.iptvmanagerpro.com/stream_41_73515a667c815c8ad22862919d882939_1513462529.m3u8
+#EXTINF:-1,CANAL +42
+http://5g.iptvmanagerpro.com/stream_42_73515a667c815c8ad22862919d882939_1513462529.m3u8
+#EXTINF:-1,CANAL +43
+http://5g.iptvmanagerpro.com/stream_43_73515a667c815c8ad22862919d882939_1513462529.m3u8
+#EXTINF:-1,CANAL +44
+http://5g.iptvmanagerpro.com/stream_44_73515a667c815c8ad22862919d882939_1513462529.m3u8
+#EXTINF:-1,CANAL +45
+http://5g.iptvmanagerpro.com/stream_45_73515a667c815c8ad22862919d882939_1513462529.m3u8
+#EXTINF:-1,CANAL +46
+http://5g.iptvmanagerpro.com/stream_46_73515a667c815c8ad22862919d882939_1513462529.m3u8
+#EXTINF:-1,CANAL +47
+http://5g.iptvmanagerpro.com/stream_47_73515a667c815c8ad22862919d882939_1513462529.m3u8
+#EXTINF:-1,CANAL +48
+http://5g.iptvmanagerpro.com/stream_48_73515a667c815c8ad22862919d882939_1513462529.m3u8
+#EXTINF:-1,49 Nick Jr.
 http://5g.iptvmanagerpro.com/stream_49_40e875f4e2b0827985637981542882eb_1513462529.m3u8
-#EXTINF:-1, COMEDY CENTRAL
+
+#EXTINF:-1,CANAL +50
+http://5g.iptvmanagerpro.com/stream_50_40e875f4e2b0827985637981542882eb_1513462529.m3u8
+#EXTINF:-1,CANAL +51
+http://5g.iptvmanagerpro.com/stream_51_40e875f4e2b0827985637981542882eb_1513462529.m3u8
+#EXTINF:-1,CANAL +52
+http://5g.iptvmanagerpro.com/stream_52_40e875f4e2b0827985637981542882eb_1513462529.m3u8
+#EXTINF:-1,CANAL +53
+http://5g.iptvmanagerpro.com/stream_53_40e875f4e2b0827985637981542882eb_1513462529.m3u8
+#EXTINF:-1,CANAL +54
+http://5g.iptvmanagerpro.com/stream_54_40e875f4e2b0827985637981542882eb_1513462529.m3u8
+#EXTINF:-1,CANAL +55
+http://5g.iptvmanagerpro.com/stream_55_40e875f4e2b0827985637981542882eb_1513462529.m3u8
+#EXTINF:-1,CANAL +56
+http://5g.iptvmanagerpro.com/stream_56_40e875f4e2b0827985637981542882eb_1513462529.m3u8
+#EXTINF:-1,CANAL +57
+http://5g.iptvmanagerpro.com/stream_57_40e875f4e2b0827985637981542882eb_1513462529.m3u8
+#EXTINF:-1,CANAL +58
+http://5g.iptvmanagerpro.com/stream_58_40e875f4e2b0827985637981542882eb_1513462529.m3u8
+
+#EXTINF:-1,59 COMEDY CENTRAL
 http://5g.iptvmanagerpro.com/stream_59_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, TBS
+#EXTINF:-1,60 TBS
 http://5g.iptvmanagerpro.com/stream_60_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1,DISCOVERY CIVILIZATION
+#EXTINF:-1,61 DISCOVERY CIVILIZATION
 http://5g.iptvmanagerpro.com/stream_61_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
+#EXTINF:-1,62 DISCOVERY SCIENCE
 http://5g.iptvmanagerpro.com/stream_62_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1,DISCOVERY TURBO
+#EXTINF:-1,63 DISCOVERY TURBO
 http://5g.iptvmanagerpro.com/stream_63_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1,DISCOVERY THEATER
+#EXTINF:-1,64 DISCOVERY THEATER
 http://5g.iptvmanagerpro.com/stream_64_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1,CANAL +65
+http://5g.iptvmanagerpro.com/stream_65_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,CANAL +66
+http://5g.iptvmanagerpro.com/stream_66_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,CANAL +67
+http://5g.iptvmanagerpro.com/stream_67_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,CANAL +68
+http://5g.iptvmanagerpro.com/stream_68_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,CANAL +69
+http://5g.iptvmanagerpro.com/stream_69_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+
+#EXTINF:-1,CANAL +70
+http://5g.iptvmanagerpro.com/stream_70_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,CANAL +71
+http://5g.iptvmanagerpro.com/stream_71_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,CANAL +72
+http://5g.iptvmanagerpro.com/stream_72_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,CANAL +73
+http://5g.iptvmanagerpro.com/stream_73_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,CANAL +74
+http://5g.iptvmanagerpro.com/stream_74_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,CANAL +75
+http://5g.iptvmanagerpro.com/stream_75_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,CANAL +76
+http://5g.iptvmanagerpro.com/stream_76_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,CANAL +77
+http://5g.iptvmanagerpro.com/stream_77_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,CANAL +78
+http://5g.iptvmanagerpro.com/stream_78_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,CANAL +79
+http://5g.iptvmanagerpro.com/stream_79_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,CANAL +80
+http://5g.iptvmanagerpro.com/stream_80_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+http://5g.iptvmanagerpro.com/stream_81_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+http://5g.iptvmanagerpro.com/stream_82_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+http://5g.iptvmanagerpro.com/stream_83_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+http://5g.iptvmanagerpro.com/stream_84_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+http://5g.iptvmanagerpro.com/stream_85_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+http://5g.iptvmanagerpro.com/stream_86_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+http://5g.iptvmanagerpro.com/stream_87_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+http://5g.iptvmanagerpro.com/stream_88_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+http://5g.iptvmanagerpro.com/stream_89_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+
+http://5g.iptvmanagerpro.com/stream_90_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+http://5g.iptvmanagerpro.com/stream_91_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+http://5g.iptvmanagerpro.com/stream_92_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+http://5g.iptvmanagerpro.com/stream_93_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+http://5g.iptvmanagerpro.com/stream_94_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,95 ESPN HD
 http://5g.iptvmanagerpro.com/stream_95_729d1018ee950565ee94f62226cf0c6c_1513462529.m3u8
-#EXTINF:-1, CINE FOX
+http://5g.iptvmanagerpro.com/stream_96_729d1018ee950565ee94f62226cf0c6c_1513462529.m3u8
+http://5g.iptvmanagerpro.com/stream_97_729d1018ee950565ee94f62226cf0c6c_1513462529.m3u8
+
+#EXTINF:-1,98 CINE FOX
 http://5g.iptvmanagerpro.com/stream_98_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, AZTECA TV
+#EXTINF:-1,99 AZTECA TV
 http://5g.iptvmanagerpro.com/stream_99_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, TELEHIT PLUS
+#EXTINF:-1,100 TELEHIT PLUS
 http://5g.iptvmanagerpro.com/stream_100_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1,ESPN+
+#EXTINF:-1,103 ESPN+
 http://5g.iptvmanagerpro.com/stream_103_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, TLC
+#EXTINF:-1,105 TLC
 http://5g.iptvmanagerpro.com/stream_105_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, FORMULA 1
+#EXTINF:-1,106 FORMULA 1
 http://5g.iptvmanagerpro.com/stream_106_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, WOBI
+#EXTINF:-1,107 WOBI
 http://5g.iptvmanagerpro.com/stream_107_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
 
 #EXTINF:-1,A&E HD
