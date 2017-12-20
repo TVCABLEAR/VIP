@@ -160,3 +160,21 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebas
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
 #EXTINF:-1 group-title="TV",SILENCE TV
 http://109.236.85.100:8081/sipTV/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Exabyte TV " tvg-logo="https://i3.radionomy.com/radios/400/48a8df4c-f063-4b46-8e1b-b5a1e65ed446.jpg" group-title="ESTABLES",Virgin TV music 
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:0 type="stream" channelId="2920" tvg-logo="http://www.djing.com/img/facebook.png" group-title="ESTABLES", DJING CLASSIC HD 
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" , MI MUSICA HD 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/ibiza-on-tv-channel-images-logo-large.png" group-title="ESTABLES", IBIZA 
+http://www.djing.com/tv/a-04.m3u8
+#EXTINF:0 type="stream" channelId="2526" tvg-logo="https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png" group-title="ESTABLES" , Hit Tv 
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+#EXTINF:-1 tvg-logo="http://imgur.com/y1YCl0M.png" group-title="ESTABLES", MC Play 
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAdIAAAAJGUzNGY2YmI4LTgyNWQtNGE2NS1hMmZmLTJmYmQyNDdiZDI2ZQ.png" group-title="ESTABLES",Banda Ancha TV  
+https://d3tqt20u0qzspi.cloudfront.net/live/ngrp:bandaancha_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-j1PmbDXjv3o/UFX0zyYbdLI/AAAAAAAAAG8/rcbe1zel6KE/s320/teleritmo_logo.png" group-title="ESTABLES" ,Teleritmo 
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+#EXTINF:-1 tvg-logo="http://www.stweb.tv/indalo/radioone/one.jpg" group-title="ESTABLES" ,Radio One HD 
+http://server5.stweb.tv/radioone/live/playlist.m3u8
