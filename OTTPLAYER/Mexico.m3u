@@ -1,0 +1,69 @@
+#EXTM3U
+
+#EXTINF:0  tvg-logo="https://i.ytimg.com/vi/kI2qhu_sm-M/hqdefault.jpg",Azteca 13 HD
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1 type="stream"  tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/10sky-logo-13HD.jpg", Azteca Trece HD (opcion 2)
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:0  tvg-logo="https://i.ytimg.com/vi/kI2qhu_sm-M/hqdefault.jpg",Azteca 13 STD
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0  tvg-logo="https://i.ytimg.com/vi/kI2qhu_sm-M/hqdefault.jpg",Azteca 13 HD (Opcion 3)
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:-1 tvg-id="Gala tv" tvg-name="Gala tv" tvg-logo="https://i.imgur.com/JTswbtA.png" group-title="MEXICO",Grupo SIPSE TV Cancun
+http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
+#EXTINF:-1 type="stream"  tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/sky-logo-adn40.jpg" ,ADN 40 HD
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+#EXTINF:-1 type="stream"  tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/sky-logo-adn40.jpg" ,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amastv.com/img/logo_amas_slogan.png" group-title="MEXICO",A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.amastv.com/img/logo_amas_slogan.png" group-title="MEXICO",A+ (opcion 2)
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://is4.mzstatic.com/image/thumb/Purple122/v4/f0/da/85/f0da8533-115a-43ad-a1ec-730c1c018f91/source/175x175bb.jpg" group-title="ESTABLES BY GAME SNAKE LAND l.S", UNO TV MEXICO
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-eJaMxMIusUo/AAAAAAAAAAI/AAAAAAAAAAA/plEpk2FbWHA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ESTABLES BY GAME SNAKE LAND l.S",CORACYT TLAXCALA
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://rtvgro.net/inicio/wp-content/uploads/2015/02/Logo-Website.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",RTG GUERRERO
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/O3Kywgw.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_10806_7_36148.png" group-title="ESTABLES BY GAME SNAKE LAND l.S",TRECEVISION YUCAT&aacute;N
+http://streamingcws10.com:1935/trecevision/videotrecevision/playlist.m3u
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ESTABLES BY GAME SNAKE LAND l.S",TVT TABASCO
+http://tvttabasco-lh.akamaihd.net/i/ch_1@325634/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i2.esmas.com/2015/01/06/734691/canal-5-330x330.jpg" group-title="MEXICO",Canal 5
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 HD" tvg-logo="http://tecnotv.info/logoss/canal%205%20HD.png" group-title="1.Latinos",Canal 5 HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/canal-5-hd.gif" group-title="MEXICO", Canal 5 HD (Opcion 2)
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1,HQ Canal 5
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/15058.ts
+#EXTINF:-1 tvg-logo="https://media.entutele.com/channels/big/canal-2.gif" group-title="Entretenimiento",Canal De las Estrellas STD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://media.entutele.com/channels/big/canal-2.gif" group-title="Entretenimiento",Canal De las Estrellas HD
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.elpoderdelasideas.com/wp-content/uploads/nuevo_antes_despues_logo_las_estrellas_televisa_detalles.png" , Las Estrellas
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png" group-title="DEPORTES",UNIVISION TDN
+http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MEXICO",FOROtv ANW NAW NAW NAW Terremoto
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.blogs.es/7abda0/mvs-noticias3-1-/original.jpg" group-title="MEXICO",MVS Noticias
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xr4EiV2.png" group-title="MEXICO",Canal del Congreso
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PV6BVbi.png" group-title="MEXICO",Canal Judicial
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.televisa.com/2017/04/logo_de_pelicula.jpg" group-title="MEXICO",De Pelicula HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://televisa-networks.com/wp-content/uploads/2016/03/distrito-comedia.png" group-title="MEXICO",Distrito Comedia
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+#EXTINF:-1,Distrito Comedia(1080).
+http://tv.latintvweb.com:8000/live/Manuel/Manuel/14857.ts
