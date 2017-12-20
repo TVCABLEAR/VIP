@@ -7,18 +7,7 @@ http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="ESTABLES", Adn 40 
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
-#EXTINF:-1 tvg-logo="http://i62.tinypic.com/25hpt92.jpg"group-title="ESTABLES",Azteca 7 
-http://gratis1.iptvcanales.com/~hstkgjrb/redirect/elchino/J02/5.m3u8
-#EXTINF:-1 tvg-logo="http://i62.tinypic.com/25hpt92.jpg"group-title="ESTABLES",Azteca 7 (op2) 
-http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8
-#EXTINF:0  group-title="ESTABLES" tvg-logo="http://farm2.staticflickr.com/1704/25634859013_42315466b0_o.png", Azteca Cinema  
-http://vivoplay-i.akamaihd.net/hls/live/255328/canal1/master2500k.m3u8
-#EXTINF:0  group-title="ESTABLES" tvg-logo="http://www.onlinetv.planetfools.com/imagenes/az-corazon.jpg", Azteca Corazón 
-http://vivoplay-i.akamaihd.net/hls/live/255340/canal1/master2500k.m3u8
-#EXTINF:0  group-title="ESTABLES" tvg-logo="http://www.matrixtvnet.com.ve/img/canales/az_clic.png", Azteca Click 
-http://vivoplay-i.akamaihd.net/hls/live/255339/canal1/master2500k.m3u8
-#EXTINF:-1 tvg-id="Exabyte TV Canal 2" tvg-name="Canal 2" tvg-logo="http://televisa-networks.com/wp-content/uploads/2016/03/lasestrellas.png" group-title="ESTABLES",Canal De Las Estrellas  
-http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+
 #EXTINF:-1 tvg-logo="http://static.ontvtonight.com/static/2/Open/400x300_1845/Source/46261/canal5hd.png"group-title="ESTABLES",Canal 5 HD 
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
 #EXTINF:-1 group-title="ESTABLES", tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png"group-title="ESTABLES",Multimedios Monterrey 
