@@ -27,12 +27,8 @@ http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://imgur.com/SVFUP73.jpeg" group-title="ESTABLES", AZ HONDURAS 
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
-#EXTINF:0 tvg-logo="http://www.ipuntotv.com/IMAGES/TDN-logo.png" group-title="ESTABLES", TDN 
-#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/F2cAs.png?1" group-title="ESTABLES", UNIVISION TDN 
-#EXTINF:0 type="stream" tvg-logo="https://goo.gl/EFk9NW" group-title="ESTABLES", UNIVISION DEPORTES
-http://sced.cdnak.neulion.net:80/250/nlds/univision/as/live/udnoo_hd_1600_ipad.m3u8
-#EXTINF:0  tvg-logo="https://goo.gl/WdBxLe" group-title="ESTABLES" , ESTADIO CDF 
-http://cdn2.shurs.xyz/verliga/2/playlist.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://goo.gl/Nx9c41" group-title="ESTABLES" , FOX y CDF Premium ( Land S.y Land.)
 #
 #EXTINF:-1 tvg-logo="https://goo.gl/2x1TeF"group-title="ESTABLES", FOX 
