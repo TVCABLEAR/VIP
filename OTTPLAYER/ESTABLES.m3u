@@ -1,58 +1,57 @@
 #EXTM3U
 
 
-#EXTINF:-1 type="stream" channelId="1971" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Logo_Azteca_13_HD_2007-2011.svg/150px-Logo_Azteca_13_HD_2007-2011.svg.png" group-title="ESTABLES" , Azteca 13 mx 
+#EXTINF:-1 tvg-logo="https://goo.gl/RjBzAG" group-title="ESTABLES" , AZTECA 13 mx 
 http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
-#EXTINF:0 tvg-logo="http://www.amastv.com/img/logo_amas_slogan.png" group-title="ESTABLES", A+ 
+#EXTINF:0 tvg-logo="https://goo.gl/moN9Ri" group-title="ESTABLES", A+ 
 http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png" group-title="ESTABLES", Adn 40 
+#EXTINF:0 tvg-logo="https://goo.gl/4EjCeU" group-title="ESTABLES", ADN 40 
 http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.ontvtonight.com/static/2/Open/400x300_1845/Source/46261/canal5hd.png"group-title="ESTABLES",Canal 5 HD 
+#EXTINF:-1 tvg-logo="https://goo.gl/7G5YJt" group-title="ESTABLES",CANAL 5 HD 
 http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
-#EXTINF:-1 group-title="ESTABLES", tvg-logo="http://img-youpeliculas.com/images/2014/07/15/multimedios.png"group-title="ESTABLES",Multimedios Monterrey 
+#EXTINF:-1 tvg-logo="https://goo.gl/6GxNHN"group-title="ESTABLES",MULTIMEDIOS MONTERREY
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png"group-title="ESTABLES",FOX SPORTS 
+#EXTINF:-1 tvg-logo="https://goo.gl/YYCgia"group-title="ESTABLES",FOX SPORTS 1
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Fox_sports_2.png/revision/latest?cb=20160123012609"group-title="ESTABLES",FOX SPORTS 2 
+#EXTINF:-1 tvg-logo="https://goo.gl/jztd9p"group-title="ESTABLES",FOX SPORTS 2 
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/818_300.png"group-title="ESTABLES",FOXSPORTS 3 
+#EXTINF:-1 tvg-logo="https://goo.gl/3u5XkZ"group-title="ESTABLES",FOX SPORTS 3 
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
-#EXTINF:0 channelId="2489" tvg-logo="http://blogvecindad.com/imagenes/2013/11/Canal-Once-Mexico-Logo-nuevo.png" group-title="ESTABLES", Canal ONCE 
+#EXTINF:0 tvg-logo="https://goo.gl/Q9y3Lh" group-title="ESTABLES",Canal ONCE 
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1 type="stream" channelId="407" tvg-logo="https://lh4.googleusercontent.com/-qcqUmE_igSs/AAAAAAAAAAI/AAAAAAAAaic/YpE2J55-zaU/photo.jpg" group-title="ESTABLES", UNIVISION 
-http://185.180.13.70:25461/live/appandroid/app/801.m3u8?token=TxFcUhELRAsRAQNcBQJRCgoAAANTVQ1QUAYCBVJVAVAEAgJXVwZWU1VHGkYVEkBXU1xqDwUSDgIKG0NHRVZCal1XFglAV1QAEUkUEA8LVxAIARlEEVlQFAkVUwoFCwkXGBFRSxYGFF9SCWkAAxBbUVcTDwgUXFgaEVgPbVJWXVRaVxYJQFNEHREMRRREXBBkW1VQCRVCW1gTexVXUxEcF1ZaQEEDFwMTCUcHUFBREB4QUloTD0RGTxENQ3F3ERwXUUtAVgwQD15dRwxGC1VHChAdFw8Sb0ZTQEMTV1deVUcWCRYDQE9EXFIdaQcJCFxXUUVcCQ9DFgwRAkMeFF5fW11HW0E9Ew9VEV8UVlNVAgMQTA==
-#EXTINF:-1 tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo_medium.png"group-title="ESTABLES",TELEMUNDO LATINO 
+
+#EXTINF:-1 tvg-logo="https://goo.gl/bNYebq" group-title="ESTABLES",TELEMUNDO LATINO 
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
-#EXTINF:0 type="stream" tvg-logo="http://www.aztecanoticias.com.mx/includes/alianza/images/an_logo_horizontal-u552.png" group-title="ESTABLES", Azteca Noticias 
-http://aztecalive-lh.akamaihd.net:80/i/0qeij0bji_1@26639/index_3_av-b.m3u8
+
 #EXTINF:-1 tvg-logo="http://imgur.com/SVFUP73.jpeg" group-title="ESTABLES", AZ HONDURAS 
 http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
-#EXTINF:0 type="stream" channelId="1965" tvg-logo="http://www.ipuntotv.com/IMAGES/TDN-logo.png" group-title="ESTABLES", tdn 
-#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/F2cAs.png?1" group-title="ESTABLES", univision tdn 
-#EXTINF:0 type="stream" tvg-logo="http://canalenvivogratis.com/wp-content/uploads/2016/06/univision-deportes-en-vivo.jpg" group-title="ESTABLES", univision deportes 
+#EXTINF:0 tvg-logo="http://www.ipuntotv.com/IMAGES/TDN-logo.png" group-title="ESTABLES", TDN 
+#EXTINF:0 type="stream" tvg-logo="http://i.imgur.com/F2cAs.png?1" group-title="ESTABLES", UNIVISION TDN 
+#EXTINF:0 type="stream" tvg-logo="https://goo.gl/EFk9NW" group-title="ESTABLES", UNIVISION DEPORTES
 http://sced.cdnak.neulion.net:80/250/nlds/univision/as/live/udnoo_hd_1600_ipad.m3u8
-#EXTINF:0  tvg-logo="http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png" group-title="ESTABLES" , ESTADIO CDF 
+#EXTINF:0  tvg-logo="https://goo.gl/WdBxLe" group-title="ESTABLES" , ESTADIO CDF 
 http://cdn2.shurs.xyz/verliga/2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-eE91zA45NDI/U9V2iHtNmjI/AAAAAAAAAFA/H1ZBjqjGaL0/s1600/cdf.png" group-title="ESTABLES" ,CDF Premium ( Land S.y Land.)
-#EXTINF:-1 tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/8/88/Fox_logo_orange.png"group-title="ESTABLES", Fox  
+#EXTINF:-1 tvg-logo="https://goo.gl/Nx9c41" group-title="ESTABLES" , FOX y CDF Premium ( Land S.y Land.)
+#
+#EXTINF:-1 tvg-logo="https://goo.gl/2x1TeF"group-title="ESTABLES", FOX 
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="ESTABLES", tvg-logo="http://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png?quality=0.75",Nickelodeon  
+#EXTINF:-1 group-title="ESTABLES", tvg-logo="https://goo.gl/p4GNb5",NICKELODION 
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICKELODEON_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="ESTABLES", tvg-logo="http://logok.org/wp-content/uploads/2015/01/Cartoon-Network-logo-2004-1024x768.png"group-title="ESTABLES",Cartoon Network  
+#EXTINF:-1 group-title="ESTABLES", tvg-logo="https://goo.gl/t9oprk"group-title="ESTABLES",CARTOON NETWORK  
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="ESTABLES", tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-w.gif"group-title="ESTABLES", HBO  
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-w.gif" group-title="ESTABLES", HBO  
 http://187.49.86.238:10000/bysid/69?ListaVIP
-#EXTINF:-1 group-title="ESTABLES", tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-family-e.gif"group-title="ESTABLES", HBO Family  
+#EXTINF:-1 tvg-logo="http://z.cdn.entutele.com/media/channels/medium/hbo-family-e.gif" group-title="ESTABLES", HBO Family  
 http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
 #EXTINF:0 tvg-logo="http://www.liveonlinetv247.info/images/miamitv.png" group-title="ESTABLES",Miami Tv Mexico  
 http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/_GI1mUAUV6jo/RxWx0q2TJmI/AAAAAAAAAAM/FLkHGZoxqXU/s1600/Logo+Miami+TV.gif" group-title="ESTABLES",MIAMI TV  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/c2g8JG" group-title="ESTABLES",MIAMI TV  
 http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://i67.tinypic.com/291f0pg.jpg"group-title="ESTABLES", UFC 
-#EXTINF:0 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/entretenimiento/2.png" group-title="ESTABLES",Fox 
-#EXTINF:0 tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/Caracol_TV_HD_envivo-150x150.png"group-title="ESTABLES",CARACOL HD  
+#EXTINF:0 tvg-logo="https://goo.gl/mzD4H3" group-title="ESTABLES",FOX
+#EXTINF:0 tvg-logo="https://goo.gl/N1YzZ6"group-title="ESTABLES",CARACOL HD  
 http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:0 tvg-logo="http://puu.sh/mbLOY/25fd3c0724.png"group-title="ESTABLES", HBO  
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
@@ -70,9 +69,9 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="ESTABLES" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5610_2_9848.png", H2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/Stream(01)/index.m3u8
-#EXTINF:0 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/dicovery-kids.png"group-title="ESTABLES", Dyscovery Kids 
+#EXTINF:0 tvg-logo="https://goo.gl/NwNXab" group-title="ESTABLES", Dyscovery Kids 
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/Stream(01)/index.m3u8
-#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/-dnoADpGQHtk/WQ9NVzskrmI/AAAAAAAAAig/cDLXo3tvieAf4QDNOz2tuDvNGCLoTx0CwCLcB/s1600/gol%2Bperu.jpg"group-title="ESTABLES", GOL Peru 
+#EXTINF:0 tvg-logo="https://goo.gl/1dxtvM" group-title="ESTABLES", GOL Peru 
 #EXTINF:0 tvg-logo="https://www.brandeps.com/logo-download/U/Univision-01.png"group-title="ESTABLES", UNIVISION(nokodi) 
 #EXTINF:0 tvg-logo="http://stick.tv/images/sticktvn1/channel/eu/telenovelas.png"group-title="ESTABLES", Tlnovelas 
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
@@ -84,13 +83,13 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 https://hls-ord-1a.vaughnsoft.net/ams/live/live_chespirito_mania/chunklist.m3u8
 #EXTINF:-1 group-title="ESTABLES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" , CINE + 
 http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/devimage/192252966945/medium/100/1447773483bea42a56b032fde73bd5e01ce163a524.jpg" group-title="ESTABLES",La Ley 
+#EXTINF:-1 tvg-logo="https://goo.gl/Tqzaqp" group-title="ESTABLES",La Ley 
 https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_la_ley_031215_500k.m3u8
-#EXTINF:-1 tvg-logo="http://forounivers.com/uploads/monthly_2017_03/large.vplus.png.81987028a10901e3a7f4eb19a185dc18.png" group-title="ESTABLES", Ve Plus 
+#EXTINF:-1 tvg-logo="https://goo.gl/KMtzRS" group-title="ESTABLES", Ve Plus 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
-#EXTINF:-1 tvg-logo="https://ulango.tv/uploads/channels/27274/logo_melody%20channel1.png" group-title="ESTABLES", Melody Channel 
+#EXTINF:-1 tvg-logo="https://goo.gl/K3VKJv" group-title="ESTABLES", Melody Channel 
 http://186.155.200.118:1935/live/MelodyChannel/playlist.-MJZ3A3u6E78
-#EXTINF:-1 tvg-logo="http://www.tycsports.com/sites/default/files/nota_periodistica/imagen_tyc.jpg" group-title="ESTABLES", TyCSports 
+#EXTINF:-1 tvg-logo="https://goo.gl/Z9PxQf" group-title="ESTABLES", TyCSports 
 https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
 #EXTINF:-1 group-title="ESTABLES" ,Canal Claro  
 http://canalclaro-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
@@ -106,9 +105,9 @@ http://181.198.10.23:1935/live2/smil:teradek.smil/playlist.m3u8
 http://sonlife-i.akamaihd.net/hls/live/250023/spanishvtt/spanishvtt2/spanishvtt2.m3u8
 #EXTINF:-1,[GENERAL] ONDAS DE AMOR
 http://hd.worldkast.com:1935/8270/smil:8270.smil/playlist.m3u8
-#EXTINF:-1 group-title="ESTABLES"  ,Azteca 7 HD 
+#EXTINF:-1 group-title="ESTABLES" ,Azteca 7 HD 
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=AZMX0068
-#EXTINF:-1 group-title="ESTABLES"  , CANAL 4 NICARAGUA 
+#EXTINF:-1 group-title="ESTABLES" , CANAL 4 NICARAGUA 
 http://dcunilive1-lh.akamaihd.net/i/dclive_1@311302/index_150_av-p.m3u8?sd=6&rebase=on
 
 
