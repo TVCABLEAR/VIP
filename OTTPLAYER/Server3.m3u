@@ -1,6 +1,9 @@
 #EXTM3U
+
+
 #EXTINF:-1,  group-title="Cine/Series",[COLOR green]Cine/Series[/COLOR]
 http://127.0.0.1
+
 #EXTINF:0 type="stream" group-title="Cine/Series", FOX
 http://iptv.iptvmanagerpro.com/streams/8/stream.m3u8
 #EXTINF:0 type="stream" group-title="Cine/Series", FOX 1
