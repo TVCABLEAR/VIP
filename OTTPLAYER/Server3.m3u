@@ -1,255 +1,1501 @@
 #EXTM3U
-
-
-
-
-#EXTINF:-1, +10 MTV
-http://s3.iptvmanagerpro.com/stream_10_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +11 SONY
-http://s3.iptvmanagerpro.com/stream_11_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +12 AZTECA UNO
-http://s3.iptvmanagerpro.com/stream_12_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +13 SIETE
-http://s3.iptvmanagerpro.com/stream_13_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +14 INFANTIL
-http://s3.iptvmanagerpro.com/stream_14_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +15 TNT
-http://s3.iptvmanagerpro.com/stream_15_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +16 INFANTIL
-http://s3.iptvmanagerpro.com/stream_16_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +17
-http://s3.iptvmanagerpro.com/stream_17_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +18 ONCE HD
-http://s3.iptvmanagerpro.com/stream_18_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +19 DISCOVERY
-http://s3.iptvmanagerpro.com/stream_19_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-
-#EXTINF:-1, +20 CINE
-http://s3.iptvmanagerpro.com/stream_20_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +21 NICK
-http://s3.iptvmanagerpro.com/stream_21_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +22 INFANTIL
-http://s3.iptvmanagerpro.com/stream_22_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +23 NATIONAL GEOGRAPHIC
-http://s3.iptvmanagerpro.com/stream_23_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +24 BLOOMBERG
-http://s3.iptvmanagerpro.com/stream_24_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +25 INFANTIL
-http://s3.iptvmanagerpro.com/stream_25_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +26
-http://s3.iptvmanagerpro.com/stream_26_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +27 CINECANAL
-http://s3.iptvmanagerpro.com/stream_27_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1,CANAL +28 ANIMAL PLANET
-http://s3.iptvmanagerpro.com/stream_28_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +29 FX
-http://s3.iptvmanagerpro.com/stream_29_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-
-#EXTINF:-1, +30 DISNEY XD
-http://s3.iptvmanagerpro.com/stream_30_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +31 TOOMCAST
-http://s3.iptvmanagerpro.com/stream_31_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +32 TVE
-http://s3.iptvmanagerpro.com/stream_32_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +33 UNIVERSAL
-http://s3.iptvmanagerpro.com/stream_33_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +34 LIFETIME
-http://s3.iptvmanagerpro.com/stream_34_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +35 ESPN 2
-http://s3.iptvmanagerpro.com/stream_35_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-
-#EXTINF:-1, +36 ESPN 3
-http://s3.iptvmanagerpro.com/stream_36_9f2723494f379041c4d5af02809f8b9b_1513462529.m3u8
-#EXTINF:-1, +37 Golden Edge
-http://s3.iptvmanagerpro.com/stream_37_73515a667c815c8ad22862919d882939_1513462529.m3u8
-#EXTINF:-1, +38 INFANTIL
-http://s3.iptvmanagerpro.com/stream_38_73515a667c815c8ad22862919d882939_1513462529.m3u8
-#EXTINF:-1, +39 TNT SERIES
-http://s3.iptvmanagerpro.com/stream_39_73515a667c815c8ad22862919d882939_1513462529.m3u8
-
-#EXTINF:-1, +40 TIIN
-http://s3.iptvmanagerpro.com/stream_40_73515a667c815c8ad22862919d882939_1513462529.m3u8
-#EXTINF:-1, +41 RMS
-http://s3.iptvmanagerpro.com/stream_41_73515a667c815c8ad22862919d882939_1513462529.m3u8
-#EXTINF:-1, +42 SYFY
-http://s3.iptvmanagerpro.com/stream_42_73515a667c815c8ad22862919d882939_1513462529.m3u8
-#EXTINF:-1, +43 UNIMAS
-http://s3.iptvmanagerpro.com/stream_43_73515a667c815c8ad22862919d882939_1513462529.m3u8
-#EXTINF:-1, +44 FOXLIFE
-http://s3.iptvmanagerpro.com/stream_44_73515a667c815c8ad22862919d882939_1513462529.m3u8
-#EXTINF:-1,CANAL +45 E!
-http://s3.iptvmanagerpro.com/stream_45_73515a667c815c8ad22862919d882939_1513462529.m3u8
-#EXTINF:-1, +46 FOX MOVIES
-http://s3.iptvmanagerpro.com/stream_46_73515a667c815c8ad22862919d882939_1513462529.m3u8
-#EXTINF:-1, +47 TOROS
-http://s3.iptvmanagerpro.com/stream_47_73515a667c815c8ad22862919d882939_1513462529.m3u8
-#EXTINF:-1, +48 AE
-http://s3.iptvmanagerpro.com/stream_48_73515a667c815c8ad22862919d882939_1513462529.m3u8
-#EXTINF:-1, +49 Nick Jr.
-http://s3.iptvmanagerpro.com/stream_49_40e875f4e2b0827985637981542882eb_1513462529.m3u8
-
-#EXTINF:-1, +50
-http://s3.iptvmanagerpro.com/stream_50_40e875f4e2b0827985637981542882eb_1513462529.m3u8
-#EXTINF:-1, +51 BOOMERANG
-http://s3.iptvmanagerpro.com/stream_51_40e875f4e2b0827985637981542882eb_1513462529.m3u8
-#EXTINF:-1, +52 FOX CLASSIC
-http://s3.iptvmanagerpro.com/stream_52_40e875f4e2b0827985637981542882eb_1513462529.m3u8
-#EXTINF:-1, +53 FOX CINEMA
-http://s3.iptvmanagerpro.com/stream_53_40e875f4e2b0827985637981542882eb_1513462529.m3u8
-#EXTINF:-1, +54 GOLDEN PLUS
-http://s3.iptvmanagerpro.com/stream_54_40e875f4e2b0827985637981542882eb_1513462529.m3u8
-#EXTINF:-1, +55
-http://s3.iptvmanagerpro.com/stream_55_40e875f4e2b0827985637981542882eb_1513462529.m3u8
-#EXTINF:-1, +56 STUDIO UNIVERSAL
-http://s3.iptvmanagerpro.com/stream_56_40e875f4e2b0827985637981542882eb_1513462529.m3u8
-#EXTINF:-1, +57 TCM
-http://s3.iptvmanagerpro.com/stream_57_40e875f4e2b0827985637981542882eb_1513462529.m3u8
-#EXTINF:-1, +58
-http://s3.iptvmanagerpro.com/stream_58_40e875f4e2b0827985637981542882eb_1513462529.m3u8
-
-#EXTINF:-1, +59 COMEDY CENTRAL
-http://s3.iptvmanagerpro.com/stream_59_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +60 TBS
-http://s3.iptvmanagerpro.com/stream_60_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1,61 DISCOVERY CIVILIZATION
-http://s3.iptvmanagerpro.com/stream_61_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +62 DISCOVERY SCIENCE
-http://s3.iptvmanagerpro.com/stream_62_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +63 DISCOVERY TURBO
-http://s3.iptvmanagerpro.com/stream_63_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +64 DISCOVERY THEATER
-http://s3.iptvmanagerpro.com/stream_64_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +65 ID
-http://s3.iptvmanagerpro.com/stream_65_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +66 INFOMERCIAL
-http://s3.iptvmanagerpro.com/stream_66_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +67
-http://s3.iptvmanagerpro.com/stream_67_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +68 CADENA 4
-http://s3.iptvmanagerpro.com/stream_68_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +69 ISAT
-http://s3.iptvmanagerpro.com/stream_69_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-
-#EXTINF:-1, +70 NICK TOONS
-http://s3.iptvmanagerpro.com/stream_70_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +71 GOLDEN
-http://s3.iptvmanagerpro.com/stream_71_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +72 GLOBAL HD
-http://s3.iptvmanagerpro.com/stream_72_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +73 TRU TV
-http://s3.iptvmanagerpro.com/stream_73_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +74 AXN
-http://s3.iptvmanagerpro.com/stream_74_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +75
-http://s3.iptvmanagerpro.com/stream_75_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +76 WARNER BROS TV
-http://s3.iptvmanagerpro.com/stream_76_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +77
-http://s3.iptvmanagerpro.com/stream_77_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +78 FOX SPORTS 2
-http://s3.iptvmanagerpro.com/stream_78_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +79 FXM
-http://s3.iptvmanagerpro.com/stream_79_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +80 NICK
-http://s3.iptvmanagerpro.com/stream_80_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +81 SPACE
-http://s3.iptvmanagerpro.com/stream_81_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +82 NAT GEO KIDZ
-http://s3.iptvmanagerpro.com/stream_82_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +83 HISTORY
-http://s3.iptvmanagerpro.com/stream_83_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +84 BANDAMAX
-http://s3.iptvmanagerpro.com/stream_84_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +85 DP DEPELICULAS PLUS
-http://s3.iptvmanagerpro.com/stream_85_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +86
-http://s3.iptvmanagerpro.com/stream_86_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +87 WORLD
-http://s3.iptvmanagerpro.com/stream_87_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +88 FOX ACTION
-http://s3.iptvmanagerpro.com/stream_88_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +89 FOX SERIES
-http://s3.iptvmanagerpro.com/stream_89_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +90 AZ CORAZON
-http://s3.iptvmanagerpro.com/stream_90_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +91 VH HD
-http://s3.iptvmanagerpro.com/stream_91_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +92 1 CLASSIC
-http://s3.iptvmanagerpro.com/stream_92_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +93 MTV HITS
-http://s3.iptvmanagerpro.com/stream_93_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +94 MTV LIVE HD
-http://s3.iptvmanagerpro.com/stream_94_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +95 ESPN HD
-http://s3.iptvmanagerpro.com/stream_95_729d1018ee950565ee94f62226cf0c6c_1513462529.m3u8
-#EXTINF:-1, +96 AMC
-http://s3.iptvmanagerpro.com/stream_96_729d1018ee950565ee94f62226cf0c6c_1513462529.m3u8
-#EXTINF:-1,CANAL +97 
-http://s3.iptvmanagerpro.com/stream_97_729d1018ee950565ee94f62226cf0c6c_1513462529.m3u8
-
-#EXTINF:-1, +98 CINE FOX
-http://s3.iptvmanagerpro.com/stream_98_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +99 AZTECA TV
-http://s3.iptvmanagerpro.com/stream_99_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +100 TELEHIT PLUS
-http://s3.iptvmanagerpro.com/stream_100_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +101
-http://s3.iptvmanagerpro.com/stream_101_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +102 FOX SPORTS NFL
-http://s3.iptvmanagerpro.com/stream_102_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +103 ESPN+
-http://s3.iptvmanagerpro.com/stream_103_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +104 GARAGE
-http://s3.iptvmanagerpro.com/stream_104_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +105 TLC
-http://s3.iptvmanagerpro.com/stream_105_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +106 FORMULA 1
-http://s3.iptvmanagerpro.com/stream_106_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +107 WOBI
-http://s3.iptvmanagerpro.com/stream_107_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +108
-http://s3.iptvmanagerpro.com/stream_108_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +109
-http://s3.iptvmanagerpro.com/stream_109_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +110
-http://s3.iptvmanagerpro.com/stream_110_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +111
-http://s3.iptvmanagerpro.com/stream_111_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +112
-http://s3.iptvmanagerpro.com/stream_112_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +113
-http://s3.iptvmanagerpro.com/stream_113_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +114
-http://s3.iptvmanagerpro.com/stream_114_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +115
-http://s3.iptvmanagerpro.com/stream_115_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +116
-http://s3.iptvmanagerpro.com/stream_116_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +117
-http://s3.iptvmanagerpro.com/stream_117_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +118
-http://s3.iptvmanagerpro.com/stream_118_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +119
-http://s3.iptvmanagerpro.com/stream_119_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +120
-http://s3.iptvmanagerpro.com/stream_120_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +121
-http://s3.iptvmanagerpro.com/stream_121_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +122
-http://s3.iptvmanagerpro.com/stream_122_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +123
-http://s3.iptvmanagerpro.com/stream_123_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +124
-http://s3.iptvmanagerpro.com/stream_124_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +125
-http://s3.iptvmanagerpro.com/stream_125_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +126
-http://s3.iptvmanagerpro.com/stream_126_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +127
-http://s3.iptvmanagerpro.com/stream_127_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +128
-http://s3.iptvmanagerpro.com/stream_128_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +129
-http://s3.iptvmanagerpro.com/stream_129_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
-#EXTINF:-1, +130
-http://s3.iptvmanagerpro.com/stream_130_a3ef8cd34b32eb927dfff60946f0c44d_1513462529.m3u8
+#EXTINF:-1,  group-title="Cine/Series",[COLOR green]Cine/Series[/COLOR]
+http://127.0.0.1
+#EXTINF:0 type="stream" group-title="Cine/Series", FOX
+http://iptv.iptvmanagerpro.com/streams/8/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", FOX 1
+http://yinosx.com/channel/iptvcanales.php/http://proxy.iptvmanagerpro.com/streams/89/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", FOX Action
+http://yinosx.com/channel/iptvcanales.php/http://proxy.iptvmanagerpro.com/streams/88/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", FOX Movies
+http://iptv.iptvmanagerpro.com/streams/46/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", FOX Classics
+http://iptv.iptvmanagerpro.com/streams/52/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", FOX Cinema
+http://iptv.iptvmanagerpro.com/streams/53/stream.m3u8
+#EXTINF:0,HBO
+http://s5.tvplayerlatino.com/stk/HBO/index.m3u8
+#EXTINF:0,HBO plus
+http://s5.tvplayerlatino.com/stk/HBOPlusEste/index.m3u8
+#EXTINF:0,HBO 2
+http://s5.tvplayerlatino.com/stk/HBO2/index.m3u8
+#EXTINF:0,HBO Signature
+http://iptvlatinototal.ml/hls/s2/49rasDM1co7Xi/451/playlist.m3u8
+#EXTINF:0,HBO Family
+http://s5.tvplayerlatino.com/stk/HBOFamily/index.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", I.Sat
+http://iptv.iptvmanagerpro.com/streams/69/stream.m3u8
+#EXTINF:-1, Max UP
+http://s5.tvplayerlatino.com/stk/MaxUP/index.m3u8
+#EXTINF:-1, Max Prime
+http://s5.tvplayerlatino.com/stk/MaxPrime/index.m3u8
+#EXTINF:-1, MultiPremier
+http://s5.tvplayerlatino.com/stk/MultiPremier/index.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", Cinecanal
+http://iptv.iptvmanagerpro.com/streams/27/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", Cinecanal HD
+http://iptv2.iptvmanagerpro.com/streams/12/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", Cinemax
+http://s5.tvplayerlatino.com/stk/Cinemax/index.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", Golden HD
+http://iptv.iptvmanagerpro.com/streams/54/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", Golden Premier
+http://s5.tvplayerlatino.com/stk/GoldenPremier/index.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", Golden Multiplex
+http://s5.tvplayerlatino.com/stk/GoldenMultiplex/index.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", Universal
+http://iptv.iptvmanagerpro.com/streams/33/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", Universal HD
+http://iptv2.iptvmanagerpro.com/streams/10/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", TCM
+http://iptv.iptvmanagerpro.com/streams/57/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", TNT
+http://iptv.iptvmanagerpro.com/streams/15/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", FilmZone
+http://iptv2.iptvmanagerpro.com/streams/13/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", Warner HD
+http://iptv2.iptvmanagerpro.com/streams/9/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", Studio Universal
+http://iptv.iptvmanagerpro.com/streams/56/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", Space
+http://iptv2.iptvmanagerpro.com/streams/15/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", Cine Latino
+http://s5.tvplayerlatino.com/stk/CineLatino/index.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", FX
+http://iptv2.iptvmanagerpro.com/streams/8/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", Paramount
+http://s5.tvplayerlatino.com/stk/Paramount/index.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", A&E
+http://iptv.iptvmanagerpro.com/streams/48/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", AMC
+http://iptv.iptvmanagerpro.com/streams/55/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cine/Series", AXN
+http://iptv.iptvmanagerpro.com/streams/74/stream.m3u8
+ 
+#EXTINF:-1,  [COLOR white]Infantil[/COLOR]
+http://127.0.0.1
+#EXTINF:0 type="stream" group-title="Infantil", Boomerang
+http://iptv.iptvmanagerpro.com/streams/51/stream.m3u8
+#EXTINF:0 type="stream" group-title="Infantil", Cartoon Network
+http://iptv.iptvmanagerpro.com/streams/16/stream.m3u8
+#EXTINF:0 type="stream" group-title="Infantil", Discovery Kids
+http://iptv.iptvmanagerpro.com/streams/22/stream.m3u8
+#EXTINF:0 type="stream" group-title="Infantil", Disney channel
+http://iptv.iptvmanagerpro.com/streams/20/stream.m3u8
+#EXTINF:0 type="stream" group-title="Infantil", Disney junior
+http://iptv.iptvmanagerpro.com/streams/25/stream.m3u8
+#EXTINF:0 type="stream" group-title="Infantil", Nick
+http://iptv.iptvmanagerpro.com/streams/21/stream.m3u8
+ 
+#EXTINF:-1,  [COLOR yellow]Cultura[/COLOR]
+http://127.0.0.1
+#EXTINF:0 type="stream" group-title="Cultura", Animal Planet
+http://iptv.iptvmanagerpro.com/streams/28/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cultura", Discovery Civilization
+http://iptv.iptvmanagerpro.com/streams/61/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cultura", Discovery HD
+http://iptv.iptvmanagerpro.com/streams/19/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cultura", Discovery Turbo
+http://iptv.iptvmanagerpro.com/streams/63/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cultura", Discovery World
+http://proxy.iptvmanagerpro.com/streams/87/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cultura", Discovery Theater
+http://iptv.iptvmanagerpro.com/streams/64/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cultura", History
+http://live.tvplayerlatino.com/usuarios/src1/wQqis/Demo2/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Cultura", Home&Health
+http://iptv.iptvmanagerpro.com/streams/66/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cultura", Investigation Discovery
+http://iptv.iptvmanagerpro.com/streams/65/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cultura", NatGeo
+http://iptv.iptvmanagerpro.com/streams/23/stream.m3u8
+#EXTINF:0 type="stream" group-title="Cultura", NatGeo Wild
+http://yinosx.com/channel/iptvcanales.php/http://proxy.iptvmanagerpro.com/streams/82/stream.m3u8
+ 
+#EXTINF:-1,  [COLOR red]Deportes[/COLOR]
+http://127.0.0.1
+#EXTINF:0 type="stream" group-title="Deportes", Claro Sports
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls_clear/Live/Channel(jjoo2016ch01)/index.m3u8
+#EXTINF:0 type="stream" group-title="Deportes", CDFHD
+http://bit.ly/2ilyqzi
+#EXTINF:0 type="stream" group-title="Deportes", ESPN
+http://159.203.63.133:8081/rstm/Espn/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Deportes", ESPN 2
+http://iptv.iptvmanagerpro.com/streams/35/stream.m3u8
+#EXTINF:0 type="stream" group-title="Deportes", ESPN 3
+http://iptv.iptvmanagerpro.com/streams/36/stream.m3u8
+#EXTINF:0 type="stream" group-title="Deportes", ESPN +
+http://yinosx.com/channel/iptvcanales.php/http://proxy.iptvmanagerpro.com/streams/103/stream.m3u8
+#EXTINF:0 type="stream" group-title="Deportes", Fox Sports 2
+http://iptv2.iptvmanagerpro.com/streams/5/stream.m3u8
+#EXTINF:0 type="stream" group-title="Deportes", Fox Sports 3
+http://159.203.34.7:8081/rstm/FoxSports3/playlist.m3u8
+#EXTINF:0 type="stream" group-title="Deportes", DirecTV Sports
+http://185.2.137.180:8088/live/directv1maloso/playlist.m3u8?id=62082&pk=6662908713e2d06a211cd1bf451a83248c6cbfb0e3b20bfbc14d2ed9db956dec
+#EXTINF:0 type="stream" group-title="Deportes", Bein
+http://kdsajkldsadjsab77676das99saghdshhdds.sitenow.me/live/bein_alwkqfq/chunklist.m3u8?st=eS_pstjj1q0Dp0tRbMZULw&e=1484882639|Referer=http://www.sunhd.info/jwplayer6.5/cd3447580bd8d07feabad70edff965a1.swf
+#EXTINF:0 type="stream" group-title="Deportes", TDN
+http://s5.tvplayerlatino.com/stk/TDN/index.m3u8
+#EXTINF:0 type="stream" group-title="Deportes", Univision TDN
+http://s5.tvplayerlatino.com/stk/UnivisionTDN/index.m3u8
+#EXTINF:0 type="stream" group-title="Deportes", TyC Sports
+http://clairinlive-a.akamaihd.net/dc-1/live/hls/p/1885581/e/1_8xzo6fux/t/YO19xXbHgW_22sNZezlmTg/index-s32-v1-a1.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://news.entertainmentearth.com/wp-content/uploads/2016/01/movie-products.jpg" ,Peliculas Estreno[/COLOR]
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="http://cdn3-www.comingsoon.net/assets/uploads/gallery/star-wars-rogue-one/cwq_bzvxeaevup4.jpg",Star war rogue one
+https://onedrive.live.com/download?cid=ea1ccbed7744cc53&resid=EA1CCBED7744CC53%21109&authkey=!AGLXZ3WgOCnPg-I
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/arrival-150207636-large.jpg",la llegada
+https://onedrive.live.com/download?cid=39ea94bd9b333000&resid=39EA94BD9B333000%21107&authkey=!AH2Js5yjW0vOb74
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/jack_reacher_2_never_go_back-708603734-large.jpg",jack reacher
+https://onedrive.live.com/download?cid=39ea94bd9b333000&resid=39EA94BD9B333000%21108&authkey=%21AK2wOyAf_mt-88s
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-6OUdZGhR7BA/V6FsKuTGiiI/AAAAAAAAHlg/0PAjZD5TPP8-_dvWCfRL5Qeo_YpEWir-ACLcB/s1600/max%2Bsteel%2Bfilm.jpg" group-title="Estrenos",Max Steel
+https://goo.gl/tkbZuw
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/c_300_300/pictures/16/07/19/16/57/263464.jpg" group-title="Estrenos",La Chica Del Tren
+https://goo.gl/XwRB1y
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-0UCMlUlBZdE/WEu_oL2zBXI/AAAAAAAAHh4/nzlsCnVGM9E6Lxgnu3bQFjUnwtXNyDABACLcB/s400/spectral.jpg" group-title="Estrenos",Spectral
+https://goo.gl/5OmWvs
+#EXTINF:-1 tvg-logo="http://www.hobbyconsolas.com/sites/hobbyconsolas.com/public/media/image/2016/07/7-magnificos-poster_0.jpg" group-title="Estrenos",Los 7 Magnificos
+https://goo.gl/O8jfZo
+#EXTINF:-1 tvg-logo="http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/07-julio/El-Contador-poster-Ben-Affleck.jpg" group-title="Estrenos",El Contador
+https://goo.gl/WaJk1k
+#EXTINF:-1 tvg-logo="http://peliculasm.tv/archivos/img/4408.jpg", El Mecanico 2
+https://ia601506.us.archive.org/5/items/Th33pcial2/Th3_3%24pcial2.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w780/vPxN6DuwQP4EAoClLoZ4Rw3aGLC.jpg", La ola
+http://download03.usersfiles.com/d/qylqhxazt52fvxijsxtizeczlkmnv4ji4u4lqn5htjqw45qoss3zti32/video.mp4?start=0
+#EXTINF:-1 tvg-logo="http://www.impawards.com/2016/posters/inferno_ver3_xxlg.jpg",Inferno
+https://onedrive.live.com/download?cid=D1C8A54A8182DE89&resid=D1C8A54A8182DE89!1783&authkey=!ADW6gv0yXudthZg
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/ben_hur-517406743-large.jpg", Ben-hur
+https://2.bp.blogspot.com/gV7yphhmlHxQ6tAPJkFaWsIXzDtiR7aNyfvYdNiT5gjcBKW_nWNti_GY8JJJKhJ6AabTfgU0=m22
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-WdfEkpcp8Ks/V3GtLs7BIbI/AAAAAAAAYAY/DskjwIosYBEKLa9DCaVaMMK4NcFemvDdwCLcB/s1600/independence_day_2016.jpg" group-title="Estrenos",Dia De La Independencia2
+https://goo.gl/SPBrqM
+#EXTINF:-1 tvg-logo="http://www.labutaca.net/imagenes/wp-content/original/2015_08/la-chica-danesa-cartel-1.jpg" group-title="Estrenos",La Chica Danesa
+https://goo.gl/nQXbQ5
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/suicide_squad-430263618-large.jpg" group-title="Estrenos",Escuadron Suicida
+https://goo.gl/fdhMNg
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-oVcwG0tcXHw/UqWfbeQ9spI/AAAAAAAAANU/oFbNqs_aw0g/s400/2012+Movies+Collage.jpg", Peliculas Accion
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="http://media.img.estrenos10.com/peliculas/202x300/792709635845.jpg", punto de quiebre
+https://lh3.googleusercontent.com/YkkjYaHfYkzHyQQXRg7JRlBYq4OLo1JAzaDhMHsCeElB9F3a4of5_euptcPMSxCnwbvn9STEd6rw=m22
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/season_of_the_witch-813199616-large.jpg", temporada de brujas
+https://ia601505.us.archive.org/32/items/AnnabelleWww.DescargateloCorp.com/Temporada%20de%20brujas.mp4
+#EXTINF:-1 tvg-logo="http://www.zonanegativa.com/imagenes/2015/06/Jurassic-World-The-Game.jpg",jurassic world
+https://ia601506.us.archive.org/20/items/TransceDual1080p/jurasic%20world.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-YySn9-_jhZI/VuBl1Bq9lqI/AAAAAAAAA9U/RiRzxLsPjV8/s1600/terremoto%2Bla%2Bfalla%2Bde%2Bsan%2Bandres.jpg",San andrea
+https://ia601505.us.archive.org/32/items/AnnabelleWww.DescargateloCorp.com/san%20andrea.mp4
+#EXTINF:-1 tvg-logo="http://www.peelink2.net/wp-content/uploads/2016/07/Ver-La-Leyenda-De-Tarzan-peelink2.jpg",tarzan
+https://ia601505.us.archive.org/32/items/AnnabelleWww.DescargateloCorp.com/tarzan.mp4
+#EXTINF:-1 tvg-logo="http://www.adnmorelos.com/wp-content/uploads/2016/09/BEN-HUR.jpg" group-title="Estrenos",Ben-Hur
+https://goo.gl/96X3yP
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/15/11/04/17/06/411669.jpg" group-title="Estrenos",El Renacido
+http://www87.uptobox.com/d/7aysub3neor76xkqf3gjygdgpnkt6rrb2x43b564g5m5t6zagnzfawbul6sx7ipx3ckarrdtgszstoukvq/Th3.R3v3nant.2015.1080p.LATiNO.mp4
+#EXTINF:-1 tvg-logo="http://www.laparadadigital.com/fotos/Chapo-el-escape-del-siglo.jpg" group-title="Estrenos",El Chapo El Escape Del Siglo
+http://goo.gl/op524k
+#EXTINF:-1 tvg-logo="http://cdn.collider.com/wp-content/uploads/2016/05/star-trek-beyond-poster-fan-screening.jpg" group-title="Estrenos",Star Trek Beyond
+https://goo.gl/62GF0d
+#EXTINF:-1 tvg-logo="http://cdn3-www.superherohype.com/assets/uploads/gallery/ant-man_7925/antman-poster.jpg" group-title="Estrenos",Ant Man
+https://goo.gl/ZgnwY5
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/captain_america_civil_war-298011137-large.jpg" group-title="Estrenos",Capitan America Civil Ward
+https://goo.gl/XCdO2R
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/batman_v_superman_dawn_of_justice-728293826-large.jpg" group-title="Estrenos",Batman vs Superman
+https://goo.gl/xT8rNl
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-hyoelw-deQg/Vz6JKzQ2nQI/AAAAAAAAQqI/oudPATDbpuMpl_jcLoOrw14-XCPHSamXgCLcB/s320/The_Purge_3_Poster_Final_Latino.jpg" group-title="Estrenos",12 Horas Para Sobrevivir
+https://goo.gl/okTeyV
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-2erLGvxzM8E/VT0G1BxNlZI/AAAAAAAAT8A/ebVTGFgean8/s1600/Avengers_Age_of_Ultron_poster_usa.jpg" group-title="Estrenos",Los Vengadores Ultron
+http://www.spruto.tv/le/4/ab5b9365284aff96cf3f24f6a5adf973/188000/188732/188732.mp4
+#EXTINF:-1 tvg-logo="http://www.labutaca.net/peliculas/wp-content/uploads/2011/07/parker-cartel2.jpg" group-title="Estrenos",Parker
+http://www.spruto.tv/get_file/4/f90112e70c92465c46e7170a522db404/188000/188049/188049.mp4
+#EXTINF:-1 tvg-logo="http://gnula.nu/wp-content/uploads/2014/05/prometheus_poster_espa%C3%B1ol.jpg" group-title="Estrenos",Prometheus
+http://www.spruto.tv/get_file/6/aef8eda8bd15c77875cefd4353250d3f/201000/201570/201570.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-aca0jlbws7U/Vj6UZjIknOI/AAAAAAAAKPs/vlAaSJzEKP0/s1600/Mision+imposible+4+protocolo+fantasma+1080p+latino+ingles+mega.png" group-title="Estrenos",Mision Imposible 4
+http://www.spruto.tv/get_file/4/046c20f80ebd5ed0fc6c98fa7d09b5d5/188000/188735/188735.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/AEcYfvBFYaM/hqdefault.jpg" group-title="Estrenos",Proyecto X
+http://www.spruto.tv/get_file/6/0877e11b3d9657501594cebe27bf6dd6/201000/201565/201565.mp4
+#EXTINF:-1 tvg-logo="http://www.labutaca.net/peliculas/wp-content/uploads/2010/07/sin-salida-abduction-cartel-poster.jpg" group-title="Estrenos",Sin Salida
+http://www.spruto.tv/get_file/4/80619a72aad2ef922141eae32846c1e1/188000/188738/188738.mp4
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_520_690/newsv7/14/05/21/16/04/261271.jpg" group-title="Estrenos",Transformers 3
+http://www.spruto.tv/get_file/4/52882d7e23a0bb2accbe4b3ee2a2aa90/188000/188741/188741.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_215_290/pictures/16/04/19/15/57/356622.jpg" group-title="Estrenos",X-Men Apocalypis (Screen)
+http://www.spruto.tv/get_file/6/0668122e7c993c774539aa738e4ac05e/197000/197803/197803.mp4
+#EXTINF:-1 tvg-logo="http://www.reypelis.com/wp-content/uploads/2015/03/xmen-2.jpg" group-title="Estrenos",X-Men 2
+http://www.spruto.tv/get_file/4/24e3173b8b04ed981cbc0481cbd951fc/190000/190180/190180.mp4
+#EXTINF:-1 tvg-logo="http://img.cinemablend.com/cb/1/c/f/0/0/7/1cf0075020009bb0cb690c6ef28d0e27ba343d10181008ef037b60fd640d0a86.jpg" group-title="Estrenos",X-Men
+http://www.spruto.tv/get_file/4/416f64f3c057e489602ce9cf5a4cd524/190000/190184/190184.mp4
+#EXTINF:-1 tvg-logo="http://www.megawarez.org/wp-content/uploads/2015/05/Bienvenidos-al-Ayer-Cartel-Poster-Project-Almanac-e1431565943822.jpg" group-title="Estrenos",Bienvenidos al Ayer
+http://www.spruto.tv/get_file/5/cae77acecfd9c0ea18ddc341dd52a116/113000/113393/113393.mp4
+#EXTINF:-1 tvg-logo="http://www.kubelika.com/images/carteles/1000/1364-1-en-el-corazon-del-mar-300.jpg" group-title="Estrenos",En El Corazon Del Mar
+https://goo.gl/4BqODN
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/guardians_of_the_galaxy-595487268-large.jpg" group-title="Estrenos",Guardianes De La Galaxia
+https://goo.gl/sFaEVq
+#EXTINF:-1 tvg-logo="http://mebya.net/pelis/007-spectre-2015-dvdrip-latino-mega/Espectro%20007.jpg" group-title="Estrenos",007 Espectro
+https://goo.gl/qKyjeS
+#EXTINF:-1 tvg-logo="http://www.mubis.es/media/articles/10677/105164/poster-individuales-de-pan-la-pelicula-sobre-el-origen-de-peter-pan-original.jpg" group-title="Estrenos",Peter Pan
+https://goo.gl/vzxuCW
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_ltimo_cazador_de_brujas-617590340-main.jpg" group-title="Estrenos",El ultimo cazador de Brujas
+http://www.spruto.tv/get_file/2/c6d2e109d1146b59eec5309e6736ace7/160000/160270/160270.mp4
+#EXTINF:-1 tvg-logo="http://k38.kn3.net/D/B/2/0/C/C/2F6.jpg" group-title="Suspenso",Después de la Tierra
+http://www.spruto.tv/get_file/6/ce7915dc3cd73b34f12bc704513dc9e5/197000/197666/197666.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/spider_man_3_spiderman_3-381165300-large.jpg" group-title="SuperHeroes",El Hombre Araña 3
+http://www.spruto.tv/get_file/5/bf1a3aaea24e69371efa41190280aae1/143000/143066/143066.mp4
+#EXTINF:-1 tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/gravity/6505166-7-esl-ES/Gravity.jpg" group-title="",Gravity
+http://www.spruto.tv/get_file/6/d78794a5f1558cb51040f5ec6ba2a516/197000/197724/197724.mp4
+#EXTINF:-1 tvg-logo="http://www.labutaca.net/imagenes/wp-content/original/2012_12/hansel-y-gretel-cazadores-de-brujas-cartel-1.jpg" group-title="",Hansel y Gretel
+http://www.spruto.tv/get_file/4/a687b158767ebd2c4f6800cd4484323c/188000/188724/188724.mp4
+#EXTINF:-1 tvg-logo="http://www.labutaca.net/peliculas/wp-content/uploads/2010/04/immortals-cartel2.jpg" group-title="",Immortals
+http://www.spruto.tv/get_file/4/173a1f01e5d6e8291ffbac41442fa371/188000/188731/188731.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Ironmanposter.JPG" group-title="",Iron Man 1
+http://www.spruto.tv/get_file/4/bc27dc7559aaebcbf880023c0289d4a6/190000/190161/190161.mp4
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/iron-man-2-2010/large_zJ2eK7fehqFSQ2w5JlQIF0OJP9q.jpg" group-title="",Iron Man 2
+http://www.spruto.tv/get_file/4/32ac50e7e0c55b6cc2d2a3cd598f2bae/190000/190163/190163.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzMjEzMjY1M15BMl5BanBnXkFtZTcwNTMxOTYyOQ@@._V1_UY1200_CR105,0,630,1200_AL_.jpg" group-title="",Iron Man 3
+http://www.spruto.tv/get_file/4/1ec6cc61e3bee2071180820b4e03b999/190000/190165/190165.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/bullet_to_the_head-502422413-large.jpg" group-title="Estrenos",Una Bala en la Cabeza
+http://www.spruto.tv/get_file/4/5482ab571b5b45ae2d745fd045a0b8db/186000/186019/186019.mp4
+#EXTINF:-1 tvg-logo="http://lacallemusical.net/wp-content/uploads/2014/02/vamos-de-robo.png" group-title="Estrenos",Vamos de Robo
+http://www.spruto.tv/get_file/4/7888c38110a0d9407fa89a467b931547/186000/186376/186376.mp4
+#EXTINF:-1 tvg-logo="http://www.mubis.es/media/covers/950/889/el-americano-portada-original.jpg" group-title="Estrenos",El Americano: The Movie
+http://www.spruto.tv/get_file/4/97b3e5e53fda614c4ca0096d8635bb54/185000/185545/185545.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Los_33-667502827-main.jpg" group-title="Estrenos",Los 33
+http://www.spruto.tv/get_file/5/4db2bc31b56f5aefecb66537502c192c/146000/146177/146177.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Venganza-598020426-main.jpg" group-title="ACCION",BUSQUEDA IMPLACABLE 1
+http://www.spruto.tv/get_file/1/ddd1223bf92310814da0e02360f78835/86000/86899/86899.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Venganza_2_Conexi_n_Estambul-983359426-main.jpg" group-title="ACCION",BUSQUEDA IMPLACABLE 2
+http://www.spruto.tv/get_file/1/4c8f4824917b793ad7b5fd3eb5d0c7ab/86000/86883/86883.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/V3nganza_Venganza_3-411506560-main.jpg" group-title="ACCION",BUSQUEDA IMPLACABLE 3
+http://www.spruto.tv/get_file/5/72a07283a1f952907c419c7ac8ae22d8/109000/109059/109059.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_Llanero_Solitario-847763184-main.jpg" group-title="ACCION",EL LLANERO SOLITARIO (2013)
+http://www.spruto.tv/get_file/7/c659aa63613e72ab314fd14a0cf32def/76000/76353/76353.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_se_or_de_los_anillos_La_comunidad_del_anillo-876628736-main.jpg" group-title="ACCION",EL SEÑOR DE LOS ANILLOS 1
+http://www.spruto.tv/get_file/2/1cdcb7a5a34c448458c989c4a8ea63ac/92000/92303/92303.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_se_or_de_los_anillos_Las_dos_torres-450612576-main.jpg" group-title="ACCION",EL SEÑOR DE LOS ANILLOS 2
+http://www.spruto.tv/get_file/2/ffdfa3598aa29f3d798de90672748ddd/92000/92307/92307.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_se_or_de_los_anillos_El_retorno_del_rey-178294596-main.jpg" group-title="ACCION",EL SEÑOR DE LOS ANILLOS 3
+http://www.spruto.tv/get_file/2/71e2263d6e983814600c732e9076d858/92000/92306/92306.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Cuatro_Fant_sticos-220520546-main.jpg"group-title="ACCION",4 FANTASTICOS 2015
+http://www.spruto.tv/get_file/5/df5853193597964e256b1182a39e6747/140000/140574/140574.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Iron_Man-985012333-main.jpg" group-title="ACCION",IRON MAN 1
+http://www.spruto.tv/get_file/1/1a2703d460834959ef769c09094b6d70/87000/87803/87803.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Iron_Man_2-357578259-main.jpg" group-title="ACCION",IRON MAN 2
+http://www.spruto.tv/get_file/5/e91fc8e010f0a096542a76a93d4e2877/108000/108007/108007.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Iron_Man_3-972235216-main.jpg" group-title="ACCION",IRON MAN 3
+http://www.spruto.tv/get_file/5/64ec2b83e4a5b1d011d3481e21331156/116000/116842/116842.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_b_squeda-804428271-main.jpg" group-title="ACCION",LA LEYENDA DEL TESORO PERDIDO
+http://www.spruto.tv/get_file/7/9d9c949a8735bc7da3b9f51210a54cfb/77000/77011/77011.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_b_squeda_2_El_diario_secreto-298165153-main.jpg" group-title="ACCION",LA LEYENDA DEL TESORO PERDIDO 2 (2007)
+http://www.spruto.tv/get_file/7/0b78b500d48aeb8d20f6576b6c5d6f56/77000/77012/77012.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_monta_a_embrujada-396523723-main.jpg" group-title="ACCION",LA MONTAÑA EMBRUJADA (2009)
+http://www.spruto.tv/get_file/7/883681f6f209a65a6b75dde536ceff59/76000/76793/76793.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Los_mercenarios-597606855-main.jpg" group-title="ACCION", LOS INDESTRUCTIBLES 1
+http://www.spruto.tv/get_file/5/68918783d0ef282bad20006c45809328/107000/107983/107983.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Los_mercenarios_2-478819512-main.jpg" group-title="ACCION", LOS INDESTRUCTIBLES 2
+http://www.spruto.tv/get_file/5/db32d118ced6947e7619cf10fa033d19/107000/107749/107749.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Los_mercenarios_3-757622386-main.jpg" group-title="ACCION", LOS INDESTRUCTIBLES 3
+http://www.spruto.tv/get_file/1/adee92811357b0acd345712fda254260/88000/88265/88265.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Piratas_del_Caribe_La_maldici_n_de_la_Perla_Negra-627724446-main.jpg" group-title="ACCION",PIRATAS DEL CARIBE: LA MALDICIÓN :LA MALDICION DEL PERLA NEGRA
+http://www.spruto.tv/get_file/7/20dbe14ff658d12a8c7e3a402cf685b5/76000/76656/76656.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Piratas_del_Caribe_El_cofre_del_hombre_muerto_Piratas_del_Caribe_2-498963663-main.jpg" group-title="ACCION",PIRATAS DELCARIBE: EL COFRE DE LA MUERTE
+http://www.spruto.tv/get_file/7/6889d0ee765feb7cf4cfc528e19aad7c/76000/76657/766B57.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Piratas_del_Caribe_En_el_fin_del_mundo_Piratas_del_Caribe_3-210557633-main.jpg" group-title="ACCION",PIRATAS DEL CARIBE: EN EL FIN DEL MUNDO
+http://www.spruto.tv/get_file/7/838a54b11ab0a76cb9c57e7e232b2d54/76000/76658/76658.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Piratas_del_Caribe_En_mareas_misteriosas_Piratas_del_Caribe_4-755499916-main.jpg" group-title="ACCION",PIRATAS DEL CARIBE: NAVEGANDO AGUAS MISTERIOSAS
+http://www.spruto.tv/get_file/7/43bf8c2473bbd6be976a7364e2f5db96/76000/76659/76659.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/A_todo_gas-493327751-main.jpg"group-title="ACCION",RAPIDO Y FURIOSO
+http://www.spruto.tv/get_file/5/d1813e2d6e3db34707061052e71f1d77/147000/147359/147359.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/A_todo_gas_2-199382456-main.jpg" group-title="ACCION",RAPIDOS Y FURIOSOS 2
+http://www.spruto.tv/get_file/5/212cee7b0787e8edea9c29142005f53e/106000/106829/106829.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/A_todo_gas_Tokyo_Race_A_todo_gas_3-349229245-main.jpg" group-title="ACCION",RAPIDOS Y FURIOSOS 3
+http://www.spruto.tv/get_file/5/9b5cca36e542f6564b6243db0cc7680e/106000/106831/106831.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Fast_Furious_A_n_m_s_r_pido_A_todo_gas_4-818035556-main.jpg" group-title="ACCION",RAPIDOS Y FURIOSOS 4
+http://www.spruto.tv/get_file/5/77c6fd40d2150217d579dad0be22c890/106000/106833/106833.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Fast_Furious_5_A_todo_gas_5-355651909-main.jpg" group-title="ACCION",RAPIDOS Y FURIOSOS 5
+http://www.spruto.tv/get_file/5/25824b7cd75852b54e4730e5ba84ad0f/106000/106835/106835.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Fast_Furious_6_A_todo_gas_6-240822945-main.jpg" group-title="ACCION",RAPIDOS Y FURIOSOS 6
+http://www.spruto.tv/get_file/2/4b474dc1ff07a5c743d7e047cbb10e37/89000/89812/89812.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Fast_Furious_7_A_todo_gas_7-904800766-main.jpg" group-title="ACCION",RAPIDOS Y FURIOSOS 7
+http://www.spruto.tv/get_file/5/b109a1ceb8b8eaa7e1cee0517fb85cdf/115000/115109/115109.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Terminator-778052251-main.jpg" group-title="ACCION",TERMINATOR 1
+http://www.spruto.tv/get_file/2/5eeefeb160c8956b067f20c279456d73/99000/99463/99463.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Terminator_2_el_juicio_final-825143697-main.jpg" group-title="ACCION",TERMINATOR 2
+http://www.spruto.tv/get_file/2/e65f192029d67988ccb97e73830f0421/99000/99462/99462.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Terminator_3_La_rebeli_n_de_las_m_quinas-788040850-main.jpg" group-title="ACCION",TERMINATOR 3
+http://www.spruto.tv/get_file/2/a765d5f2e70847a79a661cb08ed24fa7/106000/106215/106215.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Terminator_Salvation-225185375-main.jpg" group-title="ACCION",TERMINATOR 4
+http://www.spruto.tv/get_file/2/2ff899099f3d5e40b3c7c1bd0d67715c/106000/106217/106217.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Terminator_G_nesis-844929699-main.jpg"group-title="ACCION",TERMINATOR 5
+http://www.spruto.tv/get_file/5/c6d89dd8e88b2ee40305b48fe113a762/140000/140578/140578.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/X_Men-358442316-main.jpg" group-title="ACCION", X-MEN 1
+http://www.spruto.tv/get_file/2/f136f3a737a06d7d6f52255fc8d0c953/97000/97116/97116.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/X_Men_2-567489176-main.jpg" group-title="ACCION", X-MEN 2
+http://www.spruto.tv/get_file/2/fa26cb0ffaaf6f30f17205ad95b7b2d5/105000/105715/105715.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/X_Men_La_decisi_n_final-356193180-main.jpg" group-title="ACCION", X-MEN 3
+http://www.spruto.tv/get_file/2/d6d5fa1018e5a9619555c437b26b9931/105000/105717/105717.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/X_Men_Primera_generaci_n-838228011-main.jpg" group-title="ACCION", X-MEN PRIMERA GENERACION
+http://www.spruto.tv/get_file/2/f33f853716f6ecf74c9b4c8ede9f7f65/105000/105720/105720.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/X_Men_D_as_del_futuro_pasado-252906568-main.jpg" group-title="ACCION", X-MEN DIAS DE FUTURO PASADO
+http://www.spruto.tv/get_file/2/aa1cd1e775399507ece04af201c1641e/97000/97119/97119.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/X_Men_or_genes_Lobezno-358983996-main.jpg" group-title="ACCION", X-MEN WOLVERINE ORIGENES
+http://www.spruto.tv/get_file/2/5082de5577af1c96970323f85f6bb7d8/105000/105719/105719.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Lobezno_inmortal-816162138-main.jpg" group-title="ACCION", X-MEN WOLVERINE INMORTAL
+http://www.spruto.tv/get_file/2/2bcad26c929f87be992c432ca73b3d13/105000/105713/105713.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Capit_n_Am_rica_El_primer_vengador-163477639-main.jpg" group-title="ACCION",CAPITAN_AMERICA_2
+http://www.spruto.tv/get_file/5/21f09609e8f51f3672f339b7553bb1b2/110000/110852/110852.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/RoboCop-650664863-main.jpg" group-title="ACCION",ROBOCOP_2015
+https://ia800305.us.archive.org/33/items/4obocop./4obocop..mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Caza_al_asesino-744445180-main.jpg"group-title="ACCION",THE_GUNMAN:_EN_LA_MIRA_(SUBTITULADA)
+http://www.spruto.tv/get_file/5/4b884c2c374315966a3dc6c6c1e5c154/120000/120002/120002.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_caso_Bourne-775503898-main.jpg"group-title="ACCION",The.Bourne Identity
+http://www.spruto.tv/get_file/4/fa9d96ccdd80cb1eaf1952b854bd0766/153000/153211/153211.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_mito_de_Bourne-906985510-main.jpg"group-title="ACCION",The.Bourne Identity 2
+http://www.spruto.tv/get_file/4/f772576999117bf721b7f223c212a5be/153000/153207/153207.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_ultim_tum_de_Bourne-350465074-main.jpg"group-title="ACCION",The.Bourne Identity 3
+http://www.spruto.tv/get_file/4/a614620b266ab99b154173f3d6f0ba9d/153000/153210/153210.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_legado_de_Bourne-712486451-main.jpg"group-title="ACCION",The Bourne Legacy
+http://www.spruto.tv/get_file/4/0f59db1505e1f297a9a4f3d2403174a0/153000/153206/153206.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Black_Hawk_derribado-847311943-main.jpg"group-title="ACCION",La caida del halcon negro
+http://www.spruto.tv/get_file/2/bdb232c0088d432a45818297fc86652f/154000/154238/154238.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Creed_La_leyenda_de_Rocky-232228847-main.jpg"group-title="Estrenos",Creed. La leyenda de Rocky
+http://www.spruto.tv/get_file/2/d53ab6857a348da76edd932babfd7e59/153000/153985/153985.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Spectre-683709494-main.jpg"group-title="ACCION",007 spectre
+http://www.spruto.tv/get_file/2/58de20752766d7bbfa844daa9552c7b1/153000/153991/153991.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Transporter_Legacy-263530044-main.jpg"group-title="ACCION",Transporter Legacy
+http://www.spruto.tv/get_file/4/d3e2f76cdc904491158147840cd49180/152000/152736/152736.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Sicario-781388443-main.jpg"group-title="Estrenos",sicario
+http://www.spruto.tv/get_file/4/a2ab0cb6d66425c48423af065474193b/152000/152731/152731.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Pesadillas-595760728-main.jpg"group-title="Estrenos",Escalofrios
+http://www.spruto.tv/get_file/4/a09b5834660f286f93d7b623a27f370c/152000/152901/152901.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Jumper-914258354-main.jpg"group-title="ACCION",Jumper
+http://www.spruto.tv/get_file/4/94a965da5e2155ae159814d6aa00a283/151000/151612/151612.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Apocalypto-732074347-main.jpg"group-title="ACCION",Apocalipto
+http://www.spruto.tv/get_file/4/fbf7e310df0620ac093cee0dbc1e08b6/151000/151605/151605.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_hombre_de_la_m_scara_de_hierro-473871982-main.jpg"group-title="ACCION",The Man in the Iron Mask
+http://www.spruto.tv/get_file/4/041fe7a1c9f22e14ad2ebce73ed6e342/148000/148707/148707.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/13_asesinos-720164082-main.jpg"group-title="ACCION",13 assassins
+http://www.spruto.tv/get_file/4/c033c2fe71f2c9efb925df287f92ef53/151000/151598/151598.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/xXx2_Estado_de_emergencia-634976692-main.jpg"group-title="ACCION",XXX-2
+http://www.spruto.tv/get_file/4/27298c64b8be51c5ea676bf037b2f0ae/148000/148735/148735.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/The_Mechanic-343996468-main.jpg"group-title="ACCION",The Mechanic
+http://www.spruto.tv/get_file/4/d8161d9107da37a3fee9615dd82b02a7/148000/148728/148728.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Hitman_Agente_47-905036940-main.jpg"group-title="Estrenos",Hitman: Agente 47
+http://www.spruto.tv/get_file/5/8da5b96c846cbf65cd399b2ce74ab216/145000/145662/145662.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_fuego_de_la_venganza-553346603-main.jpg"group-title="ACCION",Hombre en Llamas
+http://www.spruto.tv/get_file/2/85eaa782f46f20ab0819a2701886e514/99000/99190/99190.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Machete_Kills-830725302-main.jpg"group-title="ACCION",Machete kills
+http://www.spruto.tv/get_file/4/4ecc5def5562b9aa79a9c06f620c6d2d/148000/148686/148686.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Soldado_de_fortuna-638844602-main.jpg"group-title="ACCION",Legionnaire
+http://www.spruto.tv/get_file/5/ffd6c6595296d384a3d02b132ebc0bfe/147000/147703/147703.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Divergente-164628487-main.jpg"group-title="ACCION",DIVERGENTE
+http://www.spruto.tv/get_file/5/9becdc92e9f8cae25b2787e090595f93/147000/147387/147387.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_serie_Divergente_Insurgente-483872859-large.jpg"group-title="ACCION",INSURGENTE
+http://www.spruto.tv/get_file/4/3a37ca42bcaf4c600ca7588091f8cb82/148000/148424/148424.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Jurassic_World-330260664-main.jpg"group-title="ACCION",Jurassic world
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!237&authkey=!AH6aw5sOxn8Lf54&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Al_l_mite_del_riesgo-585565074-main.jpg"group-title="ACCION",Maximum Risk
+http://www.spruto.tv/get_file/5/fc6f16122a30212dc566f97c55153ede/147000/147683/147683.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Encerrado-876619421-main.jpg"group-title="ACCION",Condena Brutal
+http://www.spruto.tv/get_file/5/8d0a5ad47a2caac71aa2d30eb5ca20d1/147000/147685/147685.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Capit_n_Am_rica_El_primer_vengador-163477639-main.jpg"group-title="ACCION",Capitan america
+http://www.spruto.tv/get_file/5/99cf97e972d9eb68d08a64f6f26bb093/110000/110849/110849.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/The_Amazing_Spider_Man-672391099-main.jpg"group-title="ACCION",The Amazing Spider-Man
+http://www.spruto.tv/get_file/5/8fcbfb746bcecf9ec884d7a3693b727b/109000/109091/109091.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_corredor_del_laberinto-377064363-main.jpg"group-title="ACCION",El Corredor del laberinto
+http://www.spruto.tv/get_file/2/d1d223ba057e11cd85e2a46c1c28e0e7/90000/90782/90782.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_corredor_del_laberinto_Las_pruebas-944377647-main.jpg"group-title="ACCION",Corredor del laberinto 2
+http://www.spruto.tv/get_file/5/391ec6fc664628aa51d3b0a1096f8bfc/146000/146174/146174.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Sed_de_venganza-185398495-main.jpg"group-title="ACCION",Sed de venganza
+http://www.spruto.tv/get_file/4/79f607de45a2625c74cb3165b8b961d8/151000/151651/151651.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/V_de_Vendetta-296729466-main.jpg"group-title="ACCION",V de venganza
+http://www.spruto.tv/get_file/4/9157f032a5cacaff1804929feb642a64/148000/148732/148732.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Parker-924072695-main.jpg"group-title="ACCION",PARKER
+http://www.spruto.tv/get_file/4/573e4d0e9978d364a97e5ffeb35f90c9/151000/151634/151634.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/The_East-673480041-main.jpg"group-title="ACCION",THE EAST
+http://www.spruto.tv/get_file/4/00d2c5173dbed701fd333e25b072cc26/148000/148729/148729.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/MS1_M_xima_seguridad-335380140-main.jpg"group-title="ACCION",MS1 Lockout
+http://www.spruto.tv/get_file/4/6fe4a0566a7bfd0f0982426bf33789f1/148000/148718/148718.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/U_571-332700136-main.jpg"group-title="ACCION",U571
+http://www.spruto.tv/get_file/5/db57a775a6bc38fb81cb9e73707c2fdb/143000/143081/143081.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Spider_Man_3_Spiderman_3-381165300-main.jpg"group-title="ACCION",SPIDERMAN 3
+http://www.spruto.tv/get_file/5/bf1a3aaea24e69371efa41190280aae1/143000/143066/143066.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_conspiraci_n_del_p_nico_Eagle_Eye-554404862-main.jpg"group-title="ACCION",EAGLE EYE 2008
+http://www.spruto.tv/get_file/5/62f83f5aa48f683eb227757a69d3b129/138000/138274/138274.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/R_I_P_D_Departamento_de_Polic_a_Mortal-549914510-main.jpg"group-title="ACCION",R.I.D.P 2013
+http://www.spruto.tv/get_file/5/04b810f95119e9a44b7d508c1894aeeb/143000/143527/143527.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Momentum-763736037-main.jpg"group-title="ACCION",MOMENTUM
+http://www.spruto.tv/get_file/5/3374d890972f679cda910e510d6db4c6/141000/141593/141593.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Invasi_n_a_la_Tierra-486051724-main.jpg"group-title="ACCION",BATTLE LOS ANGELES 2011
+http://www.spruto.tv/get_file/5/1352df6147453f9d69fcbda79c15579b/138000/138089/138089.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Asalto_al_furg_n_blindado-759728399-main.jpg"group-title="ACCION",EMPIRE STATE
+http://www.spruto.tv/get_file/5/d7ee7f66bdf6670a5459a1fa935b92a4/138000/138085/138085.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/2012-144722286-main.jpg"group-title="ACCION",2012
+http://www.spruto.tv/get_file/5/5db2628e2237da5a59d70d18954a4175/138000/138068/138068.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Hansel_Gretel_Cazadores_de_brujas-259093852-main.jpg"group-title="ACCION",HANSEL Y GRETEL CAZADORES
+http://www.spruto.tv/get_file/6/0a3aa7152a538f0cf284fb644465e65b/131000/131246/131246.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Golpe_de_Estado-138274894-main.jpg"group-title="ACCION",GOLPE DE ESTADO
+http://www.spruto.tv/get_file/5/b4cf3b960bcb61344ec97b8988b66a66/142000/142383/142383.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/John_Wick_Otro_d_a_para_matar-166872838-main.jpg"group-title="Estrenos",JOHN WICK
+http://www.spruto.tv/get_file/5/666e17f50102210973d505c7ee4f3329/139000/139601/139601.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Transilvania_el_imperio_prohibido-656915198-main.jpg"group-title="ACCION",Viy 2013
+http://www.spruto.tv/get_file/5/f50dd76f84894026f5aa6da3fe7ef21c/137000/137354/137354.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/San_Andr_s-397400007-main.jpg"group-title="ACCION",SAN ANDRES
+http://www.spruto.tv/get_file/6/ac078033bf6b11428c770e67fcacac84/134000/134471/134471.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Robot_Overlords-674589534-main.jpg"group-title="ACCION",Robot Overlords
+http://www.spruto.tv/get_file/6/68ad56326e7abb8903d7d72b8daff51b/131000/131269/131269.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/peliculas/la-piramide/37860858-1-esl-ES/La-piramide_reference.jpg", LA PIRAMIDE
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!166&authkey=!ABOyn1AqFuEwlAU&ithint=file%2cmkv
+#EXTINF:-1 group-title="Terror" tvg-logo="https://shutupandwatchthemovie.files.wordpress.com/2010/09/resident-evil-1.jpg", Resident Evil 1
+http://www.spruto.tv/get_file/5/02f3cad653cf6bf90f3d6a687be0c7c1/107000/107712/107712.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="http://www.wildsoundmovies.com/images/resident_evil_2_poster.jpg", Resident Evil 2
+http://www.spruto.tv/get_file/5/a143559439fde8b3d5817dc38fcf6de4/107000/107714/107714.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="http://www.millaj.com/pics/resident3-poster5.jpg", Resident Evil 3
+http://www.spruto.tv/get_file/5/1f619a5dd9432ad4da1bffdbe29b0c37/107000/107716/107716.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="http://dameavi.com/Web/wp-content/uploads/2010/12/Resident-Evil-Ultratumba-3D.jpg", Resident Evil 4
+http://www.spruto.tv/get_file/5/fa3bad7fd1d1264e7465ba30c80092af/107000/107718/107718.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="http://www.planete-cine.com/images/r/res/Resident-Evil-retribution-160812.jpg", Resident Evil 5
+http://www.spruto.tv/get_file/5/81a03f967e961563abacedd4ac410e8a/107000/107720/107720.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/300-273025301-main.jpg" group-title="ACCION",300
+http://www.spruto.tv/get_file/5/6705601d039dda0021574b0152070d7e/108000/108140/108140.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/300_El_origen_de_un_imperio-579288813-main.jpg" group-title="ACCION",300: El Origen de un imperio
+http://www.spruto.tv/get_file/5/384cab8a44aaaff8118bd5824e59c6c1/115000/115090/115090.mp4
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/j67El.jpg", Peliculas Comedia
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Zombie_Camp-747330471-main.jpg" group-title="Estrenos",A la M con los zombis
+http://www.spruto.tv/get_file/4/55a882c09bad31e69ddbc14b4d47c54d/152000/152038/152038.mp4
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/when-the-bough-breaks-2016/large_when_the_bough_breaks.jpg" group-title="Estrenos",Cuando Se Rompe La Rama
+https://goo.gl/uUce7V
+#EXTINF:-1 tvg-logo="http://www.ciudadocio.com.mx/img/resena/me-estas-matando-susana.jpg" group-title="Estrenos",Me Estas Matando Susana
+https://goo.gl/xteVRW
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTUzNTMxNTA5MV5BMl5BanBnXkFtZTgwOTg0NTg2NzE@._V1_UX182_CR0,0,182,268_AL_.jpg",Busco Novio Para Mi Mujer
+https://goo.gl/PY428b
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-gFwzSJrYBNY/VzlH1qqB97I/AAAAAAAA_fU/7ZE3rGF-ABshJAczaa67U-6mfFGf54r6QCLcB/s1600/Swiss-Army-Man-Poster.jpg" group-title="Estrenos",Un Cadaver Para Sobrevivir
+https://goo.gl/1Xtz1F
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMzAxNDY3ODk3MF5BMl5BanBnXkFtZTgwMjYwNDA5NzE@._V1_UY1200_CR90,0,630,1200_AL_.jpg" group-title="Estrenos",Meet The Black (Parodia La Purga)
+https://goo.gl/rnQpuu
+#EXTINF:-1 tvg-logo="http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/08-agosto/.thumb_Una-pareja-dispareja-poster.jpg" group-title="Estrenos",Una Pareja Dispareja
+http://goo.gl/1wunyK
+#EXTINF:-1 tvg-logo="http://www.garuyo.com/sites/default/files/un-holograma-para-el-rey-critica-resena-estreno-4.jpg" group-title="Estrenos",Un Holograma Para El Rey
+https://goo.gl/r9GHi0
+#EXTINF:-1 tvg-logo="http://konexion.com.mx/wp-content/uploads/2016/09/No-Manches-Frida.jpg" group-title="Estrenos",No Manches Frida
+https://goo.gl/7dEAxG
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/finding_dory-418749314-mmed.jpg" group-title="Estrenos",Buscando a Dori
+https://goo.gl/IhTEhY
+#EXTINF:-1 tvg-logo="http://aquipelis.net/wp-content/uploads/2016/09/sausage_party-262393082-large.jpg" group-title="Estrenos",Fiesta De Salchichas
+https://goo.gl/b9C0QX
+#EXTINF:-1 tvg-logo="http://konexion.com.mx/wp-content/uploads/2016/05/que-culpa-2-1.jpg" group-title="Estrenos",Que Culpa Tiene El Niño
+https://goo.gl/HFDKB9
+#EXTINF:-1 tvg-logo="http://static.rogerebert.com/uploads/movie/movie_poster/war-dogs-2016/large_war_dogs_ver2.jpg" group-title="Estrenos",Juego De Armas
+https://goo.gl/RBNfYt
+#EXTINF:-1 tvg-logo="http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/04-abril/Guatdefoc-poster.jpg" group-title="Estrenos",GuatDefoc
+https://goo.gl/WTXA94
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-idhfRkKBNg4/V5gETpDuMvI/AAAAAAAADb0/jutq6eNojjU-dyo8k-RvvClM1O42Q8KYACLcB/s1600/653.jpg" group-title="Estrenos",Yo Soy Furia
+https://goo.gl/1jMnyd
+#EXTINF:-1 tvg-logo="http://www.somoscine.com/wp-content/uploads/dirty-grandpa.jpg" group-title="Estrenos",Mi Abuelo Es un Peligro
+https://goo.gl/KYCQoX
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Infiltrados_en_Miami-245895605-main.jpg" group-title="Estrenos",Ride Along 2
+http://www.spruto.tv/get_file/2/a66c0953e08348c6cfa5f3635090cd9f/163000/163001/163001.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ashby-142613187-main.jpg" group-title="Estrenos",Ashby
+http://www.spruto.tv/get_file/2/9ce55fa3ea3c4ea4aff1d792c1d5aaa4/159000/159180/159180.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Expertos_en_crisis-486039281-main.jpg" group-title="Estrenos",Expertos en crisis
+http://www.spruto.tv/get_file/2/7c1cecfbdef3214de1cc9f108830edf5/159000/159886/159886.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Curse_of_the_Witching_Tree-673065962-main.jpg" group-title="Estrenos",Curse of the Witching Tree
+http://www.spruto.tv/get_file/2/fb32937bf5f3d290a4f01fe5fc68bc56/158000/158921/158921.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_ltimo_cazador_de_brujas-617590340-main.jpg" group-title="Estrenos",Daddy’s Home
+http://www.spruto.tv/get_file/2/c3b98bf809b67499ccd9ded411e275aa/155000/155306/155306.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/The_Benefactor-822023273-main.jpg" group-title="Estrenos",El benefactor
+http://www.spruto.tv/get_file/2/27919b25683ca237c32140f9a17d5357/158000/158907/158907.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_verdad_duele_Concussion-340233488-main.jpg" group-title="Estrenos",Concussion
+http://www.spruto.tv/get_file/2/9b69a60c26b9f7d55ad34d0422f50bbe/158000/158051/158051.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Pesadillas-595760728-main.jpg" group-title="Estrenos",Escalofrios
+http://www.spruto.tv/get_file/2/ed0c7e63bfa0eb9521d6a86cc24a3fde/157000/157729/157729.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Joy-380748983-main.jpg" group-title="Estrenos",Joy
+http://www.spruto.tv/get_file/2/247a31303de6cb88c839d944938bd1ae/156000/156789/156789.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Solace-466161745-main.jpg" group-title="Estrenos",Solace
+http://www.spruto.tv/get_file/2/32861f77bf4da50b64cb46bbf55295bf/156000/156837/156837.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Invisibles-271590075-main.jpg" group-title="Estrenos",Tiempos Dificiles
+http://www.spruto.tv/get_file/2/0c356b73727bce5ee4d8b3396de4e830/158000/158913/158913.mp4
+#EXTINF:-1 tvg-logo="http://todopelishd.com/wp-content/uploads/2016/04/Cincuenta_sombras_de_Black-497975922-large.jpg" group-title="Comedia",Sombras de Black
+http://www.spruto.tv/get_file/6/5e0c43fb1faf714652e3d482c748a962/193000/193838/193838.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Pay_the_Ghost-941717911-main.jpg" group-title="Estrenos",La maldicion de charlie
+http://www.spruto.tv/get_file/2/5378e87de4a1087adddc8849429361b8/158000/158057/158057.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Straight_Outta_Compton-226610560-main.jpg" group-title="Estrenos",Straight Outta Compton
+http://www.spruto.tv/get_file/2/0516525ccc0fef426b57b32dcc2c94d5/155000/155315/155315.mp4
+#EXTINF:-1 tvg-logo="http://www.megawarez.org/wp-content/uploads/2016/06/Mi-gran-boda-griega-2-cartel-poster-latino-e1465437458570.jpg" group-title="Comedia",Boda Griega 2
+http://www.spruto.tv/get_file/4/fa6eddf352860dc4de9b02558fea2362/191000/191288/191288.mp4
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-nhTIFQBPsAo/VzfaLy5XMRI/AAAAAAAAb5Y/KoCgp21PqRIXK6QfoAzMDktL3HvPrl_cQCLcB/s1600/Buenos%2Bvecinos%2B2%2B%25282016%2529%2Bonline.jpg" group-title="Comedia",Buenos Vecinos 2
+http://www.spruto.tv/get_file/6/5f735852033de37837bb9282094be1ea/197000/197801/197801.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/locos_sueltos_en_el_zoo-653717514-large.jpg" group-title="",Locos Sueltos en el Zoo
+http://www.spruto.tv/get_file/4/f5d1b7a6f7fb2278ba9d7f0aed18c811/191000/191854/191854.mp4
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2011/07/20/248209/los-pinginos-de-papa-300x350.jpg" group-title="Estrenos",Los Pingüinos de Papa
+http://www.spruto.tv/get_file/6/1d95ac0b2b52b0bbfcf0446609147051/197000/197667/197667.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/how_to_be_single-366577120-large.jpg" group-title="Estrenos",Como Ser Solteras
+http://www.spruto.tv/get_file/4/952df4ffe32c4ede43416569911db946/190000/190623/190623.mp4
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MBrNQPCMXVw/maxresdefault.jpg" group-title="Estrenos",Mistress America
+http://www.spruto.tv/get_file/4/168f7afe9108179d3e69c73d153ff5b5/188000/188044/188044.mp4
+#EXTINF:-1 tvg-logo="http://doomtv.net/wp-content/uploads/2016/07/ted2.jpg" group-title="Estrenos",TED 2
+http://www.spruto.tv/get_file/4/c30f5ec92a25bd2c3a0830538a757b2c/190000/190176/190176.mp4
+#EXTINF:-1 tvg-logo="http://www.labutaca.net/imagenes/wp-content/original/2012_06/ted-cartel-1.jpg" group-title="Estrenos",TED
+http://www.spruto.tv/get_file/4/10085eaa76b29fe1ae79f1ef95b851d4/190000/190174/190174.mp4
+#EXTINF:-1 tvg-logo="http://www.reypelis.com/wp-content/uploads/2016/04/x-39.jpg" group-title="Estrenos",Rompiendo las Reglas
+http://www.spruto.tv/get_file/6/8899a99812e7c08e27714c8578d639db/201000/201574/201574.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-v62JjP5O0Bs/UjdPz0jVDuI/AAAAAAAAAUk/yLJHzikHzjM/s275/el-diablo-viste-a-la-moda.jpg" group-title="Estrenos",El Diablo A La Moda
+http://www.spruto.tv/get_file/4/f4995f2272a021a585a790a7a9c845d2/185000/185603/185603.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-vOrzLLIfbE0/VJInxSYQsoI/AAAAAAABl_4/YSnUmlsNZqk/s1600/Trust-Me-Cover.jpg" group-title="Estrenos",Trust Me
+http://www.spruto.tv/get_file/4/1b9843dbba534c1423cb138176354a76/186000/186018/186018.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Zootopia.jpg" group-title="Estrenos",Mi Abuelo es un Peligro
+http://www.spruto.tv/get_file/4/435c71b6d25e606150d4dc22e1cb0353/185000/185364/185364.mp4
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-egS6sUdZ8sc/VvaSsLeg2-I/AAAAAAAAxew/p54st_QFTYQS2IQWGHW4pX19qit2P3UXw/s1600/37631713.jpg" group-title="Estrenos",Un Novato en Apuros 1
+http://www.spruto.tv/get_file/5/f5135788d1fba9c0ceb748f4cacb893d/111000/111486/111486.mp4
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-fAaPLy69TRc/Vw8NzMhDxmI/AAAAAAAAx34/aL8JvNSPmZMTsmcqonNrQi7wGOleBtE-QCLcB/s1600/un-novato-en-apuros-2.jpg" group-title="Estrenos",Un Novato en Apuros 2
+http://www.spruto.tv/get_file/1/5c9944af9c4ca5a0153b203a88210c7a/180000/180010/180010.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-V1V3yrRhlzE/VpgxsXP6F7I/AAAAAAAAEzA/9FaheumAT4Y/s1600/xof1k24qjuhd.jpg" group-title="Estrenos",El Incidente
+http://www.spruto.tv/get_file/4/5b42bbfa632831531fe9f42433e979dd/185000/185365/185365.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Superpoli_de_centro_comercial-755606824-main.jpg" group-title="Comedia",Paul Blart: Mall Cop
+http://www.spruto.tv/get_file/2/d75649d825bf5f0ad32dcdf4fb3561bf/106000/106278/106278.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ted_2-177396934-main.jpg" group-title="Comedia",Ted 2
+http://www.spruto.tv/get_file/5/c1a3bd1bbff1f71d73a9f0def4b06595/146000/146677/146677.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Tammy-110811002-main.jpg" group-title="Comedia",Tammy
+http://www.spruto.tv/get_file/1/da244c0319e3ae01bf70ba73c17a90b2/86000/86886/86886.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Jack_y_su_gemela_Jack_y_Jill-133491357-main.jpg" group-title="Comedia",JACK Y JILL
+http://www.spruto.tv/get_file/5/eba0f977a112474be076b0b9a7ebba1f/108000/108686/108686.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Rescatando_a_pap_TV-377145765-main.jpg" group-title="Comedia",RESCATANDO A PAPA
+http://www.spruto.tv/get_file/7/5bbfa6df890152c38e661d2f9372392a/76000/76865/76865.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Este_cuerpo_no_es_el_m_o-211404331-main.jpg" group-title="Comedia",ESTE CUERPO NO ES MIO
+http://www.spruto.tv/get_file/5/9b05f30b3917dcefac899f209846be8e/112000/112064/112064.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Malditos_vecinos-933128749-main.jpg" group-title="Comedia",MALDITOS VECINOS
+http://www.spruto.tv/get_file/2/d54fc4a1c763d0e0755c756a210cf8a4/105000/105286/105286.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_hija_de_Moctezuma-411389438-main.jpg" group-title="Comedia",LA HIJA DE MOCTEZUMA
+http://www.spruto.tv/get_file/5/6ec503588dbca389fa55ba83692be7b1/115000/115820/115820.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Zooloco-677163248-main.jpg" group-title="Comedia",EL GUARDIAN DEL ZOOLOGICO
+http://www.spruto.tv/get_file/5/1c88902145180aba5d3c2f6b30d5901f/117000/117502/117502.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Elegidos_para_el_triunfo-462743793-main.jpg" group-title="Comedia",JAMAICA BAJO CERO (1993)
+http://www.spruto.tv/get_file/7/fac9745f55a186192a41b67d2fcc0e4f/76000/76931/76931.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Cari_o_estoy_hecho_un_perro-411563817-main.jpg" group-title="Comedia",UN PAPÁ CON POCAS PULGAS (2006)
+http://www.spruto.tv/get_file/7/5f48d099b11fefe20056a82b60a9098d/77000/77005/77005.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ponte_en_mi_lugar_Freaky_Friday-395026387-main.jpg" group-title="Comedia",UN VIERNES DE LOCOS (2003)
+http://www.spruto.tv/get_file/7/c2ac666e9b2587f8a116587a1ae48ff5/76000/76706/76706.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/50_primeras_citas-691881778-main.jpg" group-title="Comedia",50 PRIMERAS CITAS
+http://www.spruto.tv/get_file/4/ff36961616eb60f1d692f46bd2726004/153000/153199/153199.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ni_os_grandes-567297059-main.jpg" group-title="Comedia",Son como Niños
+http://www.spruto.tv/get_file/4/7166f0ed543701c16d4c769dd06b7358/151000/151625/151625.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Dos_tontos_muy_tontos-138209855-main.jpg" group-title="Comedia",Una pareja de Idiotas
+http://www.spruto.tv/get_file/4/f19596457880cec30b834773018abf64/151000/151608/151608.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Solo_en_casa-163260879-main.jpg" group-title="Comedia",Mi pobre Angelito
+http://www.spruto.tv/get_file/4/a58aba33b1e7a707f158dc42f1d7ec97/151000/151601/151601.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Solo_en_casa_2_perdido_en_Nueva_York-122355314-main.jpg" group-title="Comedia",Mi pobre Angelito 2
+http://www.spruto.tv/get_file/4/0088b854530b33dedd5f1c13e98a1def/151000/151578/151578.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Como_Dios-711854266-main.jpg" group-title="Comedia",Todo Poderoso
+http://www.spruto.tv/get_file/4/a627274f1b79168c6c07daf55aedce6e/148000/148730/148730.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/The_Ridiculous_6-470557444-main.jpg" group-title="Comedia",los ridiculos
+http://www.spruto.tv/get_file/4/3d6b1615056c67300be6e6d9b3155178/151000/151265/151265.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Herbie_a_tope-214412944-main.jpg" group-title="Comedia",Herbie a toda marcha
+http://www.spruto.tv/get_file/5/af7bc824c3706a7b36b1387e1ff76e68/147000/147691/147691.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Un_trabajo_embarazoso-228189215-main.jpg" group-title="Comedia",Embarazada
+http://www.spruto.tv/get_file/5/bdbbd17d53c5e8ea85c0f745bdf833b9/138000/138321/138321.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/A_Por_mis_pistolas-592472044-main.jpg" group-title="Comedia",cantinflas por mis pistolas
+http://www.spruto.tv/get_file/5/13e7c14fe8f9435d38612999a2b4c383/138000/138122/138122.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Romeo_y_Julieta-419364247-main.jpg" group-title="Comedia",cantinflas Romeo y julieta
+http://www.spruto.tv/get_file/5/a28db9464cccdc2aa4ad8f6945dfb834/138000/138123/138123.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ni_sangre_ni_arena-501049407-main.jpg" group-title="Comedia",cantinflas Ni sangre Ni arena
+http://www.spruto.tv/get_file/5/0598963ff5138d84ce6442632adb7818/138000/138120/138120.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_vuelta_al_mundo_en_80_d_as-548246449-main.jpg" group-title="Comedia",Cantinflas La vuelta al mundo en 80 dias
+http://www.spruto.tv/get_file/5/ab835036d8ddf3a1afaaf5b0130bc83e/138000/138116/138116.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_Supersabio-716023189-main.jpg" group-title="Comedia",Cantinflas El super sabio
+http://www.spruto.tv/get_file/5/7bfea40ef12ab87bcfaf93b079dcfba2/138000/138115/138115.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_siete_machos-390483272-main.jpg" group-title="Comedia",Cantinflas 7 machos
+http://www.spruto.tv/get_file/5/1b1f3a6d108eecb48529fb854dbee9d9/138000/138112/138112.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_profe-476322941-main.jpg" group-title="Comedia",Cantinflas El profe
+http://www.spruto.tv/get_file/5/4935eec9a496b49d91595664bdbb00c1/138000/138108/138108.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_Se_or_Fot_grafo-376946508-main.jpg" group-title="Comedia",Cantinflas Señor Fotografo
+http://www.spruto.tv/get_file/5/3314062c1dadb7f60af66acf44ad3e00/138000/138111/138111.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_Padrecito-810580261-main.jpg" group-title="Comedia",Cantinflas El Padrecito
+http://www.spruto.tv/get_file/5/7cfa1e6016e88cf217dce0f4f890b59f/138000/138107/138107.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_Padrecito-810580261-main.jpg" group-title="Comedia",Cantinflas El Circo
+http://www.spruto.tv/get_file/5/e73a3b50943e472bf631178c2e9d02fe/138000/138103/138103.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Virgen_a_los_40-959046139-main.jpg" group-title="Comedia",VIRGEN A LOS 40
+http://www.spruto.tv/get_file/5/9165952f94cc2228d9645f8c6d888b71/137000/137798/137798.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Paranormal_Movie-532056807-main.jpg" group-title="Comedia",Y donde esta el Fantasma
+http://www.spruto.tv/get_file/6/ae686c347ba68268eb5fa1539b3c5e73/129000/129324/129324.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Paranormal_Movie_2-658943511-main.jpg" group-title="Comedia",Y donde esta el Fantasma 2
+http://www.spruto.tv/get_file/6/f41721e5b124141142db9890b0f9cf4b/129000/129323/129323.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Atr_pame_si_puedes-318210290-main.jpg" group-title="Comedia",Atrapame si puedes
+http://www.spruto.tv/get_file/6/bdaff506f7ecd546815e97cca680e9a0/131000/131098/131098.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Cazafantasmas_2-635175770-main.jpg" group-title="Comedia",Cazafantasmas 2
+http://www.spruto.tv/get_file/8/4b158a462eecb4e37ee59f85962a58ff/121000/121853/121853.mp4"
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_dictador-138905408-main.jpg" group-title="Comedia",El Dictador
+http://www.spruto.tv/get_file/8/775709516690d7a2212074426d17e2de/121000/121828/121828.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Doce_en_casa-343120394-main.jpg" group-title="Comedia",Mas barato x docena
+http://www.spruto.tv/get_file/8/914b1ad95cac12cd741a131c779b3c3c/120000/120210/120210.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Atrapado_en_un_pirado-387250206-main.jpg" group-title="Comedia",DAVE
+http://www.spruto.tv/get_file/5/34eda2aff7706c50e8b2b8fe3b94bce8/119000/119336/119336.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Bean_lo_ltimo_en_cine_catastr_fico-837107731-main.jpg" group-title="Comedia",Mr bean el nombre del desastre
+http://www.spruto.tv/get_file/5/49906788969c70a31052160a89dfb293/117000/117320/117320.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_vuelta_al_mundo_en_80_d_as-336877506-main.jpg" group-title="Comedia",La vuelta al mundo en 80 dias
+http://www.spruto.tv/get_file/7/883681f6f209a65a6b75dde536ceff59/76000/76793/76793.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Rompedientes-182158674-main.jpg" group-title="Comedia",Hada de los dientes
+http://www.spruto.tv/get_file/7/883681f6f209a65a6b75dde536ceff59/76000/76793/76793.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/A_por_todas-274258156-main.jpg" group-title="Comedia",Triunfos robados
+http://www.spruto.tv/get_file/7/e72c15de99d10ef895b6cbe49e381891/78000/78182/78182.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/A_por_todas_de_nuevo-442350088-main.jpg" group-title="Comedia",Triunfos robado 2
+http://www.spruto.tv/get_file/7/74f70d87ad57aa2867a44a6890706708/78000/78184/78184.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/A_por_todas_de_nuevo_una_vez_m_s-147489221-main.jpg" group-title="Comedia",Triunfos robados 3
+http://www.spruto.tv/get_file/7/8722335dbe0ec64b96b2aa5ce006f78e/78000/78179/78179.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Matilda-770869214-main.jpg" group-title="Comedia",Matilda
+http://www.spruto.tv/get_file/7/c33dd55bcac41a55304bf02136baa2f1/77000/77832/77832.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Chicas_malas-951841481-main.jpg" group-title="Comedia",Chicas Pesadas
+http://www.spruto.tv/get_file/7/e40fba2bf00894de73e6eb78262b64ef/77000/77964/77964.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Esta_abuela_es_un_peligro-568415863-main.jpg" group-title="Comedia",Mi abuela es un peligro
+http://www.spruto.tv/get_file/5/2a35a8bbf77e0b453e641acaf18b0736/112000/112058/112058.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Esta_abuela_es_un_peligro_2-970381790-main.jpg" group-title="Comedia",Mi abuela es un peligro 2
+http://www.spruto.tv/get_file/5/25e32ad01897ee224a109fccc6d67e15/112000/112059/112059.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Esta_abuela_es_mi_padre-252821337-main.jpg" group-title="Comedia",Mi abuela es un peligro 3
+http://www.spruto.tv/get_file/5/6f0afd9f6702bad6ce4065bf89339f63/112000/112061/112061.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Babe_el_cerdito_valiente-962740879-main.jpg" group-title="Comedia",Babe El cerdito Valiente
+http://www.spruto.tv/get_file/5/166529c790d37d638c5e7e602ff5d1cf/111000/111294/111294.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Babe_el_cerdito_en_la_ciudad-587736802-main.jpg" group-title="Comedia",Babe El cerdito Valiente 2
+http://www.spruto.tv/get_file/5/aab8f7f81e453fcd5bde98380ee234c3/111000/111227/111227.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_retorno_de_las_brujas-420115138-main.jpg" group-title="Comedia",Hocus Pocus
+http://www.spruto.tv/get_file/5/fb22ccc7859520ff551b94bf6177b08a/109000/109590/109590.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/American_Pie-976453006-main.jpg" group-title="Comedia",American pie
+http://www.spruto.tv/get_file/5/632d912579177e2d9e4fd9a93137a414/109000/109913/109913.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/American_Pie_2-872126816-main.jpg" group-title="Comedia",American pie 2
+http://www.spruto.tv/get_file/5/536ec462e46aadfdec207668dbe204e5/109000/109916/109916.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/American_Pie_3_A_Menuda_boda-896185702-main.jpg" group-title="Comedia",American pie 3
+http://www.spruto.tv/get_file/6/1e6ce7d9f392f4ecae0f9eec3f071282/129000/129183/129183.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/American_Pie_presenta_Band_Camp_American_Pie_4-598309544-main.jpg" group-title="Comedia",American pie 4
+http://www.spruto.tv/get_file/6/2d19a95abaf7b0585005c526616822ed/129000/129180/129180.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/American_Pie_5_Una_fiesta_de_pelotas-187779630-main.jpg" group-title="Comedia",American pie 5
+http://www.spruto.tv/get_file/6/199c746a0d1735008dff36414bb7e5b4/129000/129182/129182.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/American_Pie_6_Fraternidad_Beta-918520452-main.jpg" group-title="Comedia",American pie 6
+http://www.spruto.tv/get_file/5/784c7dbdb69c0d42be1970ac3cf5a94f/111000/111449/111449.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/American_Pie_7_El_libro_del_amor-624558265-main.jpg" group-title="Comedia",American pie 7
+http://www.spruto.tv/get_file/6/e580e172a5ee2b1583402790ecdb054e/129000/129181/129181.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Elf-433814186-main.jpg" group-title="Comedia",Elf
+http://www.spruto.tv/get_file/5/ce93051648141fb4ba7a68656e606c34/112000/112063/112063.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ni_os_grandes_2-490274667-main.jpg" group-title="Comedia",Grown Ups 2
+http://www.spruto.tv/get_file/5/5da16ce98c5764ccf7247a1f55d34f17/108000/108692/108692.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Little_Nicky-166725232-main.jpg" group-title="Comedia",Little Nicky
+http://www.spruto.tv/get_file/5/0fbbf2fcaa93dc37dd677e9269bcd519/108000/108680/108680.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Click-303411185-main.jpg" group-title="Comedia",Click
+http://www.spruto.tv/get_file/5/edc991e3200685221ac72196d885d347/108000/108678/108678.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Maikol_Yordan_de_viaje_perdido-642234035-main.jpg" group-title="Comedia",Maikol Jordan de viaje perdido
+https://onedrive.live.com/download.aspx?resid=E56FCBD10D7F13E5!106&authkey=!AEv4jMPUIeRQyi0&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_pr_ncipe_de_Zamunda-217452869-main.jpg" group-title="Comedia",Bienvenido a america
+http://www.spruto.tv/get_file/5/8a6664767c290feeb1eaf5a3d720eb36/106000/106845/106845.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Scary_Movie-943532513-main.jpg" group-title="Comedia",Scary Movie
+http://www.spruto.tv/get_file/2/107fdc66f18a619b5f4eea1f681cf7ff/105000/105092/105092.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Scary_Movie_2-402237693-main.jpg" group-title="Comedia",Scary Movie 2
+http://www.spruto.tv/get_file/2/dfc51591619aa839a898082e7c6b6c5f/105000/105095/105095.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Scary_Movie_3-316846888-main.jpg" group-title="Comedia",Scary Movie 3
+http://www.spruto.tv/get_file/2/4bba28612dfea76283e310daab70003b/105000/105097/105097.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Scary_Movie_4-566264825-main.jpg" group-title="Comedia",Scary Movie 4
+http://www.spruto.tv/get_file/2/954e926eb4b4c79bc876ea6dd422c8bf/105000/105100/105100.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_sue_o_de_mi_vida-972000671-main.jpg" group-title="Comedia",De 13 a 30
+http://www.spruto.tv/get_file/4/b6b8d9a51ca0b80aff5ddfd31a7618fc/151000/151609/151609.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Esp_as-373327551-main.jpg" group-title="Comedia",Spy
+http://www.spruto.tv/get_file/6/501a885054af05f6d3e61d43296c0eed/131000/131671/131671.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Mil_palabras-615131781-main.jpg" group-title="Comedia",Mil palabras
+http://www.spruto.tv/get_file/1/9423b9ab396003b187bfe797cf0fa1ee/88000/88598/88598.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_verdad_duele_Concussion-340233488-main.jpg" group-title="Drama",Concussion
+http://www.spruto.tv/get_file/2/a47af2ad652e2a198f75d77cf6d96341/153000/153995/153995.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Australia-955647518-main.jpg" group-title="Drama",Australia
+http://www.spruto.tv/get_file/4/36736194c14d33e17e35de70be6dd335/153000/153202/153202.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_desaf_o_The_Walk-271716592-main.jpg" group-title="Drama",En la cuerda floja
+http://www.spruto.tv/get_file/4/15e256c5702e2e12db7383a27af28bd1/153000/153201/153201.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Joy-380748983-main.jpg" group-title="Drama",Joy
+http://www.spruto.tv/get_file/4/03e00250c002725a6dd9e4aec015310e/153000/153434/153434.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Carol-180515019-main.jpg" group-title="Drama",Carol
+http://www.spruto.tv/get_file/4/07b514b4f13fc0dc548caa17d86ee362/153000/153221/153221.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Steve_Jobs-647763435-main.jpg" group-title="Drama",Steve Jobs
+http://www.spruto.tv/get_file/4/6ac9c0cf6ea42eb0a690238921670908/153000/153435/153435.mp4
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-2bs1jDvtyfk/V0mDIY_U1GI/AAAAAAAAHNs/-t85lsagbPsme4WWFL7SJBCQMbKwDt2KACLcB/s1600/page.jpg", Peliculas Suspenso
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="http://cinescopia.com/wp-content/uploads/2016/09/tren-a-busan.jpg" group-title="Estrenos",Tren A Busan
+https://goo.gl/Wp2NpT
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/16/03/17/10/50/331628.jpg",No respires
+https://ia601506.us.archive.org/20/items/TransceDual1080p/no%20respires.mp4
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_28361.jpg",La Criatura
+https://ia601505.us.archive.org/32/items/AnnabelleWww.DescargateloCorp.com/creep/creed.latino.2004.720p.mkv
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-jeZl43Us3zY/VnZglCjyWRI/AAAAAAAAqG0/udKrvh-SNT8/s1600/poster%2Bel%2Bbosque%2Bsiniestro%2B2.jpg" group-title="Estrenos",El Bosque Siniestro
+https://goo.gl/aGG581
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_37800.jpg" group-title="Estrenos",Ouija 2016
+https://goo.gl/DdwcHA
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/c_300_300/pictures/16/05/25/16/46/240787.jpg" group-title="Estrenos",Morgan
+https://goo.gl/jX30Xi
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/star_trek_beyond-843537458-mmed.jpg" group-title="Estrenos",Desierto
+http://www.spruto.tv/get_file/8/5a67daa08ffabd23667ed78d266ac73c/230000/230939/230939.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/al_final_del_tunel-693476769-large.jpg" group-title="Estrenos",Al Final Del Tunel
+https://goo.gl/7G2ckp
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/cuDBjj_Gs0M/maxresdefault.jpg" group-title="Estrenos",El Conjuro 2
+http://goo.gl/0nR21r
+#EXTINF:-1 tvg-logo="http://miradetodo.net/wp-content/uploads/2016/04/tt2025690.jpg" group-title="Estrenos",Horas Contadas
+https://goo.gl/SyvNCX
+#EXTINF:-1 tvg-logo="http://fotos2013.cloud.noticias24.com/Siniestro2630.jpg" group-title="Estrenos",Siniestro
+https://goo.gl/F5NCPj
+#EXTINF:-1 tvg-logo="http://todoxmega.com/wp-content/uploads/2016/07/la-maldicic3b3n-3-el-principio-del-fin.jpg" group-title="Estrenos",La Maldicion El Inico Del Fin
+https://goo.gl/gWJEZq
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/desierto-438940114-mmed.jpg" group-title="Estrenos",Desierto
+http://www.spruto.tv/get_file/8/6a2ed785186a12fd37e4c94cb4fa2f84/231000/231699/231699.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/ouija_origin_of_evil-894326358-mmed.jpg" group-title="Estrenos",El origen del mal quija 2
+http://www.spruto.tv/get_file/9/b574f9ce26eebc85e8ea5728aba00691/237000/237876/237876.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/anthropoid-453976650-mmed.jpg" group-title="Estrenos",El abogado del mal
+http://www.spruto.tv/get_file/9/9b57d9f2315c721400dbda44c695be60/234000/234536/234536.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/the_whole_truth-656626274-mmed.jpg" group-title="Estrenos",El abogado del mal
+http://www.spruto.tv/get_file/9/ad04d3a3665d548fe2183fd4764a26e4/234000/234548/234548.mp
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_renacido_The_Revenant-498846647-main.jpg" group-title="Estrenos",el renacido
+http://www.spruto.tv/get_file/2/9c0fb777280e00040e7e13cc516c10a6/154000/154010/154010.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Victor_Frankenstein-636892864-main.jpg" group-title="Estrenos",victor frankenstein
+http://www.spruto.tv/get_file/1/0868d51d89a5f1b1f15906e50307c5ce/168000/168276/168276.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/The_Boy-413957049-main.jpg" group-title="Estrenos",The boy
+http://www.spruto.tv/get_file/2/cd23154aa905ee4672a97082d5044002/162000/162999/162999.mp4
+#EXTINF:-1 tvg-logo="http://www.reconoce.mx/wp-content/uploads/POSTER-ARCHIVO-253.png" group-title="Suspenso",Archivo 253
+http://www.spruto.tv/get_file/4/151a5902fc9a8e7841522f0c0e108a14/191000/191850/191850.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/the_witch-480212918-large.jpg" group-title="",La Bruja
+http://www.spruto.tv/get_file/6/567e20e2b145d180761b96f957d9e94f/197000/197800/197800.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/--ePH2vJXcRk/VdPOuZIXslI/AAAAAAAAVuo/dr4UIp_Q_Go/s1600/La_hora_decisiva.jpg" group-title="",La Hora Decisiva
+http://www.spruto.tv/get_file/6/d158c199e55c5897cbf2694e5b8214e5/201000/201522/201522.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="http://www.biosstars-mx.com/wp-content/uploads/2014/03/la-noche-del-demonio.jpg", INSIDIOUS 1
+http://www.spruto.tv/get_file/5/9dc58abe37b0aaf5fdf37066c08b9b40/118000/118551/118551.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="http://vamosalcine.com.ar/wp-content/uploads/2013/10/Insidious-Chapter-2-La-noche-del-demonio-2.jpg", INSIDIOUS 2
+http://www.spruto.tv/get_file/5/062f98028b98ada2f78b4cb43ac5aecf/118000/118554/118554.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="http://criticsight.com/wp-content/uploads/2015/06/La-Noche-del-Demonio-3-criticsight-2015-promo-art-poster-2.png",INSIDIOUS 3
+http://www.spruto.tv/get_file/5/268635239bbbed7f5079647cd8a82fab/116000/116076/116076.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="http://www.findelahistoria.com/web/wp-content/uploads/2015/03/la-mujer-de-negro-2.jpg", La Dama de Negro 1
+http://www.spruto.tv/get_file/2/ca9dc7209f6e036d4b9ad6f1fc148f09/97000/97972/97972.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="http://diseccionmoon.com/wp-content/uploads/2015/01/wib-2-pos.jpg", La Dama de Negro 2
+http://www.spruto.tv/get_file/2/0e70e0e9c4dac0eb3b4e09bac155462b/101000/101791/101791.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="http://gnula.nu/wp-content/uploads/2014/08/Horns_Película_International_Poster_francia-e1408633962468.jpg", Cuernos
+http://www.spruto.tv/get_file/5/d3ad49592ec6a3940a1301b8d36c5c2d/112000/112526/112526.mp4?start=0
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-nxF3Hwcj9eM/Uzt1oaQt_jI/AAAAAAAAAzE/sDCRCykh9JU/s175/el-conjuro.jpg",EL CONJURO
+http://www.spruto.tv/get_file/1/b980284784017250b9b0c826b104656a/86000/86338/86338.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ouija-244222978-main.jpg" group-title="Terror",Experimento la quija
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!2450&authkey=!AF7G4ZbSdU3D420&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ritual-439254226-main.jpg" group-title="Terror",El ritual
+http://www.spruto.tv/get_file/1/bf6524f4bf8a27f4fd22679c3ab63e5d/86000/86768/86768.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Carretera_al_infierno-443870033-main.jpg" group-title=",Terror"The Hitcher
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/En_tierra_hostil-853070621-main.jpg" group-title="Terror",zona de miedo
+http://media-es-am.crackle.com/1/w/h0/qdjyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_profec_a_Omen_666-314746044-main.jpg" group-title="Terror",la marca de la bestia
+http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_d_a_del_apocalipsis-932326-full.jpg" group-title="Terror",El dia del apocalipsis
+http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_ltima_llamada_911_Llamada_mortal-932417369-main.jpg" group-title="Terror",Linea_de_emergencia
+http://www.spruto.tv/get_file/1/3108ebb516e9408172f63c0fff8735a0/87000/87388/87388.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Area_51-755214860-main.jpg" group-title="Terror",Area 51
+http://www.spruto.tv/get_file/4/514c2aed4c91c4ffbfe22d0bf50ca38d/152000/152896/152896.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_tierra_de_los_muertos_vivientes-990284664-main.jpg" group-title="Terror",Tierra de los muertos
+http://www.spruto.tv/get_file/2/41491bb693354048633bb6ead534214f/153000/153997/153997.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Mam-432435114-main.jpg" group-title="Terror",Mama
+http://www.spruto.tv/get_file/8/6dec5b1791f1059adcf620b641202729/121000/121855/121855.mp4"
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Arr_strame_al_infierno-197506381-main.jpg" group-title="Terror",Arrastrame al infierno
+http://www.spruto.tv/get_file/5/3ac8c02235f63b3504f2e392964e13b5/143000/143049/143049.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/30_d_as_de_oscuridad-632101217-main.jpg" group-title="Terror",30 dias de oscuridad
+http://www.spruto.tv/get_file/6/a32fba8dce24d15917b63f75de695370/128000/128289/128289.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/30_d_as_de_oscuridad_2_Tinieblas-157778589-main.jpg" group-title="Terror",30 dias de oscuridad 2
+http://www.spruto.tv/get_file/6/722ac20ed5302347bda4a6687be8ea27/128000/128288/128288.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Amanecer_de_los_muertos-903534365-main.jpg" group-title="Terror",Amanecer de los muertos
+http://www.spruto.tv/get_file/8/85d122d065423452b3d6afe0bc1115e0/122000/122372/122372.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Poltergeist_fen_menos_extra_os-366487657-main.jpg" group-title="Terror",Poltergeist 1982
+http://www.spruto.tv/get_file/5/920b3f5f96a1130d7825b3ca09620e14/114000/114471/114471.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Poltergeist_II_El_otro_lado-154909941-main.jpg" group-title="Terror",Poltergeist 2
+http://www.spruto.tv/get_file/5/8ec736fe8e5f1205be051b68585abf98/114000/114473/114473.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Poltergeist_III_Fen_menos_extra_os_III-430439746-main.jpg" group-title="Terror",Poltergeist 3
+http://www.spruto.tv/get_file/5/34be59f575e06949d31eedeafd5b8f9a/114000/114475/114475.mp4
+#EXTINF:-1 tvg-logo="http://i47.tinypic.com/24axy8k.jpg" group-title="Estrenos",El Niño con el Pijama de Rayas
+http://www.spruto.tv/get_file/4/fe13bf81c9cdb3e1514668d07a66880a/125000/125626/125626.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/the_mist-365301241-large.jpg" group-title="Estrenos",La Niebla
+http://www.spruto.tv/get_file/4/1df7197568485d8c7a5de96cc4f83e9d/186000/186017/186017.mp4
+#EXTINF:-1 tvg-logo="http://im.ziffdavisinternational.com/ign_es/screenshot/default/cartel_bfpw.jpg" group-title="Estrenos",El Bosque de los Suicidios
+http://www.spruto.tv/get_file/4/21cc4a3d2c79aaf67d77c7c3f289c3e1/186000/186013/186013.mp4
+#EXTINF:-1 group-title="Terror" tvg-logo="http://pics.filmaffinity.com/Poltergeist-823180622-main.jpg", Poltergeist Latino
+https://onedrive.live.com/download.aspx?resid=DDFDBBF15680E8E0!110&authkey=!AICYek9DfCi0oB8&ithint=file%2cmkv
+#EXTINF:-1 group-title="Terror" tvg-logo="http://1.bp.blogspot.com/_SpC74qbLg-k/TBj5_GJaE8I/AAAAAAAAA80/0XYD9p-2QN0/s1600/EL+CUARTO+CONTACTO.jpg",El Cuarto Contacto
+https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!175&authkey=!AKXyRZbeVHorkbk&ithint=video%2cavi
+#EXTINF:-1 group-title="Terror" tvg-logo="http://gnula.nu/wp-content/uploads/2015/06/The_Vatican_Exorcisms_poster_usa.jpg",Vatican Exorcism
+https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1138&authkey=!AGScB_k-LZwxqf8&ithint=video%2cmp4
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="http://www.pequeocio.com/wp-content/uploads/2016/01/cine-infantil-2016-600x600.jpg", Peliculas Infantiles
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="http://cinepremiere.impresionesaerea.netdna-cdn.com/trailers/2016/09-septiembre/Mi-papa-es-un-gato-poster.png",mi papa es un gato
+http://byagustin@cort.as/plT6?iptvchile
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/16/08/11/16/02/016881.jpg",cigueñas
+https://onedrive.live.com/download?cid=ea1ccbed7744cc53&resid=EA1CCBED7744CC53%21107&authkey=!AKK2if4dePV1lLw
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-5EHA2_dDljQ/V3pm54HGjhI/AAAAAAAAYDE/09bqvdeKeBs1sZA_XChAZgJ-8IKPejJbQCLcB/s1600/Ice_Age_Collision_Course_la_era_del_hielo_5.jpg" group-title="Estrenos",La Era De Hielo 5
+https://goo.gl/X9dHAo
+#EXTINF:-1 tvg-logo="http://www.cinemascomics.com/wp-content/uploads/2016/06/cine-animacion-trolls-2016.jpg" group-title="Estrenos",Trolls
+https://goo.gl/sLrrij
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/08/05/13/33/259570.jpg" group-title="Estrenos",Cubo Y las Dos Cuerdas Magicas
+https://goo.gl/NOiCDF
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/16/08/11/16/02/016881.jpg" group-title="Estrenos",Cigueñas
+https://goo.gl/9ppZRC
+#EXTINF:-1 tvg-logo="http://i.hungrygowhere.com/cms/a9/37/63/68/159598/242aa75241.jpg" group-title="Estrenos",Sadako vs Kayako
+https://goo.gl/iU1U32
+#EXTINF:-1 tvg-logo="http://cdn.cinencuentro.com/wp-content/uploads/2016/10/POSTER-mi-amigo-el-drago%CC%81n.jpg" group-title="Estrenos",Mi Amigo El Dragon
+https://goo.gl/6aY9yF
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/16/05/04/12/16/096996.jpg" group-title="Estrenos",Miss Peregrine Y Los Niños
+https://goo.gl/KP6N6j
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/pictures/16/01/27/16/14/443702.jpg" group-title="Estrenos",La Vida Secreta De Tus Mascotas
+http://goo.gl/0uCpJT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/PixelsOfficialPoster.jpg/220px-PixelsOfficialPoster.jpg" group-title="Estrenos",Pixels
+https://goo.gl/x46RQL
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/miss_peregrine_s_home_for_peculiar_children-627660964-mmed.jpg" group-title="Estrenos",Miss Peregrine para niños peculiares#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Krampus_Maldita_Navidad-943028191-main.jpg" group-title="Estrenos",krampus
+http://www.spruto.tv/get_file/1/b6185973e86b961ad5b5e48a820e2879/170000/170528/170528.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Atrapa_la_bandera-755405018-main.jpg" group-title="Estrenos",atrapa la bandera
+http://www.spruto.tv/get_file/1/384121307b6851ed134858489492ed03/171000/171667/171667.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Atrapa_la_bandera-755405018-main.jpg" group-title="Estrenos",alvin y las ardillas 4
+http://www.spruto.tv/get_file/1/f251317b37d6aa33ce31713dcbf754a8/171000/171654/171654.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Zootr_polis-155827662-main.jpg" group-title="Estrenos",Zootopia
+http://www.spruto.tv/get_file/1/e5674e9799791867619ef216fbdb1d74/168000/168277/168277.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Kung_Fu_Panda_3-510177145-main.jpg" group-title="Estrenos",Kungfu panda 3
+http://www.spruto.tv/get_file/1/c3433a864ca958b62557004962292a6d/170000/170530/170530.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Dragon Ball Z: Fukkatsu no F" group-title="Infantiles",Dragon ball z resurrecion de freezer
+http://www.spruto.tv/get_file/2/40b466937626b2e7a0a4a71bff6b560d/161000/161872/161872.mp
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_incre_ble_historia_del_Ni_o_de_Piedra-764689436-main.jpg" group-title="Estrenos",El niño de piedra
+http://www.spruto.tv/get_file/6/c3de1df4ee5e8b0f5619a6ca0049fc81/132000/132586/132586.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/pictures/16/05/11/10/47/142905.jpg" group-title="Infantil",Albert
+http://www.spruto.tv/get_file/6/9e55aeaa85e3a39577abaa20337fea03/199000/199467/199467.mp4
+#EXTINF:-1 tvg-logo="http://gnula.nu/wp-content/uploads/2014/05/alvin_y_las_ardillas_poster_espa%C3%B1ol.jpg" group-title="Infantil",Alvin y las Ardillas 1
+http://www.spruto.tv/get_file/6/0b554e0bca69c5e31b0be935a5fa423b/197000/197679/197679.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img2.acsta.net/r_1280_720/medias/nmedia/18/70/99/64/19201649.jpg" group-title="Infantil",Alvin y las Ardillas 2
+http://www.spruto.tv/get_file/6/84e0f49e2d63ab5370ab520bb76c1ef8/197000/197669/197669.mp4
+#EXTINF:-1 tvg-logo="http://es.web.img3.acsta.net/medias/nmedia/18/85/69/75/19847866.jpg" group-title="Infantil",Alvin y las Ardillas 3
+http://www.spruto.tv/get_file/6/72f12ef429fd6b95cd2d1fde9643bd9d/197000/197673/197673.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Alvin_y_las_ardillas_Fiesta_sobre_ruedas-407227828-main.jpg" group-title="Estrenos",Alvin y las ardillas 4
+http://www.spruto.tv/get_file/2/a3b71f7301b7d98b84d1021c8cc86c9d/155000/155388/155388.mp4
+#EXTINF:-1 tvg-logo="http://www.stickerdesign.com.ar/wp-content/uploads/2016/05/Tapa.jpg" group-title="Infantil",Angry Birds: La Película
+http://www.spruto.tv/get_file/6/77aadda0531ea77e22f0df132a78b65b/196000/196763/196763.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/tangled-708117517-large.jpg" group-title="infantil",Enredados
+http://www.spruto.tv/get_file/6/c6e9477cadd7a2aa90b2308aa5646976/197000/197718/197718.mp4
+#EXTINF:-1 tvg-logo="http://www.labutaca.net/imagenes/wp-content/original/2011_11/el-gato-con-botas-cartel-2.jpg" group-title="Estrenos",El Gato Con Botas
+http://www.spruto.tv/get_file/4/05c971832216ebae3051a3fb6b95f514/188000/188727/188727.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/the_jungle_book-643399158-large.jpg" group-title="",El Libro de la Selva (Screen)
+http://www.spruto.tv/get_file/4/d6ecd674cd7cd55b25675cb0abc67169/188000/188204/188204.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/justin_y_la_espada_del_valor-934043380-large.jpg" group-title="",Justin y la Espada de Valor
+http://www.spruto.tv/get_file/6/05e89d885dc259341e614f8189b3b931/201000/201519/201519.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/lego_scooby_doo_haunted_hollywood-212410476-large.jpg" group-title="",LEGO Scooby Doo
+http://www.spruto.tv/get_file/4/c248adad6b264970ccf6f04df697fe69/190000/190169/190169.mp4
+#EXTINF:-1 tvg-logo="http://www.sonypictures.com/movies/stuartlittle/assets/images/onesheet.jpg" group-title="Estrenos",Stuart Little 1
+http://www.spruto.tv/get_file/7/84cc4f5ab4c443f09dbc3817aa377799/77000/77900/77900.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ea/Zootopia.jpg" group-title="Estrenos",Zootopia
+http://www.spruto.tv/get_file/6/afc89ef96f46765d56cd05712054c5d3/195000/195703/195703.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_1v3dHN0lVrY/TOxDaSNSlzI/AAAAAAAAAB4/sOj7jOTcRek/s1600/club_house_mickey.jpg" group-title="Estrenos",La Casa de Mickey Mouse
+http://www.spruto.tv/get_file/5/ca52b52fb2cd3412af83c6d627e50bca/115000/115500/115500.mp4
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-AexMfjNt1A0/VVi6aP-CGnI/AAAAAAAAUbo/xVlbXLnZFPk/s1600/Jimmy%2BNeutron%2Bel%2Bni%C3%B1o%2Binventor%2B(2001)%2Bonline.jpg" group-title="Estrenos",Jimmy Neutrón: El Niño Genio
+http://www.spruto.tv/get_file/8/3ed608455fdb70f66c2390e417b59645/121000/121844/121844.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Dragon_Ball_Z_La_Resurrecci_n_de_F-911759024-main.jpg" group-title="Infantiles",La resurrecion de Frezzer
+http://www.spruto.tv/get_file/2/40b466937626b2e7a0a4a71bff6b560d/161000/161872/161872.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Dragonball_Evolution-957604390-main.jpg"group-title="ACCION",DRAGONBALL EVOLUTION
+http://www.spruto.tv/get_file/5/dbc78476c08ceadd25137d0c372fe673/138000/138137/138137.mp4
+#EXTINF:-1 tvg-logo="http://cs425327.vk.me/v425327654/7fd2/8l5NFs-HyDM.jpg" group-title="Infantiles",101 DALMATAS (1961)
+http://www.spruto.tv/get_file/7/351a73c379f06083d9a8e87decdb0b5b/76000/76258/76258.mp4?start=0
+#EXTINF:-1 tvg-logo="http://www.mubis.es/media/users/8519/108924/se-anuncia-101-dalmatas-2-en-bluray-en-usa-para-el-10-de-febrero-l_cover.jpg"group-title="Infantiles",101 DÁLMATAS 2: UNA AVENTURA EN LONDRES (2003)
+http://www.spruto.tv/get_file/7/fa72a70ace9059d2de92080579a621eb/76000/76916/76916.mp4?start=0
+#EXTINF:-1 tvg-logo="http://cs425327.vk.me/v425327654/7fd2/8l5NFs-HyDM.jpg" group-title="Infantiles",101 DÁLMATAS: ¡AHORA LA MAGIA ES REAL! (1996)
+http://www.spruto.tv/get_file/7/49192f4dff2de4ce2a087f1d700b52ab/76000/76917/76917.mp4?start=0
+#EXTINF:-1 tvg-logo="http://lnx.ginevra2000.it/Disney/princesses1/aladdin2.jpg" group-title="Infantiles",ALADDÍN (1992)
+http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4?start=0
+#EXTINF:-1 tvg-logo="http://cs7050.vk.me/c621229/v621229006/233b8/KH5sRV6ZKB8.jpg" group-title="Infantiles",ALADDÍN 2: EL RETORNO DE JAFAR (1994)
+http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4?start=0
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:AatKoT2.jpg" group-title="Infantiles",ALADDÍN Y EL REY DE LOS LADRONES (1996)
+http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4?start=0
+#EXTINF:-1 tvg-logo="http://ecx.images-amazon.com/images/I/619WPgvrQzL._SY445_.jpg" group-title="Infantiles",ALEXANDER Y UN DÍA TERRIBLE (2014)
+http://www.spruto.tv/get_file/2/03b4ffce3da8dcbfcefba4b7d046fb33/97000/97820/97820.mp4?start=0
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_2ucMreS1bpQ/TOFlye7W8tI/AAAAAAAAGmk/tYsFn3CmyHs/s1600/Alicia-en-el-Pais-de-las-Maravillas-Walt-Disney.png" group-title="Infantiles",ALICIA EN EL PAIS DE LAS MARAVILLAS
+http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Alicia_en_el_pa_s_de_las_maravillas-108542060-main.jpg" group-title="Infantiles",ALICIA EN EL PAÍS DE LAS MARAVILLAS (2010)
+http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Anastasia-307761061-main.jpg" group-title="Infantiles",ANASTASIA
+http://www.spruto.tv/get_file/5/717a259eabde324b660eaf07d3b56c7f/110000/110197/110197.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Arthur_y_los_Minimoys-169559046-main.jpg" group-title="Infantiles", ARTHUR Y LOS MINIMOYS
+http://www.spruto.tv/get_file/7/3a90ea57d80c7acb95c0a3d2cd9e719f/78000/78075/78075.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Arthur_y_la_venganza_de_Maltazard-921133871-main.jpg" group-title="Infantiles", ARTHUR Y EL REGRESO DE LOS MINIMOYS
+http://www.spruto.tv/get_file/7/5aec5b497375281cfc23a3fad4e381fe/78000/78072/78072.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Arthur_3_La_guerra_de_los_mundos-319868344-main.jpg" group-title="Infantiles", ARTHUR 3 Y LA GUERRA DE LOS MUNDOS
+http://www.spruto.tv/get_file/7/11baa658aaacc702345b2faa8b8524e0/78000/78071/78071.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Asterix_La_residencia_de_los_dioses-131089770-main.jpg" group-title="Infantiles", ASTERIX: LA RESISTENCIA DE LOS DIOSES
+http://www.spruto.tv/get_file/5/7edbba887940551efa990051a4a0a1a1/109000/109364/109364.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Atlantis_El_imperio_perdido-291599637-large.jpg" group-title="Infantiles",ATLANTIS: EL IMPERIO PERDIDO (2001)
+http://www.spruto.tv/get_file/7/5feb4dea183c05ac7b5734f867e7025b/76000/76868/76868.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Atlantis_El_regreso_de_Milo-757335032-large.jpg" group-title="Infantiles",ATLANTIS 2: EL REGRESO DE MILO (2003)
+http://www.spruto.tv/get_file/7/37bf93eaf83af9111ada6c580debd95e/76000/76933/76933.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Aviones-129006528-large.jpg" group-title="Infantiles",AVIONES (2013)
+http://www.spruto.tv/get_file/7/40920e5820cec6ef809f9665ede0f969/76000/76262/76262.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Aviones_Equipo_de_rescate_Aviones_2-446340184-large.jpg" group-title="Infantiles",AVIONES 2: EQUIPO DE RESCATE (2014)
+http://www.spruto.tv/get_file/1/60142c6b412c9e4db0ec7e26f5c61d44/88000/88293/88293.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Un_d_a_de_pelos_TV-105727315-large.jpg" group-title="Infantiles",UN DIA DE PELOS
+http://st152.u1.videomega.tv/v/68ce1b62bf200bc313bda820a6c76b82.mp4?st=kPRA78gy2ppvG0lJiTIzkQ&hash=AoZ6VCsBWa2GIXWUtyuYAQ
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Balto_la_leyenda_del_perro_esquimal-136852747-main.jpg" group-title="Infantiles", BALTO 1
+http://www.spruto.tv/get_file/7/febb03ebcac580c14e36d13ca8f4d81f/77000/77227/77227.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Balto_2_Aventura_en_la_tierra_de_hielo-641993132-large.jpg" group-title="Infantiles", BALTO 2 EN BUSCA DE TUS RAICES
+http://www.spruto.tv/get_file/7/a6b839916681600de8399ac0169654ec/77000/77228/77228.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Balto_3_Rescate_del_avi_n_perdido-115130042-main.jpg" group-title="Infantiles", BALTO 3 APRENDIENDO A VOLAR
+http://www.spruto.tv/get_file/7/1a2b4c7e9dfe81561ee9ef4bad4d3120/77000/77229/77229.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Bambi-505860859-large.jpg" group-title="Infantiles",BAMBI (1942)
+http://www.spruto.tv/get_file/7/cb5a9928e4abfca39f1d7bcc334a5066/76000/76263/76263.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Bambi_2_el_pr_ncipe_del_bosque-803331368-main.jpg" group-title="Infantiles",BAMBI 2 (2006)
+http://www.spruto.tv/get_file/7/e848c8a456e466936d7aae2ba4d9e465/76000/76857/76857.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_en_cascanueces-558757957-large.jpg" group-title="Infantiles",BARBIE EN EL CASCANUECES (2001)
+http://www.spruto.tv/get_file/7/6392a07b00120b6dfa70e4e69c66c81b/75000/75691/75691.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_en_Princesa_Rapunzel-992517998-main.jpg" group-title="Infantiles",BARBIE COMO RAPUNZEL (2002)
+http://www.spruto.tv/get_file/7/a1fa59b2047de2ad8029288d26322b96/75000/75744/75744.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_en_el_lago_de_los_cisnes-741273957-main.jpg" group-title="Infantiles",BARBIE EN EL LAGO DE LOS CISNES (2003
+http://www.spruto.tv/get_file/7/4352721134100a941439c643b0b0ad55/75000/75745/75745.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_la_Princesa_y_la_Costurera-304139166-main.jpg" group-title="Infantiles",BARBIE EN LA PRINCESA Y LA PLEBEYA (2004)
+http://www.spruto.tv/get_file/7/c906dc298dba98b476f59ae626cccb54/75000/75746/75746.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_Fairytopia-986947464-main.jpg" group-title="Infantiles",BARBIE FAIRYTOPIA (2005)
+http://www.spruto.tv/get_file/7/73bc49b9176d78162126bf99c97ea4c8/75000/75747/75747.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_y_la_magia_del_pegaso-612001808-main.jpg" group-title="Infantiles",BARBIE Y LA MAGIA DE PEGASO (2005)
+http://www.spruto.tv/get_file/7/6d8b83bf7a871681f47603b234a8829d/75000/75748/75748.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Los_diarios_de_Barbie-306423649-main.jpg" group-title="Infantiles",BARBIE: EL DIARIO DE BARBIE (2006)
+http://www.spruto.tv/get_file/7/cc4f044e39c7d3ffb31494deb84389be/75000/75749/75749.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_Fairytopia_Mermaidia-803561325-main.jpg" group-title="Infantiles",BARBIE FAIRYTOPIA: MERMAIDIA (2006)
+http://www.spruto.tv/get_file/7/59716dc9773a26809a07144ddc54f2b2/75000/75750/75750.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_y_las_12_princesas_bailarinas-755478107-main.jpg" group-title="Infantiles",BARBIE EN LAS 12 PRINCESAS BAILARINAS (2006)
+http://www.spruto.tv/get_file/7/225ca2a2d12f05d3b1ca8c2d97ce8cdf/75000/75751/75751.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_Fairytopia_2_La_magia_del_arco_iris-697791301-main.jpg" group-title="Infantiles",BARBIE FAIRYTOPIA: LA MAGIA DEL ARCO IRIS (2007)
+http://www.spruto.tv/get_file/7/ce3022c3870830b2b7bf4131abf433dc/75000/75754/75754.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_en_la_princesa_de_los_animales-951380947-main.jpg" group-title="Infantiles",BARBIE COMO LA PRINCESA DE LA ISLA (2007)
+http://www.spruto.tv/get_file/7/89d09d01e5aae033fef1b8e192945764/75000/75752/75752.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_Mariposa-925328692-main.jpg" group-title="Infantiles",BARBIE MARIPOSA (2008)
+http://www.spruto.tv/get_file/7/859ed332e242bc043e12420752e6cebc/75000/75753/75753.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_y_el_castillo_de_diamantes-327891245-main.jpg" group-title="Infantiles",BARBIE EN EL CASTILLO DE DIAMANTES (2008)
+http://www.spruto.tv/get_file/7/49ba8b762db42c7fb7f244b4ef65cbe3/75000/75757/75757.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_en_un_Cuento_de_Navidad-581397777-main.jpg" group-title="Infantiles",BARBIE EN UN CUENTO DE NAVIDAD (2008)
+http://www.spruto.tv/get_file/7/d14cbb0488d5fe4c5ab834fd45215dc4/75000/75758/75758.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_presenta_Pulgarcita-479517490-main.jpg" group-title="Infantiles",BARBIE PULGARCITA (2009)
+http://www.spruto.tv/get_file/7/7cd893d2f35a6de11f0333fd39e06e2b/75000/75761/75761.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_y_las_tres_mosqueteras-179245517-main.jpg" group-title="Infantiles",BARBIE Y LAS TRES MOSQUETERAS (2009)
+http://www.spruto.tv/get_file/7/dd9f2e27246b74c173d75296330c2714/75000/75765/75765.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_Una_aventura_de_sirenas-378534301-main.jpg" group-title="Infantiles",BARBIE EN UNA AVENTURA DE SIRENAS (2010)
+http://www.spruto.tv/get_file/7/5c7a57857b8d85142ec9c93a93796111/75000/75766/75766.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_moda_m_gica_en_Par_s-757801022-main.jpg" group-title="Infantiles",BARBIE: MODA MÁGICA EN PARÍS (2010)
+http://www.spruto.tv/get_file/7/e10b82a947c533768641a32571e3b7f7/75000/75769/75769.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_El_secreto_de_las_hadas-857520614-main.jpg" group-title="Infantiles",BARBIE: EL SECRETO DE LA HADAS (2011)
+http://www.spruto.tv/get_file/7/fdb651665f1431478b72eef7a37a4e61/75000/75770/75770.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_Escuela_de_princesas-198182085-main.jpg" group-title="Infantiles",BARBIE: ESCUELA DE PRINCESAS (2011)
+http://www.spruto.tv/get_file/7/f0deaca2139b0041107ee434daaba452/75000/75771/75771.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_Una_navidad_perfecta-243280127-main.jpg" group-title="Infantiles",BARBIE: UNA NAVIDAD PERFECTA (2011)
+http://www.spruto.tv/get_file/7/629ac34ec346fa1c070729f775b21001/75000/75772/75772.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_Aventura_de_sirenas_2-465785655-main.jpg" group-title="Infantiles",BARBIE EN UNA AVENTURA DE SIRENAS 2 (2012)
+http://www.spruto.tv/get_file/7/f39ff377acd5999d1fe6e33027b7c3d2/75000/75776/75776.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_La_Princesa_y_La_Estrella_Pop-833345869-main.jpg" group-title="Infantiles",BARBIE: LA PRINCESA Y LA ESTRELLA DEL POP (2012)
+http://www.spruto.tv/get_file/7/231bc787fa958ba56c1957524a7f253b/75000/75779/75779.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_en_La_bailarina_m_gica_Barbie_y_las_zapatillas_m_gicas-655239771-main.jpg" group-title="Infantiles",BARBIE Y LAS ZAPATILLA MÁGICAS (2013)
+http://www.spruto.tv/get_file/7/ef27f353cd8d783e799a095feee03a79/75000/75780/75780.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_Mariposa_y_la_Princesa_de_las_Hadas-904211506-main.jpg" group-title="Infantiles",BARBIE MARIPOSA Y LA PRINCESA DE LA HADAS (2013)
+http://www.spruto.tv/get_file/7/11c0b9efa9adc9bfeafad157aa3bf4c8/75000/75782/75782.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_y_sus_hermanas_en_Una_aventura_de_caballos-293149703-main.jpg" group-title="Infantiles",BARBIE Y SUS HERMANAS EN UNA HISTORIA DE PONIS (2013)
+http://www.spruto.tv/get_file/7/c73833ccd0a34face1c07af811d3dd9b/75000/75784/75784.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_La_princesa_de_las_perlas-379130114-main.jpg" group-title="Infantiles",BARBIE: LA PRINCESA DE LAS PERLAS (2014)
+http://www.spruto.tv/get_file/7/a4b60ae86beda2d24b626e295106eb2d/75000/75840/75840.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_y_la_puerta_secreta-253926818-main.jpg" group-title="Infantiles",BARBIE Y LA PUERTA SECRETA (2014)
+http://www.spruto.tv/get_file/1/688f00032dedd940ad06005785bf4f2a/82000/82907/82907.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Barbie_S_per_Princesa_TV-316486337-main.jpg" group-title="Infantiles",BARBIE SÚPER PRINCESA (2015)
+http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Bee_Movie-441375499-main.jpg" group-title="Infantiles",BEE MOVIE (2007)
+http://www.spruto.tv/get_file/7/27959f7bbd25c24a3b2d62836e678167/78000/78288/78288.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Los_rescatadores-669437932-main.jpg" group-title="Infantiles",BERNARDO Y BIANCA (1977)
+http://www.spruto.tv/get_file/7/9c1b83eb0190d9728362a2b30b24b84f/76000/76264/76264.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Los_Rescatadores_en_Cangurolandia-570780090-main.jpg" group-title="Infantiles",BERNARDO Y BIANCA EN CANGUROLANDIA (1990)
+http://www.spruto.tv/get_file/7/04f777d30a579384b7a269ed5142fa7e/76000/76918/76918.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Bichos_una_aventura_en_miniatura-837256649-main.jpg" group-title="Infantiles",BICHOS (1998)
+http://www.spruto.tv/get_file/7/469d087e65c80a6db209e73498f34319/76000/76265/76265.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Blancanieves_y_los_siete_enanitos-462141924-main.jpg" group-title="Infantiles",BLANCANIEVES Y LOS SIETE ENANITOS
+http://www.spruto.tv/get_file/1/3a864a8bc2a6f68742ddff892b6a8e1a/80000/80738/80738.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Bolt-216963051-main.jpg" group-title="Infantiles",BOLT: UN PERRO FUERA DE SERIE (2008)
+http://www.spruto.tv/get_file/7/8123dc6164b080c15588188c5ecad73b/76000/76267/76267.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Brujillizas_TV-877498566-main.jpg" group-title="Infantiles",BRUJILLIZAS
+http://www.spruto.tv/get_file/7/ca55a127a49597bf2acfcccc0b2c5332/76000/76990/76990.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Snow_Buddies-595233255-main.jpg" group-title="Infantiles",BUDDIES: CACHORROS EN LA NIEVE (2008)
+http://www.spruto.tv/get_file/7/2602726612d6982b4e26a9ef2995b63f/76000/76747/76747.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Cachorros_embrujados-519912627-main.jpg" group-title="Infantiles",BUDDIES: CACHORROS EMBRUJADOS (2011)
+http://www.spruto.tv/get_file/7/23fbf56b94d7c5be1bebde2f164f5ca0/76000/76750/76750.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Buddies_Cazadores_de_tesoros-103563996-main.jpg" group-title="Infantiles",BUDDIES: CAZADORES DE TESOROS (2012)
+http://www.spruto.tv/get_file/7/6f29cfd88539605b651a2ca3512f6767/76000/76749/76749.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Super_Buddies-888757722-main.jpg" group-title="Infantiles",BUDDIES: SUPER BUDDIES
+http://www.spruto.tv/get_file/7/218271532a38ae4d64b48f47e7653419/76000/76751/76751.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Frente_al_mar-753611095-main.jpg" group-title="Estrenos",Frente al Mar
+http://www.spruto.tv/get_file/2/0990010bdff4008564866555972075af/162000/162532/162532.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Hotel_Transilvania-382209595-main.jpg" group-title="Infantiles",Hotel Transylvania
+http://discontrol@ia601505.us.archive.org/19/items/H0731.794N5/H0731.794N5Y1V4NI4-ES-720.mp4?
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Navidad_con_los_Buddies_En_busca_de_Santa_Can-788877461-main.jpg" group-title="Infantiles",BUDDIES, SANTA BUDDIES
+http://www.spruto.tv/get_file/7/3902b36a8fadbe6f392f99ed37ffc5cf/76000/76748/76748.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Buscando_a_Nemo-270225429-main.jpg" group-title="Infantiles",BUSCANDO A NEMO (2003)
+http://www.spruto.tv/get_file/7/7e60ee33e6777ac5b49c364bfaf454f6/76000/76268/76268.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Cars_Coches-746710621-main.jpg" group-title="Infantiles",CARS (2006)
+http://www.spruto.tv/get_file/7/1a51e70baad845814df291f685402b72/76000/76269/76269.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Cars_2-593734717-main.jpg" group-title="Infantiles",CARS 2 (2011)
+http://www.spruto.tv/get_file/7/4b953ea3c993d65d5f30e30cfb5e79f9/76000/76270/76270.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Casper-247042692-main.jpg" group-title="Infantiles",CASPER (1995)
+http://www.spruto.tv/get_file/5/39b0d4dce6816e14b46a62c9624bf69e/116000/116997/116997.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Chicken_Little-316219815-main.jpg" group-title="Infantiles",CHICKEN LITTLE (2005)
+http://www.spruto.tv/get_file/7/9c9764504f209a4cbe420d8d91e54309/76000/76273/76273.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Colmillo_blanco-708430619-main.jpg" group-title="Infantiles",COLMILLO BLANCO (1991)
+http://www.spruto.tv/get_file/7/bfb3ca9937f80a9a99a69e670cc1bdf7/78000/78046/78046.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/C_mo_entrenar_a_tu_drag_n-577181358-main.jpg" group-title="Infantiles",COMO ENTRENAR A TU DRAGON
+http://www.spruto.tv/get_file/1/647c44d3f979575f21cb6331658b1ba7/86000/86732/86732.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Quiero_ser_superfamosa-135386192-main.jpg" group-title="Infantiles",CONFESIONES DE UNA TÍPICA ADOLESCENTE (2004)
+http://www.spruto.tv/get_file/7/c592d26647a3d29bdd95a2d2acc6e2f5/76000/76936/76936.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Dinosaurio-685483276-main.jpg" group-title="Infantiles",DINOSAURIO (2000)
+http://www.spruto.tv/get_file/7/5af51f7524655831d490a57398da82b4/76000/76866/76866.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Tierra_la_pel_cula_de_nuestro_planeta-428621671-main.jpg" group-title="Infantiles",DISNEYNATURE: LA TIERRA (2007)
+http://www.spruto.tv/get_file/7/f34bb000fb1f4ae6035e044da03063a5/76000/76325/76325.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/The_Crimson_Wing_Mystery_of_the_Flamingos-224458610-main.jpg" group-title="Infantiles",DISNEYNATURE: EL MISTERIO DE LOS FLAMENCOS (2008)
+http://www.spruto.tv/get_file/7/88b9eaa080a43e1939a7ca2cd452916e/76000/76329/76329.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Grandes_felinos_africanos_el_reino_del_coraje-974204008-main.jpg" group-title="Infantiles",DISNEYNATURE: FELINOS DE ÁFRICA (2011)
+http://www.spruto.tv/get_file/7/32fc167e3609f60a4da17cfb12dff632/76000/76330/76330.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Chimpanc-588904495-main.jpg" group-title="Infantiles",DISNEYNATURE: CHIMPANCÉS (2012)
+http://www.spruto.tv/get_file/7/2d05b87efd5128d8c18b7a2d2375b4d8/76000/76328/76328.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Alas_de_la_vida-697490688-main.jpg" group-title="Infantiles",DISNEYNATURE: ALAS DE LA VIDA (2013)
+http://www.spruto.tv/get_file/7/9a736e114fe9513665371c64163ff0d2/76000/76717/76717.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Bears-236967362-main.jpg" group-title="Infantiles",DISNEYNATURE: OSOS (2014)
+http://www.spruto.tv/get_file/1/046b94e730f032e799e94e0cd2d59729/81000/81600/81600.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Dumbo-297989420-large.jpg" group-title="Infantiles",DUMBO (1941)
+http://www.spruto.tv/get_file/7/a57435e35167ed71432b32e71a253413/76000/76331/76331.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Princesa_por_sorpresa-587443019-main.jpg" group-title="Infantiles",EL DIARIO DE LA PRINCESA (2001)
+http://www.spruto.tv/get_file/7/ca20410702db2880bcfeafb698c3e47d/76000/76789/76789.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Princesa_por_sorpresa_2-567431724-main.jpg" group-title="Infantiles",EL DIARIO DE LA PRINCESA 2 (2004)
+http://www.spruto.tv/get_file/7/7dbb1d129acf1aac82542c944913c0df/76000/76790/76790.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Polar_Express_El_Expreso_Polar-375183738-main.jpg" group-title="Infantiles",EL EXPRESO POLAR
+http://www.spruto.tv/get_file/5/a9fbadc52b1dabc3a007ecb2c899b252/115000/115096/115096.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Pesadilla_antes_de_navidad-136057718-main.jpg" group-title="Infantiles",EL EXTRAÑO MUNDO DE JACK (1993)
+http://www.spruto.tv/get_file/7/e59043e25e61fb3ecff993bb4d2484fc/76000/76339/76339.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_gigante_de_hierro-574912759-main.jpg" group-title="Infantiles",EL GIGANTE DE HIERRO
+http://www.spruto.tv/get_file/7/b5111e1b82577d363e2e6c4f1f483407/78000/78180/78180.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_castillo_ambulante-376386887-main.jpg" group-title="Infantiles",EL INCREIBLE CASTILLO VAGABUNDO (2004)
+http://www.spruto.tv/get_file/7/318f9a2e8cd4c23cd39a08a67e4fcd0d/78000/78239/78239.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_jorobado_de_Notre_Dame-576975477-main.jpg" group-title="Infantiles",EL JOROBADO DE NOTRE DAME (1996)
+http://www.spruto.tv/get_file/7/39f828c763b05ca96cd0490cb2d70a97/76000/76348/76348.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_libro_de_la_selva-587810420-main.jpg" group-title="Infantiles",EL LIBRO DE LA SELVA (1967)
+http://www.spruto.tv/get_file/7/237e80ed033fa81ca258f0bef317ad5d/76000/76351/76351.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_libro_de_la_selva_2-881872200-main.jpg" group-title="Infantiles",EL LIBRO DE LA SELVA 2 (2003)
+http://www.spruto.tv/get_file/7/2f69be24e28919e809654871bb0e732e/76000/76860/76860.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_libro_de_la_vida-733755442-main.jpg" group-title="Infantiles",EL LIBRO DE LA VIDA (2014)
+http://www.spruto.tv/get_file/2/de5191e94478cc57ef20ad3638eeaffd/97000/97817/97817.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Un_puente_hacia_Terabithia-349890819-main.jpg" group-title="Infantiles",EL MUNDO MÁGICO DE TERABITHIA (2005)
+http://www.spruto.tv/get_file/7/c9aead193208cd41ddca0b7e153b3123/77000/77008/77008.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_origen_de_los_guardianes-746579871-main.jpg" group-title="Infantiles",EL ORIGEN DE LOS GUARDIANES
+http://www.spruto.tv/get_file/7/f6a8b7fc3f7f0ea54ef6a6929f43c529/78000/78066/78066.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Paddington-489009991-main.jpg" group-title="Infantiles",EL OSO PADDINGTON
+http://www.spruto.tv/get_file/5/2d4ebe352e71a5c4922efee18a8b9775/107000/107752/107752.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_planeta_del_tesoro-317268663-main.jpg" group-title="Infantiles",EL PLANETA DEL TESORO (2002)
+http://www.spruto.tv/get_file/7/8231a379cc14dc49d1ad499140995837/76000/76354/76354.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_pr_ncipe_de_Egipto-861338702-main.jpg" group-title="Infantiles",EL PRINCIPE DE EGIPTO
+http://www.spruto.tv/get_file/5/0aafd991aac448a4a613803f45715fa6/118000/118572/118572.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_viaje_de_Chihiro-348587850-main.jpg" group-title="Infantiles",EL VIAJE DE Chihiro(2001)
+http://www.spruto.tv/get_file/7/a48c27258965392e289fe62b34ade115/78000/78241/78241.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Tod_y_Toby-334633355-main.jpg" group-title="Infantiles",EL ZORRO Y EL SABUESO (1981)
+http://www.spruto.tv/get_file/7/b6655ab4482d211348e64d47bc5d7054/76000/76361/76361.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Tod_y_Toby_2-742847305-main.jpg" group-title="Infantiles",EL ZORRO Y EL SABUESO 2 (2006)
+http://www.spruto.tv/get_file/7/9a6f7f01577d64bc083d263205505a58/76000/76867/76867.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Into_the_Woods-763837529-main.jpg" group-title="Infantiles",EN EL BOSQUE (INTO THE WOODS)
+http://www.spruto.tv/get_file/2/6bb416dfe3a1c559930905f48c528ba9/104000/104812/104812.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Encantada_la_historia_de_Giselle-898491853-main.jpg" group-title="Infantiles",ENCANTADA (2007)
+http://www.spruto.tv/get_file/7/01ed52ca0b7b509cd1216fcb063d03c0/76000/76362/76362.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Enredados-708117517-main.jpg" group-title="Infantiles",ENREDADOS
+http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Epic_El_mundo_secreto-587748115-main.jpg" group-title="Infantiles",EPIC: EL REINO SECRETO (2013)
+http://www.spruto.tv/get_file/7/2e9691de1d0e7ec11276a062ec55f442/78000/78293/78293.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Fantas_a-929802744-main.jpg" group-title="Infantiles",FANTASÍA (1940)
+http://www.spruto.tv/get_file/7/34ffeb970613afcb303e6d997a4cb727/76000/76365/76365.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Fantas_a_2000-725427506-main.jpg" group-title="Infantiles",FANTASÍA 2000 (1999)
+http://www.spruto.tv/get_file/7/e75a68e1d7cfa20f62892cf8eb946dbd/76000/76923/76923.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Flubber_y_el_profesor_chiflado-505272652-main.jpg" group-title="Infantiles",FLUBBER (1997)
+http://www.spruto.tv/get_file/7/9ec44e497f1e13fbdfde83386117a845/77000/77004/77004.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Frankenweenie-121243257-main.jpg" group-title="Infantiles",FRANKENWEENIE (2012)
+http://www.spruto.tv/get_file/7/2b57246893f9b0b1191c309598f7a1d6/76000/76366/76366.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Aventuras_en_Alaska-582439948-main.jpg" group-title="Infantiles",FRÍO DE PERROS (2002)
+http://www.spruto.tv/get_file/7/9875d73fc539838627cc5b69addcbf33/76000/76924/76924.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Frozen_El_reino_del_hielo-680009505-main.jpg" group-title="Infantiles",FROZEN: UNA AVENTURA CONGELADA
+http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/G_Force_Licencia_para_espiar-191725885-main.jpg" group-title="Infantiles",FUERZA G (2009)
+http://www.spruto.tv/get_file/7/5dd83a6f4dbde5dfbc76d3ab9759aa5a/76000/76367/76367.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/George_de_la_jungla-888436386-main.jpg" group-title="Infantiles",GEORGE DE LA SELVA (1997)
+http://www.spruto.tv/get_file/7/f3377e0b7e4cd56539e5aa47a83abcf8/76000/76368/76368.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Gnomeo_y_Julieta-664997449-main.jpg" group-title="Infantiles",GNOMEO Y JULIETA
+http://www.spruto.tv/get_file/7/4aec99b76a012347d0fbffbefa066e3f/78000/78054/78054.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Hannah_Montana_La_pel_cula-288619476-main.jpg" group-title="Infantiles",HANNAH MONTANA LA PELICULA
+http://www.spruto.tv/get_file/7/46fc21e46a996480630de0ed94ea7dc7/76000/76863/76863.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Happy_Feet_rompiendo_el_hielo-637452144-main.jpg" group-title="Infantiles",HAPPY FEET
+http://www.spruto.tv/get_file/7/67e61338012b3e1b42e380098057ef1b/77000/77980/77980.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Harry_Potter_y_la_piedra_filosofal-255494440-main.jpg" group-title="Infantiles", HARRY POTTER 1
+http://www.spruto.tv/get_file/1/bf0c0a385e6697e57e8698580bd821ce/87000/87798/87798.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Harry_Potter_y_la_c_mara_secreta-209568445-main.jpg" group-title="Infantiles", HARRY POTTER 2
+http://www.spruto.tv/get_file/1/461629883a40e719768b3415a2442caf/87000/87801/87801.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Harry_Potter_y_el_prisionero_de_Azkaban-928131061-main.jpg" group-title="Infantiles", HARRY POTTER 3
+http://www.spruto.tv/get_file/1/0791ebc980bb10368f5c728910507a98/87000/87795/87795.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Harry_Potter_y_el_c_liz_de_fuego-872646483-main.jpg" group-title="Infantiles", HARRY POTTER 4
+http://www.spruto.tv/get_file/1/d0732cfbadb8791161080bc61e0bcb33/87000/87429/87429.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Harry_Potter_y_la_orden_del_F_nix-448254831-main.jpg" group-title="Infantiles", HARRY POTTER 5
+http://www.spruto.tv/get_file/1/dde862b9af63b6021f3d9277ed638f50/87000/87980/87980.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Harry_Potter_y_el_misterio_del_pr_ncipe-140623436-main.jpg" group-title="Infantiles", HARRY POTTER 6
+http://www.spruto.tv/get_file/1/90a67a27f9eda9cb3f482b074232d89d/87000/87794/87794.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Harry_Potter_y_las_Reliquias_de_la_Muerte_Parte_I-158932179-main.jpg" group-title="Infantiles", HARRY POTTER 7 parte 1
+http://www.spruto.tv/get_file/1/d6b2ad1c77d6d188a5065b8877875094/87000/87985/87985.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Harry_Potter_y_las_Reliquias_de_la_Muerte_Parte_II-477385286-main.jpg" group-title="Infantiles", HARRY POTTER 7 parte 2
+http://www.spruto.tv/get_file/1/54db2c3d7280ed8375e64e7f29271d7d/87000/87983/87983.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/H_rcules-437587744-main.jpg" group-title="Infantiles",HÉRCULES (1997)
+http://www.spruto.tv/get_file/7/8fc3b8061b609ba2471cbca432bafaa9/76000/76369/76369.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Horton-595802634-main.jpg" group-title="Infantiles",HORTON Y EL MUNDO DE LOS QUIEN (2008)
+http://www.spruto.tv/get_file/7/4f418fcf98d886a18ce0fda66fa61fca/78000/78252/78252.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/James_y_el_melocot_n_gigante-470803838-main.jpg" group-title="Infantiles",JIM Y EL DURAZNO GIGANTE (1996)
+http://www.spruto.tv/get_file/7/087246ae9044ab98139c5d2cb9d1c5c5/76000/76870/76870.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Joseph_Rey_de_los_Sue_os_Jos_el_rey_de_los_sue_os-350714874-main.jpg" group-title="Infantiles",JOSE, EL REY DE LOS SUEÑOS
+http://www.spruto.tv/get_file/7/0af4b34ea2b3e20f417aac9ed33cc7cc/77000/77965/77965.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/T_a_Londres_y_yo_a_California-726584867-main.jpg" group-title="Infantiles",JUEGO DE GEMELAS (1998)
+http://www.spruto.tv/get_file/7/87f49fbb87289ec30d4c73266b8c3011/76000/76743/76743.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Jumanji-949356621-main.jpg" group-title="Infantiles",JUMANJI (1995)
+http://www.spruto.tv/get_file/7/b296d24f9693b9a0ff4ac3260793059a/78000/78204/78204.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_bella_durmiente-586158571-main.jpg" group-title="Infantiles",LA BELLA DURMIENTE
+http://www.spruto.tv/get_file/1/5a1b0057367871e647217efa738e97be/80000/80736/80736.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_bella_y_la_bestia-152980110-main.jpg" group-title="Infantiles",LA BELLA Y LA BESTIA
+http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_Bella_y_la_Bestia_2_Una_Navidad_Encantada-775201513-main.jpg" group-title="Infantiles",LA BELLA Y LA BESTIA 2
+http://www.spruto.tv/get_file/5/db0dd392dbcd04d1d5e6190a22443734/110000/110192/110192.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_cenicienta-164798847-main.jpg" group-title="Infantiles",LA CENICIENTA 1
+http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_Cenicienta_2-552694362-main.jpg" group-title="Infantiles",LA CENICIENTA 2
+http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Cenicienta_Qu_pasar_a_si_La_Cenicienta_3-107391504-main.jpg" group-title="Infantiles",LA CENICIENTA 3
+http://www.spruto.tv/get_file/5/e503c7667fd1552077a930cb476548b4/110000/110194/110194.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_dama_y_el_vagabundo-464399378-main.jpg" group-title="Infantiles",LA DAMA Y EL VAGABUNDO 1 (1955)
+http://www.spruto.tv/get_file/7/be0ffba16aa360e43309f6028a80307f/76000/76377/76377.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_dama_y_el_vagabundo_2-928670976-main.jpg" group-title="Infantiles",LA DAMA Y EL VAGABUNDO 2 (2001)
+http://www.spruto.tv/get_file/7/b6cec38caa4926fd50acc87313eea111/76000/76873/76873.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ice_Age_La_edad_de_hielo-845181535-main.jpg" group-title="Infantiles",LA ERA DE HIELO 1
+http://www.spruto.tv/get_file/7/a713f64d3b63c79115d0e02a192dd9bf/77000/77737/77737.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ice_Age_2_El_deshielo_La_edad_de_hielo_2-254684308-main.jpg" group-title="Infantiles",LA ERA DE HIELO 2
+http://www.spruto.tv/get_file/7/8573cad7f270185c42234f3f5e06c4b0/77000/77735/77735.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ice_Age_3_El_origen_de_los_dinosaurios_La_edad_de_hielo_3-898043670-main.jpg" group-title="Infantiles",LA ERA DE HIELO 3
+http://www.spruto.tv/get_file/7/b87164d9bdbeb605d4300439829b589f/77000/77736/77736.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ice_Age_4_La_formaci_n_de_los_continentes-510028565-main.jpg" group-title="Infantiles",LA ERA DE HIELO 4
+http://www.spruto.tv/get_file/7/208da846b2d5dc686ed2aa5d06544302/77000/77738/77738.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Merl_n_el_encantador-693477442-main.jpg" group-title="Infantiles",LA ESPADA EN LA PIEDRA (1963)
+http://www.spruto.tv/get_file/7/0c1534c3731701c8dcd90f7063606992/76000/76378/76378.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_extra_a_vida_de_Timothy_Green-146167681-main.jpg" group-title="Infantiles",LA EXTRAÑA VIDA DE TIMOTHY GREEN (2012)
+http://www.spruto.tv/get_file/7/9215f12aa0f00b8450d9706c9512c946/76000/76922/76922.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_familia_B_lier-877695557-main.jpg" group-title="Infantiles",LA FAMILIA BELIER
+http://www.spruto.tv/get_file/5/8482fe3ac7d43d34b62ea8a0f6732482/119000/119843/119843.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_ni_era_m_gica_y_el_Big_Bang-795752966-main.jpg" group-title="Infantiles",LA NANA MAGICA EL REGRESO
+http://www.spruto.tv/get_file/7/0f67ed0350d1b2f4c3afa785671ce999/78000/78190/78190.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_Princesa_Sof_a_rase_una_vez_una_princesa_TV-731224859-main.jpg" group-title="Infantiles",LA PRINCESA SOFIA: ERASE UNA VEZ UNA PRINCESA
+http://www.spruto.tv/get_file/5/593ab7a4e734a6ec09e5cabf06798aeb/110000/110201/110201.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_Princesa_Sof_a_El_palacio_flotante_TV-865992410-main.jpg" group-title="Infantiles",LA PRINCESA SOFIA: UN PALACIO EN EL AGUA
+http://www.spruto.tv/get_file/5/27ffbde5055018126b083d4eb4f2eb3a/110000/110203/110203.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Tiana_y_el_sapo-935976067-main.jpg" group-title="Infantiles",LA PRINCESA Y EL SAPO
+http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_sirenita-699486192-main.jpg" group-title="Infantiles",LA SIRENITA 1
+http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_origen_de_La_Sirenita-368864169-main.jpg" group-title="Infantiles",LA SIRENITA 2
+http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_origen_de_La_Sirenita-368864169-large.jpg"group-title="Infantiles",LA SIRENITA 3
+http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Las_cr_nicas_de_Narnia_el_le_n_la_bruja_y_el_armario-555349345-main.jpg" group-title="Infantiles",LAS CRÓNICAS DE NARNIA: EL LEÓN, LA BRUJA Y EL ROPERO (2005)
+http://www.spruto.tv/get_file/7/bbe04f4118794a31f6e03cbecbd34ad7/76000/76386/76386.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Las_cr_nicas_de_Narnia_El_pr_ncipe_Caspian-585404984-main.jpg" group-title="Infantiles",LAS CRÓNICAS DE NARNIA: EL PRÍNCIPE CASPIAN (2008)
+http://www.spruto.tv/get_file/7/479ec492938b34b34ed00054a2776609/76000/76382/76382.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Las_cr_nicas_de_Narnia_La_traves_a_del_viajero_del_alba-866227677-main.jpg" group-title="Infantiles",LAS CRÓNICAS DE NARNIA: LA TRAVESÍA DEL VIAJERO DEL ALBA (2010)
+http://www.spruto.tv/get_file/7/d8bc7b7578774daa3b847134376ea8d7/76000/76383/76383.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_emperador_y_sus_locuras_2_La_gran_aventura_de_Kronk-596932680-main.jpg" group-title="Infantiles",LAS LOCURAS DE KRONK (2005)
+http://www.spruto.tv/get_file/7/3e854dc9d928af0b58f22f6c81f84ce3/77000/77003/77003.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_emperador_y_sus_locuras-142181351-main.jpg" group-title="Infantiles",LAS LOCURAS DEL EMPERADOR (2000)
+http://www.spruto.tv/get_file/7/8b2099339f3a5d6f8db668f8a1132a7c/76000/76792/76792.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Lilo_Stitch-502239805-main.jpg" group-title="Infantiles",LILO Y STITCH (2002)
+http://www.spruto.tv/get_file/2/172ab92d9487c080db173b7fa1e3ee98/91000/91226/91226.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Lilo_Stitch_2_El_Efecto_del_Defecto-305385885-main.jpg" group-title="Infantiles",LILO Y STITCH: STITCH EN CORTOCIRCUITO (2005)
+http://www.spruto.tv/get_file/2/8fe3c08121daf61b773b16c3b70b97af/91000/91225/91225.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Lizzie_Superstar-350644084-main.jpg" group-title="Infantiles",LIZZIE MCGUIRE: ESTRELLA POP (2003)
+http://www.spruto.tv/get_file/7/61c9bf0d2477bd95b031e15644c168bf/76000/76876/76876.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Tierra_a_Eco-708382491-main.jpg" group-title="Infantiles",LLAMANDO A ECCO (2014)
+http://www.spruto.tv/get_file/2/ac49e9527a60134eeb9c01588bc43e8e/89000/89869/89869.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Los_aristogatos-112774950-main.jpg" group-title="Infantiles",LOS ARISTOGATOS (1970)
+http://www.spruto.tv/get_file/7/0a83dda0909283bafc9f79e6c19a3588/76000/76384/76384.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Cuento_de_navidad-729709184-main.jpg" group-title="Infantiles",LOS FANTASMAS DE SCROOGE (2009)
+http://www.spruto.tv/get_file/7/2e4d8a8abca3f5401be7e0de405e6280/76000/76385/76385.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Los_Minions-199956794-main.jpg" group-title="Infantiles",LOS MINIONS 2015
+http://www.spruto.tv/get_file/8/bfa94494494dce8d2d94a2ac17df3a7b/120000/120766/120766.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Los_tres_caballeros-427815233-main.jpg" group-title="Infantiles",LOS TRES CABALLEROS (1944)
+http://www.spruto.tv/get_file/7/fb250641fc32db7c7a4e99a1f25cc056/77000/77013/77013.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Marte_necesita_madres-559335689-main.jpg" group-title="Infantiles",MARTE NECESITA MAMÁS (2011)
+http://www.spruto.tv/get_file/7/1bcbea4a5db48c5fd04cf49499253a1d/76000/76390/76390.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Mary_Poppins-798780385-main.jpg" group-title="Infantiles",MARY POPPINS (1964)
+http://www.spruto.tv/get_file/7/a629e9cd77e9a366886615e0f888e906/76000/76391/76391.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Megamind-871453660-main.jpg" group-title="Infantiles",MEGAMENTE (2010)
+http://www.spruto.tv/get_file/7/b0ef3e0a64ba87a3110fd8424e9bc709/78000/78295/78295.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/The_Kid_El_chico-362283468-main.jpg" group-title="Infantiles",MI ENCUENTRO CONMIGO (2000)
+http://www.spruto.tv/get_file/7/805dd7c634e4991b70b423e9c88399bd/76000/76921/76921.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Spy_Kids_3D_Game_Over-625931003-main.jpg" group-title="Infantiles", MINI ESPIAS 3 FIN DEL JUEGO
+http://www.spruto.tv/get_file/7/f904242c746389fd3036e89e0f02e0c8/77000/77729/77729.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Spy_Kids_4_Todo_el_tiempo_del_mundo-558381529-main.jpg" group-title="Infantiles", MINI ESPIAS 4 Y LOS LADRONES DEL TIEMPO
+http://www.spruto.tv/get_file/7/ca962d0468cd8482991701edf96981ae/77000/77730/77730.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Monstruos_S_A-336355219-main.jpg" group-title="Infantiles",MONSTERS, INC. (2001)
+http://www.spruto.tv/get_file/7/3cd83fe45672db90a7710991cac0683c/76000/76395/76395.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Monstruos_University-197392649-main.jpg" group-title="Infantiles",MONSTERS UNIVERSITY (2013)
+http://www.spruto.tv/get_file/7/bc17b16a00111a562282b494f29b7e2a/76000/76393/76393.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Mulan-172161370-main.jpg" group-title="Infantiles",MULAN
+http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Mulan_2-675487583-main.jpg" group-title="Infantiles",MULÁN 2 (2004)
+http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Los_Muppets-380853491-main.jpg" group-title="Infantiles",MUPPETS (2011)
+http://www.spruto.tv/get_file/7/3b4a6c65b087cf486c356c4424b5f7b2/76000/76388/76388.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_tour_de_los_Muppets-101471990-main.jpg" group-title="Infantiles",MUPPETS 2: LOS MÁS BUSCADOS (2014)
+http://www.spruto.tv/get_file/1/da3b58cf27522afb88387d5238a468de/80000/80618/80618.mp4?start=0
+http://www.spruto.tv/get_file/7/83585a735411d99f79b3a370afe3a45c/76000/76799/76799.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Oz_un_mundo_de_fantas_a-291500260-main.jpg" group-title="Infantiles",OZ, EL PODEROSO (2013)
+http://www.spruto.tv/get_file/7/db736201c9f6d7131a120dae3e96308c/76000/76398/76398.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_alucinante_mundo_de_Norman-733761357-main.jpg" group-title="Infantiles",PARANORMAN (2012)
+http://www.spruto.tv/get_file/7/04884bf88a6dfc3d1700aae3281acb4c/78000/78201/78201.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Peter_Pan-321383627-main.jpg" group-title="Infantiles",PETER PAN (1953)
+http://www.spruto.tv/get_file/7/5ed3bad80bcafb940483a0e343703562/76000/76433/76433.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Peter_Pan_en_Regreso_al_pa_s_de_Nunca_Jam_s-679809106-main.jpg" group-title="Infantiles",PETER PAN 2: EL REGRESO AL PAÍS DE NUNCA JAMÁS (2002)
+http://www.spruto.tv/get_file/7/a57f10b08d7587fec9ad65f29bcb815b/76000/76434/76434.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Pocahontas-337434161-main.jpg" group-title="Infantiles",POCAHONTAS 1
+http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Pocahontas_2_Viaje_a_un_nuevo_mundo-480990509-main.jpg" group-title="Infantiles",POCAHONTAS 2
+http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Pok_mon_La_pel_cula-409878217-main.jpg" group-title="Infantiles", POKEMON LA PELICULA
+http://www.spruto.tv/get_file/5/c210540071556cb986030e20f2782671/117000/117055/117055.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Pok_mon_Mewtwo_El_regreso-821291284-main.jpg" group-title="Infantiles", POKEMON MEWTWO EL REGRESO
+http://www.spruto.tv/get_file/5/dc33a579cf7862835c68ee95cd251859/117000/117056/117056.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Basil_el_rat_n_superdetective-699298002-main.jpg" group-title="Infantiles",POLICÍAS Y RATONES (1986)
+http://www.spruto.tv/get_file/7/2a018bd097c4399f2e1c9d3e695064d8/77000/77007/77007.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/A_Rompe_Ralph-460872421-main.jpg" group-title="Infantiles",RALPH, EL DEMOLEDOR (2012)
+http://www.spruto.tv/get_file/7/3d5073c9faf1ed6b06ea8237a29c9202/76000/76668/76668.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ratatouille-828434562-main.jpg" group-title="Infantiles",RATATOUILLE (2007)
+http://www.spruto.tv/get_file/7/3ebbf4800829fcfba9d2b910966d22c1/76000/76669/76669.mp4?start=0
+http://www.spruto.tv/get_file/5/81a03f967e961563abacedd4ac410e8a/107000/107720/107720.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Locos_por_el_surf-560445018-main.jpg" group-title="Infantiles", REYES DE LAS OLAS
+http://www.spruto.tv/get_file/5/bcd00ea2dc87343a5e7c9efa408f98be/117000/117388/117388.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Saludos_Amigos-896468428-main.jpg" group-title="Infantiles",SALUDOS AMIGOS (1942)
+http://www.spruto.tv/get_file/7/fd7c2578af893c5d26c8f1d4ca00613a/76000/76935/76935.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/A_Vaya_Santa_Claus-544385994-main.jpg" group-title="Infantiles",SANTA CLAUSULA (1994)
+http://www.spruto.tv/get_file/7/f52929b1ec1e16818065e3d58861d3cb/76000/76993/76993.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Santa_Claus_2-644859636-main.jpg" group-title="Infantiles",SANTA CLÁUSULA 2 (2002)
+http://www.spruto.tv/get_file/7/de916c13a05b7512e1897ede2578e03a/76000/76994/76994.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Santa_Claus_3_Por_una_Navidad_sin_fr_o-526045317-main.jpg" group-title="Infantiles",SANTA CLÁUSULA 3 (2006)
+http://www.spruto.tv/get_file/7/24d3ec32beb4bba9d87197d9aea019c5/76000/76996/76996.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Santa_Paws_En_Busca_de_Santa_Can_TV-910464516-main.jpg" group-title="Infantiles",SANTA PAWS: EN BUSCA DE SANTA CLAUS (2010)
+http://www.spruto.tv/get_file/7/9a5524f21378ae0cd2576b56b4618809/76000/76752/76752.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Santa_Can_2_Los_cachorros_de_Santa_Can-154610561-main.jpg" group-title="Infantiles",SANTA PAWS 2: LOS CACHORROS DE SANTA (2012)
+http://www.spruto.tv/get_file/7/2cea72eb7ddf23d292eaf862d76af12e/76000/76715/76715.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Noche_en_el_museo-952091815-main.jpg" group-title="Infantiles", UNA NOCHE EN EL MUSEO 1
+http://www.spruto.tv/get_file/5/a2647bb5c64e9c190c1eec89b1ea7395/111000/111324/111324.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Noche_en_el_museo_2-170171230-main.jpg" group-title="Infantiles", UNA NOCHE EN EL MUSEO 2
+http://www.spruto.tv/get_file/5/59ece39ace2cff0b85c77c7e4539289c/111000/111327/111327.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Noche_en_el_museo_El_secreto_del_fara_n-847989492-main.jpg" group-title="Infantiles", UNA NOCHE EN EL MUSEO 3
+http://www.spruto.tv/get_file/2/1bb4e6aa6a6efc957d602a72b71f3bd3/102000/102864/102864.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Sky_High_escuela_de_altos_vuelos-866789624-main.jpg" group-title="Infantiles",SÚPER ESCUELA DE HÉROES (2005)
+http://www.spruto.tv/get_file/7/133a867893ecbf5f3f6b9bb0a3db6ad0/76000/76998/76998.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Tarz_n-404302704-main.jpg" group-title="Infantiles",TARZÁN (1999)
+http://www.spruto.tv/get_file/7/e0d1472e7206593d41bf24d0ebeb0276/76000/76671/76671.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Tarz_n_2-249130558-main.jpg" group-title="Infantiles",TARZÁN 2 (2005)
+http://www.spruto.tv/get_file/7/a8d34a6fe9a7f1e2e8007d130fc71302/76000/76858/76858.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Tarz_n_y_Jane-763959810-main.jpg" group-title="Infantiles",TARZÁN Y JANE (2002)
+http://www.spruto.tv/get_file/7/b64721eabcddc9f25b02e8fb69e1a0ed/78000/78289/78289.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Campanilla-530131982-main.jpg" group-title="Infantiles",TINKER BELL (2008)
+http://www.spruto.tv/get_file/7/6c8f9728d0c00f7a64ba9810d88b20b4/76000/76713/76713.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Campanilla_y_el_tesoro_perdido-470374467-main.jpg" group-title="Infantiles",TINKER BELL Y EL TESORO PERDIDO (2009)
+http://www.spruto.tv/get_file/7/71b87244efee571d729261758dc03e3c/76000/76714/76714.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Campanilla_y_el_gran_rescate-404158344-main.jpg" group-title="Infantiles",TINKER BELL, HADAS AL RESCATE (2010)
+http://www.spruto.tv/get_file/7/2cea72eb7ddf23d292eaf862d76af12e/76000/76715/76715.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Campanilla_hadas_y_piratas-769249086-main.jpg" group-title="Infantiles",TINKER BELL: HADAS Y PIRATAS (2014)
+http://www.spruto.tv/get_file/7/9e390dffb164b431ac8799b6c18b4478/77000/77221/77221.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Campanilla_El_secreto_de_las_hadas-456425049-main.jpg" group-title="Infantiles",TINKER BELL: EL SECRETO DE LAS HADAS (2012)
+http://www.spruto.tv/get_file/7/babe2a187cdab279ea4a463619eb7ca0/76000/76716/76716.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Campanilla_y_la_leyenda_de_la_bestia-507325899-main.jpg" group-title="Infantiles",TINKER BELL Y LA BESTIA DE NUNCA JAMÁS (2014)
+http://www.spruto.tv/get_file/2/c6ec3f842bd8a9bf40a3472c40d7fca8/101000/101836/101836.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Toy_Story-626273371-large.jpg" group-title="Infantiles",TOY STORY (1995)
+http://www.spruto.tv/get_file/7/4c846c5cab0d713e7f5e71ad21fb42e6/76000/76710/76710.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Toy_Story_2-506817944-large.jpg" group-title="Infantiles",TOY STORY 2 (1999)
+http://www.spruto.tv/get_file/7/7820069c62f027283fbf46bb7554ba3e/76000/76711/76711.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Toy_Story_3-282111123-large.jpg" group-title="Infantiles",TOY STORY 3 (2010)
+http://www.spruto.tv/get_file/7/5dc7235c1ffd3ae44fa5b8910d7fa68f/76000/76712/76712.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/TRON_Legacy-495421688-large.jpg" group-title="Infantiles",TRON: EL LEGADO (2010)
+http://www.spruto.tv/get_file/7/b423f014c2415802116bc91675438dfd/76000/76795/76795.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Hermano_oso-266150246-main.jpg" group-title="Infantiles",TIERRA DE OSOS (2003)
+http://www.spruto.tv/get_file/7/80a9cda70d717bb43db922748f83d8d1/76000/76672/76672.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Hermano_oso_2-318979533-main.jpg" group-title="Infantiles",TIERRA DE OSOS 2 (2006)
+http://www.spruto.tv/get_file/7/5ec2021b49bcd2e5bfeb34fddf1b5518/76000/76794/76794.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Un_chihuahua_en_Beverly_Hills-820724918-main.jpg" group-title="Infantiles",UNA CHIHUAHUA EN BEVERLY HILLS (2008)
+http://www.spruto.tv/get_file/7/6a0b314930fb67f6cb5a17cd0f7da5fc/76000/76754/76754.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Un_Chihuahua_en_Beverly_Hills_2-904883708-main.jpg" group-title="Infantiles",UNA CHIHUAHUA EN BEVERLY HILLS 2 (2011)
+http://www.spruto.tv/get_file/7/d0ef00b480c38a6e8f5f14090034d610/76000/76741/76741.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Beverly_Hills_Chihuahua_3_Viva_La_Fiesta-964044834-main.jpg" group-title="Infantiles",UNA CHIHUAHUA EN BEVERLY HILLS 3 (2012)
+http://www.spruto.tv/get_file/7/c2b194d2f3d8d25fa6ccf7da0d87f3df/76000/76742/76742.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Un_canguro_superduro-282912012-main.jpg" group-title="Infantiles",UNA NIÑERA A PRUEBA DE BALAS (2005)
+http://www.spruto.tv/get_file/7/0fe167f5c1f4c5af0fd192ba69deb99b/76000/76703/76703.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_chico_del_mill_n_de_d_lares-100173282-main.jpg" group-title="Infantiles",UN GOLPE DE TALENTO (2014)
+http://www.spruto.tv/get_file/1/33c9ff846b086894fff296005063e462/85000/85864/85864.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Cari_o_estoy_hecho_un_perro-411563817-main.jpg" group-title="Infantiles",UN PAPÁ CON POCAS PULGAS (2006)
+http://www.spruto.tv/get_file/7/5f48d099b11fefe20056a82b60a9098d/77000/77005/77005.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ponte_en_mi_lugar_Freaky_Friday-395026387-main.jpg" group-title="Infantiles",UN VIERNES DE LOCOS (2003)
+http://www.spruto.tv/get_file/7/c2ac666e9b2587f8a116587a1ae48ff5/76000/76706/76706.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Up-672315222-main.jpg" group-title="Infantiles",UP, UNA AVENTURA DE ALTURA (2009)
+http://www.spruto.tv/get_file/7/3a20e200ae63199bb7e5a657748c6b7d/76000/76707/76707.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Zafarrancho_en_el_rancho-764151137-main.jpg" group-title="Infantiles",VACAS VAQUERAS (2004)
+http://www.spruto.tv/get_file/7/7abde1fd1e4eea29db3c665442fccb0c/76000/76702/76702.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Brave_Indomable-916985175-main.jpg" group-title="Infantiles",VALIENTE
+http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Salvaje_The_Wild-562118497-large.jpg" group-title="Infantiles",VIDA SALVAJE (2006)
+http://www.spruto.tv/get_file/7/9dcc99ff19bf2fbd9c0dfd237a281508/76000/76701/76701.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Voluntad_de_hierro-878541227-main.jpg" group-title="Infantiles",VOLUNTAD DE HIERRO (1994)
+http://www.spruto.tv/get_file/7/66b445e7afbffcd49df5bd21d57497d8/76000/76925/76925.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/WALLa_E-973488527-main.jpg" group-title="Infantiles",WALL-E (2008)
+http://www.spruto.tv/get_file/7/603bb1ae3c8a48701013eb2b3e3a2e2f/76000/76708/76708.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Winx_Club_The_Mystery_of_the_Abyss-809670162-large.jpg" group-title="Infantiles", WINX CLUB: EL SECRETO DEL REINO PERDIDO
+http://www.spruto.tv/get_file/7/afdbd1582b6b3bc3961a9d1db283276f/77000/77710/77710.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Winnie_the_Pooh-264435005-main.jpg" group-title="Infantiles",WINNIE THE POOH (2011)
+http://www.spruto.tv/get_file/7/148dbac143eb6444faf01d38416b63ec/76000/76322/76322.mp4?start=0
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Winnie_the_Pooh_y_H_ffalump_en_Halloween_La_pel_cula-165826104-main.jpg" group-title="Infantiles",WINNIE POOH Y EL PEQUEÑO EFELANTE (2005)
+http://www.spruto.tv/get_file/7/5f64f7e77762730d535e03670710aada/76000/76323/76323.mp4?start=0
+#EXTINF:-1 tvg-logo="http://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/17839.jpg" group-title="Infantiles",Hotel Transylvania 2
+http://www.spruto.tv/get_file/4/86c790b8b8e740f1834ee06c81a67612/152000/152899/152899.mp4?start=0
+#EXTINF:-1 tvg-logo="http://revistaredcarpet.com/wp-content/uploads/2015/12/Carlitos-y-Snoopy-Cartel.jpg" group-title="Infantiles",Carlitos y snoopy
+http://www.spruto.tv/get_file/4/77e246c5c54af668b0af912f073d75e9/152000/152893/152893.mp4
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-VWzzGG0lmFs/VmH-wIsWd5I/AAAAAAAAON8/AbeT1UmWLLU/s1600/Captura.PNG" group-title="Infantiles",un gran dinosaurio
+http://www.spruto.tv/get_file/4/fb0f2ec4405420a3921556bfa9e4b4cf/152000/152904/152904.mp4
+#EXTINF:-1 tvg-logo="http://www.ecartelera.com/carteles/100/137/006_p.jpg" group-title="Infantiles",Pan un viaje a nunca jamas
+http://www.spruto.tv/get_file/4/8cb7648c0e5c1aff912266e72b6bbc56/152000/152070/152070.mp4
+#EXTINF:-1 tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_SX214_AL_.jpg"group-title="Infantiles",Home
+https://onedrive.live.com/download.aspx?resid=DDFDBBF15680E8E0!112&authkey=!ABenJqI3IzNanmk&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Las_aventuras_de_Peabody_y_Sherman-177817247-main.jpg" group-title="Infantiles",LAS AVENTURAS DE PEABODY Y SHERMAN (2014)
+http://www.spruto.tv/get_file/1/26fec5a68fa5949f41c5c20304963480/82000/82001/82001.mp4?start=0
+ 
+ 
+ 
+#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/http://img.pixfans.com/2013/07/Clich%C3%A9-Posters-5.jpg", Peliculas Drama
+http://127.0.0.1
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/En_el_coraz_n_del_mar-647149153-main.jpg" group-title="Drama",En el corazon del mar
+http://www.spruto.tv/get_file/4/7b4ee3be4e9198f87a766b972fc5a4ae/152000/152898/152898.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Un_paseo_por_las_nubes-243656334-main.jpg" group-title="Drama",Un paseo por las Nubes
+http://www.spruto.tv/get_file/4/8ab81fda04632a541158c312ee7712c9/151000/151654/151654.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_puente_de_los_esp_as-489906937-main.jpg" group-title="Drama",Bridge of Spies
+http://www.spruto.tv/get_file/4/8f476b97b440bfe9461d0b648eb79c86/153000/153193/153193.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_habitaci_n-432657938-main.jpg" group-title="Drama",La Habitacion
+http://www.spruto.tv/get_file/4/ded078fb5caf47b0ba9c9fe54ae5c596/152000/152900/152900.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Los_puentes_de_Madison-998728421-main.jpg" group-title="Drama",Los Puentes de Madison
+http://www.spruto.tv/get_file/4/c2f7f8f871cb7d37edad16ffea2e3595/151000/151626/151626.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/En_busca_de_la_felicidad-527305651-main.jpg" group-title="Drama",En busca de la felicidad
+http://www.spruto.tv/get_file/4/185f62a9c8640f7e4deb381ef505673a/151000/151610/151610.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Nunca_me_abandones-462941459-main.jpg" group-title="Drama",Nunca Me Abandones
+http://www.spruto.tv/get_file/4/b72f5ca5c5db0b3e57b398562d2ea4ae/148000/148684/148684.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Birdman_o_La_Inesperada_Virtud_de_la_Ignorancia-594952048-main.jpg" group-title="Drama",Birdman
+https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!128&authkey=!AAwSV_Y3StoXnJo&ithint=file%2cmp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_dictadura_perfecta-995719025-main.jpg" group-title="Drama",La dictadura Perfecta
+http://www.spruto.tv/get_file/2/588e561ff46cf4866914b732c8ad294b/105000/105729/105729.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Obsesi_n-419080324-main.jpg" group-title="Drama",Cercana Obsecion
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!115&authkey=!AFcURIAaITWRrGI&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_amanecer_del_planeta_de_los_simios-766600891-main.jpg" group-title="ACCION",El Amanecer del Planeta de los simios
+http://www.spruto.tv/get_file/1/1b8634191d3bf7b4722550f8f1ee8d71/88000/88461/88461.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Gigantes_hacia_la_victoria-477537975-main.jpg" group-title="Drama",Los Gigantes
+http://www.spruto.tv/get_file/5/2387d984a31a9586976810fe50b03e9b/138000/138149/138149.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_ni_o_44-181709090-main.jpg" group-title="Drama",El niño 44
+http://www.spruto.tv/get_file/6/1a87dde749528fb334c344a7048eba2e/125000/125414/125414.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Tuya-306981297-main.jpg" group-title="Drama",Tuya
+http://www.spruto.tv/get_file/6/6ad1f7ede355ff9f6d7b6b676e87493e/133000/133559/133559.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_maestro_del_agua-657397070-main.jpg" group-title="Drama",El maestro del agua
+http://www.spruto.tv/get_file/5/71ee3968fd1b0480ad4c904aab7273a8/109000/109036/109036.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_lobo_de_Wall_Street-675195906-main.jpg" group-title="Drama",El Lobo de Wall Street
+http://www.spruto.tv/get_file/6/71e6f0d85c4ae2e51bfe98e1bdd3bb72/133000/133419/133419.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Brokeback_Mountain_En_terreno_vedado-409244136-main.jpg" group-title="Drama",El secreto de la Montaña
+http://www.spruto.tv/get_file/6/6d68531520cc567cf7d7af458e7d7597/131000/131270/131270.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_proposici_n-448019495-main.jpg" group-title="Drama",La Propuesta
+http://www.spruto.tv/get_file/6/7e38f3d2770fb91a8d5780f44ca243a2/131000/131253/131253.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_pasi_n_de_Cristo-211498441-main.jpg" group-title="Drama",La Pasin de cristo
+http://www.spruto.tv/get_file/6/b1ebdebbd9a295cb8f4e8203148416ff/131000/131252/131252.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_efecto_mariposa-524611973-main.jpg" group-title="Drama",El efecto Mariposa
+http://www.spruto.tv/get_file/6/357f13d504c61e42046fd2078688eefb/129000/129255/129255.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_aviador-398480570-main.jpg" group-title="Drama",El Aviador
+http://www.spruto.tv/get_file/6/db767927dabb882ffb7a1192c006b731/129000/129252/129252.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Intocable-218166359-main.jpg" group-title="Drama",The Intouchables
+http://www.spruto.tv/get_file/2/cac1632c13cdd6158a88117ad83b8306/153000/153938/153938.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_secreto_de_Adaline-258365000-main.jpg" group-title="Drama",The Age of Adaline
+http://www.spruto.tv/get_file/6/f2a69dea0c697c6fad7b987f10b54e71/129000/129480/129480.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/M_s_all_de_los_sue_os-870027388-main.jpg" group-title="Drama",Mas alla de los sueños
+http://www.spruto.tv/get_file/6/62b926571397a84050d4c4c9c55f63f9/128000/128466/128466.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Jenny_s_Wedding-100708410-main.jpg" group-title="Drama", Jenny's Wedding
+http://www.spruto.tv/get_file/6/a27e00471b267e64311fd14e1205d1c5/128000/128849/128849.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Orgullo_y_prejuicio-967283571-main.jpg" group-title="Drama", Orgullo Y prejuicio
+http://www.spruto.tv/get_file/6/802f2466d82b20b1e5ccaeec42a26007/126000/126152/126152.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_vida_es_bella-646167341-main.jpg" group-title="Drama",La vida es bella
+http://www.spruto.tv/get_file/4/9c236eb97f0518f8d87e9a0cccb24ec0/125000/125646/125646.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Jack_Reacher-556972936-main.jpg" group-title="Drama", Jack Reacher
+http://www.spruto.tv/get_file/4/c4ed613725803deb9fcbc9d340d2ec2e/125000/125639/125639.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Posdata_Te_quiero-191794084-main.jpg" group-title="Drama",Posdata te amo
+http://www.spruto.tv/get_file/1/50ba0104ccf54b3b8490eaea316e5302/87000/87075/87075.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_lista_de_Schindler-473662617-main.jpg" group-title="Drama",La lista de Shindler
+http://www.spruto.tv/get_file/8/96a240a0d3758789b9c9e2027c6f2005/123000/123799/123799.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_vuelo_Flight-730948196-main.jpg" group-title="Drama",El vuelo
+http://www.spruto.tv/get_file/8/31b1b0eea0aa29666e7ece4f271643f6/123000/123771/123771.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Una_mente_maravillosa-636974393-main.jpg" group-title="Drama",Una mente brillante
+http://www.spruto.tv/get_file/8/1f69bec971bd6a8d83d431c811f12087/122000/122716/122716.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_corcel_negro-211203669-main.jpg" group-title="Drama",El corcel Negro
+http://www.spruto.tv/get_file/8/2963deae08656173e60193a9ce849a1f/122000/122681/122681.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Billy_Elliot_Quiero_bailar-819480460-main.jpg" group-title="Drama",Billy Elliot
+http://www.spruto.tv/get_file/8/e6af8e85f05985ef6eaca7fa309922ec/122000/122665/122665.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Siete_almas_Seven_Pounds-470111904-main.jpg" group-title="Drama",siete almas
+http://www.spruto.tv/get_file/8/9f2eede342ced753a139a8b420c8d291/121000/121866/121866.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Peso_pesado-709898076-main.jpg" group-title="Comedia",Peso Pesado
+http://www.spruto.tv/get_file/8/777a31226cb64b3f6dd032e0202c6a4c/121000/121860/121860.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/M_s_all_del_tiempo-260366022-main.jpg" group-title="Drama",Mas Alla del Tiempo
+http://www.spruto.tv/get_file/8/71b05c4cafb80d7a60243276ba9f4a22/121000/121856/121856.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Ciudad_de_Dios-534458763-main.jpg" group-title="Drama",Ciudad de Dios
+http://www.spruto.tv/get_file/8/a6892dc42d145bdcc5e325d7f2d6ed9d/121000/121811/121811.mp4
+#ExTINF:-1 tvg-logo="http://pics.filmaffinity.com/127_horas-846868462-main.jpg" group-title="Drama",127 horas
+http://www.spruto.tv/get_file/8/8e1614d6049ce05a64dc39e046ee3e0c/121000/121795/121795.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_cielo_es_real-550571574-main.jpg" group-title="Drama",El cielo es real
+http://www.spruto.tv/get_file/8/877362744a114aa28101d451829e8615/120000/120490/120490.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Enemigo_a_las_puertas-479537758-main.jpg" group-title="Drama",Enemigo a las puertas
+http://www.spruto.tv/get_file/5/cffff555318dcbf68a36eee735eb3a12/117000/117309/117309.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_ex_tico_Hotel_Marigold-135587441-main.jpg" group-title="Drama",Hotel Marigol
+http://www.spruto.tv/get_file/5/9afa9af3db329159c8aa4427bd193fc7/117000/117003/117003.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_batalla_por_Sebastopol-497422607-main.jpg" group-title="Drama",La Batalla de sebastopol
+http://www.spruto.tv/get_file/5/c0d9880b9483f3334f076124630aba67/114000/114461/114461.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Flicka-268743478-main.jpg" group-title="Drama",Flicka
+http://www.spruto.tv/get_file/7/141bb08a6ae93ebd349cb42ddfcd7ced/77000/77233/77233.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Flicka_2-466474984-main.jpg" group-title="Drama",Flicka 2
+http://www.spruto.tv/get_file/7/1a18324fd810ef159ea9b3c46a5773d8/77000/77234/77234.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Flicka_3-205545638-main.jpg" group-title="Drama",Flicka 3
+http://www.spruto.tv/get_file/7/b6789e70e9fde412600188ce821fec8f/77000/77235/77235.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_diario_de_Noa-565006977-main.jpg" group-title="Drama",Diario de una Pasion
+http://www.spruto.tv/get_file/5/097652a70a1a57b1aa572bbb5cebf901/112000/112530/112530.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/La_teor_a_del_todo-567835219-main.jpg" group-title="Drama",La teoria del Todo
+http://www.spruto.tv/get_file/2/3bdfd18dbf8ef16647e9a4389b866196/101000/101796/101796.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/No-121053727-main.jpg" group-title="Drama",Noe
+http://www.spruto.tv/get_file/5/dc5332c7ce7189f6a892ac49198ee732/108000/108265/108265.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Siete_a_os_en_el_T_bet-411757658-main.jpg" group-title="Drama",Siete años en el Tíbet
+http://www.spruto.tv/get_file/5/8321eec75936e22b0f894f38c51bb82c/106000/106842/106842.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Caballo_de_batalla-925261133-main.jpg" group-title="Drama",Caballo de Guerra
+http://www.spruto.tv/get_file/2/7c8e65bc1c15c883781f51867ed12a0f/102000/102853/102853.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Eduardo_Manostijeras-864940944-main.jpg" group-title="Drama",El Joven Manos de Tijeras
+http://www.spruto.tv/get_file/1/dd965af56cd8cb3e229c027bdf7f5275/88000/88369/88369.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_hombre_bicentenario-582339231-main.jpg" group-title="Drama",El Hombre Bicentenario
+http://www.spruto.tv/get_file/2/1e5034671c400fe3661b25dd25f19d7b/99000/99193/99193.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Mi_chica-539660141-main.jpg" group-title="Drama",Mi primer Beso
+http://www.spruto.tv/get_file/2/d95d8a6ecf9c854ba72c544d9e06cd29/96000/96938/96938.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/The_Lovely_Bones-988951905-main.jpg" group-title="Drama",Desde mi cielo
+http://www.spruto.tv/get_file/2/a13da1182091c0b238f9555719cbf7ca/97000/97023/97023.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Siempre_a_mi_lado-353797573-main.jpg" group-title="Drama",Mas alla del cielo
+http://www.spruto.tv/get_file/2/e563b04ea007dcc955169a7b528461de/92000/92558/92558.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Un_mundo_perfecto-335283977-main.jpg" group-title="Drama",Mundo Perfecto
+http://www.spruto.tv/get_file/2/b44de543abe098cefb9b75885dfb21b0/97000/97916/97916.mp4"
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/Cantinflas-188003398-main.jpg" group-title="Drama",Cantinflas
+http://www.spruto.tv/get_file/2/af387f0ff295072a5d9aa7b0e270f0db/90000/90593/90593.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/The_Giver-188524254-main.jpg" group-title="Drama",El dador de Recuerdos
+http://www.spruto.tv/get_file/1/91761f00b977aafcab89e0711c3b4148/87000/87791/87791.mp4
+#EXTINF:-1 tvg-logo="http://pics.filmaffinity.com/El_chico_del_mill_n_de_d_lares-100173282-main.jpg" group-title="Drama",El Chico del Millón de Dólares
+http://www.spruto.tv/get_file/1/72a27a923aace33741546476b6e57910/87000/87789/87789.mp4
