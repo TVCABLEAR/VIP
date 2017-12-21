@@ -1,26 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1,CANAL +00
-http://5g.iptvmanagerpro.com/stream_00_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8
-#EXTINF:-1,CANAL +01
-http://5g.iptvmanagerpro.com/stream_01_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8
-#EXTINF:-1,CANAL +02
-http://5g.iptvmanagerpro.com/stream_02_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8
-#EXTINF:-1,CANAL +03
-http://5g.iptvmanagerpro.com/stream_03_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8
-#EXTINF:-1,CANAL +04
-http://5g.iptvmanagerpro.com/stream_04_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8
-#EXTINF:-1,CANAL +05
-http://5g.iptvmanagerpro.com/stream_05_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8
-#EXTINF:-1,CANAL +06
-http://5g.iptvmanagerpro.com/stream_06_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8
-#EXTINF:-1,CANAL +07
-http://5g.iptvmanagerpro.com/stream_07_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8
-#EXTINF:-1,CANAL +08
-http://5g.iptvmanagerpro.com/stream_08_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8
-#EXTINF:-1,CANAL +09
-http://5g.iptvmanagerpro.com/stream_09_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8
+
 
 #EXTINF:-1, +10 MTV
 http://5g.iptvmanagerpro.com/stream_10_e3a320fabf0d2b5452f58a4e7cbb4e8c_1509571757.m3u8
