@@ -1,12 +1,17 @@
 #EXTM3U
 
-
+#EXTINF:0 tvg-logo="https://goo.gl/Kwx36x", UN DESEO PARA NAVIDAD
+https://www.youtube.com/watch?v=TgGAS0H3nqM
 #EXTINF:0 tvg-logo="https://goo.gl/Kwx36x", LA CASA OSCURA
 https://www.youtube.com/watch?v=52gp_8B4bcc
 #EXTINF:0 tvg-logo="https://goo.gl/Kwx36x", SOLO AMIGOS
 https://www.youtube.com/watch?v=_VGorr31yAw
+#EXTINF:0 tvg-logo="https://goo.gl/Kwx36x", LA TEORIA DEL PATAN
+https://www.youtube.com/watch?v=L2agLgYRJa0
 #EXTINF:0 tvg-logo="https://goo.gl/Kwx36x", EL NOVIO DE MI NOVIA
 https://www.youtube.com/watch?v=u_K8NNte068
+#EXTINF:0 tvg-logo="https://goo.gl/Kwx36x", CHALK IT UP
+https://www.youtube.com/watch?v=Uv06rXpIPa0
 #EXTINF:0 tvg-logo="https://goo.gl/Kwx36x", EVITANDO EL AMOR
 https://www.youtube.com/watch?v=bNMUiJM3524
 #EXTINF:0 tvg-logo="https://goo.gl/Kwx36x", LAS NOVIAS DE MIS AMIGOS
