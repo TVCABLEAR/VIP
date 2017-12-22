@@ -39,7 +39,7 @@ http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="DEPORTES", CDO Premium
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
-**************************super deporte************************************
+
 #EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0032_fox_sports.png", group-title="DEPORTES",FOX SPORTS HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0032_fox_sports.png", group-title="DEPORTES",FOX SPORTS HD 720
@@ -52,7 +52,7 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/Str
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png", group-title="DEPORTES",FOX_SPORTS3_HD 720
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(02)/index.m3u8
-8
+
 #EXTINF:-1 tvg-logo="http://www.golfchannel-la.com/wp-content/themes/golfchannel/images/assests/logo-golf.png", group-title="DEPORTES",GOLF_CHANNEL_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLF_CHANNEL_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.golfchannel-la.com/wp-content/themes/golfchannel/images/assests/logo-golf.png", group-title="DEPORTES",GOLF_CHANNEL_HD 720
@@ -74,7 +74,7 @@ http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
  
  
- #EXTINF:-1 tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="DEPORTES",ESPN 2 HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="DEPORTES",ESPN 2 HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/Stream(01)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MALrAFv.png" group-title="DEPORTES",ESPN 3 HD
@@ -94,7 +94,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.cdo.tv/senal-premium/img/logo.png" group-title="DEPORTES", CDO
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
- #EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/us/NFL_NOW.png" group-title="DEPORTES",NFL Now
+#EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/us/NFL_NOW.png" group-title="DEPORTES",NFL Now
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.bleacherreport.net/images/team_logos/328x328/ufc.png" group-title="DEPORTES",UFC Japones
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
@@ -102,89 +102,88 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://www.sportsnet.com.tr/img/logo_sportstv_large.png" group-title="DEPORTES",Sports Tv
 http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
-#EXTINF:0, ESPN_HD
+#EXTINF:-1 group-title="DEPORTES", ESPN_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/index.m3u8
-#EXTINF:0, tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="DEPORTES", ESPN 2 HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6FLVrA9.png" group-title="DEPORTES", ESPN 2 HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/index.m3u8
-#EXTINF:0, ESPN_3_HD
+#EXTINF:-1 group-title="DEPORTES", ESPN_3_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/index.m3u8
-#EXTINF:0, FOX SPORTS HD
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
-#EXTINF:0, FOX_SPORTS 2 HD
+#EXTINF:-1 group-title="DEPORTES", FOX_SPORTS 2 HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
-#EXTINF:0, FOX_SPORTS3_HD
+#EXTINF:-1 group-title="DEPORTES", FOX_SPORTS3_HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8
-#EXTINF:0, CLARO_SPORTS
+#EXTINF:-1 group-title="DEPORTES", CLARO_SPORTS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_SPORTS_LATAM_HD)/index.m3u8
  
  
 
  
-#EXTINF:-1,ES: FOX SPORTS 2
+#EXTINF:-1 group-title="DEPORTES", ES: FOX SPORTS 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,ES: FOX SPORTS
+#EXTINF:-1 group-title="DEPORTES", ES: FOX SPORTS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 group-title="DEPORTES", ESPN 2
 http://gratis1.iptvcanales.com/~hstkgjrb/redirect/data/J02/35.m3u8
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 group-title="DEPORTES", ESPN 3
 http://gratis1.iptvcanales.com/~hstkgjrb/redirect/data/J02/36.m3u8
-#EXTINF:-1,Fox Sports
+#EXTINF:-1 group-title="DEPORTES", Fox Sports
 http://gratis1.iptvcanales.com/~hstkgjrb/redirect/data/J02/52.m3u8
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1 group-title="DEPORTES", Fox Sports 2
 http://gratis1.iptvcanales.com/~hstkgjrb/redirect/data/J02/53.m3u8
-#EXTINF:-1,Fox Sports Premium
+#EXTINF:-1 group-title="DEPORTES", Fox Sports Premium
 http://gratis1.iptvcanales.com/~hstkgjrb/redirect/data/J02/512.m3u8
  
- #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title=“Rosario-IpTv”, Abu Dhabi Sports 2
+ #EXTINF:-1 tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title=“DEPORTES”, Abu Dhabi Sports 2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
  
-#EXTINF:-1,CDF DEPORTES
+#EXTINF:-1 group-title="DEPORTES", CDF DEPORTES
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w863306607.m3u8
-#EXTINF:-1,CDF DEPORTES EN VIVO
+#EXTINF:-1 group-title="DEPORTES", CDF DEPORTES EN VIVO
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
  
 
  
-#EXTINF:-1,DXTV DEPORTES ARG
+#EXTINF:-1 group-title="DEPORTES", DXTV DEPORTES ARG
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1822467358_b800000_slesp.m3u8
  
-#EXTINF:-1,DEPORTV ARGENTINA
+#EXTINF:-1 group-title="DEPORTES", DEPORTV ARGENTINA
 http://186.33.227.200/DXTV/smil:DXTV.smil/chunklist_w222748973_b800000_slesp.m3u8
  
-#EXTINF:-1,MLB LATINO
+#EXTINF:-1 group-title="DEPORTES", MLB LATINO
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
  
-#EXTINF:-1 group-title="sky" tvg-logo="http://i65.tinypic.com/x6g3kw.png",FOX 3
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://i65.tinypic.com/x6g3kw.png",FOX 3
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="sky" tvg-logo="http://i65.tinypic.com/x6g3kw.png",ESPN HD
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://i65.tinypic.com/x6g3kw.png",ESPN HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="sky" tvg-logo="http://i65.tinypic.com/x6g3kw.png",ESPN 2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://i65.tinypic.com/x6g3kw.png",ESPN 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="sky" tvg-logo="http://i65.tinypic.com/x6g3kw.png",FOX SPORT
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://i65.tinypic.com/x6g3kw.png",FOX SPORT
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
-#EXTINF:-1 group-title="sky" tvg-logo="http://i65.tinypic.com/x6g3kw.png",CABLE ONDA
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://i65.tinypic.com/x6g3kw.png",CABLE ONDA
 http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
 #EXTINF:-1 group-title="sky" tvg-logo="http://i65.tinypic.com/x6g3kw.png",ESPN 3
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="sky" tvg-logo="http://i65.tinypic.com/x6g3kw.png",FOX2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://i65.tinypic.com/x6g3kw.png",FOX2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
  
-#EXTINF:-1 group-title="sky" tvg-logo="http://i65.tinypic.com/x6g3kw.png",TELETRACK DEPORTES
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://i65.tinypic.com/x6g3kw.png",TELETRACK DEPORTES
 http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8?iptvgratis?chile.m3u8
  
 
  
  
-#EXTINF:-1,EL PINGUINO TV
+#EXTINF:-1 group-title="DEPORTES" ,EL PINGUINO TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1,Todo Deportes Honduras
+#EXTINF:-1 group-title="DEPORTES",Todo Deportes Honduras
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
  
  
  
-
-#EXTINF:-1 group-title="sky" tvg-logo="http://i65.tinypic.com/x6g3kw.png",real madrid
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="http://i65.tinypic.com/x6g3kw.png",real madrid
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
 
  
@@ -205,40 +204,40 @@ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/Stream(0
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/qXuM4hT.png" group-title="DEPORTES",Fox Sports
  
-#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/E1P/E1P_425x243.png"group-title=“Rosario-IpTv”, CHELSEA
+#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/E1P/E1P_425x243.png"group-title=“DEPORTES”, CHELSEA
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
  
  
  
-#EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/8e49c2_81abefc1f065440fb44306391fe6f9a3%7Emv2.png" group-title=“Rosario-IpTv”, COS
+#EXTINF:-1 tvg-logo="http://static.wixstatic.com/media/8e49c2_81abefc1f065440fb44306391fe6f9a3%7Emv2.png" group-title=“DEPORTES”, COS
 http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-360p/chunks.m3u8
  
  
-#EXTINF:-1 tvg-logo="http://www.medcom.com.pa/site/assets/files/1265/cos_fc.200x200.jpg" group-title=“Rosario-IpTv”, COS FC
+#EXTINF:-1 tvg-logo="http://www.medcom.com.pa/site/assets/files/1265/cos_fc.200x200.jpg" group-title=“DEPORTES”, COS FC
 http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-360p/chunks.m3u8
  
 
  
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/ESPN-3.png" group-title=“Rosario-IpTv”,,ESPN 3
+#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/ESPN-3.png" group-title=“DEPORTES”,,ESPN 3
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/Stream(01)/index.m3u8
  
  
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title=“Rosario-IpTv”,Fox Sports
+#EXTINF:-1 tvg-logo="http://i.imgur.com/VtTCCOj.png" group-title=“DEPORTES”,Fox Sports
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/Stream(01)/index.m3u8
  
 
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/7G8sksK.png" group-title=“Rosario-IpTv”, Fox Sports 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/7G8sksK.png" group-title=“DEPORTES”, Fox Sports 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/Stream(01)/index.m3u8
  
-#EXTINF:-1 group-title=group-title=“Rosario-IpTv”, FOX SPORTS2 HD
+#EXTINF:-1 group-title=group-title=“DEPORTES”, FOX SPORTS2 HD
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
  
 
  
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tsBxDxY.png" group-title=“Rosario-IpTv”, Fox Sports 3
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tsBxDxY.png" group-title=“DEPORTES”, Fox Sports 3
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_09/thumb.59b567df3dae4_Telecaribe2017.png.c1292098a94c25dcf3ea7c0163d11eae.png" group-title="DEPORTES",Telecaribe Deportes HD 2
 https://w4.cdn.anvato.net/live/ephemeral/8JN6lx09T0YgECY5CbJZ6zuYEzVblvPG/telecaribedeporteshd2/1864k/index.m3u8
@@ -265,20 +264,20 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/380px-Pac-12_logo.svg.png" group-title="DEPORTES",Pac 12 Arizona
  
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title=“Rosario-IpTv”,Fox Sports mx
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title=“DEPORTES”,Fox Sports mx
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
  
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title=“Rosario-IpTv”,Fox Sports 3 Mexico
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title=“DEPORTES”,Fox Sports 3 Mexico
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/494533392222781441/RywSlVYS_400x400.png" group-title=“Rosario-IpTv”, Porto Canal
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/494533392222781441/RywSlVYS_400x400.png" group-title=“DEPORTES”, Porto Canal
 http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/TbJa96g.png" group-title=“Rosario-IpTv”,",Teletrak
+#EXTINF:-1 tvg-logo="http://i.imgur.com/TbJa96g.png" group-title=“DEPORTES”,",Teletrak
 http://edge1.cl.grupoz.cl/teletrakmovil/smil:mobile.smil/chunklist_w424394273_b750000_slesp.m3u8
  
-#EXTINF:-1 tvg-logo="http://i.imgur.com/p7DAIKG.png" group-title=“Rosario-IpTv”, TODO DEPORTES
+#EXTINF:-1 tvg-logo="http://i.imgur.com/p7DAIKG.png" group-title=“DEPORTES”, TODO DEPORTES
 http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
  
 
@@ -353,53 +352,53 @@ http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-4
  
  
  
-#EXTINF:-1,FOX SPORT
+#EXTINF:-1 group-title="DEPORTES", FOX SPORT
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
-#EXTINF:-1,FOX SPORT 2
+#EXTINF:-1 group-title="DEPORTES", FOX SPORT 2
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
-#EXTINF:-1,FOX SPORT 3
+#EXTINF:-1 group-title="DEPORTES", FOX SPORT 3
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8
- 
+#EXTINF:-1 group-title="DEPORTES", CLARO SPORTS
 http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_SPORTS_LATAM_HD)/Stream(01)/index.m3u8
-#EXTINF:-1,J SPORT 1
+#EXTINF:-1 group-title="DEPORTES", J SPORT 1
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs05.stream/playlist.m3u8
-#EXTINF:-1,J SPORT 2
+#EXTINF:-1 group-title="DEPORTES", J SPORT 2
 http://cdn-usa1-streaming.ani-box.com:1935/live/cs06.stream/playlist.m3u8
 
  
-#EXTINF:-1,CDF cl
+#EXTINF:-1 group-title="DEPORTES", CDF cl
 http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w789325521.m3u8
  
  
-#EXTINF:-1 group-title= group-title=“Rosario-IpTv”,CHELSEA Tv
+#EXTINF:-1 group-title= group-title=“DEPORTES”,CHELSEA Tv
 http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
 
-#EXTINF:-1 group-title= group-title=“Rosario-IpTv”,NFL
+#EXTINF:-1 group-title= group-title=“DEPORTES”,NFL
 https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
 
-#EXTINF:-1,VIP | FR beINSport 3
+#EXTINF:-1 group-title="DEPORTES", FR BEIN SPORTS 3
 http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/1090.ts
-#EXTINF:-1,USA | ESPN
+#EXTINF:-1 group-title="DEPORTES", USA - ESPN
 http://viprestream.loginto.me:25461/live/worldstrm/Wtl5n6AJrv/698.ts
-#EXTINF:0,ESPN BRASIL
+#EXTINF:-1 group-title="DEPORTES", ESPN BRASIL
 http://67.21.76.99:8080/TV1299
-#EXTINF:-1,beIN Sports 3 HD
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 3 HD
 http://163.172.19.242:80/live/555555555/555555555/1037.ts
-#EXTINF:-1,beIN Sports 4 HD
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 4 HD
 http://163.172.19.242:80/live/555555555/555555555/1038.ts
-#EXTINF:-1,beIN Sports 5 HD
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 5 HD
 http://163.172.19.242:80/live/555555555/555555555/1039.ts
-#EXTINF:-1,beIN Sports 6 HD
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 6 HD
 http://163.172.19.242:80/live/555555555/555555555/1040.ts
-#EXTINF:-1,beIN Sports 7 HD
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 7 HD
 http://163.172.19.242:80/live/555555555/555555555/1041.ts
-#EXTINF:-1,beIN Sports 8 HD
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 8 HD
 http://163.172.19.242:80/live/555555555/555555555/1042.ts
-#EXTINF:-1,beIN Sports 9 HD
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 9 HD
 http://163.172.19.242:80/live/555555555/555555555/1043.ts
-#EXTINF:-1,beIN Sports 10 HD
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 10 HD
 http://163.172.19.242:80/live/555555555/555555555/1044.ts
-#EXTINF:-1,beIN Sports 11 HD eng
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 11 HD eng
 http://163.172.19.242:80/live/555555555/555555555/1045.ts
-#EXTINF:-1,beIN Sports 12 HD eng
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS 12 HD eng
 http://163.172.19.242:80/live/555555555/555555555/1046.ts
