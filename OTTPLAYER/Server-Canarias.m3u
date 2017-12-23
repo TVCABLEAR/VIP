@@ -1,0 +1,1546 @@
+#EXTM3U
+
+#EXTM3U
+
+
+
+
+#EXTINF:-1, Wapa
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535532/index_150_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1, Los Simpsons 24/7
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8
+#EXTINF:-1, Los Simpsons Random
+http://stream.latino-webtv.com/series/simpsons.mp4
+#EXTINF:-1, NICKELODEONHD
+http://163.172.52.83:8000/live/59hkV7fNS2U/21g2yiAUkP4/184.m3u8
+#EXTINF:-1, WIPR TV
+http://api.new.livestream.com/accounts/16550960/events/4589741/live.m3u8 
+#EXTINF:-1, ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_2500_av-p.m3u8
+#EXTINF:-1,Univision
+http://tv.ultraplay.ml:8000/live/david/david/4679.ts
+#EXTINF:-1,Univision Deportes
+http://tv.ultraplay.ml:8000/live/david/david/4678.ts
+#EXTINF:-1,Univision HD
+http://tv.ultraplay.ml:8000/live/david/david/4234.ts
+#EXTINF:-1,Univision TDN
+http://tv.ultraplay.ml:8000/live/david/david/4494.ts
+#EXTINF:-1,UnvisionTDN HD
+http://tv.ultraplay.ml:8000/live/david/david/4677.ts
+#EXTINF:-1,Telemundo
+http://tv.ultraplay.ml:8000/live/david/david/4694.ts
+#EXTINF:-1,Telemundo HD
+http://tv.ultraplay.ml:8000/live/david/david/4233.ts
+#EXTINF:-1,Telemundo Internacional
+http://tv.ultraplay.ml:8000/live/david/david/4693.ts
+#EXTINF:-1,Disney Junior
+http://2.15.79.67:9985/play/a049
+#EXTINF:-1,Anime Tv
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+
+
+#EXTINF:-1,Fox Sports 2 HD
+http://tv.ultraplay.ml:8000/live/david/david/5054.ts
+
+#EXTINF:-1,FOX Deportes
+http://tv.ultraplay.ml:8000/live/david/david/4744.ts
+#EXTINF:-1,FOX SPORTS 2 SUR
+http://tv.ultraplay.ml:8000/live/david/david/4478.ts
+#EXTINF:-1,FOX SPORTS 3 SUR
+http://tv.ultraplay.ml:8000/live/david/david/4479.ts
+#EXTINF:-1,Fox Sports Mexico
+http://tv.ultraplay.ml:8000/live/david/david/1909.ts
+#EXTINF:-1,FOX SPORTS SUR
+http://tv.ultraplay.ml:8000/live/david/david/4480.ts
+#EXTINF:-1,TNT SPORTS FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6997.ts
+
+#EXTINF:-1,ESPN 2
+http://tv.ultraplay.ml:8000/live/david/david/3729.ts
+#EXTINF:-1,ESPN 2 Sur
+http://tv.ultraplay.ml:8000/live/david/david/4509.ts
+#EXTINF:-1,ESPN 3
+http://tv.ultraplay.ml:8000/live/david/david/3730.ts
+#EXTINF:-1,ESPN 3 HD Sur
+http://tv.ultraplay.ml:8000/live/david/david/4510.ts
+#EXTINF:-1,ESPN HD
+http://tv.ultraplay.ml:8000/live/david/david/3731.ts
+#EXTINF:-1,ESPN Sur
+http://tv.ultraplay.ml:8000/live/david/david/4508.ts
+#EXTINF:-1,ESPN Plus
+http://tv.ultraplay.ml:8000/live/david/david/4753.ts
+#EXTINF:-1,UFC-FSN NETWORK
+http://tv.ultraplay.ml:8000/live/david/david/4493.ts
+#EXTINF:-1,Directv Sports
+http://tv.ultraplay.ml:8000/live/david/david/4438.ts
+#EXTINF:-1,CNT Sports HD
+http://tv.ultraplay.ml:8000/live/david/david/6764.ts
+#EXTINF:-1,VTV HD
+http://tv.ultraplay.ml:8000/live/david/david/4473.ts
+#EXTINF:-1,A&E FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6992.ts
+#EXTINF:-1,A&E HD.
+http://tv.ultraplay.ml:8000/live/david/david/5868.ts
+#EXTINF:-1,AMC FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6957.ts
+#EXTINF:-1,AMC HD.
+http://tv.ultraplay.ml:8000/live/david/david/5850.ts
+#EXTINF:-1,AXN FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6990.ts
+#EXTINF:-1,AXN HD.
+http://tv.ultraplay.ml:8000/live/david/david/5849.ts
+#EXTINF:-1,BABY FIRST FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6925.ts
+#EXTINF:-1,CANAL FORMULA1 FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6937.ts
+#EXTINF:-1,CARTOON NETWORK FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6977.ts
+#EXTINF:-1,Cartoon Network HD.
+http://tv.ultraplay.ml:8000/live/david/david/5828.ts
+#EXTINF:-1,CINECANAL FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6962.ts
+#EXTINF:-1,Cinecanal HD.
+http://tv.ultraplay.ml:8000/live/david/david/5859.ts
+#EXTINF:-1,CINEMAX FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6953.ts
+#EXTINF:-1,Cinemax HD.
+http://tv.ultraplay.ml:8000/live/david/david/5840.ts
+#EXTINF:-1,COMEDY CENTRAL FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6986.ts
+#EXTINF:-1,De Pelicula HD.
+http://tv.ultraplay.ml:8000/live/david/david/5858.ts
+#EXTINF:-1,DEPELICULA FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6959.ts
+#EXTINF:-1,DISCOVERY CHANNEL FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6928.ts
+#EXTINF:-1,DISCOVERY KIDS FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6936.ts
+#EXTINF:-1,Discovery Kids HD.
+http://tv.ultraplay.ml:8000/live/david/david/5832.ts
+#EXTINF:-1,Discovery Teather HD.
+http://tv.ultraplay.ml:8000/live/david/david/5831.ts
+#EXTINF:-1,DISCOVERY THEATER FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6975.ts
+#EXTINF:-1,DISCOVERY TURBO FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6932.ts
+#EXTINF:-1,Discovery Turbo HD.
+http://tv.ultraplay.ml:8000/live/david/david/5829.ts
+#EXTINF:-1,DISCOVERY WORLD FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6969.ts
+#EXTINF:-1,Disney Channel HD.
+http://tv.ultraplay.ml:8000/live/david/david/5848.ts
+#EXTINF:-1,Disney Junior HD.
+http://tv.ultraplay.ml:8000/live/david/david/5847.ts
+#EXTINF:-1,Disney XD HD.
+http://tv.ultraplay.ml:8000/live/david/david/5846.ts
+#EXTINF:-1,DJIng Ibiza | HD
+http://tv.ultraplay.ml:8000/live/david/david/5580.ts
+#EXTINF:-1,E! FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6984.ts
+#EXTINF:-1,ESPN 2 FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6951.ts
+#EXTINF:-1,ESPN 3 FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6950.ts
+#EXTINF:-1,ESPN FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6949.ts
+#EXTINF:-1,ESPN PLUS FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6948.ts
+#EXTINF:-1,FOOD NETWORK FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6834.ts
+#EXTINF:-1,FOX ACTION FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6967.ts
+#EXTINF:-1,Fox Action HD.
+http://tv.ultraplay.ml:8000/live/david/david/5853.ts
+#EXTINF:-1,Fox Cinema HD.
+http://tv.ultraplay.ml:8000/live/david/david/5852.ts
+#EXTINF:-1,Fox Comedy HD.
+http://tv.ultraplay.ml:8000/live/david/david/5862.ts
+#EXTINF:-1,Fox Family HD.
+http://tv.ultraplay.ml:8000/live/david/david/5843.ts
+#EXTINF:-1,FOX FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6996.ts
+#EXTINF:-1,Fox HD.
+http://tv.ultraplay.ml:8000/live/david/david/5867.ts
+#EXTINF:-1,FOX LIFE FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6980.ts
+#EXTINF:-1,FOX MOVIES FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6964.ts
+#EXTINF:-1,Fox Movies HD.
+http://tv.ultraplay.ml:8000/live/david/david/5851.ts
+#EXTINF:-1,Fox Series FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6847.ts
+#EXTINF:-1,Fox Series HD.
+http://tv.ultraplay.ml:8000/live/david/david/5854.ts
+#EXTINF:-1,FOX SPORTS 2 FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6947.ts
+#EXTINF:-1,FOX SPORTS 3 FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6946.ts
+#EXTINF:-1,FOX SPORTS FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6945.ts
+#EXTINF:-1,FX FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6848.ts
+#EXTINF:-1,FX HD.
+http://tv.ultraplay.ml:8000/live/david/david/5845.ts
+#EXTINF:-1,FX MOVIES FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6960.ts
+#EXTINF:-1,Golden FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6849.ts
+#EXTINF:-1,Golden HD.
+http://tv.ultraplay.ml:8000/live/david/david/5857.ts
+#EXTINF:-1,GOLF CHANNEL FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6939.ts
+#EXTINF:-1,Gourmet FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6850.ts
+#EXTINF:-1,HBO 2 HD.
+http://tv.ultraplay.ml:8000/live/david/david/5842.ts
+#EXTINF:-1,HBO Family HD.
+http://tv.ultraplay.ml:8000/live/david/david/5865.ts
+#EXTINF:-1,HBO HD.
+http://tv.ultraplay.ml:8000/live/david/david/5866.ts
+#EXTINF:-1,HBO Plus HD.
+http://tv.ultraplay.ml:8000/live/david/david/5861.ts
+#EXTINF:-1,HBO Signature HD.
+http://tv.ultraplay.ml:8000/live/david/david/5864.ts
+#EXTINF:-1,Heart TV | HD
+http://tv.ultraplay.ml:8000/live/david/david/5587.ts
+#EXTINF:-1,HISTORY FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6973.ts
+#EXTINF:-1,History HD.
+http://tv.ultraplay.ml:8000/live/david/david/5838.ts
+#EXTINF:-1,HOLA TV FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6985.ts
+
+#EXTINF:-1,INVESTIGATION DISCOVERY FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6929.ts
+#EXTINF:-1,LIFE TIME FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6968.ts
+#EXTINF:-1,MAX Prime HD
+http://tv.ultraplay.ml:8000/live/david/david/5863.ts
+#EXTINF:-1,Max UP HD.
+http://tv.ultraplay.ml:8000/live/david/david/5860.ts
+#EXTINF:-1,MTV  LIVE FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6944.ts
+#EXTINF:-1,MTV FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6943.ts
+#EXTINF:-1,MTV HD.
+http://tv.ultraplay.ml:8000/live/david/david/5827.ts
+#EXTINF:-1,NATGEO KIDS FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6938.ts
+#EXTINF:-1,NATGEO WILD FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6971.ts
+#EXTINF:-1,NatGeo Wild HD.
+http://tv.ultraplay.ml:8000/live/david/david/5837.ts
+#EXTINF:-1,NICK 2 FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6930.ts
+#EXTINF:-1,Nick 2 HD.
+http://tv.ultraplay.ml:8000/live/david/david/5833.ts
+#EXTINF:-1,NICK FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6979.ts
+#EXTINF:-1,Nickelodeon HD.
+http://tv.ultraplay.ml:8000/live/david/david/5844.ts
+#EXTINF:-1,PARAMOUNT CHANNEL FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6851.ts
+
+#EXTINF:-1,Sony FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6852.ts
+#EXTINF:-1,Sony HD.
+http://tv.ultraplay.ml:8000/live/david/david/5839.ts
+#EXTINF:-1,SPACE FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6955.ts
+#EXTINF:-1,Space HD.
+http://tv.ultraplay.ml:8000/live/david/david/5836.ts
+#EXTINF:-1,SYFY FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6983.ts
+#EXTINF:-1,SYFY HD
+http://tv.ultraplay.ml:8000/live/david/david/6684.ts
+#EXTINF:-1,TELEHIT FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6940.ts
+#EXTINF:-1,TLC DISCOVERY FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6927.ts
+#EXTINF:-1,TLC HD.
+http://tv.ultraplay.ml:8000/live/david/david/5830.ts
+#EXTINF:-1,TNT FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6853.ts
+#EXTINF:-1,TNT HD.
+http://tv.ultraplay.ml:8000/live/david/david/5841.ts
+#EXTINF:-1,TNT SERIES FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6982.ts
+#EXTINF:-1,TNT Series HD.
+http://tv.ultraplay.ml:8000/live/david/david/5835.ts
+#EXTINF:-1,TRUTV FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6988.ts
+#EXTINF:-1,TruTv HD.
+http://tv.ultraplay.ml:8000/live/david/david/5834.ts
+#EXTINF:-1,TVC DEPORTES FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6854.ts
+#EXTINF:-1,UNIVERSAL FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6855.ts
+#EXTINF:-1,Universal HD.
+http://tv.ultraplay.ml:8000/live/david/david/5856.ts
+#EXTINF:-1,VH1 FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6941.ts
+#EXTINF:-1,WARNER FULLHD
+http://tv.ultraplay.ml:8000/live/david/david/6994.ts
+#EXTINF:-1,Warner HD.
+http://tv.ultraplay.ml:8000/live/david/david/5855.ts
+#EXTINF:-1,TRAILER TV
+http://tv.ultraplay.ml:8000/live/david/david/4377.ts
+#EXTINF:-1,TRAILERTV KIDS
+http://tv.ultraplay.ml:8000/live/david/david/4378.ts
+#EXTINF:-1,WWE PPV
+http://tv.ultraplay.ml:8000/live/david/david/4312.ts
+#EXTINF:-1,BeinSports
+http://tv.ultraplay.ml:8000/live/david/david/4440.ts
+#EXTINF:-1,Bein Sports LIGA
+http://tv.ultraplay.ml:8000/live/david/david/4444.ts
+#EXTINF:-1,Bein Sports 3
+http://tv.ultraplay.ml:8000/live/david/david/4648.ts
+#EXTINF:-1,BeinSports Ñ
+http://tv.ultraplay.ml:8000/live/david/david/4439.ts
+#EXTINF:-1,A&E
+http://tv.ultraplay.ml:8000/live/david/david/4786.ts
+#EXTINF:-1,ABC News
+http://tv.ultraplay.ml:8000/live/david/david/3026.ts
+#EXTINF:-1,ADN TV
+http://tv.ultraplay.ml:8000/live/david/david/3116.ts
+
+#EXTINF:-1,AMC
+http://tv.ultraplay.ml:8000/live/david/david/3695.ts
+#EXTINF:-1,AMC SD
+http://tv.ultraplay.ml:8000/live/david/david/4785.ts
+
+#EXTINF:-1,Animal Planet
+http://tv.ultraplay.ml:8000/live/david/david/4784.ts
+#EXTINF:-1,ANIME TV
+http://tv.ultraplay.ml:8000/live/david/david/1918.ts
+
+#EXTINF:-1,America TV
+http://tv.ultraplay.ml:8000/live/david/david/4390.ts
+#EXTINF:-1,ATV
+http://tv.ultraplay.ml:8000/live/david/david/4389.ts
+#EXTINF:-1,AXN
+http://tv.ultraplay.ml:8000/live/david/david/3699.ts
+#EXTINF:-1,AZCinema
+http://tv.ultraplay.ml:8000/live/david/david/4782.ts
+
+#EXTINF:-1,Baby TV
+http://tv.ultraplay.ml:8000/live/david/david/4477.ts
+#EXTINF:-1,Bandamax
+http://tv.ultraplay.ml:8000/live/david/david/4778.ts
+#EXTINF:-1,BBC World News
+http://tv.ultraplay.ml:8000/live/david/david/3006.ts
+#EXTINF:-1,La Liga TV
+http://tv.ultraplay.ml:8000/live/david/david/4646.ts
+#EXTINF:-1,Bloomberg TV
+http://tv.ultraplay.ml:8000/live/david/david/3005.ts
+#EXTINF:-1,Boomerang
+http://tv.ultraplay.ml:8000/live/david/david/3703.ts
+#EXTINF:-1,BOX NATION
+http://tv.ultraplay.ml:8000/live/david/david/4631.ts
+
+
+
+#EXTINF:-1,Canal Formula 1
+http://tv.ultraplay.ml:8000/live/david/david/4775.ts
+#EXTINF:-1,Canal Gourmet
+http://tv.ultraplay.ml:8000/live/david/david/4774.ts
+
+#EXTINF:-1,Cartoon Network
+http://tv.ultraplay.ml:8000/live/david/david/4772.ts
+#EXTINF:-1,CDO Premium [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3132.ts
+#EXTINF:-1,CDO [SD]
+http://tv.ultraplay.ml:8000/live/david/david/3131.ts
+#EXTINF:-1,Cinecanal
+http://tv.ultraplay.ml:8000/live/david/david/4770.ts
+#EXTINF:-1,Cinecanal 2
+http://tv.ultraplay.ml:8000/live/david/david/4769.ts
+#EXTINF:-1,Cinemax
+http://tv.ultraplay.ml:8000/live/david/david/4768.ts
+
+
+#EXTINF:-1,Comedy Central
+http://tv.ultraplay.ml:8000/live/david/david/4767.ts
+
+
+#EXTINF:-1,De PelÃ­cula
+http://tv.ultraplay.ml:8000/live/david/david/4766.ts
+
+#EXTINF:-1,Discovery Channel
+http://tv.ultraplay.ml:8000/live/david/david/4765.ts
+#EXTINF:-1,Discovery Civilization
+http://tv.ultraplay.ml:8000/live/david/david/4764.ts
+#EXTINF:-1,Discovery Home & Health
+http://tv.ultraplay.ml:8000/live/david/david/4763.ts
+#EXTINF:-1,Discovery Kids
+http://tv.ultraplay.ml:8000/live/david/david/4762.ts
+#EXTINF:-1,Discovery Science
+http://tv.ultraplay.ml:8000/live/david/david/4761.ts
+#EXTINF:-1,Discovery Theater
+http://tv.ultraplay.ml:8000/live/david/david/4760.ts
+#EXTINF:-1,Discovery Turbo
+http://tv.ultraplay.ml:8000/live/david/david/3726.ts
+#EXTINF:-1,Discovery World
+http://tv.ultraplay.ml:8000/live/david/david/4759.ts
+#EXTINF:-1,Disney Channel
+http://tv.ultraplay.ml:8000/live/david/david/4758.ts
+#EXTINF:-1,Disney Jr
+http://tv.ultraplay.ml:8000/live/david/david/3727.ts
+#EXTINF:-1,Disney Junior
+http://tv.ultraplay.ml:8000/live/david/david/4757.ts
+#EXTINF:-1,Disney XD
+http://tv.ultraplay.ml:8000/live/david/david/3728.ts
+
+#EXTINF:-1,DW Latinoamerica
+http://tv.ultraplay.ml:8000/live/david/david/4755.ts
+#EXTINF:-1,E!
+http://tv.ultraplay.ml:8000/live/david/david/4754.ts
+
+
+#EXTINF:-1,Fox
+http://tv.ultraplay.ml:8000/live/david/david/4749.ts
+#EXTINF:-1,Fox Action
+http://tv.ultraplay.ml:8000/live/david/david/4748.ts
+#EXTINF:-1,FOX ACTION HD
+http://tv.ultraplay.ml:8000/live/david/david/4667.ts
+#EXTINF:-1,Fox Cinema
+http://tv.ultraplay.ml:8000/live/david/david/4747.ts
+#EXTINF:-1,Fox Classics
+http://tv.ultraplay.ml:8000/live/david/david/4746.ts
+#EXTINF:-1,FOX Comedy
+http://tv.ultraplay.ml:8000/live/david/david/4745.ts
+#EXTINF:-1,FOX Family
+http://tv.ultraplay.ml:8000/live/david/david/4743.ts
+#EXTINF:-1,Fox Life
+http://tv.ultraplay.ml:8000/live/david/david/4742.ts
+#EXTINF:-1,Fox Movies
+http://tv.ultraplay.ml:8000/live/david/david/4741.ts
+#EXTINF:-1,Fox SD
+http://tv.ultraplay.ml:8000/live/david/david/4740.ts
+#EXTINF:-1,Fox Series
+http://tv.ultraplay.ml:8000/live/david/david/4739.ts
+
+#EXTINF:-1,Frecuencia Latina
+http://tv.ultraplay.ml:8000/live/david/david/4330.ts
+#EXTINF:-1,FX
+http://tv.ultraplay.ml:8000/live/david/david/4738.ts
+#EXTINF:-1,FX SD
+http://tv.ultraplay.ml:8000/live/david/david/4737.ts
+#EXTINF:-1,Gala TV
+http://tv.ultraplay.ml:8000/live/david/david/4736.ts
+#EXTINF:-1,Glitz
+http://tv.ultraplay.ml:8000/live/david/david/4735.ts
+#EXTINF:-1,Gol Peru
+http://tv.ultraplay.ml:8000/live/david/david/4672.ts
+#EXTINF:-1,GOL TV
+http://tv.ultraplay.ml:8000/live/david/david/4481.ts
+#EXTINF:-1,Golden
+http://tv.ultraplay.ml:8000/live/david/david/4734.ts
+#EXTINF:-1,Golden Edge
+http://tv.ultraplay.ml:8000/live/david/david/4733.ts
+#EXTINF:-1,GolTV
+http://tv.ultraplay.ml:8000/live/david/david/4732.ts
+#EXTINF:-1,H2
+http://tv.ultraplay.ml:8000/live/david/david/4731.ts
+#EXTINF:-1,H2 Latino
+http://tv.ultraplay.ml:8000/live/david/david/4482.ts
+#EXTINF:-1,HBO
+http://tv.ultraplay.ml:8000/live/david/david/4485.ts
+#EXTINF:-1,HBO 2
+http://tv.ultraplay.ml:8000/live/david/david/4730.ts
+#EXTINF:-1,HBO 2 Sur
+http://tv.ultraplay.ml:8000/live/david/david/4483.ts
+#EXTINF:-1,HBO FAMILY
+http://tv.ultraplay.ml:8000/live/david/david/4729.ts
+#EXTINF:-1,HBO Family 2
+http://tv.ultraplay.ml:8000/live/david/david/4484.ts
+#EXTINF:-1,HBO Latino HD
+http://tv.ultraplay.ml:8000/live/david/david/4728.ts
+#EXTINF:-1,HBO PLUS
+http://tv.ultraplay.ml:8000/live/david/david/4727.ts
+#EXTINF:-1,HBO Plus 2
+http://tv.ultraplay.ml:8000/live/david/david/4486.ts
+#EXTINF:-1,HBO PLUS OESTE
+http://tv.ultraplay.ml:8000/live/david/david/4726.ts
+#EXTINF:-1,HBO Signature
+http://tv.ultraplay.ml:8000/live/david/david/4725.ts
+
+#EXTINF:-1,History
+http://tv.ultraplay.ml:8000/live/david/david/4724.ts
+#EXTINF:-1,History 2
+http://tv.ultraplay.ml:8000/live/david/david/4668.ts
+
+#EXTINF:-1,Life Desing
+http://tv.ultraplay.ml:8000/live/david/david/3018.ts
+#EXTINF:-1,LIFEDESING
+http://tv.ultraplay.ml:8000/live/david/david/3058.ts
+#EXTINF:-1,Lifetime
+http://tv.ultraplay.ml:8000/live/david/david/4720.ts
+
+#EXTINF:-1,MAX
+http://tv.ultraplay.ml:8000/live/david/david/4487.ts
+#EXTINF:-1,MAX Prime
+http://tv.ultraplay.ml:8000/live/david/david/4719.ts
+#EXTINF:-1,MaxPrime
+http://tv.ultraplay.ml:8000/live/david/david/4488.ts
+#EXTINF:-1,MBL Network
+http://tv.ultraplay.ml:8000/live/david/david/4366.ts
+
+#EXTINF:-1,Milenio
+http://tv.ultraplay.ml:8000/live/david/david/3030.ts
+#EXTINF:-1,Motor Sports
+http://tv.ultraplay.ml:8000/live/david/david/376.ts
+#EXTINF:-1,Movistar Deportes 1
+http://tv.ultraplay.ml:8000/live/david/david/4443.ts
+#EXTINF:-1,Movistar Deportes 2
+http://tv.ultraplay.ml:8000/live/david/david/4442.ts
+#EXTINF:-1,Movistar Futbol
+http://tv.ultraplay.ml:8000/live/david/david/4441.ts
+#EXTINF:-1,Movistar Partidazo
+http://tv.ultraplay.ml:8000/live/david/david/4647.ts
+#EXTINF:-1,MTV
+http://tv.ultraplay.ml:8000/live/david/david/4717.ts
+#EXTINF:-1,MTV hits
+http://tv.ultraplay.ml:8000/live/david/david/4716.ts
+#EXTINF:-1,MTV Live HD
+http://tv.ultraplay.ml:8000/live/david/david/4715.ts
+
+#EXTINF:-1,NASA Space Station 1
+http://tv.ultraplay.ml:8000/live/david/david/3015.ts
+#EXTINF:-1,NASA Space Station 2
+http://tv.ultraplay.ml:8000/live/david/david/3014.ts
+#EXTINF:-1,NASA TV
+http://tv.ultraplay.ml:8000/live/david/david/3001.ts
+#EXTINF:-1,NatGeo Wild
+http://tv.ultraplay.ml:8000/live/david/david/4712.ts
+#EXTINF:-1,National Geographic Channel
+http://tv.ultraplay.ml:8000/live/david/david/4711.ts
+
+#EXTINF:-1,Nick Jr
+http://tv.ultraplay.ml:8000/live/david/david/4710.ts
+#EXTINF:-1,Nick2
+http://tv.ultraplay.ml:8000/live/david/david/4709.ts
+#EXTINF:-1,Nickelodeon
+http://tv.ultraplay.ml:8000/live/david/david/4708.ts
+#EXTINF:-1,NickToons
+http://tv.ultraplay.ml:8000/live/david/david/4707.ts
+
+#EXTINF:-1,Olympic Channel 1 [FHD]
+http://tv.ultraplay.ml:8000/live/david/david/3084.ts
+#EXTINF:-1,Olympic Channel 1 [SD](Alt)
+http://tv.ultraplay.ml:8000/live/david/david/3083.ts
+#EXTINF:-1,One TV [HD]
+http://tv.ultraplay.ml:8000/live/david/david/2995.ts
+#EXTINF:-1,Paramount
+http://tv.ultraplay.ml:8000/live/david/david/4706.ts
+
+#EXTINF:-1,RT Docu [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3008.ts
+#EXTINF:-1,RT Espa?ol [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3012.ts
+#EXTINF:-1,RT News [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3011.ts
+#EXTINF:-1,RT UK [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3009.ts
+#EXTINF:-1,RT USA [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3010.ts
+#EXTINF:-1,RTS
+http://tv.ultraplay.ml:8000/live/david/david/4517.ts
+#EXTINF:-1,SENADORES HDn
+http://tv.ultraplay.ml:8000/live/david/david/1919.ts
+#EXTINF:-1,Sevilla FC
+http://tv.ultraplay.ml:8000/live/david/david/380.ts
+
+#EXTINF:-1,Sony
+http://tv.ultraplay.ml:8000/live/david/david/4704.ts
+#EXTINF:-1,Space
+http://tv.ultraplay.ml:8000/live/david/david/4703.ts
+#EXTINF:-1,Sporting [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3121.ts
+#EXTINF:-1,Studio Universal
+http://tv.ultraplay.ml:8000/live/david/david/4701.ts
+#EXTINF:-1,Sun Channel
+http://tv.ultraplay.ml:8000/live/david/david/3020.ts
+#EXTINF:-1,SyFy
+http://tv.ultraplay.ml:8000/live/david/david/4700.ts
+
+#EXTINF:-1,TBS
+http://tv.ultraplay.ml:8000/live/david/david/4699.ts
+#EXTINF:-1,TCM
+http://tv.ultraplay.ml:8000/live/david/david/4698.ts
+#EXTINF:-1,TDN
+http://tv.ultraplay.ml:8000/live/david/david/4697.ts
+
+
+#EXTINF:-1,Telehit
+http://tv.ultraplay.ml:8000/live/david/david/4695.ts
+#EXTINF:-1,Telemax [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3065.ts
+
+
+
+#EXTINF:-1,TLC Discovery
+http://tv.ultraplay.ml:8000/live/david/david/4690.ts
+#EXTINF:-1,TLnovelas
+http://tv.ultraplay.ml:8000/live/david/david/4689.ts
+#EXTINF:-1,TN [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3080.ts
+#EXTINF:-1,TNT
+http://tv.ultraplay.ml:8000/live/david/david/4688.ts
+#EXTINF:-1,TNT Series
+http://tv.ultraplay.ml:8000/live/david/david/4687.ts
+#EXTINF:-1,Todo Deportes
+http://tv.ultraplay.ml:8000/live/david/david/4643.ts
+#EXTINF:-1,Tooncast
+http://tv.ultraplay.ml:8000/live/david/david/4686.ts
+#EXTINF:-1,Trendy Channel
+http://tv.ultraplay.ml:8000/live/david/david/3017.ts
+#EXTINF:-1,TRENDY MUSICA
+http://tv.ultraplay.ml:8000/live/david/david/3053.ts
+#EXTINF:-1,TRT World [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3007.ts
+#EXTINF:-1,Tru TV
+http://tv.ultraplay.ml:8000/live/david/david/4685.ts
+#EXTINF:-1,TV Agro
+http://tv.ultraplay.ml:8000/live/david/david/3048.ts
+#EXTINF:-1,TV Centro (Talca) [SD]
+http://tv.ultraplay.ml:8000/live/david/david/3089.ts
+#EXTINF:-1,TV Maule [SD]
+http://tv.ultraplay.ml:8000/live/david/david/3092.ts
+#EXTINF:-1,Tv Publica
+http://tv.ultraplay.ml:8000/live/david/david/3076.ts
+#EXTINF:-1,TV Senado [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3123.ts
+#EXTINF:-1,TV4 (Lota)
+http://tv.ultraplay.ml:8000/live/david/david/3099.ts
+#EXTINF:-1,TV5 Monde Latino
+http://tv.ultraplay.ml:8000/live/david/david/3004.ts
+#EXTINF:-1,TVE 1
+http://tv.ultraplay.ml:8000/live/david/david/3040.ts
+#EXTINF:-1,TVE Internacional
+http://tv.ultraplay.ml:8000/live/david/david/4684.ts
+#EXTINF:-1,TVMas [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3034.ts
+#EXTINF:-1,TVNZ Duke (Nueva Zealanda)
+http://tv.ultraplay.ml:8000/live/david/david/3023.ts
+#EXTINF:-1,TVU [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3128.ts
+#EXTINF:-1,TVU [HD] (Concepcion)
+http://tv.ultraplay.ml:8000/live/david/david/3100.ts
+#EXTINF:-1,TWiT
+http://tv.ultraplay.ml:8000/live/david/david/3021.ts
+#EXTINF:-1,TYC Sports
+http://tv.ultraplay.ml:8000/live/david/david/4783.ts
+#EXTINF:-1,TYC SPORTS HD
+http://tv.ultraplay.ml:8000/live/david/david/1682.ts
+#EXTINF:-1,TYC SPORTS SD
+http://tv.ultraplay.ml:8000/live/david/david/4495.ts
+#EXTINF:-1,UFC Network
+http://tv.ultraplay.ml:8000/live/david/david/4235.ts
+#EXTINF:-1,Umag TV [SD] (Punta Arenas)
+http://tv.ultraplay.ml:8000/live/david/david/3095.ts
+#EXTINF:-1,Unicable
+http://tv.ultraplay.ml:8000/live/david/david/4683.ts
+#EXTINF:-1,UniMAS
+http://tv.ultraplay.ml:8000/live/david/david/4682.ts
+#EXTINF:-1,Universal
+http://tv.ultraplay.ml:8000/live/david/david/4681.ts
+#EXTINF:-1,Universal Channel
+http://tv.ultraplay.ml:8000/live/david/david/4680.ts
+
+#EXTINF:-1,USA Network
+http://tv.ultraplay.ml:8000/live/david/david/4644.ts
+#EXTINF:-1,VISIT-X
+http://tv.ultraplay.ml:8000/live/david/david/5053.ts
+#EXTINF:-1,VH1
+http://tv.ultraplay.ml:8000/live/david/david/4676.ts
+#EXTINF:-1,VH1 Classics
+http://tv.ultraplay.ml:8000/live/david/david/4675.ts
+#EXTINF:-1,Virgin TV
+http://tv.ultraplay.ml:8000/live/david/david/956.ts
+#EXTINF:-1,VMas  TV
+http://tv.ultraplay.ml:8000/live/david/david/3016.ts
+#EXTINF:-1,VMAS TV
+http://tv.ultraplay.ml:8000/live/david/david/3061.ts
+#EXTINF:-1,VTV Aconcagua [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3088.ts
+#EXTINF:-1,VTV Vi?a del Mar [HD]
+http://tv.ultraplay.ml:8000/live/david/david/3087.ts
+#EXTINF:-1,Wapa
+http://tv.ultraplay.ml:8000/live/david/david/4496.ts
+#EXTINF:-1,Warner Channel
+http://tv.ultraplay.ml:8000/live/david/david/4674.ts
+#EXTINF:-1,Willax
+http://tv.ultraplay.ml:8000/live/david/david/4331.ts
+#EXTINF:-1,Win Sports HD
+http://tv.ultraplay.ml:8000/live/david/david/4474.ts
+#EXTINF:-1,WIN SPORTS SD
+http://tv.ultraplay.ml:8000/live/david/david/4492.ts
+#EXTINF:-1,WWE Network
+http://tv.ultraplay.ml:8000/live/david/david/4632.ts
+#EXTINF:-1,Azteca Siete
+http://tv.ultraplay.ml:8000/live/david/david/4780.ts
+
+
+#EXTINF:-1,SIMPSONS 600 HD
+http://tv.ultraplay.ml:8000/live/david/david/4379.ts
+
+#EXTINF:-1,REDLIGHT
+http://tv.ultraplay.ml:8000/live/david/david/6222.ts
+#EXTINF:-1,Abu Dhabi Sports
+http://tv.ultraplay.ml:8000/live/david/david/6235.ts
+#EXTINF:-1,Abu Dhabi Sports 2
+http://tv.ultraplay.ml:8000/live/david/david/6234.ts
+#EXTINF:-1,Bayern Munchen TV
+http://tv.ultraplay.ml:8000/live/david/david/6240.ts
+#EXTINF:-1,Betis Tv
+http://tv.ultraplay.ml:8000/live/david/david/6243.ts
+#EXTINF:-1,BFM Sport
+http://tv.ultraplay.ml:8000/live/david/david/6247.ts
+#EXTINF:-1,DeporTV
+http://tv.ultraplay.ml:8000/live/david/david/6246.ts
+#EXTINF:-1,KTV Sport Kuwait
+http://tv.ultraplay.ml:8000/live/david/david/6233.ts
+#EXTINF:-1,Porto Canal
+http://tv.ultraplay.ml:8000/live/david/david/6242.ts
+#EXTINF:-1,Real Madrid TV.
+http://tv.ultraplay.ml:8000/live/david/david/6249.ts
+#EXTINF:-1,Sevilla FC.
+http://tv.ultraplay.ml:8000/live/david/david/6248.ts
+#EXTINF:-1,SportsTV
+http://tv.ultraplay.ml:8000/live/david/david/6232.ts
+#EXTINF:-1,Tilesport TV
+http://tv.ultraplay.ml:8000/live/david/david/6231.ts
+#EXTINF:-1,Bob Esponja
+http://tv.ultraplay.ml:8000/live/david/david/6268.ts
+#EXTINF:-1,Canal Disney
+http://tv.ultraplay.ml:8000/live/david/david/6267.ts
+#EXTINF:-1,Cantinflas
+http://tv.ultraplay.ml:8000/live/david/david/6272.ts
+#EXTINF:-1,Dragon Ball
+http://tv.ultraplay.ml:8000/live/david/david/6266.ts
+#EXTINF:-1,Dragon Ball Super
+http://tv.ultraplay.ml:8000/live/david/david/6269.ts
+#EXTINF:-1,Dragon Ball Z
+http://tv.ultraplay.ml:8000/live/david/david/6265.ts
+#EXTINF:-1,El Chapul?n Colorado
+http://tv.ultraplay.ml:8000/live/david/david/6264.ts
+#EXTINF:-1,El Chavo del Ocho
+http://tv.ultraplay.ml:8000/live/david/david/6263.ts
+#EXTINF:-1,Family Guy
+http://tv.ultraplay.ml:8000/live/david/david/6262.ts
+#EXTINF:-1,Futurama
+http://tv.ultraplay.ml:8000/live/david/david/6261.ts
+#EXTINF:-1,Los caballeros del Zodiaco
+http://tv.ultraplay.ml:8000/live/david/david/6260.ts
+#EXTINF:-1,MacGyver
+http://tv.ultraplay.ml:8000/live/david/david/6259.ts
+#EXTINF:-1,Malcolm
+http://tv.ultraplay.ml:8000/live/david/david/6258.ts
+#EXTINF:-1,Mr. Bean
+http://tv.ultraplay.ml:8000/live/david/david/6257.ts
+#EXTINF:-1,Patoaventuras
+http://tv.ultraplay.ml:8000/live/david/david/6256.ts
+#EXTINF:-1,Pocoy?
+http://tv.ultraplay.ml:8000/live/david/david/6255.ts
+#EXTINF:-1,Ranma ?
+http://tv.ultraplay.ml:8000/live/david/david/6254.ts
+#EXTINF:-1,S?per Campeones
+http://tv.ultraplay.ml:8000/live/david/david/6251.ts
+#EXTINF:-1,Scooby-Doo
+http://tv.ultraplay.ml:8000/live/david/david/6253.ts
+#EXTINF:-1,Shin Chan
+http://tv.ultraplay.ml:8000/live/david/david/6271.ts
+#EXTINF:-1,South Park
+http://tv.ultraplay.ml:8000/live/david/david/6252.ts
+#EXTINF:-1,The Simpsons
+http://tv.ultraplay.ml:8000/live/david/david/6275.ts
+#EXTINF:-1,The Simpsons 2
+http://tv.ultraplay.ml:8000/live/david/david/6274.ts
+#EXTINF:-1,Tres por Tres - FULL HOUSE
+http://tv.ultraplay.ml:8000/live/david/david/6270.ts
+#EXTINF:-1,Two and half men
+http://tv.ultraplay.ml:8000/live/david/david/6273.ts
+#EXTINF:-1,WWE 24/7
+http://tv.ultraplay.ml:8000/live/david/david/6250.ts
+#EXTINF:-1,City TV
+http://tv.ultraplay.ml:8000/live/david/david/6279.ts
+#EXTINF:-1,Telefacifico
+http://tv.ultraplay.ml:8000/live/david/david/6280.ts
+#EXTINF:-1,ATB
+http://tv.ultraplay.ml:8000/live/david/david/6300.ts
+#EXTINF:-1,Bolivision
+http://tv.ultraplay.ml:8000/live/david/david/6299.ts
+#EXTINF:-1,Ecuavisa
+http://tv.ultraplay.ml:8000/live/david/david/6334.ts
+#EXTINF:-1,BIG BANG THEORY
+http://tv.ultraplay.ml:8000/live/david/david/6998.ts
+#EXTINF:-1,JUEGO DE TRONOS
+http://tv.ultraplay.ml:8000/live/david/david/6639.ts
+#EXTINF:-1,casado con hijos
+http://tv.ultraplay.ml:8000/live/david/david/6682.ts
+#EXTINF:-1,ALF
+http://tv.ultraplay.ml:8000/live/david/david/6747.ts
+#EXTINF:-1,Chespirito
+http://tv.ultraplay.ml:8000/live/david/david/6746.ts
+#EXTINF:-1,Coraje El Perro Cobarde
+http://tv.ultraplay.ml:8000/live/david/david/6745.ts
+#EXTINF:-1,Doctor House
+http://tv.ultraplay.ml:8000/live/david/david/6748.ts
+#EXTINF:-1,El Coyote y el Correcaminos
+http://tv.ultraplay.ml:8000/live/david/david/6744.ts
+#EXTINF:-1,El Pajaro Loco
+http://tv.ultraplay.ml:8000/live/david/david/6743.ts
+#EXTINF:-1,El principe del Rap
+http://tv.ultraplay.ml:8000/live/david/david/6742.ts
+#EXTINF:-1,He-Man y los Amos del Universo
+http://tv.ultraplay.ml:8000/live/david/david/6741.ts
+#EXTINF:-1,Hey Arnold
+http://tv.ultraplay.ml:8000/live/david/david/6740.ts
+#EXTINF:-1,Inspector Gadget
+http://tv.ultraplay.ml:8000/live/david/david/6739.ts
+#EXTINF:-1,La familia P. Luche
+http://tv.ultraplay.ml:8000/live/david/david/6738.ts
+#EXTINF:-1,Looney Tunes
+http://tv.ultraplay.ml:8000/live/david/david/6737.ts
+#EXTINF:-1,Los Tres Chiflados
+http://tv.ultraplay.ml:8000/live/david/david/6736.ts
+#EXTINF:-1,Peliculas 2
+http://tv.ultraplay.ml:8000/live/david/david/6749.ts
+#EXTINF:-1,Power Rangers Mighty Morphin
+http://tv.ultraplay.ml:8000/live/david/david/6735.ts
+#EXTINF:-1,The A-Team
+http://tv.ultraplay.ml:8000/live/david/david/6734.ts
+#EXTINF:-1,ThunderCats
+http://tv.ultraplay.ml:8000/live/david/david/6733.ts
+#EXTINF:-1,Tom and Jerry
+http://tv.ultraplay.ml:8000/live/david/david/6732.ts
+#EXTINF:-1,SPORTV 3
+http://tv.ultraplay.ml:8000/live/david/david/5163.ts
+#EXTINF:-1,S.K.Y Sports 1
+http://tv.ultraplay.ml:8000/live/david/david/6762.ts
+#EXTINF:-1,S.K.Y Sports 2
+http://tv.ultraplay.ml:8000/live/david/david/6761.ts
+#EXTINF:-1,S.K.Y Sports 3
+http://tv.ultraplay.ml:8000/live/david/david/6760.ts
+#EXTINF:-1,S.K.Y Sports 4
+http://tv.ultraplay.ml:8000/live/david/david/6759.ts
+#EXTINF:-1,S.K.Y Sports 5
+http://tv.ultraplay.ml:8000/live/david/david/6758.ts
+#EXTINF:-1,S.K.Y Sports news
+http://tv.ultraplay.ml:8000/live/david/david/6757.ts
+#EXTINF:-1,AYM Sports
+http://tv.ultraplay.ml:8000/live/david/david/4515.ts
+#EXTINF:-1,LT-13tv
+http://tv.ultraplay.ml:8000/live/david/david/6157.ts
+#EXTINF:-1,LT-A&E HD
+http://tv.ultraplay.ml:8000/live/david/david/6156.ts
+#EXTINF:-1,LT-ABC News
+http://tv.ultraplay.ml:8000/live/david/david/6155.ts
+#EXTINF:-1,LT-Alcance TV
+http://tv.ultraplay.ml:8000/live/david/david/6154.ts
+#EXTINF:-1,LT-Amazing Music
+http://tv.ultraplay.ml:8000/live/david/david/6153.ts
+#EXTINF:-1,LT-AMC
+http://tv.ultraplay.ml:8000/live/david/david/6152.ts
+#EXTINF:-1,LT-América TV
+http://tv.ultraplay.ml:8000/live/david/david/6151.ts
+#EXTINF:-1,LT-Animal Planet
+http://tv.ultraplay.ml:8000/live/david/david/6150.ts
+#EXTINF:-1,LT-Anime 24H
+http://tv.ultraplay.ml:8000/live/david/david/6149.ts
+#EXTINF:-1,LT-Antena 3
+http://tv.ultraplay.ml:8000/live/david/david/6148.ts
+#EXTINF:-1,LT-Aparecida Brasil
+http://tv.ultraplay.ml:8000/live/david/david/6147.ts
+#EXTINF:-1,LT-Aristegui Noticias
+http://tv.ultraplay.ml:8000/live/david/david/6146.ts
+#EXTINF:-1,LT-AXN
+http://tv.ultraplay.ml:8000/live/david/david/6145.ts
+#EXTINF:-1,LT-Az Corazón
+http://tv.ultraplay.ml:8000/live/david/david/6144.ts
+#EXTINF:-1,LT-Azteca
+http://tv.ultraplay.ml:8000/live/david/david/6143.ts
+#EXTINF:-1,LT-Azteca 13
+http://tv.ultraplay.ml:8000/live/david/david/6142.ts
+#EXTINF:-1,LT-Azteca 7
+http://tv.ultraplay.ml:8000/live/david/david/6141.ts
+#EXTINF:-1,LT-Bandamax
+http://tv.ultraplay.ml:8000/live/david/david/6140.ts
+#EXTINF:-1,LT-BeinSports
+http://tv.ultraplay.ml:8000/live/david/david/6139.ts
+#EXTINF:-1,LT-BeinSports Ñ
+http://tv.ultraplay.ml:8000/live/david/david/6138.ts
+#EXTINF:-1,LT-BHTV Peru
+http://tv.ultraplay.ml:8000/live/david/david/6137.ts
+#EXTINF:-1,LT-Bloomberg
+http://tv.ultraplay.ml:8000/live/david/david/6136.ts
+#EXTINF:-1,LT-Boomerang
+http://tv.ultraplay.ml:8000/live/david/david/6135.ts
+#EXTINF:-1,LT-Cali TV
+http://tv.ultraplay.ml:8000/live/david/david/6134.ts
+#EXTINF:-1,LT-Canal  Accion
+http://tv.ultraplay.ml:8000/live/david/david/6128.ts
+#EXTINF:-1,LT-Canal  Toros
+http://tv.ultraplay.ml:8000/live/david/david/6127.ts
+#EXTINF:-1,LT-Canal 2 Televicentro
+http://tv.ultraplay.ml:8000/live/david/david/6133.ts
+#EXTINF:-1,LT-Canal 22
+http://tv.ultraplay.ml:8000/live/david/david/6132.ts
+#EXTINF:-1,LT-Canal 5
+http://tv.ultraplay.ml:8000/live/david/david/6131.ts
+#EXTINF:-1,LT-Canal de las Estrellas
+http://tv.ultraplay.ml:8000/live/david/david/6130.ts
+#EXTINF:-1,LT-Canal de las Estrellas Latinoamerica
+http://tv.ultraplay.ml:8000/live/david/david/6129.ts
+#EXTINF:-1,LT-Cantinazo TV
+http://tv.ultraplay.ml:8000/live/david/david/6126.ts
+#EXTINF:-1,LT-Capital 21 CDMX
+http://tv.ultraplay.ml:8000/live/david/david/6125.ts
+#EXTINF:-1,LT-Capital TV
+http://tv.ultraplay.ml:8000/live/david/david/6124.ts
+#EXTINF:-1,LT-Caracol
+http://tv.ultraplay.ml:8000/live/david/david/6123.ts
+#EXTINF:-1,LT-Cartoon Network
+http://tv.ultraplay.ml:8000/live/david/david/6122.ts
+#EXTINF:-1,LT-CB24 Noticias
+http://tv.ultraplay.ml:8000/live/david/david/6121.ts
+#EXTINF:-1,LT-CBeebies
+http://tv.ultraplay.ml:8000/live/david/david/6120.ts
+#EXTINF:-1,LT-CDF Premium
+http://tv.ultraplay.ml:8000/live/david/david/6119.ts
+#EXTINF:-1,LT-CDN Sportmax
+http://tv.ultraplay.ml:8000/live/david/david/6118.ts
+#EXTINF:-1,LT-CDO Premium
+http://tv.ultraplay.ml:8000/live/david/david/6117.ts
+#EXTINF:-1,LT-Chapulin Colorado 24/7
+http://tv.ultraplay.ml:8000/live/david/david/6116.ts
+#EXTINF:-1,LT-Chespirito 24/7
+http://tv.ultraplay.ml:8000/live/david/david/6115.ts
+#EXTINF:-1,LT-Chilevision
+http://tv.ultraplay.ml:8000/live/david/david/6114.ts
+#EXTINF:-1,LT-Cinecanal
+http://tv.ultraplay.ml:8000/live/david/david/6113.ts
+#EXTINF:-1,LT-Cinemax
+http://tv.ultraplay.ml:8000/live/david/david/6112.ts
+#EXTINF:-1,LT-Claro Sports
+http://tv.ultraplay.ml:8000/live/david/david/6111.ts
+#EXTINF:-1,LT-CMD Peru
+http://tv.ultraplay.ml:8000/live/david/david/6110.ts
+#EXTINF:-1,LT-CNN en Español
+http://tv.ultraplay.ml:8000/live/david/david/6109.ts
+#EXTINF:-1,LT-CTNI
+http://tv.ultraplay.ml:8000/live/david/david/6108.ts
+#EXTINF:-1,LT-De Película
+http://tv.ultraplay.ml:8000/live/david/david/6107.ts
+#EXTINF:-1,LT-DeporTV
+http://tv.ultraplay.ml:8000/live/david/david/6106.ts
+#EXTINF:-1,LT-Discovery Channel
+http://tv.ultraplay.ml:8000/live/david/david/6105.ts
+#EXTINF:-1,LT-Discovery Channel Opcion 2
+http://tv.ultraplay.ml:8000/live/david/david/6104.ts
+#EXTINF:-1,LT-Discovery Civilization
+http://tv.ultraplay.ml:8000/live/david/david/6103.ts
+#EXTINF:-1,LT-Discovery H&H
+http://tv.ultraplay.ml:8000/live/david/david/6102.ts
+#EXTINF:-1,LT-Discovery Kids
+http://tv.ultraplay.ml:8000/live/david/david/6101.ts
+#EXTINF:-1,LT-Discovery SCI
+http://tv.ultraplay.ml:8000/live/david/david/6100.ts
+#EXTINF:-1,LT-Discovery Theater HD
+http://tv.ultraplay.ml:8000/live/david/david/6099.ts
+#EXTINF:-1,LT-Discovery Turbo
+http://tv.ultraplay.ml:8000/live/david/david/6098.ts
+#EXTINF:-1,LT-Discovery World
+http://tv.ultraplay.ml:8000/live/david/david/6097.ts
+#EXTINF:-1,LT-Disney Channel
+http://tv.ultraplay.ml:8000/live/david/david/6096.ts
+#EXTINF:-1,LT-Disney Junior
+http://tv.ultraplay.ml:8000/live/david/david/6095.ts
+#EXTINF:-1,LT-Disney XD
+http://tv.ultraplay.ml:8000/live/david/david/6094.ts
+#EXTINF:-1,LT-Distrito Comedia
+http://tv.ultraplay.ml:8000/live/david/david/6093.ts
+#EXTINF:-1,LT-Djing Ibiza
+http://tv.ultraplay.ml:8000/live/david/david/6092.ts
+#EXTINF:-1,LT-Dragon Ball Super 24/7
+http://tv.ultraplay.ml:8000/live/david/david/6091.ts
+#EXTINF:-1,LT-Dragon Ball Z 24/7
+http://tv.ultraplay.ml:8000/live/david/david/6090.ts
+#EXTINF:-1,LT-Dragon Ball Z 24/7 Op.2
+http://tv.ultraplay.ml:8000/live/david/david/6089.ts
+#EXTINF:-1,LT-DW Latinoamerica
+http://tv.ultraplay.ml:8000/live/david/david/6088.ts
+#EXTINF:-1,LT-E!
+http://tv.ultraplay.ml:8000/live/david/david/6087.ts
+#EXTINF:-1,LT-Ecuavisa
+http://tv.ultraplay.ml:8000/live/david/david/6086.ts
+#EXTINF:-1,LT-Efekto TV
+http://tv.ultraplay.ml:8000/live/david/david/6085.ts
+#EXTINF:-1,LT-El 13 Argentina
+http://tv.ultraplay.ml:8000/live/david/david/6084.ts
+#EXTINF:-1,LT-El Chavo del 8 24/7
+http://tv.ultraplay.ml:8000/live/david/david/6083.ts
+#EXTINF:-1,LT-El Gourmet
+http://tv.ultraplay.ml:8000/live/david/david/6082.ts
+#EXTINF:-1,LT-Enlace Juvenil
+http://tv.ultraplay.ml:8000/live/david/david/6081.ts
+#EXTINF:-1,LT-Enlace TV
+http://tv.ultraplay.ml:8000/live/david/david/6080.ts
+#EXTINF:-1,LT-ESPN
+http://tv.ultraplay.ml:8000/live/david/david/6079.ts
+#EXTINF:-1,LT-ESPN 2
+http://tv.ultraplay.ml:8000/live/david/david/6078.ts
+#EXTINF:-1,LT-ESPN 3
+http://tv.ultraplay.ml:8000/live/david/david/6077.ts
+#EXTINF:-1,LT-ESPN HD
+http://tv.ultraplay.ml:8000/live/david/david/6076.ts
+#EXTINF:-1,LT-Estrella TV
+http://tv.ultraplay.ml:8000/live/david/david/6075.ts
+#EXTINF:-1,LT-Euronews
+http://tv.ultraplay.ml:8000/live/david/david/6074.ts
+#EXTINF:-1,LT-Eurosport
+http://tv.ultraplay.ml:8000/live/david/david/6073.ts
+#EXTINF:-1,LT-Eurosport 2
+http://tv.ultraplay.ml:8000/live/david/david/6072.ts
+#EXTINF:-1,LT-EWTN
+http://tv.ultraplay.ml:8000/live/david/david/6071.ts
+#EXTINF:-1,LT-F1 TV
+http://tv.ultraplay.ml:8000/live/david/david/6070.ts
+#EXTINF:-1,LT-Film Zone HD
+http://tv.ultraplay.ml:8000/live/david/david/6069.ts
+#EXTINF:-1,LT-Foro TV HD
+http://tv.ultraplay.ml:8000/live/david/david/6068.ts
+#EXTINF:-1,LT-Fox
+http://tv.ultraplay.ml:8000/live/david/david/6067.ts
+#EXTINF:-1,LT-Fox 1 HD
+http://tv.ultraplay.ml:8000/live/david/david/6066.ts
+#EXTINF:-1,LT-Fox Action
+http://tv.ultraplay.ml:8000/live/david/david/6065.ts
+#EXTINF:-1,LT-Fox Cinema
+http://tv.ultraplay.ml:8000/live/david/david/6064.ts
+#EXTINF:-1,LT-Fox Classics
+http://tv.ultraplay.ml:8000/live/david/david/6063.ts
+#EXTINF:-1,LT-Fox Family
+http://tv.ultraplay.ml:8000/live/david/david/6062.ts
+#EXTINF:-1,LT-Fox Life
+http://tv.ultraplay.ml:8000/live/david/david/6061.ts
+#EXTINF:-1,LT-Fox Movies
+http://tv.ultraplay.ml:8000/live/david/david/6060.ts
+#EXTINF:-1,LT-Fox Op. 2
+http://tv.ultraplay.ml:8000/live/david/david/6059.ts
+#EXTINF:-1,LT-Fox Sports
+http://tv.ultraplay.ml:8000/live/david/david/6058.ts
+#EXTINF:-1,LT-Fox Sports 2
+http://tv.ultraplay.ml:8000/live/david/david/6057.ts
+#EXTINF:-1,LT-Fox Sports Sur
+http://tv.ultraplay.ml:8000/live/david/david/6056.ts
+#EXTINF:-1,LT-Fox Sports Sur 2
+http://tv.ultraplay.ml:8000/live/david/david/6055.ts
+#EXTINF:-1,LT-FX
+http://tv.ultraplay.ml:8000/live/david/david/6054.ts
+#EXTINF:-1,LT-Gala TV
+http://tv.ultraplay.ml:8000/live/david/david/6053.ts
+#EXTINF:-1,LT-Garage TV
+http://tv.ultraplay.ml:8000/live/david/david/6052.ts
+#EXTINF:-1,LT-Gol Peru
+http://tv.ultraplay.ml:8000/live/david/david/6051.ts
+#EXTINF:-1,LT-Gol TV
+http://tv.ultraplay.ml:8000/live/david/david/6050.ts
+#EXTINF:-1,LT-Golden Edge
+http://tv.ultraplay.ml:8000/live/david/david/6049.ts
+#EXTINF:-1,LT-Golden HD
+http://tv.ultraplay.ml:8000/live/david/david/6048.ts
+#EXTINF:-1,LT-Golden Premier
+http://tv.ultraplay.ml:8000/live/david/david/6047.ts
+#EXTINF:-1,LT-Golden Premier 2
+http://tv.ultraplay.ml:8000/live/david/david/6046.ts
+#EXTINF:-1,LT-HBO
+http://tv.ultraplay.ml:8000/live/david/david/6045.ts
+#EXTINF:-1,LT-HBO 2
+http://tv.ultraplay.ml:8000/live/david/david/6044.ts
+#EXTINF:-1,LT-HBO Family
+http://tv.ultraplay.ml:8000/live/david/david/6043.ts
+#EXTINF:-1,LT-HBO Plus
+http://tv.ultraplay.ml:8000/live/david/david/6042.ts
+#EXTINF:-1,LT-Heart TV
+http://tv.ultraplay.ml:8000/live/david/david/6041.ts
+#EXTINF:-1,LT-History Channel
+http://tv.ultraplay.ml:8000/live/david/david/6040.ts
+#EXTINF:-1,LT-Hit TV
+http://tv.ultraplay.ml:8000/live/david/david/6039.ts
+#EXTINF:-1,LT-HTV
+http://tv.ultraplay.ml:8000/live/david/david/6038.ts
+#EXTINF:-1,LT-I.Sat
+http://tv.ultraplay.ml:8000/live/david/david/6037.ts
+#EXTINF:-1,LT-Investigation Discovery
+http://tv.ultraplay.ml:8000/live/david/david/6036.ts
+#EXTINF:-1,LT-Juce TV
+http://tv.ultraplay.ml:8000/live/david/david/6035.ts
+#EXTINF:-1,LT-La Luz Peru
+http://tv.ultraplay.ml:8000/live/david/david/6034.ts
+#EXTINF:-1,LT-La Sexta
+http://tv.ultraplay.ml:8000/live/david/david/6033.ts
+#EXTINF:-1,LT-Latina Peru
+http://tv.ultraplay.ml:8000/live/david/david/6032.ts
+#EXTINF:-1,LT-Lifetime
+http://tv.ultraplay.ml:8000/live/david/david/6031.ts
+#EXTINF:-1,LT-Los 3 Chiflados 24/7
+http://tv.ultraplay.ml:8000/live/david/david/6030.ts
+#EXTINF:-1,LT-Los Simpson 24/7
+http://tv.ultraplay.ml:8000/live/david/david/6029.ts
+#EXTINF:-1,LT-m2o TV
+http://tv.ultraplay.ml:8000/live/david/david/6028.ts
+#EXTINF:-1,LT-Max Prime
+http://tv.ultraplay.ml:8000/live/david/david/6027.ts
+#EXTINF:-1,LT-Max Up
+http://tv.ultraplay.ml:8000/live/david/david/6026.ts
+#EXTINF:-1,LT-Mega (España)
+http://tv.ultraplay.ml:8000/live/david/david/6025.ts
+#EXTINF:-1,LT-Mi Musica HD
+http://tv.ultraplay.ml:8000/live/david/david/6024.ts
+#EXTINF:-1,LT-Miami TV
+http://tv.ultraplay.ml:8000/live/david/david/6023.ts
+#EXTINF:-1,LT-Movistar Comedia
+http://tv.ultraplay.ml:8000/live/david/david/6022.ts
+#EXTINF:-1,LT-Movistar Deportes
+http://tv.ultraplay.ml:8000/live/david/david/6021.ts
+#EXTINF:-1,LT-Movistar Deportes 2
+http://tv.ultraplay.ml:8000/live/david/david/6020.ts
+#EXTINF:-1,LT-Movistar Futbol
+http://tv.ultraplay.ml:8000/live/david/david/6019.ts
+#EXTINF:-1,LT-Movistar Xtra
+http://tv.ultraplay.ml:8000/live/david/david/6018.ts
+#EXTINF:-1,LT-MTV
+http://tv.ultraplay.ml:8000/live/david/david/6017.ts
+#EXTINF:-1,LT-MTV Hits
+http://tv.ultraplay.ml:8000/live/david/david/6016.ts
+#EXTINF:-1,LT-MultiPremier
+http://tv.ultraplay.ml:8000/live/david/david/6015.ts
+#EXTINF:-1,LT-Mundo Fox
+http://tv.ultraplay.ml:8000/live/david/david/6014.ts
+#EXTINF:-1,LT-MundoMax
+http://tv.ultraplay.ml:8000/live/david/david/6013.ts
+#EXTINF:-1,LT-Nat Geo
+http://tv.ultraplay.ml:8000/live/david/david/6012.ts
+#EXTINF:-1,LT-Nat Geo Kids
+http://tv.ultraplay.ml:8000/live/david/david/6011.ts
+#EXTINF:-1,LT-Nat Geo Wild
+http://tv.ultraplay.ml:8000/live/david/david/6010.ts
+#EXTINF:-1,LT-Neox
+http://tv.ultraplay.ml:8000/live/david/david/6009.ts
+#EXTINF:-1,LT-Nick HD
+http://tv.ultraplay.ml:8000/live/david/david/6008.ts
+#EXTINF:-1,LT-Nick JR
+http://tv.ultraplay.ml:8000/live/david/david/6007.ts
+#EXTINF:-1,LT-Nick Toons
+http://tv.ultraplay.ml:8000/live/david/david/6006.ts
+#EXTINF:-1,LT-Nickelodeon
+http://tv.ultraplay.ml:8000/live/david/david/6005.ts
+#EXTINF:-1,LT-ORBE 21
+http://tv.ultraplay.ml:8000/live/david/david/6004.ts
+#EXTINF:-1,LT-Padre de Familia 24/7
+http://tv.ultraplay.ml:8000/live/david/david/6003.ts
+#EXTINF:-1,LT-Paramount
+http://tv.ultraplay.ml:8000/live/david/david/6002.ts
+#EXTINF:-1,LT-Plus TV
+http://tv.ultraplay.ml:8000/live/david/david/6001.ts
+#EXTINF:-1,LT-Pokemon 24/7
+http://tv.ultraplay.ml:8000/live/david/david/6000.ts
+#EXTINF:-1,LT-Ranma 1/2 24/7
+http://tv.ultraplay.ml:8000/live/david/david/5999.ts
+#EXTINF:-1,LT-RCG TV Coahuila
+http://tv.ultraplay.ml:8000/live/david/david/5998.ts
+#EXTINF:-1,LT-RCN
+http://tv.ultraplay.ml:8000/live/david/david/5997.ts
+#EXTINF:-1,LT-Real Madrid TV
+http://tv.ultraplay.ml:8000/live/david/david/5996.ts
+#EXTINF:-1,LT-Ritmoson Latino
+http://tv.ultraplay.ml:8000/live/david/david/5995.ts
+#EXTINF:-1,LT-RPP
+http://tv.ultraplay.ml:8000/live/david/david/5994.ts
+#EXTINF:-1,LT-RT HD
+http://tv.ultraplay.ml:8000/live/david/david/5993.ts
+#EXTINF:-1,LT-Scooby Doo 24/7
+http://tv.ultraplay.ml:8000/live/david/david/5992.ts
+#EXTINF:-1,LT-Sony HD
+http://tv.ultraplay.ml:8000/live/david/david/5991.ts
+#EXTINF:-1,LT-STB Brasil
+http://tv.ultraplay.ml:8000/live/david/david/5990.ts
+#EXTINF:-1,LT-Studio Universal
+http://tv.ultraplay.ml:8000/live/david/david/5989.ts
+#EXTINF:-1,LT-SyFy
+http://tv.ultraplay.ml:8000/live/david/david/5988.ts
+#EXTINF:-1,LT-TCM
+http://tv.ultraplay.ml:8000/live/david/david/5987.ts
+#EXTINF:-1,LT-TDN
+http://tv.ultraplay.ml:8000/live/david/david/5986.ts
+#EXTINF:-1,LT-Telehit
+http://tv.ultraplay.ml:8000/live/david/david/5985.ts
+#EXTINF:-1,LT-Telemedellin
+http://tv.ultraplay.ml:8000/live/david/david/5984.ts
+#EXTINF:-1,LT-Telemundo
+http://tv.ultraplay.ml:8000/live/david/david/5983.ts
+#EXTINF:-1,LT-Telemundo 49
+http://tv.ultraplay.ml:8000/live/david/david/5982.ts
+#EXTINF:-1,LT-Telpin Tv
+http://tv.ultraplay.ml:8000/live/david/david/5981.ts
+#EXTINF:-1,LT-Tigo Music
+http://tv.ultraplay.ml:8000/live/david/david/5980.ts
+#EXTINF:-1,LT-Tiin
+http://tv.ultraplay.ml:8000/live/david/david/5979.ts
+#EXTINF:-1,LT-TLC
+http://tv.ultraplay.ml:8000/live/david/david/5978.ts
+#EXTINF:-1,LT-Tlnovelas
+http://tv.ultraplay.ml:8000/live/david/david/5977.ts
+#EXTINF:-1,LT-TLT Venezuela
+http://tv.ultraplay.ml:8000/live/david/david/5976.ts
+#EXTINF:-1,LT-TN Canal
+http://tv.ultraplay.ml:8000/live/david/david/5975.ts
+#EXTINF:-1,LT-TNT
+http://tv.ultraplay.ml:8000/live/david/david/5974.ts
+#EXTINF:-1,LT-TNT HD
+http://tv.ultraplay.ml:8000/live/david/david/5973.ts
+#EXTINF:-1,LT-TNT Series
+http://tv.ultraplay.ml:8000/live/david/david/5972.ts
+#EXTINF:-1,LT-Tom y Jerry 24/7
+http://tv.ultraplay.ml:8000/live/david/david/5971.ts
+#EXTINF:-1,LT-Tooncast
+http://tv.ultraplay.ml:8000/live/david/david/5970.ts
+#EXTINF:-1,LT-TRT
+http://tv.ultraplay.ml:8000/live/david/david/5969.ts
+#EXTINF:-1,LT-TruTV
+http://tv.ultraplay.ml:8000/live/david/david/5968.ts
+#EXTINF:-1,LT-TVBrasil
+http://tv.ultraplay.ml:8000/live/david/david/5967.ts
+#EXTINF:-1,LT-TVMas Veracruz
+http://tv.ultraplay.ml:8000/live/david/david/5966.ts
+#EXTINF:-1,LT-TVN Ecuador
+http://tv.ultraplay.ml:8000/live/david/david/5965.ts
+#EXTINF:-1,LT-TVO Canal 23
+http://tv.ultraplay.ml:8000/live/david/david/5964.ts
+#EXTINF:-1,LT-TVT (TV Tlaxcala)
+http://tv.ultraplay.ml:8000/live/david/david/5963.ts
+#EXTINF:-1,LT-UCSG TV
+http://tv.ultraplay.ml:8000/live/david/david/5962.ts
+#EXTINF:-1,LT-UFC Network
+http://tv.ultraplay.ml:8000/live/david/david/5961.ts
+#EXTINF:-1,LT-Unicable
+http://tv.ultraplay.ml:8000/live/david/david/5960.ts
+#EXTINF:-1,LT-Universal HD
+http://tv.ultraplay.ml:8000/live/david/david/5959.ts
+#EXTINF:-1,LT-Univision
+http://tv.ultraplay.ml:8000/live/david/david/5958.ts
+#EXTINF:-1,LT-Univisión Deportes
+http://tv.ultraplay.ml:8000/live/david/david/5957.ts
+#EXTINF:-1,LT-Univisión TDN
+http://tv.ultraplay.ml:8000/live/david/david/5956.ts
+#EXTINF:-1,LT-Univision Tlnovelas
+http://tv.ultraplay.ml:8000/live/david/david/5955.ts
+#EXTINF:-1,LT-Vale TV
+http://tv.ultraplay.ml:8000/live/david/david/5954.ts
+#EXTINF:-1,LT-VH1 HD
+http://tv.ultraplay.ml:8000/live/david/david/5953.ts
+#EXTINF:-1,LT-Video Rola
+http://tv.ultraplay.ml:8000/live/david/david/5952.ts
+#EXTINF:-1,LT-Virgin TV
+http://tv.ultraplay.ml:8000/live/david/david/5951.ts
+#EXTINF:-1,LT-VTV2 Chile
+http://tv.ultraplay.ml:8000/live/david/david/5950.ts
+#EXTINF:-1,LT-Warner Channel HD
+http://tv.ultraplay.ml:8000/live/david/david/5949.ts
+#EXTINF:-1,LT-Willax TV
+http://tv.ultraplay.ml:8000/live/david/david/5948.ts
+#EXTINF:-1,LT-Win Sports
+http://tv.ultraplay.ml:8000/live/david/david/5947.ts
+#EXTINF:-1,LT-WWE Network
+http://tv.ultraplay.ml:8000/live/david/david/5946.ts
+
+
+
+#EXTINF:-1,BBC World News
+http://2.15.79.67:9985/play/a043
+#EXTINF:-1,VH1
+http://2.15.79.67:9985/play/a03w
+#EXTINF:-1,FOX Movies
+http://2.15.79.67:9985/play/a03s
+#EXTINF:-1,CNN
+http://2.15.79.67:9985/play/a041
+#EXTINF:-1,A&E
+http://2.15.79.67:9985/play/a03u
+
+
+
+
+
+
+
+#EXTINF:-1, ►►► PELICULAS◄◄◄
+http://exabytetv.info/lista.m3u
+
+#EXTINF:-1, Pokémon 2: El poder de uno (2000)
+http://142.4.217.62:25461/movie/colombia3/7O17UlMnux/2729.mp4
+#EXTINF:-1, Pokémon 3: El hechizo de los Unown (2001)
+http://142.4.217.62:25461/movie/colombia3/7O17UlMnux/2731.mp4
+#EXTINF:-1, 101 Dalmatas II Patchs London Adventure (2003)
+http://142.4.217.62:25461/movie/colombia3/7O17UlMnux/2015.mp4
+#EXTINF:-1, 101 Dalmatians (1961)
+http://142.4.217.62:25461/movie/colombia3/7O17UlMnux/2014.mp4
+#EXTINF:-1, A Bugs Life (1998)
+http://142.4.217.62:25461/movie/colombia3/7O17UlMnux/2032.mp4
+#EXTINF:-1, Alien Covenant
+http://142.4.217.62:25461/movie/colombia3/7O17UlMnux/2543.mp4
+#EXTINF:-1, Ant-Man (2015)
+http://142.4.217.62:25461/movie/colombia3/7O17UlMnux/2008.mp4
+#EXTINF:-1, Back to the Future Part II (1989)
+http://142.4.217.62:25461/movie/colombia3/7O17UlMnux/1921.mp4
+#EXTINF:-1, Bambi (1942)
+http://142.4.217.62:25461/movie/colombia3/7O17UlMnux/1956.mp4
+#EXTINF:-1, The Good Neighbor
+http://142.4.217.62:25461/movie/colombia3/7O17UlMnux/2173.mp4
+#EXTINF:-1, despicable me 3
+http://142.4.217.62:25461/movie/colombia3/7O17UlMnux/2539.mp4
+#EXTINF:-1, Ambushed (Hard Rush)
+http://142.4.217.62:25461/movie/colombia3/7O17UlMnux/2816.mp4
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, ►►► PELICULAS◄◄◄
+http://exabytetv.info/lista.m3u
+#EXTINF:-1,  kids
+http://vic.kinderling.com.au:8004/stream
+#EXTINF:-1, Logan
+http://cecegeek@goo.gl/PmJcBa
+#EXTINF:-1,  Mi Villano favorito 3
+http://cecegeek@goo.gl/hxEscV
+#EXTINF:-1,  The Big Sick 
+http://cecegeek@goo.gl/hR6Nxu
+#EXTINF:-1,  Un Saco De Canicas 
+http://cecegeek@goo.gl/CFEVMB
+#EXTINF:-1,  Alien Covenant 
+http://cecegeek@goo.gl/2P4LRV
+#EXTINF:-1,  Colossal
+http://cecegeek@goo.gl/zZGVg5
+#EXTINF:-1,  Dead Again in Tombstone 
+http://cecegeek@goo.gl/DP5PNK
+#EXTINF:-1,  La Promesa
+http://cecegeek@goo.gl/zAiUcn
+#EXTINF:-1,  Huye Get Out 
+http://cecegeek@goo.gl/vTWRDV
+#EXTINF:-1, La Bella Y La Bestia 
+http://cecegeek@goo.gl/Q96eti
+#EXTINF:-1, Sahara
+http://cecegeek@goo.gl/Q7Wzj3
+#EXTINF:-1, Bailarina
+http://cecegeek@goo.gl/YJJWK8
+#EXTINF:-1, Mascota Humana (2016)
+http://cecegeek@goo.gl/QF3YFU
+#EXTINF:-1, The Dark Tapes
+http://cecegeek@goo.gl/HxETPS
+#EXTINF:-1, Mientras El Lobo No Esta
+http://cecegeek@goo.gl/gZYSxN
+#EXTINF:-1, Sandy Wexler
+http://cecegeek@goo.gl/kyH56Z
+#EXTINF:-1, Ghost In The Shell
+http://cecegeek@goo.gl/r886vh
+#EXTINF:-1, la la Land
+http://cecegeek@goo.gl/T1WmC4
+#EXTINF:-1, Sand Castle
+http://cecegeek@goo.gl/FDyHpL
+#EXTINF:-1,  Triunfos Robados 6 : Bring It 6 
+http://cecegeek@goo.gl/rPLmAe
+#EXTINF:-1,  Todo Todo 
+http://cecegeek@goo.gl/mnzQRk
+#EXTINF:-1,  La Momia 
+http://cecegeek@goo.gl/5wTGRK
+#EXTINF:-1,  Un Don Excepcional Gifted 
+http://cecegeek@goo.gl/qFnNHF
+#EXTINF:-1,  La Era De Hielo I 
+http://cecegeek@goo.gl/MkZTcH
+#EXTINF:-1,  La Era De Hielo II 
+http://cecegeek@goo.gl/ZemBX4
+#EXTINF:-1,  La Era De Hielo III : El Origen De Los Dinosaurios 
+http://cecegeek@goo.gl/3heZnV
+#EXTINF:-1,  La Era De Hielo IV : La Formacion De Los Continentes
+http://cecegeek@goo.gl/CGPLJx
+#EXTINF:-1,  La Era De Hielo V : Choque De Mundos
+http://cecegeek@goo.gl/XvjtB6
+#EXTINF:-1,  Dumbo 
+http://cecegeek@goo.gl/Aq4EDQ
+#EXTINF:-1,  George De La Selva
+http://cecegeek@goo.gl/GiHBk5
+#EXTINF:-1,  Angry Birds La Pelicula
+http://cecegeek@goo.gl/YfcYLx
+#EXTINF:-1,  Trolls
+http://cecegeek@goo.gl/skmf64
+#EXTINF:-1,  Alicia En El Pais de Las Maravillas 
+http://cecegeek@goo.gl/QupTmL
+#EXTINF:-1,  Bambi 2  
+http://cecegeek@goo.gl/hfgaAx
+#EXTINF:-1,  Bambi 
+http://cecegeek@goo.gl/6PpjEq
+#EXTINF:-1,  Cars 2 
+http://cecegeek@goo.gl/G2MucQ
+#EXTINF:-1,  Cars  
+http://cecegeek@goo.gl/ngaT6c
+#EXTINF:-1, EL REY LEON 
+http://cecegeek@goo.gl/SdnKH7
+#EXTINF:-1, El Gato Con Botas
+http://cecegeek@goo.gl/MVTrmG
+#EXTINF:-1, La Bella Y La Bestia 
+http://cecegeek@goo.gl/65yzGX
+#EXTINF:-1,  Charlie Y La Fabrica De Chocolates
+http://bit.ly/MRAQCCHAR
+#EXTINF:-1, Charlie Y La Fabrica De Chocolates 
+http://cecegeek@goo.gl/3UR18m
+#EXTINF:-1, Harry Potter Y La Piedra Filosofal
+http://cecegeek@goo.gl/UWWRe5
+#EXTINF:-1, Harry Potter Y El Prisionero De Azkaban
+http://cecegeek@goo.gl/NKgGxD
+#EXTINF:-1, Chucky El Muñeco Diabolico
+http://cecegeek@goo.gl/YowBkJ
+#EXTINF:-1, Chucky El Muñeco Diabolico II 
+http://cecegeek@goo.gl/xnNiv2
+#EXTINF:-1, Luna De Miel En Familia
+http://cecegeek@goo.gl/zWzJ9v
+#EXTINF:-1,  Striptease
+http://cecegeek@goo.gl/XcmKwC
+#EXTINF:-1,  Yo Antes De Ti 
+http://cecegeek@goo.gl/ufFQGA
+#EXTINF:-1,  Diario De Una Pasion
+http://cecegeek@goo.gl/NmTmoq
+#EXTINF:-1, Barreras
+http://144.217.79.223:8000/movie/cham/cham/1770.mp4
+#EXTINF:-1, Pelé
+http://144.217.79.223:8000/movie/cham/cham/1764.mp4
+#EXTINF:-1, Doctor Strange
+http://144.217.79.223:8000/movie/cham/cham/1785.mp4
+#EXTINF:-1, I Am Not a Serial Killer
+http://144.217.79.223:8000/movie/cham/cham/1806.mp4
+#EXTINF:-1, Ouija: El origen del mal
+http://144.217.79.223:8000/movie/cham/cham/1795.mp4
+#EXTINF:-1, Absolutamente fabulosas
+http://144.217.79.223:8000/movie/cham/cham/1859.mp4
+#EXTINF:-1, Capitán Fantástico
+http://144.217.79.223:8000/movie/cham/cham/1852.mp4
+#EXTINF:-1, Sing Street: Reviviendo los 80s
+http://144.217.79.223:8000/movie/cham/cham/1826.mp4
+#EXTINF:-1, alex ubago   Me muero por conocerte
+http://144.217.79.223:8000/movie/cham/cham/1860.mp4
+#EXTINF:-1, Rudderless
+http://144.217.79.223:8000/movie/cham/cham/1867.mp4
+#EXTINF:-1, Tortugas Ninja 2: Fuera de las sombras
+http://144.217.79.223:8000/movie/cham/cham/1864.mp4
+#EXTINF:-1, Capitán América: Civil War
+http://144.217.79.223:8000/movie/cham/cham/1905.mp4
+#EXTINF:-1, Gridlocked
+http://144.217.79.223:8000/movie/cham/cham/1891.mp4
+#EXTINF:-1, Hasta el final
+http://144.217.79.223:8000/movie/cham/cham/1889.mp4
+#EXTINF:-1, I Saw the Light
+http://144.217.79.223:8000/movie/cham/cham/1881.mp4
+#EXTINF:-1, Miles Ahead
+http://144.217.79.223:8000/movie/cham/cham/1946.mp4
+#EXTINF:-1, Alien Abduction
+http://144.217.79.223:8000/movie/cham/cham/2004.mp4
+#EXTINF:-1, La habitación
+http://144.217.79.223:8000/movie/cham/cham/1979.mp4
+#EXTINF:-1, Lego Scooby-Doo!: Haunted Hollywood
+http://144.217.79.223:8000/movie/cham/cham/1977.mp4
+#EXTINF:-1, Los Pitufos 2
+http://144.217.79.223:8000/movie/cham/cham/1951.mp4
+#EXTINF:-1, Alvin y las ardillas
+http://144.217.79.223:8000/movie/cham/cham/2042.mp4
+#EXTINF:-1, Fenómenos de la naturaleza
+http://144.217.79.223:8000/movie/cham/cham/2062.mp4
+#EXTINF:-1, La gran apuesta
+http://144.217.79.223:8000/movie/cham/cham/2078.mp4
+#EXTINF:-1, Sandy Wexler
+http://144.217.79.223:8000/movie/cham/cham/2108.mp4
+#EXTINF:-1, Tierra de cárteles
+http://144.217.79.223:8000/movie/cham/cham/2117.mp4
+#EXTINF:-1, Juegos satánicos
+http://144.217.79.223:8000/movie/cham/cham/2132.mp4
+#EXTINF:-1, Reggaeton Mix 2017 en vivo
+http://144.217.79.223:8000/movie/cham/cham/2138.mp4
+#EXTINF:-1, Star Wars: Episodio V: El imperio contraataca
+http://144.217.79.223:8000/movie/cham/cham/2153.mp4
+#EXTINF:-1, kingsman the secret service
+http://144.217.79.223:8000/movie/cham/cham/2266.mp4
+#EXTINF:-1, Ooops! Noah is Gone
+http://144.217.79.223:8000/movie/cham/cham/2276.mp4
+#EXTINF:-1, Harry Potter y el cáliz de fuego
+http://144.217.79.223:8000/movie/cham/cham/2326.mp4
+#EXTINF:-1, Harry Potter y el prisionero de Azkaban
+http://144.217.79.223:8000/movie/cham/cham/2324.mp4
+#EXTINF:-1, Harry Potter y las reliquias de la muerte :Parte 1
+http://144.217.79.223:8000/movie/cham/cham/2320.mp4
+#EXTINF:-1, Last knights
+http://144.217.79.223:8000/movie/cham/cham/2414.mp4
+#EXTINF:-1, Halo nightfall
+http://144.217.79.223:8000/movie/cham/cham/2471.mp4
+#EXTINF:-1, Into The Storm
+http://144.217.79.223:8000/movie/cham/cham/2468.mp4
+#EXTINF:-1, John Wick
+http://144.217.79.223:8000/movie/cham/cham/2467.mp4
+#EXTINF:-1, Lucy
+http://144.217.79.223:8000/movie/cham/cham/2462.mp4
+#EXTINF:-1, Maleficent
+http://144.217.79.223:8000/movie/cham/cham/2461.mp4
+#EXTINF:-1, Sabotage
+http://144.217.79.223:8000/movie/cham/cham/2454.mp4
+#EXTINF:-1, So undercover
+http://144.217.79.223:8000/movie/cham/cham/2451.mp4
+#EXTINF:-1, The Expendables
+http://144.217.79.223:8000/movie/cham/cham/2442.mp4
+#EXTINF:-1, The Fifth Estate
+http://144.217.79.223:8000/movie/cham/cham/2441.mp4
+#EXTINF:-1, The gift
+http://144.217.79.223:8000/movie/cham/cham/2439.mp4
+#EXTINF:-1, The Numbers Station
+http://144.217.79.223:8000/movie/cham/cham/2498.mp4
+#EXTINF:-1, The Purge Anarchy
+http://144.217.79.223:8000/movie/cham/cham/2434.mp4
+#EXTINF:-1, The vatican tapes
+http://144.217.79.223:8000/movie/cham/cham/2495.mp4
+#EXTINF:-1, Heidi
+http://144.217.79.223:8000/movie/cham/cham/2499.mp4
+#EXTINF:-1, Legendary
+http://144.217.79.223:8000/movie/cham/cham/2532.mp4
+#EXTINF:-1, Los vigilantes
+http://144.217.79.223:8000/movie/cham/cham/2535.mp4
+#EXTINF:-1, Monstruos vs aliens
+http://144.217.79.223:8000/movie/cham/cham/2533.mp4
+#EXTINF:-1, The Chronicles of Riddick
+http://144.217.79.223:8000/movie/cham/cham/2526.mp4
+#EXTINF:-1, The Incredible Hulk
+http://144.217.79.223:8000/movie/cham/cham/2522.mp4
+#EXTINF:-1, The.Purg3
+http://144.217.79.223:8000/movie/cham/cham/2519.mp4
+#EXTINF:-1, To the bone
+http://144.217.79.223:8000/movie/cham/cham/2518.mp4
+#EXTINF:-1, Up
+http://144.217.79.223:8000/movie/cham/cham/2512.mp4
+#EXTINF:-1, Hot pursuit
+http://144.217.79.223:8000/movie/cham/cham/2639.mp4
+#EXTINF:-1, Little evil
+http://144.217.79.223:8000/movie/cham/cham/2637.mp4
+#EXTINF:-1, Penguins of madagascar
+http://144.217.79.223:8000/movie/cham/cham/2635.mp4
+#EXTINF:-1, Planes fire and rescue
+http://144.217.79.223:8000/movie/cham/cham/2634.mp4
+#EXTINF:-1, Ted
+http://144.217.79.223:8000/movie/cham/cham/2626.mp4
+#EXTINF:-1, Ted 2
+http://144.217.79.223:8000/movie/cham/cham/2627.mp4
+#EXTINF:-1, Tower Heist
+http://144.217.79.223:8000/movie/cham/cham/2632.mp4
+#EXTINF:-1, Soldados del Hielo
+http://144.217.79.223:8000/movie/cham/cham/2648.mp4
