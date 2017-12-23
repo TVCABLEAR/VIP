@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:0, 2900 Canales
+#EXTINF:-1,2900CH
+https://raw.githubusercontent.com/TVCABLEAR/VIP/master/OTTPLAYER/ServerZ1.m3u
 
 #EXTINF:-1,BANDAMAX 
 http://wowza2.mysoltv.com:1992/Latino_BANDAMAX/index.m3u8 
