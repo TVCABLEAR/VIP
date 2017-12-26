@@ -4,580 +4,604 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---TVCABLEAR------
+https://github.com/TVCABLEAR/
 
-#EXTINF:-0,(ES) AXN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",---Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", (ES) AXN HD
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14578.ts
-#EXTINF:-0,ESP TNT 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ESP TNT 
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/10268.ts
  
-#EXTINF:-0,(ES) AXN HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", (ES) AXN HD 
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14580.ts
  
 EXTINF:-0,(ES) Energy 
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14545.ts
-#EXTINF:-0,(ES) Eurosport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", (ES) Eurosport 1
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14544.ts
 EXTINF:-0,ES) Eurosport 1 HD  
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14543.ts
  
-#EXTINF:-0,(ES) FDF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", (ES) FDF
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14541.ts
-#EXTINF:-0,(ES) FOX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", (ES) FOX
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14540.ts
 EXTINF:-0,(ES) FOX HD  \
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14539.ts
 EXTINF:-0,) FOX Life HD   
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14537.ts
-#EXTINF:-0,(ES) Gol
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", (ES) Gol
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14536.ts
  
 EXTINF:-0,Movistar Comedia
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14522.ts
-#EXTINF:-0,Movistar Comedia HD 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", Movistar Comedia HD 
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14521.ts
  
-#EXTINF:-0,(ES) Movistar Series
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", (ES) Movistar Series
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14506.ts  
 EXTINF:-0,(ES) Nat Geo Wild   
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14496.ts
 EXTINF:-0,ES) TCM HD  
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14484.ts
  
-#EXTINF:-1,ES: 24 Horas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: 24 Horas
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3366.ts
  
-#EXTINF:-1,ES: AMC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: AMC
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3364.ts
-#EXTINF:-1,ES: Antenna 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Antenna 3
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3362.ts
  
-#EXTINF:-1,ES: Baby TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Baby TV
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3360.ts
-#EXTINF:-1,ES: Barca TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Barca TV
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3359.ts
-#EXTINF:-1,ES: Bein La Liga
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Bein La Liga
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3358.ts
-#EXTINF:-1,ES: Bein Sport Spain
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Bein Sport Spain
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3357.ts
-#EXTINF:-1,ES: Boing
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Boing
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3356.ts
-#EXTINF:-1,ES: Calle 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Calle 13
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3354.ts
-#EXTINF:-1,ES: CANAL #0*
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: CANAL #0*
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3355.ts
  
-#EXTINF:-1,ES: Canal Cocina
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Cocina
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3351.ts
-#EXTINF:-1,ES: Canal Comedia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Comedia
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3350.ts
-#EXTINF:-1,ES: Canal Dcine
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Dcine
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3349.ts
-#EXTINF:-1,ES: Canal Deportes 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Deportes 1
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3347.ts
-#EXTINF:-1,ES: Canal Deportes 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Deportes 2
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3346.ts
-#EXTINF:-1,ES: Canal Estrenos
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Estrenos
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3345.ts
  
-#EXTINF:-1,ES: Canal Futbal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Futbal
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3343.ts
  
-#EXTINF:-1,ES: Canal Motogp
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Motogp
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3341.ts
-#EXTINF:-1,ES: Canal Orbe 21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Orbe 21
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3340.ts
  
-#EXTINF:-1,ES: Canal Series Xtra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Series Xtra
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3338.ts
  
-#EXTINF:-1,ES: Crime&Investigation
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Crime&Investigation
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3333.ts
  
-#EXTINF:-1,ES: Decasa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Decasa
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3331.ts
-#EXTINF:-1,ES: Discovery Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Discovery Channel
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3330.ts
-#EXTINF:-1,ES: Disney Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Disney Channel
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3329.ts
-#EXTINF:-1,ES: Disney Jr.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Disney Jr.
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3328.ts
-#EXTINF:-1,ES: Disney XD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Disney XD
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3327.ts
-#EXTINF:-1,ES: Eurosport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Eurosport 1
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3325.ts
-#EXTINF:-1,ES: Eurosport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Eurosport 2
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3324.ts
-#EXTINF:-1,ES: FDF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: FDF
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3323.ts
-#EXTINF:-1,ES: Fox
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Fox
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3321.ts
  
-#EXTINF:-1,ES: GOL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: GOL
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3320.ts
-#EXTINF:-1,ES: Historia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Historia
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3319.ts
-#EXTINF:-1,ES: Canal Hollywood HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Hollywood HD
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3318.ts
-#EXTINF:-1,ES: Iberalia TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Iberalia TV
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3317.ts
-#EXTINF:-1,ES: LA 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: LA 1
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3316.ts
-#EXTINF:-1,ES: La 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: La 2
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3304.ts
-#EXTINF:-1,ES: La Liga
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: La Liga
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3314.ts
-#EXTINF:-1,ES: LA Sexta
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: LA Sexta
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3315.ts
  
-#EXTINF:-1,ES: MEZZO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: MEZZO
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3312.ts
-#EXTINF:-1,ES: MTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: MTV
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3311.ts
-#EXTINF:-1,ES: Nat Geo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Nat Geo
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3326.ts
-#EXTINF:-1,ES: Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Nat Geo Wild
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3309.ts
-#EXTINF:-1,ES: Nick Jr.
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Nick Jr.
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3348.ts
  
-#EXTINF:-1,ES: NOVA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: NOVA
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3310.ts
-#EXTINF:-1,ES: Odisea
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Odisea
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3307.ts
-#EXTINF:-1,ES: Paramount Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Paramount Channel
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3306.ts
  
-#EXTINF:-1,ES: TCM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: TCM
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3302.ts
-#EXTINF:-1,ES: Telecinco
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Telecinco
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3298.ts
-#EXTINF:-1,ES: TELEDEPORTE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: TELEDEPORTE
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3301.ts
-#EXTINF:-1,ES: TNT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: TNT
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3300.ts
-#EXTINF:-1,ES: Toros
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Toros
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3297.ts
-#EXTINF:-1,ES: TV Galicia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: TV Galicia
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3299.ts
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="Deportes", CDO Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 2",  CDO Premium
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/Deportv_logo-magenta_RGB-01-730x299.png" ,DEPORTV
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 2", DEPORTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.olympicchannel.com/static/images/oc-share-preview.jpg" ,OLYMPIC CHANNEL
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 2", OLYMPIC CHANNEL
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/COSPANAMA.svg/1200px-COSPANAMA.svg.png" ,CABLEONDA SPORT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 2", CABLEONDA SPORT
 http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://static.cableondasports.com/site/assets/files/25027/cos-fc-cableondasports.226x90.jpg" ,COS FC SPORT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 2", COS FC SPORT
 http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.sportyou.es/blog/wp-content/uploads/2015/09/realmadridtv.jpg" ,REALMADRID TV
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 2", REALMADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
 
-#EXTINF:-1 tvg-logo="http://vertelevisor.com/imagenes/SFC.jpg" ,SEVILLA FC TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 2", SEVILLA FC TV
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-logo="http://blog.roku.com/wp-content/uploads/2015/03/Red-Bull-TV-logo.png" ,REDBULL TV
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 2", REDBULL TV
 http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
- 
- 
-#EXTINF:-1,TDN SPORT
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 2", TDN SPORT
 http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="NOTICIAS",CNN USA
+http://189.216.247.113/Content/HLS/Live/Channel(CNN_HD)/index.m3u8
+
+
+
+ 
+ 
+
 #EXTINF:-1,Hist tv
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8
 
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Foro TV HD" tvg-logo="http://iptvmexico.xyz/logos/png/2001.png", Foro TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Foro TV HD
 http://www.iptvmexico.xyz/ch/2001.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Canal 5 HD" tvg-logo="http://iptvmexico.xyz/logos/png/294.png", Canal 5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Canal 5 HD
 http://www.iptvmexico.xyz/ch/294.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Gala TV HD" tvg-logo="http://iptvmexico.xyz/logos/png/129.png", Gala TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Gala TV HD
 http://www.iptvmexico.xyz/ch/129.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Once TV" tvg-logo="http://iptvmexico.xyz/logos/png/35.png", Once Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx",  Once Tv
 http://www.iptvmexico.xyz/ch/35.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Azteca 13 HD" tvg-logo="http://iptvmexico.xyz/logos/png/26.png", Azteca 13 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Azteca 13 HD
 http://www.iptvmexico.xyz/ch/26.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Az Corazon" tvg-logo="http://iptvmexico.xyz/logos/png/394.png", Az Corazon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Az Corazon
 http://www.iptvmexico.xyz/ch/394.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Az Mundo" tvg-logo="http://iptvmexico.xyz/logos/png/2072.png", Az Mundo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Az Mundo
 http://www.iptvmexico.xyz/ch/2072.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Canal 22" tvg-logo="http://iptvmexico.xyz/logos/png/32.png", Canal 22
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Canal 22
 http://www.iptvmexico.xyz/ch/32.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Mexiquense TV" tvg-logo="http://iptvmexico.xyz/logos/png/2041.png", Mexiquense TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Mexiquense TV
 http://www.iptvmexico.xyz/ch/2041.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="ADN 40" tvg-logo="http://iptvmexico.xyz/logos/png/2003.png", ADN 40
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", ADN 40
 http://www.iptvmexico.xyz/ch/2003.m3u8
  
  
-#EXTINF:-1 tvg-shift=0 tvg-name="F1 Latin America" tvg-logo="http://iptvmexico.xyz/logos/png/847.png", F1 LatinoAmerica
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", F1 LatinoAmerica
 http://www.iptvmexico.xyz/ch/847.m3u8
 
-EXTINF:-1 tvg-shift=0 tvg-name="Fox Sports HD" tvg-logo="http://iptvmexico.xyz/logos/png/57.png", Fox Sports HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Fox Sports HD
 http://www.iptvmexico.xyz/ch/57.m3u8
  
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Anime TV" tvg-logo="http://iptvmexico.xyz/logos/png/965.png", Anime TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Anime TV
 http://www.iptvmexico.xyz/ch/965.m3u8
  
  
-EXTINF:-1 tvg-shift=0 tvg-name="Boomerang" tvg-logo="http://iptvmexico.xyz/logos/png/224.png", Boomerang
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Boomerang
 http://www.iptvmexico.xyz/ch/224.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Cartoon Network" tvg-logo="http://iptvmexico.xyz/logos/png/36.png", Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Cartoon Network
 http://www.iptvmexico.xyz/ch/36.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Discovery Kids" tvg-logo="http://iptvmexico.xyz/logos/png/45.png", Discovery Kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Discovery Kids
 http://www.iptvmexico.xyz/ch/45.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Disney Channel" tvg-logo="http://iptvmexico.xyz/logos/png/41.png", Disney Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Disney Channel
 http://www.iptvmexico.xyz/ch/41.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Disney Junior" tvg-logo="http://iptvmexico.xyz/logos/png/89.png", Disney Junior
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Disney Junior
 http://www.iptvmexico.xyz/ch/89.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Disney XD" tvg-logo="http://iptvmexico.xyz/logos/png/123.png", Disney XD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Disney XD
 http://www.iptvmexico.xyz/ch/123.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Locomotion" tvg-logo="http://iptvmexico.xyz/logos/png/2022.png", Locomotion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Locomotion
 http://www.iptvmexico.xyz/ch/2022.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Los Simpson" tvg-logo="http://iptvmexico.xyz/logos/png/2035.png", Los Simpson
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Los Simpson
 http://www.iptvmexico.xyz/ch/2035.m3u8
  
  
-EXTINF:-1 tvg-shift=0 tvg-name="Nickelodeon" tvg-logo="http://iptvmexico.xyz/logos/png/44.png", Nickelodeon HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Nickelodeon HD
 http://www.iptvmexico.xyz/ch/44.m3u8
- 
-EXTINF:-1 tvg-shift=0 tvg-name="Nick Jr" tvg-logo="http://iptvmexico.xyz/logos/png/222.png", Nick Jr.
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Nick Jr.
 http://www.iptvmexico.xyz/ch/222.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="NickToons" tvg-logo="http://iptvmexico.xyz/logos/png/310.png", NickToons
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", NickToons
 http://www.iptvmexico.xyz/ch/310.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="NiuMedia" tvg-logo="https://lh3.googleusercontent.com/ue6Egka2vQ4RUXmC0bQmHfWInNt7TtAUJbju1euIaNpYSs2xgsC-6Cy12bYsX7zF4301=w300", NiuMedia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", NiuMedia
 http://www.iptvmexico.xyz/ch/2080.m3u8
  
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Retro Cartoon" tvg-logo="http://iptvmexico.xyz/logos/png/2039.png", Retro Cartoon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Retro Cartoon
 http://www.iptvmexico.xyz/ch/2039.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="TIIN" tvg-logo="http://iptvmexico.xyz/logos/png/208.png", TIIN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", TIIN
 http://www.iptvmexico.xyz/ch/208.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Tooncast" tvg-logo="http://iptvmexico.xyz/logos/png/131.png", Tooncast
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Tooncast
 http://www.iptvmexico.xyz/ch/131.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="AMC" tvg-logo="http://iptvmexico.xyz/logos/png/232.png", AMC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", AMC
 http://www.iptvmexico.xyz/ch/232.m3u8
  
- 
-EXTINF:-1 tvg-shift=-1 tvg-name="Cinecanal" tvg-logo="http://iptvmexico.xyz/logos/png/110.png", Cinecanal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Cinecanal
 http://www.iptvmexico.xyz/ch/110.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Cinemax" tvg-logo="http://iptvmexico.xyz/logos/png/1385.png", Cinemax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Cinemax
 http://www.iptvmexico.xyz/ch/1385.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="De Pelicula" tvg-logo="http://iptvmexico.xyz/logos/png/365.png", De Película
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", De Película
 http://www.iptvmexico.xyz/ch/365.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="ExtremaTV" tvg-logo="http://iptvmexico.xyz/logos/png/2023.png", ExtremaTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", ExtremaTV
 http://www.iptvmexico.xyz/ch/2023.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Golden Edge" tvg-logo="http://iptvmexico.xyz/logos/png/179.png", Golden Edge
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Golden Edge
 http://www.iptvmexico.xyz/ch/179.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Golden Plus" tvg-logo="http://iptvmexico.xyz/logos/png/231.png", Golden Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Golden Plus
 http://www.iptvmexico.xyz/ch/231.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="I.Sat" tvg-logo="http://iptvmexico.xyz/logos/png/301.png", I.Sat
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", I.Sat
 http://www.iptvmexico.xyz/ch/301.m3u8
  
  
-EXTINF:-1 tvg-shift=0 tvg-name="Studio Universal" tvg-logo="http://iptvmexico.xyz/logos/png/233.png", Studio Univeral
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Studio Univeral
 http://www.iptvmexico.xyz/ch/233.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="SyFy" tvg-logo="http://iptvmexico.xyz/logos/png/211.png", SyFy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", SyFy
 http://www.iptvmexico.xyz/ch/211.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="TCM" tvg-logo="http://iptvmexico.xyz/logos/png/234.png", TCM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", TCM
 http://www.iptvmexico.xyz/ch/234.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="TNT" tvg-logo="http://iptvmexico.xyz/logos/png/30.png", TNT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", TNT
 http://www.iptvmexico.xyz/ch/302.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="TNT HD" tvg-logo="http://iptvmexico.xyz/logos/png/31.png", TNT HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", TNT HD
 http://www.iptvmexico.xyz/ch/31.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="AE" tvg-logo="http://iptvmexico.xyz/logos/png/323.png", A&E
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", A&E
 http://www.iptvmexico.xyz/ch/323.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="AE HD" tvg-logo="http://iptvmexico.xyz/logos/png/324.png", A&E HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx",  A&E HD
 http://www.iptvmexico.xyz/ch/324.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="AtreSeries" tvg-logo="http://iptvmexico.xyz/logos/png/2007.png", AtreSeries
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", AtreSeries
 http://www.iptvmexico.xyz/ch/2007.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Comedy Central HD" tvg-logo="http://iptvmexico.xyz/logos/png/284.png", Comedy Central HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Comedy Central HD
 http://www.iptvmexico.xyz/ch/284.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Distrito Comedia" tvg-logo="http://iptvmexico.xyz/logos/png/181.png", Distrito Comedia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Distrito Comedia
 http://www.iptvmexico.xyz/ch/181.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Fox HD" tvg-logo="http://iptvmexico.xyz/logos/png/438.png", Fox HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Fox HD
 http://www.iptvmexico.xyz/ch/438.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Fox Life" tvg-logo="http://iptvmexico.xyz/logos/png/216.png", Fox Life HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Fox Life HD
 http://www.iptvmexico.xyz/ch/216.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="FX" tvg-logo="http://iptvmexico.xyz/logos/png/115.png", FX
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", FX
 http://www.iptvmexico.xyz/ch/115.m3u8
  
  
 EXTINF:-1 tvg-shift=0 tvg-name="TBS veryfunny" tvg-logo="http://iptvmexico.xyz/logos/png/286.png", TBS veryfunny
 http://www.iptvmexico.xyz/ch/286.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="TNT Series" tvg-logo="http://iptvmexico.xyz/logos/png/200.png", TNT Series
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", TNT Series
 http://www.iptvmexico.xyz/ch/200.m3u8
 
-EXTINF:-1 tvg-shift=0 tvg-name="TruTV HD" tvg-logo="http://iptvmexico.xyz/logos/png/320.png", TruTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", TruTV HD
 http://www.iptvmexico.xyz/ch/320.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Universal Channel" tvg-logo="http://iptvmexico.xyz/logos/png/148.png", Universal Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Universal Channel
 http://www.iptvmexico.xyz/ch/148.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Universal Channel HD" tvg-logo="http://iptvmexico.xyz/logos/png/344.png", Universal Channel HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Universal Channel HD
 http://www.iptvmexico.xyz/ch/344.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Warner Channel" tvg-logo="http://iptvmexico.xyz/logos/png/327.png", Warner Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Warner Channel
 http://www.iptvmexico.xyz/ch/327.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Warner HD" tvg-logo="http://iptvmexico.xyz/logos/png/21.png", Warner HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Warner HD
 http://www.iptvmexico.xyz/ch/21.m3u8
  
-EXTINF:-1 tvg-shift=-3 tvg-name="Fox Action" tvg-logo="http://iptvmexico.xyz/logos/png/217.png", Fox Premium Action
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Fox Premium Action
 http://www.iptvmexico.xyz/ch/217.m3u8
  
 EXTINF:-1 tvg-shift=0 tvg-name="Fox Cinema" tvg-logo="http://iptvmexico.xyz/logos/png/230.png", Fox Premium Cinema
 http://www.iptvmexico.xyz/ch/230.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Fox Classics" tvg-logo="http://iptvmexico.xyz/logos/png/228.png", Fox Premium Classics
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Fox Premium Classics
 http://www.iptvmexico.xyz/ch/228.m3u8
  
  
-EXTINF:-1 tvg-shift=0 tvg-name="Fox Movies" tvg-logo="http://iptvmexico.xyz/logos/png/305.png", Fox Premium Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Fox Premium Movies
 http://www.iptvmexico.xyz/ch/305.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Fox Series" tvg-logo="http://iptvmexico.xyz/logos/png/379.png", Fox Premium Series
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Fox Premium Series
 http://www.iptvmexico.xyz/ch/379.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Animal Planet" tvg-logo="http://iptvmexico.xyz/logos/png/114.png", Animal Planet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Animal Planet
 http://www.iptvmexico.xyz/ch/114.m3u8
  
  
-EXTINF:-1 tvg-shift=0 tvg-name="Discovery World HD" tvg-logo="http://iptvmexico.xyz/logos/png/226.png", Discovery World HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Discovery World HD
 http://www.iptvmexico.xyz/ch/226.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Discovery Channel HD" tvg-logo="http://iptvmexico.xyz/logos/png/40.png", Discovery Channel HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Discovery Channel HD
 http://www.iptvmexico.xyz/ch/40.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Discovery Civilization" tvg-logo="http://iptvmexico.xyz/logos/png/287.png", Discovery Civilization
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Discovery Civilization
 http://www.iptvmexico.xyz/ch/287.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Discovery Science" tvg-logo="http://iptvmexico.xyz/logos/png/288.png", Discovery Science
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Discovery Science
 http://www.iptvmexico.xyz/ch/288.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Discovery Turbo" tvg-logo="http://iptvmexico.xyz/logos/png/289.png", Discovery Turbo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Discovery Turbo
 http://www.iptvmexico.xyz/ch/289.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Discovery Theater" tvg-logo="http://iptvmexico.xyz/logos/png/290.png", Discovery Theater
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Discovery Theater
 http://www.iptvmexico.xyz/ch/290.m3u8
  
 EXTINF:-1 tvg-shift=0 tvg-name="Discovery Home and Health" tvg-logo="http://iptvmexico.xyz/logos/png/292.png", Discovery Home and Health
 http://www.iptvmexico.xyz/ch/292.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="H2 (History 2)" tvg-logo="http://iptvmexico.xyz/logos/png/2012.png", H2 (History 2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", H2 (History 2)
 http://www.iptvmexico.xyz/ch/2012.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="History Channel HD" tvg-logo="http://iptvmexico.xyz/logos/png/270.png", History Channel HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", History Channel HD
 http://www.iptvmexico.xyz/ch/270.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Inti HD" tvg-logo="http://iptvmexico.xyz/logos/png/2079.png", Inti HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Inti HD
 http://www.iptvmexico.xyz/ch/2079.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="NatGeo" tvg-logo="http://iptvmexico.xyz/logos/png/50.png", NatGeo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", NatGeo
 http://www.iptvmexico.xyz/ch/50.m3u8
- 
-EXTINF:-1 tvg-shift=0 tvg-name="NatGeo Wild" tvg-logo="http://iptvmexico.xyz/logos/png/2014.png", NatGeo Wild
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", NatGeo Wild
 http://www.iptvmexico.xyz/ch/2014.m3u8
- 
-#EXTINF:-1 tvg-shift=0 tvg-name="Sun Channel" tvg-logo="http://iptvmexico.xyz/logos/png/2034.png", Sun Channel
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Sun Channel
 http://www.iptvmexico.xyz/ch/2034.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="TLC" tvg-logo="http://iptvmexico.xyz/logos/png/833.png", TLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", TLC
 http://www.iptvmexico.xyz/ch/833.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="WOBI" tvg-logo="http://iptvmexico.xyz/logos/png/903.png", WOBI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", WOBI
 http://www.iptvmexico.xyz/ch/903.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="A+" tvg-logo="http://iptvmexico.xyz/logos/png/2020.png", A+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", A+
 http://www.iptvmexico.xyz/ch/2020.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Antena 3" tvg-logo="http://iptvmexico.xyz/logos/png/77.png", Antena 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Antena 3
 http://www.iptvmexico.xyz/ch/77.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Canal Claro HD" tvg-logo="http://iptvmexico.xyz/logos/png/2071.png", Canal Claro HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Canal Claro HD
 http://www.iptvmexico.xyz/ch/2071.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Caracol HD" tvg-logo="http://iptvmexico.xyz/logos/png/2074.png", Caracol HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Caracol HD
 http://www.iptvmexico.xyz/ch/2074.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="E! Entertainment Television" tvg-logo="http://iptvmexico.xyz/logos/png/215.png", E! Entertainment Television
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", E! Entertainment Television
 http://www.iptvmexico.xyz/ch/215.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Garage TV" tvg-logo="http://iptvmexico.xyz/logos/png/760.png", Garage TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Garage TV
 http://www.iptvmexico.xyz/ch/760.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="El 4" tvg-logo="http://iptvmexico.xyz/logos/png/2036.png", El 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", El 4
 http://www.iptvmexico.xyz/ch/2036.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="ElGourmet" tvg-logo="http://iptvmexico.xyz/logos/png/312.png", El Gourmet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", El Gourmet
 http://www.iptvmexico.xyz/ch/312.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Glitz" tvg-logo="http://iptvmexico.xyz/logos/png/3068.png", Glitz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Glitz
 http://www.iptvmexico.xyz/ch/2068.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Hola TV" tvg-logo="http://iptvmexico.xyz/logos/png/1209.png", Hola TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Hola TV
 http://www.iptvmexico.xyz/ch/1209.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="La Sexta" tvg-logo="http://iptvmexico.xyz/logos/png/2004.png", La Sexta
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", La Sexta
 http://www.iptvmexico.xyz/ch/2004.m3u8
- 
-EXTINF:-1 tvg-shift=0 tvg-name="Mas Chic" tvg-logo="http://iptvmexico.xyz/logos/png/2070.png", Mas Chic
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Mas Chic
 http://www.iptvmexico.xyz/ch/2070.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Pasiones" tvg-logo="http://iptvmexico.xyz/logos/png/2073.png", Pasiones
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Pasiones
 http://www.iptvmexico.xyz/ch/2073.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="RCN HD" tvg-logo="http://iptvmexico.xyz/logos/png/2037.png", RCN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", RCN HD
 http://www.iptvmexico.xyz/ch/2037.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="RCN Nuestra Tele" tvg-logo="http://iptvmexico.xyz/logos/png/2075.png", RCN Nuestra Tele
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", RCN Nuestra Tele
 http://www.iptvmexico.xyz/ch/2075.m3u8
- 
-EXTINF:-1 tvg-shift=0 tvg-name="RCN Telenovelas" tvg-logo="http://iptvmexico.xyz/logos/png/2069.png", RCN Telenovelas
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", RCN Telenovelas
 http://www.iptvmexico.xyz/ch/2069.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Telemundo" tvg-logo="http://iptvmexico.xyz/logos/png/2027.png", Telemundo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Telemundo
 http://www.iptvmexico.xyz/ch/2027.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Tlnovelas" tvg-logo="http://iptvmexico.xyz/logos/png/12.png", Tlnovelas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Tlnovelas
 http://www.iptvmexico.xyz/ch/12.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Trendy" tvg-logo="http://iptvmexico.xyz/logos/png/2021.png", Trendy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Trendy
 http://www.iptvmexico.xyz/ch/2021.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="TVE Internacional" tvg-logo="http://iptvmexico.xyz/logos/png/140.png", TVE Internacional (Televisión Española)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", TVE Internacional (Televisión Española)
 http://www.iptvmexico.xyz/ch/140.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Unicable" tvg-logo="http://iptvmexico.xyz/logos/png/212.png", Unicable HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Unicable HD
 http://www.iptvmexico.xyz/ch/212.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="BBC World" tvg-logo="http://iptvmexico.xyz/logos/png/2067.png", BBC World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", BBC World
 http://www.iptvmexico.xyz/ch/2067.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Efekto TV" tvg-logo="http://iptvmexico.xyz/logos/png/2024.png", Efekto TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Efekto TV
 http://www.iptvmexico.xyz/ch/2024.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="MVS Noticias" tvg-logo="http://iptvmexico.xyz/logos/png/2040.png", MVS Noticias
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", MVS Noticias
 http://www.iptvmexico.xyz/ch/2040.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Milenio TV" tvg-logo="http://iptvmexico.xyz/logos/png/2013.png", Milenio HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Milenio HD
 http://www.iptvmexico.xyz/ch/1283.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Teleformula" tvg-logo="http://iptvmexico.xyz/logos/png/440.png", Telefórmula
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Telefórmula
 http://www.iptvmexico.xyz/ch/440.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Fox News" tvg-logo="http://iptvmexico.xyz/logos/png/2066.png", Fox News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Fox News
 http://www.iptvmexico.xyz/ch/2066.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Bandamax" tvg-logo="http://iptvmexico.xyz/logos/png/361.png", Bandamax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Bandamax
 http://www.iptvmexico.xyz/ch/361.m3u8
  
  
-EXTINF:-1 tvg-shift=0 tvg-name="HTV" tvg-logo="http://iptvmexico.xyz/logos/png/2052.png", HTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", HTV
 http://www.iptvmexico.xyz/ch/2052.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="MC Music" tvg-logo="http://iptvmexico.xyz/logos/png/2033.png", MC Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", MC Music
 http://www.iptvmexico.xyz/ch/2033.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Mi Musica" tvg-logo="http://iptvmexico.xyz/logos/png/2031.png", Mi Musica
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Mi Musica
 http://www.iptvmexico.xyz/ch/2031.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="MTV" tvg-logo="http://iptvmexico.xyz/logos/png/18.png", MTV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", MTV HD
 http://www.iptvmexico.xyz/ch/18.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="MTV Hits" tvg-logo="http://iptvmexico.xyz/logos/png/399.png", MTV Hits
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", MTV Hits
 http://www.iptvmexico.xyz/ch/399.m3u8
  
  
-#EXTINF:-1 tvg-shift=0 tvg-name="One TV" tvg-logo="http://iptvmexico.xyz/logos/png/1276.png", One TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", One TV
 http://www.iptvmexico.xyz/ch/1276.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Ritmoson" tvg-logo="http://iptvmexico.xyz/logos/png/209.png", Ritmoson
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Ritmoson
 http://www.iptvmexico.xyz/ch/209.m3u8
- 
-EXTINF:-1 tvg-shift=0 tvg-name="Telehit" tvg-logo="http://iptvmexico.xyz/logos/png/501.png", Telehit
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Telehit
 http://www.iptvmexico.xyz/ch/501.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Tigo Music" tvg-logo="http://iptvmexico.xyz/logos/png/2026.png", Tigo Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Tigo Music
 http://www.iptvmexico.xyz/ch/2026.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="VH1" tvg-logo="http://iptvmexico.xyz/logos/png/235.png", VH1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", VH1
 http://www.iptvmexico.xyz/ch/235.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Virgin Music" tvg-logo="http://iptvmexico.xyz/logos/png/2032.png", Virgin Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Virgin Music
 http://www.iptvmexico.xyz/ch/2032.m3u8
 
 
-#EXTINF:-1 tvg-shift=0 tvg-name="Foro TV HD" tvg-logo="http://iptvmexico.xyz/logos/png/2001.png", Foro TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Foro TV HD
 http://www.iptvmexico.xyz/ch/2001.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Canal 5 HD" tvg-logo="http://iptvmexico.xyz/logos/png/294.png", Canal 5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Canal 5 HD
 http://www.iptvmexico.xyz/ch/294.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Gala TV HD" tvg-logo="http://iptvmexico.xyz/logos/png/129.png", Gala TV HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Gala TV HD
 http://www.iptvmexico.xyz/ch/129.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Once TV" tvg-logo="http://iptvmexico.xyz/logos/png/35.png", Once Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Once Tv
 http://www.iptvmexico.xyz/ch/35.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Azteca 13 HD" tvg-logo="http://iptvmexico.xyz/logos/png/26.png", Azteca 13 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Azteca 13 HD
 http://www.iptvmexico.xyz/ch/26.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Az Corazon" tvg-logo="http://iptvmexico.xyz/logos/png/394.png", Az Corazon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Az Corazon
 http://www.iptvmexico.xyz/ch/394.m3u8
  
-EXTINF:-1 tvg-shift=0 tvg-name="Az Mundo" tvg-logo="http://iptvmexico.xyz/logos/png/2072.png", Az Mundo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Az Mundo
 http://www.iptvmexico.xyz/ch/2072.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Canal 22" tvg-logo="http://iptvmexico.xyz/logos/png/32.png", Canal 22
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Canal 22
 http://www.iptvmexico.xyz/ch/32.m3u8
  
-#EXTINF:-1 tvg-shift=0 tvg-name="Mexiquense TV" tvg-logo="http://iptvmexico.xyz/logos/png/2041.png", Mexiquense TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png"  group-title="IPTVmx", Mexiquense TV
 http://www.iptvmexico.xyz/ch/2041.m3u8
+
+
+
+
+
+
+
 
 #EXTINF:0 group-title="LATINO",ANTENA 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
