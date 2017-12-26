@@ -12,159 +12,160 @@ https://github.com/TVCABLEAR/
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", (ES) AXN HD
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14578.ts
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14578.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ESP TNT 
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/10268.ts
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/10268.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", (ES) AXN HD 
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14580.ts
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14580.m3u8
  
-EXTINF:-0,(ES) Energy 
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14545.ts
+#EXTINF:-0,(ES) Energy 
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14545.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", (ES) Eurosport 1
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14544.ts
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14544.m3u8
 EXTINF:-0,ES) Eurosport 1 HD  
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14543.ts
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14543.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", (ES) FDF
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14541.ts
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14541.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", (ES) FOX
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14540.ts
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14540.m3u8
 EXTINF:-0,(ES) FOX HD  \
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14539.ts
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14539.m3u8
 EXTINF:-0,) FOX Life HD   
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14537.ts
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14537.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", (ES) Gol
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14536.ts
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14536.m3u8
  
 EXTINF:-0,Movistar Comedia
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14522.ts
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14522.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", Movistar Comedia HD 
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14521.ts
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14521.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", (ES) Movistar Series
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14506.ts  
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14506.m3u8  
 EXTINF:-0,(ES) Nat Geo Wild   
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14496.ts
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14496.m3u8
 EXTINF:-0,ES) TCM HD  
-http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14484.ts
+http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14484.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: 24 Horas
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3366.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3366.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: AMC
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3364.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3364.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Antenna 3
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3362.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3362.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Baby TV
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3360.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3360.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Barca TV
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3359.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3359.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Bein La Liga
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3358.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3358.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Bein Sport Spain
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3357.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3357.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Boing
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3356.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3356.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Calle 13
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3354.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3354.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: CANAL #0*
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3355.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3355.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Cocina
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3351.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3351.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Comedia
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3350.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3350.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Dcine
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3349.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3349.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Deportes 1
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3347.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3347.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Deportes 2
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3346.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3346.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Estrenos
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3345.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3345.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Futbal
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3343.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3343.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Motogp
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3341.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3341.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Orbe 21
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3340.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3340.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Series Xtra
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3338.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3338.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Crime&Investigation
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3333.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3333.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Decasa
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3331.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3331.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Discovery Channel
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3330.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3330.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Disney Channel
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3329.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3329.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Disney Jr.
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3328.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3328.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Disney XD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3327.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3327.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Eurosport 1
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3325.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3325.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Eurosport 2
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3324.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3324.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: FDF
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3323.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3323.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Fox
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3321.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3321.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: GOL
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3320.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3320.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Historia
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3319.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3319.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Canal Hollywood HD
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3318.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3318.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Iberalia TV
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3317.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3317.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: LA 1
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3316.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3316.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: La 2
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3304.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3304.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: La Liga
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3314.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3314.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: LA Sexta
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3315.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3315.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: MEZZO
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3312.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3312.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: MTV
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3311.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3311.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Nat Geo
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3326.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3326.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Nat Geo Wild
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3309.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3309.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Nick Jr.
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3348.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3348.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: NOVA
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3310.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3310.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Odisea
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3307.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3307.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Paramount Channel
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3306.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3306.m3u8
  
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: TCM
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3302.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3302.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Telecinco
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3298.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3298.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: TELEDEPORTE
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3301.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3301.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: TNT
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3300.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3300.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: Toros
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3297.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3297.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 1", ES: TV Galicia
-http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3299.ts
+http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3299.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="LISTA 2",  CDO Premium
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
