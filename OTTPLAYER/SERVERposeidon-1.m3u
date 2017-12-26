@@ -1,0 +1,91 @@
+
+
+#EXTM3U
+
+
+#EXTINF:-1,BANDAMAX 
+http://wowza2.mysoltv.com:1992/Latino_BANDAMAX/index.m3u8 
+#EXTINF:-1,CANAL EI 
+http://wowza2.mysoltv.com:1992/Latino_CINELATINO/index.m3u8 
+#EXTINF:-1,DISCOVERY KIDS SD 
+http://wowza2.mysoltv.com:1992/Latino_Claro_Sports/index.m3u8 
+#EXTINF:-1,LIFETIME SD 
+http://wowza2.mysoltv.com:1992/Latino_LIFETIME/index.m3u8 
+#EXTINF:-1,HISTORY 
+https://live2.userapi.com/639900/live/uK7viRRAfwjhsWQw/playlist.m3u8 
+#EXTINF:-1,ESPN 
+https://live10.userapi.com/637601/live/1gJD5yNAfz8Y-Icl/playlist.m3u8 
+#EXTINF:-1,ESPN 3 
+https://live75.vkuserlive.com/637602/live/CJ7fOVNAf08zQQ8v/playlist.m3u8 
+#EXTINF:-1,AZ Click HD 
+http://wowza2.mysoltv.com:1992/Latino_Az_Click_HD/index.m3u8 
+#EXTINF:-1,Fox Series HD 
+http://wowza2.mysoltv.com:1992/Latino_Fox_1_HD/index.m3u8 
+#EXTINF:-1,ESPN 
+http://wowza2.mysoltv.com:1992/Latino_ESPN/index.m3u8 
+#EXTINF:-1,Fashion TV 
+http://prepublish.f.qaotic.net/a06/ngrp:ftv_live01-100083_all/chunklist_b1596000.m3u8 
+#EXTINF:-1,Animal Planet USA 
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8 
+#EXTINF:-1,Sun Channel 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8 
+#EXTINF:-1,Power 
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/chunklist_w668249396.m3u8 
+#EXTINF:-1,Cool 
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8 
+#EXTINF:-1,Rock Nacional TV 
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8 
+#EXTINF:-1,Djing 
+http://www.djing.com/tv/i-05.m3u8 
+#EXTINF:-1,Music Top 
+http://liveedge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1,Mi Musica 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1,Top Latino 
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8 
+#EXTINF:-1,Melody Channel 
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8 
+#EXTINF:-1,Tigo Music 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?tecnotv.info?iptv.m3u8 
+#EXTINF:-1,Hit TV 
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist_w.m3u8 
+#EXTINF:-1,Telemusica 
+http://186.155.200.118:1935/live/telemusica/livestream.m3u8 
+#EXTINF:-1,Virgin TV 
+http://wow01.105.net/live/virgin1/chunklist.m3u8 
+#EXTINF:-1,Music Choice 
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8 
+#EXTINF:-1,Heart TV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8 
+#EXTINF:-1,Vibee 
+http://46.101.21.42:8081/live/live2/playlist.m3u8 
+#EXTINF:-1,Capital TV Music 
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8 
+#EXTINF:-1,Retro Music 
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8 
+#EXTINF:-1,NIU 
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u 
+#EXTINF:-1,Los Simpsons 24hs 
+http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1,Anime TV 
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+#EXTINF:-1,Canal LUZ 
+http://prepublish.f.qaotic.net/f01/ngrp:canal_luz01-100009_all/chunklist_b1692000.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1,Orbe 21 
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8 
+#EXTINF:-1,Enlace 
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1,EWTN 
+http://ewtn.mpl.miisolutions.net:80/ewtn-live-4/900.mp4/livestream.m3u8 
+#EXTINF:-1,Telesur 
+http://cdna.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8 
+#EXTINF:-1,TLT 
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8 
+#EXTINF:-1,CNN Chile 
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8 
+#EXTINF:-1,Chilevision 
+http://chv.movil.hls.ztreaming.com/chvmovil2/chilevision@140569/1.m3u8 
+#EXTINF:-1,UESTV 
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u 
+#EXTINF:-1,El Pinguino 
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8 
