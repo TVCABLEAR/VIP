@@ -1,234 +1,10 @@
+
+
+
 #EXTM3U
 
 
 
-#EXTINF:-1 tvg-logo="#" ,ID
-http://z1.iptvmanagerpro.com/stream_65_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
-EXTINF:-1 tvg-logo="#" ,AXN
-http://5g.iptvmanagerpro.com/stream_74_45dc3ada3e9571f7f2c5e35f8f134e7a_1513484172.m3u8
-#EXTINF:-1 tvg-logo="#" ,A&E
-http://s1.tvplayerlatino.com/ts/AEHD/2/_491.ts
-#EXTINF:-1 tvg-logo="#" ,ADN 40
-http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.guru-tv.rf.gd/wp/im/TNT.png" ,TNT
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="#" ,SPACE HD
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
-#EXTINF:-1 tvg-logo="#" ,TNT HD
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
-EXTINF:-1 tvg-logo="#" ,TNT HD
-http://z1.iptvmanagerpro.com/stream_15_ecba07918c0206469943ac992b3f6571_1513991435.m3u8
-EXTINF:-1 tvg-logo="#" ,TNT SERIES
-http://z1.iptvmanagerpro.com/stream_39_723bb4fe1e7aacd8a848401df5a1f149_1513991435.m3u8
-EXTINF:-1 tvg-logo="#" ,CINEMAX
-http://z1.iptvmanagerpro.com/stream_115_63151dd409fced7497f216bc9b528cd1_1513991435.m3u8
-EXTINF:-1 tvg-logo="http://www.guru-tv.rf.gd/wp/im/goldenedge.png" ,Golden Edge
-http://5g.iptvmanagerpro.com/stream_37_73515a667c815c8ad22862919d882939_1513462529.m3u8
-EXTINF:-1,COMEDY CENTRAL
-http://5g.iptvmanagerpro.com/stream_38_d59359dafa7dee09e4631e6881ff12aa_1513195053.m3u8
-EXTINF:-1,AXN
-http://5g.iptvmanagerpro.com/stream_74_45dc3ada3e9571f7f2c5e35f8f134e7a_1513484172.m3u8
-#EXTINF:-1,A&E
-http://5g.iptvmanagerpro.com/stream_48_a42218bc19e8f298b5d7b514d10aa6b9_1514214048.m3u8
-EXTINF:-1,TNT HD
-http://z1.iptvmanagerpro.com/stream_15_ecba07918c0206469943ac992b3f6571_1513991435.m3u8
-EXTINF:-1,TNT SERIES
-http://z1.iptvmanagerpro.com/stream_39_723bb4fe1e7aacd8a848401df5a1f149_1513991435.m3u8
-EXTINF:-1,CINEMAX
-http://z1.iptvmanagerpro.com/stream_115_63151dd409fced7497f216bc9b528cd1_1513991435.m3u8
-EXTINF:-1,CANAL SONY
-http://z1.iptvmanagerpro.com/stream_11_ecba07918c0206469943ac992b3f6571_1513991435.m3u8
-EXTINF:-1,CINE CANAL
-http://z1.iptvmanagerpro.com/stream_119_cf917e4fe259939bb4c3e684df8a6847_1513991435.m3u8
-#EXTINF:-1,AMC
-http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
-EXTINF:-1,TBS
-http://z1.iptvmanagerpro.com/stream_60_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
-EXTINF:-1,THE FILMZONE
-http://z1.iptvmanagerpro.com/stream_79_4c7f879c41bfd2ce60f9a7f32a02e7f1_1513991435.m3u8
-EXTINF:-1,CANAL SONY
-http://z1.iptvmanagerpro.com/stream_11_ecba07918c0206469943ac992b3f6571_1513991435.m3u8
-EXTINF:-1,CINE CANAL
-http://z1.iptvmanagerpro.com/stream_119_cf917e4fe259939bb4c3e684df8a6847_1513991435.m3u8
-EXTINF:-1,AMC
-http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
-EXTINF:-1,TBS
-http://z1.iptvmanagerpro.com/stream_60_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
-EXTINF:-1,THE FILMZONE
-http://z1.iptvmanagerpro.com/stream_79_4c7f879c41bfd2ce60f9a7f32a02e7f1_1513991435.m3u8
-EXTINF:-1,ANIMAL PLANET
-http://z1.iptvmanagerpro.com/stream_28_de38611eaa8c7762cbbc063ea5224e5b_1513991435.m3u8
-#EXTINF:-1,DISCOVERY
-http://5g.iptvmanagerpro.com/stream_19_15b79772e210db8b590ad77a9c08e45d_1514048442.m3u8
-EXTINF:-1,H&H
-http://z1.iptvmanagerpro.com/stream_66_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
-EXTINF:-1,HISTORY
-http://z1.iptvmanagerpro.com/stream_83_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
-#EXTINF:-1,NAT GEO
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
-EXTINF:-1,NAT GEO WILD
-http://5g.iptvmanagerpro.com/stream_82_c80270e3397ede59e8d7743e20c27faf_1513489035.m3u8
-EXTINF:-1,TLC
-http://z1.iptvmanagerpro.com/stream_105_a993eccbc21029fac970f7aad36006e1_1513991435.m3u8
-EXTINF:-1,FOX LATINOAMERICA
-http://5g.iptvmanagerpro.com/stream_98_4742fb40021635f666c3cdad0a814994_1513214025.m3u8
-EXTINF:-1,FOX LATINOAMERICA
-http://z1.iptvmanagerpro.com/stream_8_e1e22b4b3b9feefa49e0f1ac90060637_1513991435.m3u8
-EXTINF:-1,FOX SERIES
-http://z1.iptvmanagerpro.com/stream_89_0bd281acfe5880107cb0d06f2b42fb60_1513991435.m3u8
-EXTINF:-1,FOX MOVIES
-http://z1.iptvmanagerpro.com/stream_46_252c119ff7ab774aeac8777f4de95fca_1513991435.m3u8
-EXTINF:-1,FOX ACTION
-http://z1.iptvmanagerpro.com/stream_88_3a4b03ca3009a57092571683e413e554_1513991435.m3u8
-EXTINF:-1,FOX CINEMA
-http://z1.iptvmanagerpro.com/stream_53_cf407e0183d4425e8f2ab11c3ee7c72e_1513991435.m3u8
-EXTINF:-1,FOX CLASSISC
-http://z1.iptvmanagerpro.com/stream_52_f0feecf5417aebcb54b3ce279f3a755b_1513991435.m3u8
-EXTINF:-1,WARNER CHANNEL
-http://z1.iptvmanagerpro.com/stream_76_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
-EXTINF:-1,UNIVERSAL CHANNEL
-http://z1.iptvmanagerpro.com/stream_78_4dea19ed35c42edd427676809179f92f_1513991435.m3u8
-EXTINF:-1,GOLDEN PLUS
-http://z1.iptvmanagerpro.com/stream_54_7da70a51257717131cbb573326ed8fed_1513991435.m3u8
-EXTINF:-1,FOX LIFE
-http://z1.iptvmanagerpro.com/stream_44_432b485287f452b5a91d0c1b2f99d1d6_1513991435.m3u8
-
-
-EXTINF:-1,TLC
-http://z1.iptvmanagerpro.com/stream_105_a993eccbc21029fac970f7aad36006e1_1513991435.m3u8
-EXTINF:-1,FOX LATINOAMERICA
-http://5g.iptvmanagerpro.com/stream_98_4742fb40021635f666c3cdad0a814994_1513214025.m3u8
-EXTINF:-1,FOX LATINOAMERICA
-http://z1.iptvmanagerpro.com/stream_8_e1e22b4b3b9feefa49e0f1ac90060637_1513991435.m3u8
-EXTINF:-1,FOX SERIES
-http://z1.iptvmanagerpro.com/stream_89_0bd281acfe5880107cb0d06f2b42fb60_1513991435.m3u8
-EXTINF:-1,FOX MOVIES
-http://z1.iptvmanagerpro.com/stream_46_252c119ff7ab774aeac8777f4de95fca_1513991435.m3u8
-EXTINF:-1,FOX ACTION
-http://z1.iptvmanagerpro.com/stream_88_3a4b03ca3009a57092571683e413e554_1513991435.m3u8
-EXTINF:-1,FOX CINEMA
-http://z1.iptvmanagerpro.com/stream_53_cf407e0183d4425e8f2ab11c3ee7c72e_1513991435.m3u8
-EXTINF:-1,FOX CLASSISC
-http://z1.iptvmanagerpro.com/stream_52_f0feecf5417aebcb54b3ce279f3a755b_1513991435.m3u8
-EXTINF:-1,WARNER CHANNEL
-http://z1.iptvmanagerpro.com/stream_76_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
-EXTINF:-1,UNIVERSAL CHANNEL
-http://z1.iptvmanagerpro.com/stream_78_4dea19ed35c42edd427676809179f92f_1513991435.m3u8
-EXTINF:-1,GOLDEN PLUS
-http://z1.iptvmanagerpro.com/stream_54_7da70a51257717131cbb573326ed8fed_1513991435.m3u8
-EXTINF:-1,FOX LIFE
-http://z1.iptvmanagerpro.com/stream_44_432b485287f452b5a91d0c1b2f99d1d6_1513991435.m3u8
-EXTINF:-1,FX
-http://z1.iptvmanagerpro.com/stream_29_e3eb6de10f0aef6af5a98f7165338c6f_1513991435.m3u8
-EXTINF:-1,GOLDEN PLUS
-http://z1.iptvmanagerpro.com/stream_54_7da70a51257717131cbb573326ed8fed_1513991435.m3u8
-EXTINF:-1,DEPELICULA PLUS
-http://z1.iptvmanagerpro.com/stream_85_37d597d3b023bad0e8c26e5238249e16_1513991435.m3u8
-EXTINF:-1,SYFY
-http://z1.iptvmanagerpro.com/stream_42_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
-EXTINF:-1,TELENOVELAS
-http://z1.iptvmanagerpro.com/stream_9_c5335fd8de580606c4d45291b1d51d82_1513991435.m3u8
-EXTINF:-1,TRUTV
-http://z1.iptvmanagerpro.com/stream_73_d0d50ae98f5bd7266991a23c76761de1_1513991435.m3u8
-EXTINF:-1,UNICABLE
-http://z1.iptvmanagerpro.com/stream_43_217410b59add0e552e574b44f06d4d95_1513991435.m3u8
-
-EXTINF:-1,FX
-http://z1.iptvmanagerpro.com/stream_29_e3eb6de10f0aef6af5a98f7165338c6f_1513991435.m3u8
-EXTINF:-1,GOLDEN PLUS
-http://z1.iptvmanagerpro.com/stream_54_7da70a51257717131cbb573326ed8fed_1513991435.m3u8
-EXTINF:-1,DEPELICULA PLUS
-http://z1.iptvmanagerpro.com/stream_85_37d597d3b023bad0e8c26e5238249e16_1513991435.m3u8
-EXTINF:-1,SYFY
-http://z1.iptvmanagerpro.com/stream_42_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
-EXTINF:-1,TELENOVELAS
-http://z1.iptvmanagerpro.com/stream_9_c5335fd8de580606c4d45291b1d51d82_1513991435.m3u8
-EXTINF:-1,TRUTV
-http://z1.iptvmanagerpro.com/stream_73_d0d50ae98f5bd7266991a23c76761de1_1513991435.m3u8
-EXTINF:-1,UNICABLE
-http://z1.iptvmanagerpro.com/stream_43_217410b59add0e552e574b44f06d4d95_1513991435.m3u8
-EXTINF:-1,MEXICO:AZTECA A+
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?JoCaRoIPTV.m3u8
-EXTINF:-1,LATINOS:TV UNO
-http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8?JoCaRoIPTV.m3u8
-EXTINF:-1,Espa&ntilde;a:LA SEXTA HD
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?JoCaRoIPTV.m3u8
-EXTINF:-1,Espa&ntilde;a:MEGA ESPANA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?JoCaRoIPTV.m3u8
-EXTINF:-1,FOX SPORT
-http://5g.iptvmanagerpro.com/stream_102_d0f8ecbae19153181e4c89ecd48244d7_1513214025.m3u8
-EXTINF:-1,FOX SPORT 2
-http://5g.iptvmanagerpro.com/stream_77_764d9424af1ae308c12ac1813427c9f4_1513214025.m3u8
-#EXTINF:-1,ESPN
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
-EXTINF:-1,ESPN 2
-http://5g.iptvmanagerpro.com/stream_35_57d28d7bd35a8da64778cd086d49137f_1513214025.m3u8
-EXTINF:-1,ESPN 3
-http://5g.iptvmanagerpro.com/stream_36_a14a3aae769585beb7e7cf25b994becc_1513214025.m3u8
-Los de Arriba  fuera de servicio
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="Deportes", CDO Premium
-http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
- 
- EXTINF:-1,BOOMERANG
-http://z1.iptvmanagerpro.com/stream_51_3b283f70f20324dd6c3bba4cffca988e_1513991435.m3u8
-EXTINF:-1,CARTOON NETWORD
-http://z1.iptvmanagerpro.com/stream_16_c376807ac7f6ca0730cea659a96f7101_1513991435.m3u8
-EXTINF:-1,DISCOVERY KIDS
-http://z1.iptvmanagerpro.com/stream_22_f501c7d0aae59dc239f48e17d0175175_1513991435.m3u8
-EXTINF:-1,INFANTILES:DISNEY JR
-http://z1.iptvmanagerpro.com/stream_25_b12b02cc0f394412cc4e71e9d7503df3_1513991435.m3u8
-#EXTINF:-1,INFANTILES:DISNEY JR
-http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
-EXTINF:-1,DISNEY CHANNEL
-http://z1.iptvmanagerpro.com/stream_20_06f9fe7c469d8820ec30eaf211cc818f_1513991435.m3u8
-EXTINF:-1,DISNEY XD
-http://z1.iptvmanagerpro.com/stream_30_3d4790f5b63d3bc1bbaa054ceb6d073b_1513991435.m3u8
-EXTINF:-1,NICK
-http://z1.iptvmanagerpro.com/stream_80_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
-EXTINF:-1,TOONCAST
-http://z1.iptvmanagerpro.com/stream_31_85f0690b170755b9592f10fca8a21b12_1513991435.m3u8
-#EXTINF:-1,INFANTILES:LOCOMOTION
-http://locomotiontv.com/envivo/loco_channel/stream.m3u8
-#EXTINF:-1 tvg-logo="https://k33.kn3.net/taringa/4/5/D/A/A/A/Zrogs/233.jpg" ,LOS MEJORES DIBUJOS
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
- #EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", CINE +
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://buscador.cablevisionfibertel.com.ar/logos/1605.png" group-title="CINE Y SERIES", Cine AR
-http://ar.watcha.live/ch17/hi.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", CINE ON DEMAND 
-http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8?wowzasessionid=412620615
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", Europa Europa
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="CINE Y SERIES", Extrema TV
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-
-EXTINF:-1,ID
-http://z1.iptvmanagerpro.com/stream_65_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
-
-EXTINF:-1,ANIMAL PLANET
-http://z1.iptvmanagerpro.com/stream_28_de38611eaa8c7762cbbc063ea5224e5b_1513991435.m3u8
-EXTINF:-1,DISCOVERY
-http://z1.iptvmanagerpro.com/stream_19_7a712322f7803cd5e00f1a868395651b_1513991435.m3u8
-EXTINF:-1,H&H
-http://z1.iptvmanagerpro.com/stream_66_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
-EXTINF:-1,HISTORY
-http://z1.iptvmanagerpro.com/stream_83_49bdcd097d62e2391f4b98c14b11d794_1513991435.m3u8
-#EXTINF:-1,NAT GEO
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
-EXTINF:-1,NAT GEO WILD
-http://5g.iptvmanagerpro.com/stream_82_c80270e3397ede59e8d7743e20c27faf_1513489035.m3u8
 #EXTINF:-0,(ES) AXN HD
 http://orbit-iptv.com:2500/live/oMn1l2InrK/VHX3lbHLOO/14578.ts
 #EXTINF:-0,ESP TNT 
@@ -384,17 +160,6 @@ http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3297.ts
 #EXTINF:-1,ES: TV Galicia
 http://nitrotv.for-the.biz:25461/live/Touchtone/Free/3299.ts
 
-EXTINF:-1,FOX SPORT
-http://5g.iptvmanagerpro.com/stream_102_d0f8ecbae19153181e4c89ecd48244d7_1513214025.m3u8
-EXTINF:-1,FOX SPORT 2
-http://5g.iptvmanagerpro.com/stream_77_764d9424af1ae308c12ac1813427c9f4_1513214025.m3u8
-#EXTINF:-1,ESPN
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
-EXTINF:-1,ESPN 2
-http://5g.iptvmanagerpro.com/stream_35_57d28d7bd35a8da64778cd086d49137f_1513214025.m3u8
-EXTINF:-1,ESPN 3
-http://5g.iptvmanagerpro.com/stream_36_a14a3aae769585beb7e7cf25b994becc_1513214025.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Kkj5IF9.png"  group-title="Deportes", CDO Premium
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
 
@@ -425,45 +190,6 @@ http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(05)/index.m3u8
 #EXTINF:-1,Hist tv
 http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8
 
-
-EXTINF:0 group-title="LATINO", Fox hd
-http://5g.iptvmanagerpro.com/stream_98_600ef7cf0042eb765c52493e933eb07c_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Fox
-http://5g.iptvmanagerpro.com/stream_8_d3be59255d2a485c44cbdddae070a73f_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Fox Series
-http://5g.iptvmanagerpro.com/stream_89_7111d760f84ecbf7140fcef797c64515_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Fox Action
-http://5g.iptvmanagerpro.com/stream_88_b4b6ae00045759210af2826f436a854f_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Fox Movies
-http://5g.iptvmanagerpro.com/stream_46_a9bb9517f25b084f08a6011cb04f342c_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Fox Classics
-http://5g.iptvmanagerpro.com/stream_52_7aee67dbcdefe6582c259d037214be5f_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Fox Cinema
-http://5g.iptvmanagerpro.com/stream_53_a6e236044557e319de4ed70ab018c77a_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Space
-http://5g.iptvmanagerpro.com/stream_81_7e7b7fb391a2b0ca94cb1fed4c854526_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Cinecanal
-http://5g.iptvmanagerpro.com/stream_27_0d78d90a8c1f34e40ea2942b310b7ce0_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Golden
-http://5g.iptvmanagerpro.com/stream_54_b8505070192c9d29ab0b21027e18bc0c_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Golden edg
-http://5g.iptvmanagerpro.com/stream_37_e30d0be70d9156f4cc9710572d25d586_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Universal
-http://5g.iptvmanagerpro.com/stream_33_3408c4cd924be5e20f774b31aa9b9bbf_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Warner Channel
-http://5g.iptvmanagerpro.com/stream_76_5dd027684104d9649f6011ebdbea93fc_1514048442.m3u8
-EXTINF:0 group-title="LATINO", AXN
-http://5g.iptvmanagerpro.com/stream_74_7adfa70a9cc751770cfaaa86cc566cd2_1514048442.m3u8
-EXTINF:0 group-title="LATINO", FX
-http://5g.iptvmanagerpro.com/stream_29_eead6cefff67195dce72fa8bd9137dfc_1514048442.m3u8
-EXTINF:0 group-title="LATINO", TNT SERIES
-http://5g.iptvmanagerpro.com/stream_39_191ce1f07f3d916f226adeb477c9fc55_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Sony
-http://5g.iptvmanagerpro.com/stream_11_1c445bdcedd6378f867bba411b0acb47_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Studio Universal
-http://5g.iptvmanagerpro.com/stream_56_353834a8f4fdac5694384b7b3650b937_1514048442.m3u8
-EXTINF:0 group-title="LATINO", Amc
-http://5g.iptvmanagerpro.com/stream_96_c2a335c4d0eb9828cfa1a0d994b7698b_1514048442.m3u8
 
 #EXTINF:-1 tvg-shift=0 tvg-name="Foro TV HD" tvg-logo="http://iptvmexico.xyz/logos/png/2001.png", Foro TV HD
 http://www.iptvmexico.xyz/ch/2001.m3u8
@@ -954,34 +680,7 @@ http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate
 
 #EXTINF:0 group-title="NOTICIAS",ANTENA 3
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
-#EXTINF:0 grup-title="CULTURA",Animal Planet
-http://5g.iptvmanagerpro.com/stream_28_9b0a69db70a779843287c3680574f613_1514055643.m3u8
 
-#EXTINF:0 grup-title="CULTURA", History
-http://5g.iptvmanagerpro.com/stream_83_3c741fc9b0a084e3edb41634e2efe75f_1514048442.m3u8
-
-#EXTINF:0 grup-title="CULTURA", Discovery  Channel
-http://5g.iptvmanagerpro.com/stream_19_15b79772e210db8b590ad77a9c08e45d_1514048442.m3u8
-
-#EXTINF:0 grup-title="CULTURA", Id
-http://5g.iptvmanagerpro.com/stream_65_31121663921d3af167897b2bf0ff01ac_1514048442.m3u8
-
-#EXTINF:0 grup-title="CULTURA", Netgeo
-http://5g.iptvmanagerpro.com/stream_23_326e8b2bb7bf7054ebb30eced24704ee_1514048442.m3u8
-
-#EXTINF:0 grup-title="CULTURA", Netgeo Wild
-http://5g.iptvmanagerpro.com/stream_82_b9ccfb10eb3eb3122feb36278c8dcbff_1514048442.m3u8
-
-#EXTINF:0 grup-title="CULTURA", Discovery  Trailer
-http://5g.iptvmanagerpro.com/stream_64_61485d89a3b7e25208570b5dae34cb6e_1514048442.m3u8
-
-#EXTINF:0 grup-title="CULTURA", Discovery H&H
-http://5g.iptvmanagerpro.com/stream_66_43259499f12ba2af7f294e22cad43b66_1514048442.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.tutvplay.com/img/ch/DirecTV-Sports.png" group-title="DEPORTES",DirecTV Sports
-https://live.tutvplay.com/CH/57mR2nOnLD6H-eWJWMVA1N2ptOThjUWJaY1h6NVVVdz09/0/DirecTV-Sports.m3u8
 
 #EXTINF:0 group-title="DEPORTES",TDN
 http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
@@ -1156,21 +855,3 @@ https://cflive.live-delivery.ooyala.com/out/u/ezye7lz7hql35/107829/toaWp2YTE6Hpz
 
 #EXTINF:0 group-title="NOTICIAS",CNN USA
 http://189.216.247.113/Content/HLS/Live/Channel(CNN_HD)/index.m3u8
-
-#EXTINF:0 grup-title="VPN",
-http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
-
-#EXTINF:0 group-title="VPN",TDN 2
-http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="VPN" tvg-logo="https://imgur.com/RGUbr5h.png" group-title="MEXICO",Bandamax
-http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i2.esmas.com/2015/01/06/734691/canal-5-330x330.jpg" group-title="MEXICO",Canal 5 Mexico City
-http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/sZupsef.png" group-title="VPN ",TDN
-http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/yV3kYVz.png" group-title="MEXICO",Unicable [Opt-2]
-http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
