@@ -1,0 +1,39 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="-----PERU-----" tvg-logo="http://radiohuancavilca.com.ec/wp-content/uploads/2017/07/descarga.png" group-title="PERU",-----PERU-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18334.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOL PERU HD" tvg-logo="http://latelete.tv/img/golperu.png" group-title="PERU",GOL PERU HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19057.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: Gol Peru" tvg-logo="https://3.bp.blogspot.com/-dnoADpGQHtk/WQ9NVzskrmI/AAAAAAAAAig/cDLXo3tvieAf4QDNOz2tuDvNGCLoTx0CwCLcB/s1600/gol%2Bperu.jpg" group-title="PERU",PE: Gol Peru
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2330.ts
+#EXTINF:-1 tvg-id="Panamericana tv.pe" tvg-name="panamerica tv" tvg-logo="https://panamericana.pe/imagenes/logo_pan.png" group-title="PERU",panamerica tv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18175.ts
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-name="PE: America Tv" tvg-logo="http://158.69.127.19/logos1/americaperu.jpg" group-title="PERU",PE: America Tv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2328.ts
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="ATV HD" tvg-logo="https://i.ytimg.com/vi/MsAf_9GcgdI/maxresdefault.jpg" group-title="PERU",ATV HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18176.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV PERU" tvg-logo="" group-title="PERU",ATV PERU
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17452.ts
+#EXTINF:-1 tvg-id="ATV.pe" tvg-name="PE: ATV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/ATV_logo.png" group-title="PERU",PE: ATV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2329.ts
+#EXTINF:-1 tvg-id="" tvg-name="ATV +" tvg-logo="http://i.imgur.com/ugq2m.png" group-title="PERU",ATV +
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18007.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PERU" tvg-logo="" group-title="PERU",TV PERU
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17451.ts
+#EXTINF:-1 tvg-id="CanalN.pe" tvg-name="PE: Canal N" tvg-logo="http://1.bp.blogspot.com/-WgMsAyo01CA/VVNmAS4_igI/AAAAAAAAC6Y/XdJf3-NFYwA/s1600/photo.jpg" group-title="PERU",PE: Canal N
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2324.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: MOVISTAR PERU" tvg-logo="http://4.bp.blogspot.com/-kFtud8yRPGU/Uy4P17mnJxI/AAAAAAAABQ4/b41x9iMhxs0/s1600/logo+cmd.jpg" group-title="PERU",PE: MOVISTAR PERU
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2323.ts
+#EXTINF:-1 tvg-id="" tvg-name="LATINA TV" tvg-logo="" group-title="PERU",LATINA TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17450.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: Latina" tvg-logo="http://www.staffcreativa.pe/blog/wp-content/uploads/06-frecuencia-latina.jpg" group-title="PERU",PE: Latina
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2326.ts
+#EXTINF:-1 tvg-id="Panamericana tv.pe" tvg-name="PE: Panamericana" tvg-logo="http://www.consejosgratis.es/wp-content/uploads/2011/08/panamericana-tv.jpg" group-title="PERU",PE: Panamericana
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2327.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: Peru Magico" tvg-logo="http://www.laetv.tv/images/peruMagico.png" group-title="PERU",PE: Peru Magico
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2325.ts
+#EXTINF:-1 tvg-id="" tvg-name="PE: TNP" tvg-logo="http://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="PERU",PE: TNP
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2322.ts
+#EXTINF:-1 tvg-id="" tvg-name="XT TV" tvg-logo="" group-title="PERU",XT TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3555.ts
