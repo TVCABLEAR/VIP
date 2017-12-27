@@ -1,0 +1,102 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="-----ARGENTINA-----" tvg-logo="https://reporttoday.net/wp-content/uploads/2017/05/bandera_nacional_argentina_.jpg" group-title="ARGENTINA",-----ARGENTINA-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18335.ts
+#EXTINF:-1 tvg-id="" tvg-name="TN ARGENTINA HD" tvg-logo="" group-title="ARGENTINA",TN ARGENTINA HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17462.ts
+#EXTINF:-1 tvg-id="" tvg-name="A24 ARGENTINA HD" tvg-logo="" group-title="ARGENTINA",A24 ARGENTINA HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17454.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL TRECE HD (a)" tvg-logo="" group-title="ARGENTINA",EL TRECE HD (a)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/8683.ts
+#EXTINF:-1 tvg-id="El13.ar" tvg-name="CANAL 13 ARGENTINA HD" tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Canal-13-Argentina.png" group-title="ARGENTINA",CANAL 13 ARGENTINA HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17459.ts
+#EXTINF:-1 tvg-id="" tvg-name="C5N ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="ARGENTINA",C5N ARGENTINA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17455.ts
+#EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="http://d2445imzl4t8r9.cloudfront.net/images/C5N-5d249092f8fd95447a5c187ea59acbad.png" group-title="ARGENTINA",C5N
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/6296.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEFE ARGENTINA HD" tvg-logo="" group-title="ARGENTINA",TELEFE ARGENTINA HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17460.ts
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="TELEFE HD" tvg-logo="http://fielinks.com/sites/default/files/images/telefe-2011.jpg" group-title="ARGENTINA",TELEFE HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2365.ts
+#EXTINF:-1 tvg-id="America2.ar" tvg-name="AMERICA ARGENTINA HD" tvg-logo="" group-title="ARGENTINA",AMERICA ARGENTINA HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17458.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV PUBLICA ARGENTINA HD" tvg-logo="" group-title="ARGENTINA",TV PUBLICA ARGENTINA HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17461.ts
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="Tv Pública" tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2012/03/11.jpg" group-title="ARGENTINA",Tv Pública
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/6295.ts
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DXTV ARGENTINA" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2016/02/DXTV-Logo.jpg" group-title="ARGENTINA",DXTV ARGENTINA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17457.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telesur" tvg-logo="https://yt3.ggpht.com/-7wfW7LTVyUU/AAAAAAAAAAI/AAAAAAAAAAA/cE6bIGKQrWg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ARGENTINA",Telesur
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/6297.ts
+#EXTINF:-1 tvg-id="" tvg-name="360TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" group-title="ARGENTINA",360TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/6298.ts
+#EXTINF:-1 tvg-id="" tvg-name="CN23" tvg-logo="http://fatpren.org.ar/wp-content/uploads/2017/08/cn23070817.png" group-title="ARGENTINA",CN23
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/6299.ts
+#EXTINF:-1 tvg-id="" tvg-name="Orbe 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Orbe_21.png/1200px-Orbe_21.png" group-title="ARGENTINA",Orbe 21
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2350.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE AR" tvg-logo="" group-title="ARGENTINA",CINE AR
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17447.ts
+#EXTINF:-1 tvg-id="" tvg-name="Pakapaka" tvg-logo="http://www.pakapaka.gob.ar/img/opengraph_default.jpg" group-title="ARGENTINA",Pakapaka
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2349.ts
+#EXTINF:-1 tvg-id="" tvg-name="canal 9 ar" tvg-logo="http://www.freeetv.com/images/02_logo/canal9salta_argentina.jpg" group-title="ARGENTINA",canal 9 ar
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18167.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal 9 Salta[SD]" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/08/Canal9-Salta-Logo.jpg" group-title="ARGENTINA",AR: Canal 9 Salta[SD]
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3952.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal Rural [SD]" tvg-logo="http://www.elrural.com/buscadorganadero/images/logos/rural.png" group-title="ARGENTINA",AR: Canal Rural [SD]
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3951.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: TEC TV [HD]" tvg-logo="https://yt3.ggpht.com/-ETYibekId-Q/AAAAAAAAAAI/AAAAAAAAAAA/Q4nr5_8eSz8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ARGENTINA",AR: TEC TV [HD]
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3950.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Telemax [HD]" tvg-logo="http://1.bp.blogspot.com/-o9pPhGXrzMU/UDQYqcGik4I/AAAAAAAAVVg/V01-iTq7J0g/s1600/TLX.png" group-title="ARGENTINA",AR: Telemax [HD]
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3949.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: Telpin Canal 2 [SD]" tvg-logo="" group-title="ARGENTINA",AR: Telpin Canal 2 [SD]
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3948.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 26 ARGENTINA" tvg-logo="" group-title="ARGENTINA",CANAL 26 ARGENTINA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17456.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 26" tvg-logo="https://4.bp.blogspot.com/-m1LD7LlIoT8/VO_8EeyIQXI/AAAAAAAABgY/mjy3X_z4ezA/s1600/Canal%2B26%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png" group-title="ARGENTINA",Canal 26
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2360.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Cablehogar" tvg-logo="" group-title="ARGENTINA",Canal 4 Cablehogar
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2364.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Jujuy" tvg-logo="" group-title="ARGENTINA",Canal 4 Jujuy
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2363.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Posadas" tvg-logo="" group-title="ARGENTINA",Canal 4 Posadas
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2362.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 9 Salta" tvg-logo="" group-title="ARGENTINA",Canal 9 Salta
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2361.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal de la Ciudad" tvg-logo="" group-title="ARGENTINA",Canal de la Ciudad
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2359.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cool 103.7" tvg-logo="" group-title="ARGENTINA",Cool 103.7
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2358.ts
+#EXTINF:-1 tvg-id="" tvg-name="CPE TV" tvg-logo="" group-title="ARGENTINA",CPE TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2357.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: DXTV HD" tvg-logo="" group-title="CANALES HD",Latino: DXTV HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19141.ts
+#EXTINF:-1 tvg-id="" tvg-name="DeporTV" tvg-logo="" group-title="ARGENTINA",DeporTV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2356.ts
+#EXTINF:-1 tvg-id="" tvg-name="Encuentro" tvg-logo="http://cdnsp.tvpublica.com.ar/wp-content/uploads/2016/04/12204727/encuentro.jpg" group-title="ARGENTINA",Encuentro
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2355.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Radio 107.9" tvg-logo="" group-title="ARGENTINA",ESPN Radio 107.9
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2354.ts
+#EXTINF:-1 tvg-id="" tvg-name="Europa Europa" tvg-logo="" group-title="ARGENTINA",Europa Europa
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2353.ts
+#EXTINF:-1 tvg-id="" tvg-name="Garage TV" tvg-logo="" group-title="ARGENTINA",Garage TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2352.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music Top" tvg-logo="" group-title="ARGENTINA",Music Top
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2351.ts
+#EXTINF:-1 tvg-id="" tvg-name="Power HD" tvg-logo="" group-title="ARGENTINA",Power HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2348.ts
+#EXTINF:-1 tvg-id="" tvg-name="Qm Noticias" tvg-logo="" group-title="ARGENTINA",Qm Noticias
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2347.ts
+#EXTINF:-1 tvg-id="" tvg-name="Radio One" tvg-logo="" group-title="ARGENTINA",Radio One
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2346.ts
+#EXTINF:-1 tvg-id="" tvg-name="Senal Provincial" tvg-logo="" group-title="ARGENTINA",Senal Provincial
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2345.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tec TV" tvg-logo="" group-title="ARGENTINA",Tec TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2344.ts
+#EXTINF:-1 tvg-id="" tvg-name="TelpinTV" tvg-logo="" group-title="ARGENTINA",TelpinTV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2343.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLX" tvg-logo="" group-title="ARGENTINA",TLX
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2342.ts
+#EXTINF:-1 tvg-id="" tvg-name="Vorterix" tvg-logo="" group-title="ARGENTINA",Vorterix
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2341.ts
