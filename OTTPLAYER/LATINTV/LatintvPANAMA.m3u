@@ -1,0 +1,31 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="-----PANAMA-----" tvg-logo="http://www.banderas-mundo.es/data/flags/big/pa.png" group-title="PANAMA",-----PANAMA-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18342.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMETRO" tvg-logo="" group-title="PANAMA",TELEMETRO
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17997.ts
+#EXTINF:-1 tvg-id="" tvg-name="eco tv" tvg-logo="http://www.ecotvpanama.com/site/templates/images/cos-generic.jpg" group-title="PANAMA",eco tv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18245.ts
+#EXTINF:-1 tvg-id="" tvg-name="nex tv op2" tvg-logo="" group-title="PANAMA",nex tv op2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18249.ts
+#EXTINF:-1 tvg-id="" tvg-name="oye tv" tvg-logo="https://pbs.twimg.com/profile_images/655072147950333952/_G-SEcR4.jpg" group-title="PANAMA",oye tv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18244.ts
+#EXTINF:-1 tvg-id="" tvg-name="RPC TV op2" tvg-logo="http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_54.jpg" group-title="PANAMA",RPC TV op2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18242.ts
+#EXTINF:-1 tvg-id="" tvg-name="RPC TV op3" tvg-logo="http://images.rpctv.com/en_directo/RPC-TV-Linea_MEDDIR20131018_0001_54.jpg" group-title="PANAMA",RPC TV op3
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18243.ts
+#EXTINF:-1 tvg-id="" tvg-name="sport fc" tvg-logo="" group-title="PANAMA",sport fc
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18241.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMETRO op1" tvg-logo="" group-title="PANAMA",TELEMETRO op1
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18246.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMETRO op2" tvg-logo="" group-title="PANAMA",TELEMETRO op2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18247.ts
+#EXTINF:-1 tvg-id="" tvg-name="tvn" tvg-logo="" group-title="PANAMA",tvn
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18248.ts
+#EXTINF:-1 tvg-id="" tvg-name="RPC TV" tvg-logo="" group-title="PANAMA",RPC TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17996.ts
+#EXTINF:-1 tvg-id="" tvg-name="faro tv" tvg-logo="" group-title="PANAMA",faro tv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17994.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEX TV" tvg-logo="" group-title="PANAMA",NEX TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17995.ts
