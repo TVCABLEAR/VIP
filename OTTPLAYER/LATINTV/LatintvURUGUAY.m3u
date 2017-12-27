@@ -1,0 +1,13 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="-----URUGUAY-----" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png" group-title="URUGUAY",-----URUGUAY-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18337.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV HD" tvg-logo="http://www.motoresenpunta.com/wp-content/uploads/2017/04/LOGO-VTV1-811x400.jpg" group-title="DEPORTE HD",VTV HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/6301.ts
+#EXTINF:-1 tvg-id="" tvg-name="URU - CANAL 10 (720 HD)" tvg-logo="http://173.255.197.68:81/media/uploads/shows/Generico-Canal-10_30.png" group-title="URUGUAY",URU - CANAL 10 (720 HD)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15220.ts
+#EXTINF:-1 tvg-id="" tvg-name="URU - CANAL 12 (720 HD)" tvg-logo="http://veratvimgs.cdn.antel.net.uy/dynamic/content_images/6074/240/default.jpg" group-title="URUGUAY",URU - CANAL 12 (720 HD)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15219.ts
+#EXTINF:-1 tvg-id="" tvg-name="URU - FOX SPORTS URUGUAY (720 HD)" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2016/11/foxsports.png" group-title="URUGUAY",URU - FOX SPORTS URUGUAY (720 HD)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15221.ts
