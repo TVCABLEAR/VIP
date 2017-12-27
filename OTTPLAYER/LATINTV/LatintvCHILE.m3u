@@ -1,0 +1,37 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="-----chile-----" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png" group-title="CHILE",-----chile-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18332.ts
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CHILE - CDF HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_8435_2_31617.png" group-title="CHILE",CHILE - CDF HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15212.ts
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDF PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Cdf_p.png/250px-Cdf_p.png" group-title="CHILE",CDF PREMIUM
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2331.ts
+#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-name="CDF BASICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/CDF_2015.png" group-title="CHILE",CDF BASICO
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2332.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILE - CDO PREMIUM" tvg-logo="https://ulango.tv/uploads/channels/63346/logo_cdo%20premium.png" group-title="CHILE",CHILE - CDO PREMIUM
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15208.ts
+#EXTINF:-1 tvg-id="" tvg-name="cdo premium op2" tvg-logo="" group-title="CHILE",cdo premium op2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17988.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN CHILE HD" tvg-logo="" group-title="CHILE",CNN CHILE HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17453.ts
+#EXTINF:-1 tvg-id="Canal13.cl" tvg-name="Canal 13 HD" tvg-logo="http://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png" group-title="CHILE",Canal 13 HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11512.ts
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CH: Mega HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2015megaoficial.png/1200px-2015megaoficial.png" group-title="CHILE",CH: Mega HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11515.ts
+#EXTINF:-1 tvg-id="Mega.cl" tvg-name="CL: Mega OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2015megaoficial.png/1200px-2015megaoficial.png" group-title="CHILE",CL: Mega OP2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18381.ts
+#EXTINF:-1 tvg-id="TVN.cl" tvg-name="CH: Tvn HD (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVN_HD_Chile.png" group-title="CHILE",CH: Tvn HD (A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11516.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHILEVISION" tvg-logo="" group-title="CHILE",CHILEVISION
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17441.ts
+#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name="chilevision op2" tvg-logo="" group-title="CHILE",chilevision op2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17985.ts
+#EXTINF:-1 tvg-id="Chilevision.cl" tvg-name=",CH: Chilevision HD" tvg-logo="http://estaticos.chilevision.cl/web/logos/logo-chv-2015.png" group-title="CHILE",,CH: Chilevision HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11513.ts
+#EXTINF:-1 tvg-id="Lared.cl" tvg-name=",CH: La Red" tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/LaRed-Logo-300x300.jpg" group-title="CHILE",,CH: La Red
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11514.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV CHILE" tvg-logo="" group-title="CHILE",TV CHILE
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17444.ts
+#EXTINF:-1 tvg-id="" tvg-name="VTV Chile" tvg-logo="" group-title="CHILE",VTV Chile
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/6293.ts
