@@ -1,0 +1,495 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="=======>   USA   <=======" tvg-logo="" group-title="USA",=======>   USA   <=======
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16527.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NBA TV HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15291.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 1" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NBA League Pass 1
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15301.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 2" tvg-logo="http://www.sportsvideo.org/new/wp-content/uploads/2016/10/NBA-League-Pass.png" group-title="DEPORTES (NBA,NFL,NHL)",NBA League Pass 2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15299.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 3" tvg-logo="http://www.sportsvideo.org/new/wp-content/uploads/2016/10/NBA-League-Pass.png" group-title="DEPORTES (NBA,NFL,NHL)",NBA League Pass 3
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15298.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 4" tvg-logo="http://www.sportsvideo.org/new/wp-content/uploads/2016/10/NBA-League-Pass.png" group-title="DEPORTES (NBA,NFL,NHL)",NBA League Pass 4
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15297.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 5" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NBA League Pass 5
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15296.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 6" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NBA League Pass 6
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15295.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 7" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NBA League Pass 7
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15294.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 8" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NBA League Pass 8
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15293.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 9" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NBA League Pass 9
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15292.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBA League Pass 10" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NBA League Pass 10
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15300.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NFL Network" tvg-logo="https://cdn.directv.com/content/dam/dtv/NFLST_OTT/2017/images/nflst_logo.png" group-title="DEPORTES (NBA,NFL,NHL)",US: NFL Network
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15246.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Sunday Ticket 705" tvg-logo="https://cdn.directv.com/content/dam/dtv/NFLST_OTT/2017/images/nflst_logo.png" group-title="DEPORTES (NBA,NFL,NHL)",NFL Sunday Ticket 705
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15257.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Sunday Ticket 706" tvg-logo="http://cdn.directv.com/content/dam/dtv/NFLST_OTT/2016/images/nflst_logo.png" group-title="DEPORTES (NBA,NFL,NHL)",NFL Sunday Ticket 706
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15254.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Sunday Ticket 707" tvg-logo="https://cdn.directv.com/content/dam/dtv/NFLST_OTT/2017/images/nflst_logo.png" group-title="DEPORTES (NBA,NFL,NHL)",NFL Sunday Ticket 707
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15253.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Sunday Ticket 708" tvg-logo="https://cdn.directv.com/content/dam/dtv/NFLST_OTT/2017/images/nflst_logo.png" group-title="DEPORTES (NBA,NFL,NHL)",NFL Sunday Ticket 708
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15252.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Sunday Ticket 709" tvg-logo="https://cdn.directv.com/content/dam/dtv/NFLST_OTT/2017/images/nflst_logo.png" group-title="DEPORTES (NBA,NFL,NHL)",NFL Sunday Ticket 709
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15251.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Sunday Ticket 710" tvg-logo="https://cdn.directv.com/content/dam/dtv/NFLST_OTT/2017/images/nflst_logo.png" group-title="DEPORTES (NBA,NFL,NHL)",NFL Sunday Ticket 710
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15250.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Sunday Ticket 711" tvg-logo="https://cdn.directv.com/content/dam/dtv/NFLST_OTT/2017/images/nflst_logo.png" group-title="DEPORTES (NBA,NFL,NHL)",NFL Sunday Ticket 711
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15249.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Sunday Ticket 712" tvg-logo="https://cdn.directv.com/content/dam/dtv/NFLST_OTT/2017/images/nflst_logo.png" group-title="DEPORTES (NBA,NFL,NHL)",NFL Sunday Ticket 712
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15248.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Sunday Ticket 713" tvg-logo="https://cdn.directv.com/content/dam/dtv/NFLST_OTT/2017/images/nflst_logo.png" group-title="DEPORTES (NBA,NFL,NHL)",NFL Sunday Ticket 713
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15247.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Sunday Ticket 714" tvg-logo="https://cdn.directv.com/content/dam/dtv/NFLST_OTT/2017/images/nflst_logo.png" group-title="DEPORTES (NBA,NFL,NHL)",NFL Sunday Ticket 714
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15256.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Sunday Ticket 715" tvg-logo="https://cdn.directv.com/content/dam/dtv/NFLST_OTT/2017/images/nflst_logo.png" group-title="DEPORTES (NBA,NFL,NHL)",NFL Sunday Ticket 715
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15255.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL Red Zone" tvg-logo="https://cdn.directv.com/content/dam/dtv/NFLST_OTT/2017/images/nflst_logo.png" group-title="DEPORTES (NBA,NFL,NHL)",NFL Red Zone
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15245.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 1" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NHL Center Ice 1
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15290.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 11" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NHL Center Ice 11
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15288.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 2" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NHL Center Ice 2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15287.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 3" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NHL Center Ice 3
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15286.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 4" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NHL Center Ice 4
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15285.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 5" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NHL Center Ice 5
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15284.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 6" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NHL Center Ice 6
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15283.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 7" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NHL Center Ice 7
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15282.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 8" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NHL Center Ice 8
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15281.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 9" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NHL Center Ice 9
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15280.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL Center Ice 10" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",NHL Center Ice 10
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15289.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="USA HD",USA:A&E
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11597.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AFN MOVIE" tvg-logo="" group-title="USA",US: AFN MOVIE
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16499.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AFN NEWS" tvg-logo="" group-title="USA",US: AFN NEWS
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16500.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AFN PRIME ATLANTIC" tvg-logo="" group-title="USA",US: AFN PRIME ATLANTIC
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16501.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AFN PRIME PACIFIC" tvg-logo="" group-title="USA",US: AFN PRIME PACIFIC
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16502.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AFN PULSE" tvg-logo="" group-title="USA",US: AFN PULSE
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16503.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AFN SPECTRUM" tvg-logo="" group-title="USA",US: AFN SPECTRUM
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16504.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AFN SPORTS" tvg-logo="" group-title="USA",US: AFN SPORTS
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16505.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AFN SPORTS 2" tvg-logo="" group-title="USA",US: AFN SPORTS 2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16506.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AFN SPORTS HD" tvg-logo="" group-title="USA",US: AFN SPORTS HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16507.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Bein Sports USA HD" tvg-logo="" group-title="USA",US: Bein Sports USA HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16508.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax 5 StarMax" tvg-logo="" group-title="USA",US: Cinemax 5 StarMax
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16509.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax ActionMax East" tvg-logo="" group-title="USA",US: Cinemax ActionMax East
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16510.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Cinemax East" tvg-logo="" group-title="USA",US: Cinemax East
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16511.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Discovery Science HD" tvg-logo="" group-title="USA",US: Discovery Science HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16512.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: DIY Network" tvg-logo="" group-title="USA",US: DIY Network
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16513.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: Food Network HD" tvg-logo="" group-title="USA",US: Food Network HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16514.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: FOXX HD" tvg-logo="" group-title="USA",US: FOXX HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16515.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: FX HD" tvg-logo="" group-title="USA",US: FX HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16516.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: H2" tvg-logo="" group-title="USA",US: H2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16517.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HALLMARK" tvg-logo="" group-title="USA",US: HALLMARK
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16518.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HIFI" tvg-logo="" group-title="USA",US: HIFI
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16519.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MelloTV" tvg-logo="" group-title="USA",US: MelloTV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16525.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: National Geographic" tvg-logo="" group-title="USA",US: National Geographic
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16520.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NICKELODEN HD" tvg-logo="" group-title="USA",US: NICKELODEN HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16521.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: SPIKE HD" tvg-logo="" group-title="USA",US: SPIKE HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16522.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ EDGE HD" tvg-logo="" group-title="USA",US: STARZ EDGE HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16523.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: USA Network HD" tvg-logo="" group-title="USA",US: USA Network HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16524.ts
+#EXTINF:-1 tvg-id="" tvg-name="US:Sports-Net" tvg-logo="" group-title="USA",US:Sports-Net
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16526.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : AMC HD" tvg-logo="" group-title="USA",USA : AMC HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16378.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : BYU TV" tvg-logo="" group-title="USA",USA : BYU TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16379.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : CARTOON NETWORK" tvg-logo="" group-title="USA",USA : CARTOON NETWORK
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16380.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : CBSN HD" tvg-logo="" group-title="USA",USA : CBSN HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16381.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : CNBC" tvg-logo="" group-title="USA",USA : CNBC
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16382.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : DISCCOVERY HD" tvg-logo="" group-title="USA",USA : DISCCOVERY HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16383.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : DW" tvg-logo="" group-title="USA",USA : DW
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16384.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : Fight HD" tvg-logo="" group-title="USA",USA : Fight HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16385.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : Fox HD" tvg-logo="" group-title="USA",USA : Fox HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16375.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : FXX" tvg-logo="" group-title="USA",USA : FXX
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16386.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : HBO Comedy" tvg-logo="" group-title="USA",USA : HBO Comedy
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16387.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : HBO East" tvg-logo="" group-title="USA",USA : HBO East
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16388.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : HBO HD" tvg-logo="" group-title="USA",USA : HBO HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16389.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : HBO Signature" tvg-logo="" group-title="USA",USA : HBO Signature
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16390.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : HBO Zone" tvg-logo="" group-title="USA",USA : HBO Zone
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16391.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : NBA SD" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",USA : NBA SD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16392.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : NBA TV HD" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",USA : NBA TV HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16393.ts
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="USA : NFL Network 1080i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="DEPORTES (NBA,NFL,NHL)",USA : NFL Network 1080i
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16377.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : NFL REDZONE SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="DEPORTES (NBA,NFL,NHL)",USA : NFL REDZONE SD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16376.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : Showtime 2" tvg-logo="" group-title="USA",USA : Showtime 2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16394.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : SHOWTIME HD" tvg-logo="" group-title="USA",USA : SHOWTIME HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16395.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : Showtime West" tvg-logo="" group-title="USA",USA : Showtime West
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16396.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : Starz Cinema" tvg-logo="" group-title="USA",USA : Starz Cinema
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16397.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : Starz Comedy" tvg-logo="" group-title="USA",USA : Starz Comedy
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16398.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : Starz East" tvg-logo="" group-title="USA",USA : Starz East
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16399.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : Starz Encore" tvg-logo="" group-title="USA",USA : Starz Encore
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16400.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA : Tennis Channel HD" tvg-logo="" group-title="USA",USA : Tennis Channel HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16401.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | A&E HD" tvg-logo="" group-title="USA",USA | A&E HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16416.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Amazing Discoveries HD" tvg-logo="" group-title="USA",USA | Amazing Discoveries HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16417.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | ESPN" tvg-logo="" group-title="USA",USA | ESPN
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16418.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Fox Sports 1 HD" tvg-logo="" group-title="USA",USA | Fox Sports 1 HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16419.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Fox Sports 2 HD" tvg-logo="" group-title="USA",USA | Fox Sports 2 HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16420.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBC XTRA 5 720P" tvg-logo="" group-title="USA",USA | NBC XTRA 5 720P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16425.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBCSN HD" tvg-logo="" group-title="USA",USA | NBCSN HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16426.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | PAC-12 Arizona" tvg-logo="" group-title="USA",USA | PAC-12 Arizona
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16427.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | PAC-12 Bay Area" tvg-logo="" group-title="USA",USA | PAC-12 Bay Area
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16428.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | PAC-12 Los Angeles" tvg-logo="" group-title="USA",USA | PAC-12 Los Angeles
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16429.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | PAC-12 Oregon" tvg-logo="" group-title="USA",USA | PAC-12 Oregon
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16430.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | PAC-12 Washington" tvg-logo="" group-title="USA",USA | PAC-12 Washington
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16431.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Poker Central" tvg-logo="" group-title="USA",USA | Poker Central
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16432.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | TLC HD" tvg-logo="" group-title="USA",USA | TLC HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16433.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | Versus HD" tvg-logo="" group-title="USA",USA | Versus HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16434.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA | WWE HD" tvg-logo="" group-title="USA",USA | WWE HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16435.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA ABC HD" tvg-logo="" group-title="USA",USA ABC HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16402.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA ABC NEWS HD" tvg-logo="" group-title="USA",USA ABC NEWS HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16403.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA BRAVO HD" tvg-logo="" group-title="USA",USA BRAVO HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16404.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA CBS" tvg-logo="" group-title="USA",USA CBS
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16405.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA COMEDY CENTRAL HD" tvg-logo="" group-title="USA",USA COMEDY CENTRAL HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16406.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA CW HD" tvg-logo="" group-title="USA",USA CW HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16407.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA ESPN HD" tvg-logo="" group-title="USA",USA ESPN HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16408.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA FOX NEWS HD" tvg-logo="" group-title="USA",USA FOX NEWS HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16409.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA HISTORY HD" tvg-logo="" group-title="USA",USA HISTORY HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16410.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA Investigation Discovery" tvg-logo="" group-title="USA",USA Investigation Discovery
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16411.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA NBC Golf" tvg-logo="" group-title="USA",USA NBC Golf
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16412.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA Network (US)" tvg-logo="" group-title="USA",USA Network (US)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16413.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA SYFY HD" tvg-logo="" group-title="USA",USA SYFY HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16414.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA TNT HD" tvg-logo="" group-title="USA",USA TNT HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16415.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ANIMAL PLANET HD" tvg-logo="" group-title="USA",USA: ANIMAL PLANET HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16471.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bloomberg Europe" tvg-logo="" group-title="USA",USA: Bloomberg Europe
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16468.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bloomberg TV" tvg-logo="" group-title="USA",USA: Bloomberg TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16453.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BNN" tvg-logo="" group-title="USA",USA: BNN
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16467.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Boomerang" tvg-logo="" group-title="USA",USA: Boomerang
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16466.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-Span 1" tvg-logo="" group-title="USA",USA: C-Span 1
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16472.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-Span 2" tvg-logo="" group-title="USA",USA: C-Span 2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16473.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: C-Span 3" tvg-logo="" group-title="USA",USA: C-Span 3
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16474.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CAPITAL TV" tvg-logo="" group-title="USA",USA: CAPITAL TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16451.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CINEMAX ACTION HD" tvg-logo="" group-title="USA",USA: CINEMAX ACTION HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16475.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax East HD" tvg-logo="" group-title="USA",USA: Cinemax East HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16465.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cinemax MoreMax" tvg-logo="" group-title="USA",USA: Cinemax MoreMax
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16464.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNN HD" tvg-logo="" group-title="USA",USA: CNN HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16476.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CNN US HD" tvg-logo="" group-title="USA",USA: CNN US HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16442.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CW11" tvg-logo="" group-title="USA",USA: CW11
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16463.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery HD Showcase" tvg-logo="" group-title="USA",USA: Discovery HD Showcase
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16462.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN 2" tvg-logo="" group-title="USA",USA: ESPN 2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16477.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN News US HD" tvg-logo="" group-title="USA",USA: ESPN News US HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16441.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ESPN U HD" tvg-logo="" group-title="USA",USA: ESPN U HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16440.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FIGHT SPORT" tvg-logo="" group-title="USA",USA: FIGHT SPORT
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16498.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fine Living" tvg-logo="" group-title="USA",USA: Fine Living
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16461.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FOX 43" tvg-logo="" group-title="USA",USA: FOX 43
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16478.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fox SPORTS 506 HD" tvg-logo="" group-title="USA",USA: Fox SPORTS 506 HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16479.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FUEL HD" tvg-logo="" group-title="USA",USA: FUEL HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16460.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HGTV HD" tvg-logo="" group-title="USA",USA: HGTV HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16459.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HSN YT LIVE 1080p HD" tvg-logo="" group-title="USA",USA: HSN YT LIVE 1080p HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16452.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ION Television East HD" tvg-logo="" group-title="USA",USA: ION Television East HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16439.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Lifetime Movie Network HD" tvg-logo="" group-title="USA",USA: Lifetime Movie Network HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16438.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MBL HD" tvg-logo="" group-title="USA",USA: MBL HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16480.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Mello TV" tvg-logo="" group-title="USA",USA: Mello TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16450.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MLB Network" tvg-logo="" group-title="USA",USA: MLB Network
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16481.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MSG HD" tvg-logo="" group-title="USA",USA: MSG HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16437.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MSNBC HD" tvg-logo="" group-title="USA",USA: MSNBC HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16482.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV Rocks" tvg-logo="" group-title="USA",USA: MTV Rocks
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16458.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: MY9 TV" tvg-logo="" group-title="USA",USA: MY9 TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16449.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NBC" tvg-logo="" group-title="USA",USA: NBC
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16454.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NFL Network 1" tvg-logo="" group-title="DEPORTES (NBA,NFL,NHL)",USA: NFL Network 1
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16469.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NHL Network" tvg-logo="" group-title="USA",USA: NHL Network
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16487.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NICKELODEN HD" tvg-logo="" group-title="USA",USA: NICKELODEN HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16470.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Nursery Rhymes (Baby Songs)" tvg-logo="" group-title="USA",USA: Nursery Rhymes (Baby Songs)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16448.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Offical Olympic Channel" tvg-logo="" group-title="USA",USA: Offical Olympic Channel
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16488.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: OUTDOOR CHANNEL HD" tvg-logo="" group-title="USA",USA: OUTDOOR CHANNEL HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16457.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PAG HD" tvg-logo="" group-title="USA",USA: PAG HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16489.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: SEC Network" tvg-logo="" group-title="USA",USA: SEC Network
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16490.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Smile Of A Child" tvg-logo="" group-title="USA",USA: Smile Of A Child
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16456.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TBS HD" tvg-logo="" group-title="USA",USA: TBS HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16491.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: THE FLORIDA CHANNEL" tvg-logo="" group-title="USA",USA: THE FLORIDA CHANNEL
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16447.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: VH1 Classic" tvg-logo="" group-title="USA",USA: VH1 Classic
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16455.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: WEATHERNATION" tvg-logo="" group-title="USA",USA: WEATHERNATION
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16446.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: WGN America HD" tvg-logo="" group-title="USA",USA: WGN America HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16436.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: WGN News Chicago" tvg-logo="" group-title="USA",USA: WGN News Chicago
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16445.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Yes Network" tvg-logo="" group-title="USA",USA: Yes Network
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16444.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: YTV" tvg-logo="" group-title="USA",USA: YTV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16443.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:CA | Sportsnet 360 HD" tvg-logo="" group-title="USA",USA:CA | Sportsnet 360 HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16492.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:CA | TSN1" tvg-logo="" group-title="USA",USA:CA | TSN1
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16493.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:CA | TSN2" tvg-logo="" group-title="USA",USA:CA | TSN2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16494.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:CA | TSN3" tvg-logo="" group-title="USA",USA:CA | TSN3
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16495.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:CA | TSN4 HD" tvg-logo="" group-title="USA",USA:CA | TSN4 HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16496.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:CA | TSN5" tvg-logo="" group-title="USA",USA:CA | TSN5
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16497.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:BABY TV SPANISH" tvg-logo="" group-title="USA HD",USA:BABY TV SPANISH
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11559.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:BEIN ENGLISH HD" tvg-logo="http://getbein.beinsports.com/us/wp-content/uploads/2017/01/beIN-SPORTS-H-Purple.png" group-title="USA HD",USA:BEIN ENGLISH HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11610.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:BEIN10" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="USA HD",USA:BEIN10
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11550.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:BEIN2" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="USA HD",USA:BEIN2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11558.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:BEIN3" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="USA HD",USA:BEIN3
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11557.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:BEIN4" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="USA HD",USA:BEIN4
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11556.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:BEIN5" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="USA HD",USA:BEIN5
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11555.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:BEIN6" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="USA HD",USA:BEIN6
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11554.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:BEIN7" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="USA HD",USA:BEIN7
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11553.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:BEIN8" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="USA HD",USA:BEIN8
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11552.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:BEIN9" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" group-title="USA HD",USA:BEIN9
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11551.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:BRAVO" tvg-logo="https://t4.ftcdn.net/jpg/01/36/90/69/240_F_136906975_ESmzLfx9o4U5RqCFFeo8zSlFNwxV9xxD.jpg" group-title="USA HD",USA:BRAVO
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11596.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:BTN" tvg-logo="https://sportsmediajournal.files.wordpress.com/2011/05/big-ten-network.jpg" group-title="USA HD",USA:BTN
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11608.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:CHILLER" tvg-logo="http://www.chillertv.com/dist/73fc09a6aa347afcc2cfd2f6066031dc.png" group-title="USA HD",USA:CHILLER
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11595.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:CINE SONY" tvg-logo="" group-title="USA HD",USA:CINE SONY
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11564.ts
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="USA:CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1200px-CNBC_logo.svg.png" group-title="USA HD",USA:CNBC
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11572.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:CNBC WORLD" tvg-logo="" group-title="USA HD",USA:CNBC WORLD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11571.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:COZI" tvg-logo="" group-title="USA HD",USA:COZI
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11560.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:CYCLING" tvg-logo="http://cdn-www.bicycling.co.za/wp-content/uploads/2016/11/base_training_speed.jpg" group-title="USA HD",USA:CYCLING
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11624.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:EL REY NETWORK" tvg-logo="http://www.elreynetwork.com/static/c-e6a4db2/img/logo.png" group-title="USA HD",USA:EL REY NETWORK
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11593.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:ELEVEN SPORT" tvg-logo="http://elevensportsnetwork.com/wp-content/uploads/2016/12/Eleven_Sports_Corporate_horizontal.png" group-title="USA HD",USA:ELEVEN SPORT
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11600.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="USA HD",USA:ENTERTAINMENT
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11594.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:FNTSY" tvg-logo="http://d85wlvt50npt2.cloudfront.net/wp-content/uploads/2014/06/fntsy-logo-slider.png" group-title="USA HD",USA:FNTSY
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11621.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:FIGHT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="USA HD",USA:FIGHT
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11622.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:FOOTBALL REPORTS TV" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/football_report_tv_c.png" group-title="USA HD",USA:FOOTBALL REPORTS TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11598.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:FOX BUINESS" tvg-logo="" group-title="USA HD",USA:FOX BUINESS
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11569.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png" group-title="USA HD",USA:FOX LIFE
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11592.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:FOX NEWS" tvg-logo="" group-title="USA HD",USA:FOX NEWS
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11570.ts
+#EXTINF:-1 tvg-id="FOXSoccerPlus.us" tvg-name="USA:FOX SOCCER PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/FSPlus_New2011.jpg" group-title="USA HD",USA:FOX SOCCER PLUS
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11604.ts
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="USA:FOX SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/80/FS1_New_Logo.png" group-title="USA HD",USA:FOX SPORT 1
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11614.ts
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="USA:FOX SPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1000px-FS2_logo_2015.svg.png" group-title="USA HD",USA:FOX SPORT 2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11613.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:FOX SPORT FLORIDA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/Fox_Sports_Florida_2012_logo.png" group-title="USA HD",USA:FOX SPORT FLORIDA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11616.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:FOXSUN" tvg-logo="https://20916-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2017/04/FOX_Sports_Sun_live_stream.png" group-title="USA HD",USA:FOXSUN
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11615.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:FUBO NETWORK" tvg-logo="https://fubotv-v3-dev-custom-assets.imgix.net/station_logos/fubotv_network_c.png" group-title="USA HD",USA:FUBO NETWORK
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11618.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:FUSE" tvg-logo="http://www.underconsideration.com/brandnew/archives/fuse_tv_logo_detail.jpg" group-title="USA HD",USA:FUSE
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11591.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="USA HD",USA:FX
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11590.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:FXM" tvg-logo="" group-title="USA HD",USA:FXM
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11589.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" group-title="USA HD",USA:FXX
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11588.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:FYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FYI%2C_logo.svg/1200px-FYI%2C_logo.svg.png" group-title="USA HD",USA:FYI
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11587.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:HALLMARK" tvg-logo="" group-title="USA HD",USA:HALLMARK
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11577.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:HALLMARK MOVIES MISTERIES" tvg-logo="" group-title="USA HD",USA:HALLMARK MOVIES MISTERIES
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11576.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:HISTORY" tvg-logo="http://bundler.watch.aetnd.com/images/history/generic-thumb.jpg" group-title="USA HD",USA:HISTORY
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11586.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:LIFETIME" tvg-logo="" group-title="USA HD",USA:LIFETIME
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11575.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:LIFETIME MOVIE NETWROK" tvg-logo="" group-title="USA HD",USA:LIFETIME MOVIE NETWROK
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11574.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:LOCAL NOW" tvg-logo="" group-title="USA HD",USA:LOCAL NOW
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11566.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:MSNBC" tvg-logo="" group-title="USA HD",USA:MSNBC
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11568.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:NAT GEO MUNDO" tvg-logo="" group-title="USA HD",USA:NAT GEO MUNDO
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11584.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:NAT GEO WILD" tvg-logo="" group-title="USA HD",USA:NAT GEO WILD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11583.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:NATIONAL GEOGRAPHIC" tvg-logo="" group-title="USA HD",USA:NATIONAL GEOGRAPHIC
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11585.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:NBC" tvg-logo="" group-title="USA HD",USA:NBC
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11626.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:NBC UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/UNIVERSO_LOGO_color_black.png/1200px-UNIVERSO_LOGO_color_black.png" group-title="USA HD",USA:NBC UNIVERSO
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11601.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:NBCSN" tvg-logo="https://pbs.twimg.com/profile_images/837340035091353600/28SdmRTr_400x400.jpg" group-title="USA HD",USA:NBCSN
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11612.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:OXYGEN" tvg-logo="" group-title="USA HD",USA:OXYGEN
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11582.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:PAC12" tvg-logo="" group-title="USA HD",USA:PAC12
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11549.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:REAL" tvg-logo="" group-title="USA HD",USA:REAL
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11625.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:REVOLT" tvg-logo="" group-title="USA HD",USA:REVOLT
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11581.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:RTP" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2017/07/Captura-de-ecra%CC%83-2017-07-2-a%CC%80s-09.38.29.jpg" group-title="USA HD",USA:RTP
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11619.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:SPROUT" tvg-logo="" group-title="USA HD",USA:SPROUT
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11573.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:SYFY" tvg-logo="" group-title="USA HD",USA:SYFY
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11580.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:TELEXITOS" tvg-logo="https://media.cozitv.com/designimages/logo_telexTv.png" group-title="USA HD",USA:TELEXITOS
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11617.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:THE GOLF CHANEL" tvg-logo="http://www.golfchannel.com/sites/golfchannel.prod.acquia-sites.com/files/new_golf_channel_logo_304.jpg" group-title="USA HD",USA:THE GOLF CHANEL
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11606.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:THE WEATHER CHANNEL" tvg-logo="" group-title="USA HD",USA:THE WEATHER CHANNEL
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11567.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:UNIVERSAL" tvg-logo="" group-title="USA HD",USA:UNIVERSAL
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11579.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:USA" tvg-logo="" group-title="USA HD",USA:USA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11578.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:VICELAND" tvg-logo="" group-title="USA HD",USA:VICELAND
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11565.ts
