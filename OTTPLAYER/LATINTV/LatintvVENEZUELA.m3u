@@ -1,0 +1,15 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="-----VENEZUELA-----" tvg-logo="http://somoscanarias.com/wp-content/uploads/2017/11/01Canarias-no-se-olvida-de-Venezuela_SomosCanarias.png" group-title="VENEZUELAS",-----VENEZUELA-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18343.ts
+#EXTINF:-1 tvg-id="" tvg-name="anzotegui" tvg-logo="https://pbs.twimg.com/profile_images/718515904204709892/_1Tf2A6o.jpg" group-title="VENEZUELAS",anzotegui
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18169.ts
+#EXTINF:-1 tvg-id="" tvg-name="globovision" tvg-logo="https://www.eprivacidad.es/wp-content/uploads/2017/02/06_full.png" group-title="VENEZUELAS",globovision
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18171.ts
+#EXTINF:-1 tvg-id="" tvg-name="promar tv" tvg-logo="http://historiadenuestroscanales.wikispaces.com/file/view/promar-tv.jpg/230217280/620x273/promar-tv.jpg" group-title="VENEZUELAS",promar tv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18172.ts
+#EXTINF:-1 tvg-id="" tvg-name="somos tv" tvg-logo="http://somostv.cl/wp-content/uploads/2017/03/logo-png-_-transparente-300x168.png" group-title="VENEZUELAS",somos tv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18173.ts
+#EXTINF:-1 tvg-id="" tvg-name="telesur vene" tvg-logo="https://www.telesurtv.net/pages/Especiales/Aniversario_teleSUR/1/img/logo-telesur-hor.png" group-title="VENEZUELAS",telesur vene
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18174.ts
