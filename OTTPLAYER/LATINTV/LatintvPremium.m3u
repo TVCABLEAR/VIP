@@ -1,0 +1,141 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="TNT SERIES [HD]" tvg-logo="http://tgo-tv.co/images/tvthumbs/hbo2-live-stream.jpg" group-title="CANALES HD",TNT SERIES [HD]
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19054.ts
+#EXTINF:-1 tvg-id="HBO.mx" tvg-name="HBO HD" tvg-logo="http://images.mi.tv/channels/py_hbo-hd-este_m.png" group-title="CANALES HD",HBO HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15211.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: HBO HD" tvg-logo="" group-title="CANALES HD",Latino: HBO HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19132.ts
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="HBO 2 HD" tvg-logo="http://www.frocus.net/images/logotv/original/hbo2-hd.jpg" group-title="CANALES HD",HBO 2 HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15199.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: HBO 2 HD" tvg-logo="" group-title="CANALES HD",Latino: HBO 2 HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19131.ts
+#EXTINF:-1 tvg-id="HBOSignature.mx" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1157_6_3018.png" group-title="CANALES HD",HBO SIGNATURE HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15210.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: HBO Signature HD" tvg-logo="" group-title="CANALES HD",Latino: HBO Signature HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19130.ts
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="HD:.AXN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Axn_hd.svg/2000px-Axn_hd.svg.png" group-title="CANALES HD",HD:.AXN HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18383.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: AXN HD" tvg-logo="" group-title="CANALES HD",Latino: AXN HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19061.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: A&E HD" tvg-logo="" group-title="CANALES HD",Latino: A&E HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19059.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: CINECANAL HD" tvg-logo="" group-title="CANALES HD",Latino: CINECANAL HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19144.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Cinecanal OP2 HD" tvg-logo="" group-title="CANALES HD",Latino: Cinecanal OP2 HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19063.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: CINEMAX HD" tvg-logo="" group-title="CANALES HD",Latino: CINEMAX HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19108.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Claro Sports HD" tvg-logo="" group-title="CANALES HD",Latino: Claro Sports HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19143.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Comedy Central HD" tvg-logo="" group-title="CANALES HD",Latino: Comedy Central HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19162.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: De Pelicula HD" tvg-logo="" group-title="CANALES HD",Latino: De Pelicula HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19161.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: FILM ZONE HD" tvg-logo="" group-title="CANALES HD",Latino: FILM ZONE HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19102.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: FORO TV HD" tvg-logo="" group-title="CANALES HD",Latino: FORO TV HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19137.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Fox 1 HD" tvg-logo="" group-title="CANALES HD",Latino: Fox 1 HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19075.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Fox Action HD" tvg-logo="" group-title="CANALES HD",Latino: Fox Action HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19076.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Fox Cinema HD" tvg-logo="" group-title="CANALES HD",Latino: Fox Cinema HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19077.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: FOX CLASSIC HD" tvg-logo="" group-title="CANALES HD",Latino: FOX CLASSIC HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19101.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Fox Movies HD" tvg-logo="" group-title="CANALES HD",Latino: Fox Movies HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19079.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Fox HD" tvg-logo="" group-title="CANALES HD",Latino: Fox HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19078.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: FOX LIFE HD" tvg-logo="" group-title="CANALES HD",Latino: FOX LIFE HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19136.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: FX HD" tvg-logo="" group-title="CANALES HD",Latino: FX HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19134.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: SONY HD" tvg-logo="" group-title="CANALES HD",Latino: SONY HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19094.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Space HD" tvg-logo="" group-title="CANALES HD",Latino: Space HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19153.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: STUDIO UNIVERSAL HD" tvg-logo="" group-title="CANALES HD",Latino: STUDIO UNIVERSAL HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19093.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: SYFY HD" tvg-logo="" group-title="CANALES HD",Latino: SYFY HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19092.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: TNT Series HD" tvg-logo="" group-title="CANALES HD",Latino: TNT Series HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19084.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Warner HD" tvg-logo="" group-title="CANALES HD",Latino: Warner HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19149.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Universal HD" tvg-logo="" group-title="CANALES HD",Latino: Universal HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19150.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Golden Edge HD" tvg-logo="" group-title="CANALES HD",Latino: Golden Edge HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19158.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Golden HD" tvg-logo="" group-title="CANALES HD",Latino: Golden HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19157.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: MAX UP HD" tvg-logo="" group-title="CANALES HD",Latino: MAX UP HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19128.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: DISTRITO COMEDIA HD" tvg-logo="" group-title="CANALES HD",Latino: DISTRITO COMEDIA HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19142.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Cinemax Action HD" tvg-logo="https://sc.dish.com/shared/images/station-logos/ACMAX.PNG" group-title="CANALES HD",Latino {} Cinemax Action HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11252.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Cinemax HD" tvg-logo="" group-title="CANALES HD",Latino {} Cinemax HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11250.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Showtime East HD" tvg-logo="" group-title="CANALES HD",Latino {} Showtime East HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11236.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Showtime HD" tvg-logo="" group-title="CANALES HD",Latino {} Showtime HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11235.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Showtime West HD" tvg-logo="" group-title="CANALES HD",Latino {} Showtime West HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz Encore HD" tvg-logo="https://www.starz.com/guides/starzlibrary/images/logo_starzencorehd_w.gif" group-title="CANALES HD",Latino {} Starz Encore HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11224.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz Family HD" tvg-logo="" group-title="CANALES HD",Latino {} Starz Family HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11220.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery Channel HD" tvg-logo="" group-title="CANALES HD",Latino: Discovery Channel HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19064.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery Civilization HD" tvg-logo="" group-title="CANALES HD",Latino: Discovery Civilization HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19065.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery ID HD" tvg-logo="" group-title="CANALES HD",Latino: Discovery ID HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19066.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: DISCOVERY SCIENCE. HD" tvg-logo="" group-title="CANALES HD",Latino: DISCOVERY SCIENCE. HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19106.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery Teather HD" tvg-logo="" group-title="CANALES HD",Latino: Discovery Teather HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19068.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery TLC HD" tvg-logo="" group-title="CANALES HD",Latino: Discovery TLC HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19069.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery Turbo HD" tvg-logo="" group-title="CANALES HD",Latino: Discovery Turbo HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19070.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: DISCOVERY WORLD HD" tvg-logo="" group-title="CANALES HD",Latino: DISCOVERY WORLD HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19105.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: DISCOVERY  HOME & HEALTH HD" tvg-logo="" group-title="CANALES HD",Latino: DISCOVERY  HOME & HEALTH HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19107.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: INVESTIGACION DISCOVERY HD" tvg-logo="" group-title="CANALES HD",Latino: INVESTIGACION DISCOVERY HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19129.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: TLC HD" tvg-logo="" group-title="CANALES HD",Latino: TLC HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19115.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Animal Planet HD" tvg-logo="" group-title="CANALES HD",Latino: Animal Planet HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19060.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: History HD" tvg-logo="" group-title="CANALES HD",Latino: History HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19155.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: H2 HD" tvg-logo="" group-title="CANALES HD",Latino: H2 HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19133.ts
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="DOCUMENTALES",H2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17440.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILM&ARTS" tvg-logo="https://4.bp.blogspot.com/-e5mXPAWSnkk/Vt9D8dLOTEI/AAAAAAAAhCs/gJ6iDWHAg8w/s1600/1film.jpg" group-title="CANALES HD",FILM&ARTS
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17499.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: NatGeo Wild HD" tvg-logo="" group-title="CANALES HD",Latino: NatGeo Wild HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19083.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="CANALES HD",Latino: NATIONAL GEOGRAPHIC HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19121.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Carton Network HD" tvg-logo="" group-title="CANALES HD",Latino: Carton Network HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19062.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: CARTOON NETWORK HD" tvg-logo="" group-title="CANALES HD",Latino: CARTOON NETWORK HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19145.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: Discovery Kids HD" tvg-logo="" group-title="CANALES HD",Latino: Discovery Kids HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19067.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: TOONCAST HD" tvg-logo="" group-title="CANALES HD",Latino: TOONCAST HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19087.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: NICK Jr HD" tvg-logo="" group-title="CANALES HD",Latino: NICK Jr HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19120.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: NICK TOONS HD" tvg-logo="" group-title="CANALES HD",Latino: NICK TOONS HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19096.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: TIIN HD" tvg-logo="" group-title="CANALES HD",Latino: TIIN HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19088.ts
