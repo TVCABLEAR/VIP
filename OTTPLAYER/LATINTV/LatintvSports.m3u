@@ -148,3 +148,16 @@ http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15075.ts
 http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15074.ts
 #EXTINF:-1 tvg-id="GolTV.us" tvg-name="ARG - GOL TV" tvg-logo="https://yt3.ggpht.com/-A34BIecF1wM/AAAAAAAAAAI/AAAAAAAAAAA/LvFD2txR5Lo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="DEPORTES",ARG - GOL TV
 http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15209.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="(izzi)ALJAZEERA" tvg-logo="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png" group-title="CANALES HD",(izzi)ALJAZEERA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14450.ts
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="(izzi)CANAL DE LAS ESTRELLAD SD" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_04/large.XEW-HD-2016.png.180089078ddead87ecaf126eae3e902c.png" group-title="CANALES HD",(izzi)CANAL DE LAS ESTRELLAD SD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14484.ts
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="(izzi)MILENIO TV" tvg-logo="http://www.megacable.com.mx/images/canales/441_milenio-tv.png" group-title="CANALES HD",(izzi)MILENIO TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14451.ts
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="(izzi)MTV LIVE HD" tvg-logo="http://images.mi.tv/channels/co_mtv-live-hd_m.png" group-title="MUSICA",(izzi)MTV LIVE HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14474.ts
+#EXTINF:-1 tvg-id="TDN.mx" tvg-name="(izzi)TDN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png" group-title="DEPORTE HD",(izzi)TDN HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14462.ts
+#EXTINF:-1 tvg-id="ESPNLatin.mx" tvg-name="(izzi)ESPN HD" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_20954.png" group-title="DEPORTE HD",(izzi)ESPN HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14461.ts
