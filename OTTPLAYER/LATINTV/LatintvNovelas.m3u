@@ -1,0 +1,31 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="-----NOVELAS-----" tvg-logo="https://i.pinimg.com/736x/1e/50/fd/1e50fd0ad24ce5146ab7af1dea3f2427--mexican-moms-spanish-projects.jpg" group-title="-----NOVELAS-----",-----NOVELAS-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18368.ts
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="USA:UNIVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/Univision_logo.png" group-title="-----NOVELAS-----",USA:UNIVISION
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11561.ts
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="UNIVISION HD: 1080P" tvg-logo="http://nowwatchtvlive.cc/wp-content/uploads/2011/07/Univision.jpg" group-title="-----NOVELAS-----",UNIVISION HD: 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/6303.ts
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="HD TELEMUNDO MIAMI HD" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="-----NOVELAS-----",HD TELEMUNDO MIAMI HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16993.ts
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="HD Telemundo Los Angeles HD" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/themes/aurora_tlmd/images/telemundo_logo.png" group-title="-----NOVELAS-----",HD Telemundo Los Angeles HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16992.ts
+#EXTINF:-1 tvg-id="Telemundo.us" tvg-name="HD Telemundo NEW YORK USA" tvg-logo="https://www.underconsideration.com/brandnew/archives/telemundo_followup_logo_detail.jpg" group-title="-----NOVELAS-----",HD Telemundo NEW YORK USA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/16990.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemento 52" tvg-logo="https://pbs.twimg.com/profile_images/856417812478173184/fQpirsOG.jpg" group-title="-----NOVELAS-----",Telemento 52
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18363.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 51" tvg-logo="" group-title="-----NOVELAS-----",TELEMUNDO 51
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17442.ts
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="Telemundo 51 OP2" tvg-logo="https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v.jpg" group-title="-----NOVELAS-----",Telemundo 51 OP2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18386.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo Internacional" tvg-logo="http://www.telemundo.com/sites/nbcutelemundo/files/images/article/cover/2015/04/14/untitled.jpg" group-title="-----NOVELAS-----",Telemundo Internacional
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18387.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA:TELEMUNDO" tvg-logo="" group-title="-----NOVELAS-----",USA:TELEMUNDO
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11563.ts
+#EXTINF:-1 tvg-id="Pasiones.us" tvg-name="HD:.Pasiones HD" tvg-logo="http://latam.tvpasiones.com/wp-content/uploads/2017/06/pasiones-logo-black.png" group-title="-----NOVELAS-----",HD:.Pasiones HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18382.ts
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="UNIMAS" tvg-logo="https://cdn3.uvnimg.com/05/9d/736aa8d14b6baefa6a61f4eee82d/Picture1.jpg" group-title="-----NOVELAS-----",UNIMAS
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11562.ts
+#EXTINF:-1 tvg-id="Galavision.us" tvg-name="USA:GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="-----NOVELAS-----",USA:GALAVISION
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11627.ts
