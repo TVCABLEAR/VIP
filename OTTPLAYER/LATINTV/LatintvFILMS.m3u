@@ -1,0 +1,854 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="-----VOD-4K-----" tvg-logo="" group-title="VOD-4K",-----VOD-4K-----
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13Horas" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-4K",13Horas
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Aliados " tvg-logo="http://tv.latintvweb.com:8000/images/3640424.jpg" group-title="VOD-4K",Aliados 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Animales Fantasticos y donde Encontrarlos" tvg-logo="http://tv.latintvweb.com:8000/images/3183660.jpg" group-title="VOD-4K",Animales Fantasticos y donde Encontrarlos
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Batman vs Superman " tvg-logo="http://tv.latintvweb.com:8000/images/5645840.jpg" group-title="VOD-4K",Batman vs Superman 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool " tvg-logo="http://tv.latintvweb.com:8000/images/1431045.jpg" group-title="VOD-4K",Deadpool 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="DesafioTotaL " tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-4K",DesafioTotaL 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Extraño" tvg-logo="http://tv.latintvweb.com:8000/images/1211837.jpg" group-title="VOD-4K",Doctor Extraño
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Corredor del Laberinto " tvg-logo="http://tv.latintvweb.com:8000/images/1790864.jpg" group-title="VOD-4K",El Corredor del Laberinto 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El Renacido " tvg-logo="http://tv.latintvweb.com:8000/images/1663202.jpg" group-title="VOD-4K",El Renacido 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elysium " tvg-logo="http://tv.latintvweb.com:8000/images/1535108.jpg" group-title="VOD-4K",Elysium 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SanAndres" tvg-logo="http://tv.latintvweb.com:8000/images/2357664.jpg" group-title="VOD-4K",SanAndres
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Inferno " tvg-logo="http://tv.latintvweb.com:8000/images/3062096.jpg" group-title="VOD-4K",Inferno 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="-----VOD-EXTRENO-----" tvg-logo="http://tv.latintvweb.com:8000/images/3062096.jpg" group-title="",-----VOD-EXTRENO-----
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="American made 2" tvg-logo="http://tv.latintvweb.com:8000/images/3532216.jpg" group-title="VOD-EXTRENO",American made 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/19037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brimstone" tvg-logo="http://tv.latintvweb.com:8000/images/1895315.jpg" group-title="VOD-EXTRENO",Brimstone
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/19047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Crown Heights (2017 Dual)" tvg-logo="http://tv.latintvweb.com:8000/images/1895315.jpg" group-title="VOD-EXTRENO",Crown Heights (2017 Dual)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/19042.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dunkirk (2017 Dual)" tvg-logo="http://tv.latintvweb.com:8000/images/1895315.jpg" group-title="VOD-EXTRENO",Dunkirk (2017 Dual)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/19040.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flatliners 2017" tvg-logo="http://tv.latintvweb.com:8000/images/2039338.jpg" group-title="VOD-EXTRENO",Flatliners 2017
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/19045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="la cordillera" tvg-logo="http://tv.latintvweb.com:8000/images/6047298.jpg" group-title="VOD-EXTRENO",la cordillera
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/19046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mas alla de la montaña (2017)" tvg-logo="http://tv.latintvweb.com:8000/images/2226597.jpg" group-title="VOD-EXTRENO",Mas alla de la montaña (2017)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/19043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster trucks" tvg-logo="http://tv.latintvweb.com:8000/images/3095734.jpg" group-title="VOD-EXTRENO",Monster trucks
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/19036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mother! (2017 Dual)" tvg-logo="http://tv.latintvweb.com:8000/images/3095734.jpg" group-title="VOD-EXTRENO",Mother! (2017 Dual)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/19038.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Song to song" tvg-logo="http://tv.latintvweb.com:8000/images/2062700.jpg" group-title="VOD-EXTRENO",Song to song
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/19035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Killing of a Sacred Deer (2017)" tvg-logo="http://tv.latintvweb.com:8000/images/5715874.jpg" group-title="VOD-EXTRENO",The Killing of a Sacred Deer (2017)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/19044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The mountain between" tvg-logo="http://tv.latintvweb.com:8000/images/2226597.jpg" group-title="VOD-EXTRENO",The mountain between
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/19039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Victoria and Abdul (2017 Dual)" tvg-logo="http://tv.latintvweb.com:8000/images/2226597.jpg" group-title="VOD-EXTRENO",Victoria and Abdul (2017 Dual)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/19041.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Asesino Misión Venganza" tvg-logo="http://tv.latintvweb.com:8000/images/1961175.jpg" group-title="VOD-EXTRENO",Asesino Misión Venganza
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crown Heights" tvg-logo="http://tv.latintvweb.com:8000/images/3268340.jpg" group-title="VOD-EXTRENO",Crown Heights
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Geostorm" tvg-logo="http://tv.latintvweb.com:8000/images/1981128.jpg" group-title="VOD-EXTRENO",Geostorm
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="God Of War" tvg-logo="http://tv.latintvweb.com:8000/images/6083388.jpg" group-title="VOD-EXTRENO",God Of War
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Home Again 2017" tvg-logo="http://tv.latintvweb.com:8000/images/5719700.jpg" group-title="VOD-EXTRENO",Home Again 2017
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JEEPERS 3" tvg-logo="http://tv.latintvweb.com:8000/images/1139592.jpg" group-title="VOD-EXTRENO",JEEPERS 3
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="KINGSMAN 2" tvg-logo="http://tv.latintvweb.com:8000/images/4649466.jpg" group-title="VOD-EXTRENO",KINGSMAN 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Knight of Cups" tvg-logo="http://tv.latintvweb.com:8000/images/2101383.jpg" group-title="VOD-EXTRENO",Knight of Cups
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locos por las Nueces 2" tvg-logo="http://tv.latintvweb.com:8000/images/3486626.jpg" group-title="VOD-EXTRENO",Locos por las Nueces 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariah Carey's All" tvg-logo="http://tv.latintvweb.com:8000/images/6678950.jpg" group-title="VOD-EXTRENO",Mariah Carey's All
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Open Water 3" tvg-logo="http://tv.latintvweb.com:8000/images/4126568.jpg" group-title="VOD-EXTRENO",Open Water 3
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="VALERIAN" tvg-logo="http://tv.latintvweb.com:8000/images/2239822.jpg" group-title="VOD-EXTRENO",VALERIAN
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Your Name" tvg-logo="http://tv.latintvweb.com:8000/images/5311514.jpg" group-title="VOD-EXTRENO",Your Name
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="-----VOD-ACCION-----" tvg-logo="" group-title="VOD-ACCION",-----VOD-ACCION-----
+JBHJ
+#EXTINF:-1 tvg-id="" tvg-name="Dead agai in tombstone" tvg-logo="http://tv.latintvweb.com:8000/images/5794440.jpg" group-title="VOD-ACCION",Dead agai in tombstone
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17705.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fate of the furious " tvg-logo="http://tv.latintvweb.com:8000/images/7130750.jpg" group-title="VOD-ACCION",Fate of the furious 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17697.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John wick  2" tvg-logo="http://tv.latintvweb.com:8000/images/2911666.jpg" group-title="VOD-ACCION",John wick  2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17703.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 2" tvg-logo="http://tv.latintvweb.com:8000/images/4425200.jpg" group-title="VOD-ACCION",John Wick 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17708.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Espada de la Venganza" tvg-logo="http://tv.latintvweb.com:8000/images/3622332.jpg" group-title="VOD-ACCION",La Espada de la Venganza
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Never Back Down No Surrender" tvg-logo="http://tv.latintvweb.com:8000/images/4790268.jpg" group-title="VOD-ACCION",Never Back Down No Surrender
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17707.mp4
+#EXTINF:-1 tvg-id="" tvg-name="S.W.A.T Bajo Amenaza" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-ACCION",S.W.A.T Bajo Amenaza
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Savage Dog" tvg-logo="http://tv.latintvweb.com:8000/images/5851014.jpg" group-title="VOD-ACCION",Savage Dog
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17702.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Security" tvg-logo="http://tv.latintvweb.com:8000/images/3501112.jpg" group-title="VOD-ACCION",Security
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17706.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Soldado argentino solo conocido por Dios" tvg-logo="http://tv.latintvweb.com:8000/images/6257640.jpg" group-title="VOD-ACCION",Soldado argentino solo conocido por Dios
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17701.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The hitmans bodyguard" tvg-logo="http://tv.latintvweb.com:8000/images/1959563.jpg" group-title="VOD-ACCION",The hitmans bodyguard
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17704.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Recall" tvg-logo="http://tv.latintvweb.com:8000/images/5669936.jpg" group-title="VOD-ACCION",The Recall
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17694.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un Golpe con Estilo" tvg-logo="http://tv.latintvweb.com:8000/images/2568862.jpg" group-title="VOD-ACCION",Un Golpe con Estilo
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17698.mp4
+#EXTINF:-1 tvg-id="" tvg-name="War for the Planet of " tvg-logo="http://tv.latintvweb.com:8000/images/3450958.jpg" group-title="VOD-ACCION",War for the Planet of 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17700.mkv
+#EXTINF:-1 tvg-id="" tvg-name="War Machine" tvg-logo="http://tv.latintvweb.com:8000/images/4758646.jpg" group-title="VOD-ACCION",War Machine
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17699.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Xxx" tvg-logo="http://tv.latintvweb.com:8000/images/0295701.jpg" group-title="VOD-ACCION",Xxx
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zona Hostil " tvg-logo="http://tv.latintvweb.com:8000/images/5456104.jpg" group-title="VOD-ACCION",Zona Hostil 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 hours (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4172430.jpg" group-title="VOD-ACCION",13 hours (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4got10 (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4172430.jpg" group-title="VOD-ACCION",4got10 (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Assassins Cred (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-ACCION",Assassins Cred (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atentado en Paris" tvg-logo="http://tv.latintvweb.com:8000/images/2368619.jpg" group-title="VOD-ACCION",Atentado en Paris
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Bad Blood" tvg-logo="http://tv.latintvweb.com:8000/images/4870838.jpg" group-title="VOD-ACCION",Batman Bad Blood
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman The Killing Joke (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4853102.jpg" group-title="VOD-ACCION",Batman The Killing Joke (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman vs Robin (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4324274.jpg" group-title="VOD-ACCION",Batman vs Robin (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Billy Lynn Honor y sentimiento (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4324274.jpg" group-title="VOD-ACCION",Billy Lynn Honor y sentimiento (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18401.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Captain America Civil War" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-ACCION",Captain America Civil War
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cat strofe en la Tierra Earthtastrophe" tvg-logo="n/A" group-title="VOD-ACCION",Cat strofe en la Tierra Earthtastrophe
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Central Intelligence (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/1489889.jpg" group-title="VOD-ACCION",Central Intelligence (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18396.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chapo El escape del siglo" tvg-logo="http://tv.latintvweb.com:8000/images/5344086.jpg" group-title="VOD-ACCION",Chapo El escape del siglo
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cien anos de perdon (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3655414.jpg" group-title="VOD-ACCION",Cien anos de perdon (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Close Range" tvg-logo="http://tv.latintvweb.com:8000/images/3511596.jpg" group-title="VOD-ACCION",Close Range
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18400.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Compadres" tvg-logo="http://tv.latintvweb.com:8000/images/0082111.jpg" group-title="VOD-ACCION",Compadres
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conexion Mortal (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/0775440.jpg" group-title="VOD-ACCION",Conexion Mortal (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Criminal (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3014866.jpg" group-title="VOD-ACCION",Criminal (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crouching Tiger Hidden Dragon Sword of Destiny (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2652118.jpg" group-title="VOD-ACCION",Crouching Tiger Hidden Dragon Sword of Destiny (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Domino" tvg-logo="http://tv.latintvweb.com:8000/images/0421054.jpg" group-title="VOD-ACCION",Domino
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drone Wars 2016" tvg-logo="http://tv.latintvweb.com:8000/images/5239972.jpg" group-title="VOD-ACCION",Drone Wars 2016
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Earthfall" tvg-logo="http://tv.latintvweb.com:8000/images/3630556.jpg" group-title="VOD-ACCION",Earthfall
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Contador" tvg-logo="http://tv.latintvweb.com:8000/images/2140479.jpg" group-title="VOD-ACCION",El Contador
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Niño" tvg-logo="http://tv.latintvweb.com:8000/images/3882082.jpg" group-title="VOD-ACCION",El Niño
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18399.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eliminadores (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3882082.jpg" group-title="VOD-ACCION",Eliminadores (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En El Valle de La Violencia" tvg-logo="http://tv.latintvweb.com:8000/images/3882082.jpg" group-title="VOD-ACCION",En El Valle de La Violencia
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escuadron Suicida" tvg-logo="http://tv.latintvweb.com:8000/images/1386697.jpg" group-title="VOD-ACCION",Escuadron Suicida
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hard Target 2" tvg-logo="http://tv.latintvweb.com:8000/images/5241578.jpg" group-title="VOD-ACCION",Hard Target 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hitman.Agent.47" tvg-logo="http://tv.latintvweb.com:8000/images/2679042.jpg" group-title="VOD-ACCION",Hitman.Agent.47
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Horizonte Profundo" tvg-logo="http://tv.latintvweb.com:8000/images/1860357.jpg" group-title="VOD-ACCION",Horizonte Profundo
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Am Wrath (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3212232.jpg" group-title="VOD-ACCION",I Am Wrath (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18397.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I.T. El Intruso" tvg-logo="http://tv.latintvweb.com:8000/images/0774604.jpg" group-title="VOD-ACCION",I.T. El Intruso
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I.T. El Intruso (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/0774604.jpg" group-title="VOD-ACCION",I.T. El Intruso (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Inframundo Guerra de Sangre" tvg-logo="http://tv.latintvweb.com:8000/images/3717252.jpg" group-title="VOD-ACCION",Inframundo Guerra de Sangre
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jack Reacher 2" tvg-logo="http://tv.latintvweb.com:8000/images/3393786.jpg" group-title="VOD-ACCION",Jack Reacher 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jarhead the siege" tvg-logo="http://tv.latintvweb.com:8000/images/4616014.jpg" group-title="VOD-ACCION",Jarhead the siege
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18398.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jarhead the siege (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4616014.jpg" group-title="VOD-ACCION",Jarhead the siege (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="kung-fu yoga" tvg-logo="http://tv.latintvweb.com:8000/images/4217392.jpg" group-title="VOD-ACCION",kung-fu yoga
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18395.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Gran Pelea 4 (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4217392.jpg" group-title="VOD-ACCION",La Gran Pelea 4 (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Historia Real de un Falso Asesino" tvg-logo="http://tv.latintvweb.com:8000/images/4217392.jpg" group-title="VOD-ACCION",La Historia Real de un Falso Asesino
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda del Rey Mono 2 Viaje al Oeste" tvg-logo="http://tv.latintvweb.com:8000/images/4217392.jpg" group-title="VOD-ACCION",La leyenda del Rey Mono 2 Viaje al Oeste
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La leyenda del Rey Mono 2 Viaje al Oeste (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4217392.jpg" group-title="VOD-ACCION",La leyenda del Rey Mono 2 Viaje al Oeste (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Ultima Ola" tvg-logo="http://tv.latintvweb.com:8000/images/3616916.jpg" group-title="VOD-ACCION",La Ultima Ola
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="London Has Fallen" tvg-logo="http://tv.latintvweb.com:8000/images/3300542.jpg" group-title="VOD-ACCION",London Has Fallen
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los 7 Magnificos" tvg-logo="http://tv.latintvweb.com:8000/images/0080421.jpg" group-title="VOD-ACCION",Los 7 Magnificos
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lucha por la libertad (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-ACCION",Lucha por la libertad (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Manos de Piedra" tvg-logo="http://tv.latintvweb.com:8000/images/1781827.jpg" group-title="VOD-ACCION",Manos de Piedra
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mine (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3707104.jpg" group-title="VOD-ACCION",Mine (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oblivion_ El tiempo del olvido (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3707104.jpg" group-title="VOD-ACCION",Oblivion_ El tiempo del olvido (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operacion Encubierta (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3707104.jpg" group-title="VOD-ACCION",Operacion Encubierta (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operacion Mekong (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3707104.jpg" group-title="VOD-ACCION",Operacion Mekong (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operacion Oculta" tvg-logo="http://tv.latintvweb.com:8000/images/4939066.jpg" group-title="VOD-ACCION",Operacion Oculta
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operacion Oculta (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4939066.jpg" group-title="VOD-ACCION",Operacion Oculta (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PERSECUCION AL LIMITE (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2126235.jpg" group-title="VOD-ACCION",PERSECUCION AL LIMITE (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Punto De Quiebre" tvg-logo="http://tv.latintvweb.com:8000/images/2058673.jpg" group-title="VOD-ACCION",Punto De Quiebre
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RIOT" tvg-logo="http://tv.latintvweb.com:8000/images/4642044.jpg" group-title="VOD-ACCION",RIOT
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Risen" tvg-logo="http://tv.latintvweb.com:8000/images/3231054.jpg" group-title="VOD-ACCION",Risen
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="San Andreas (2015)" tvg-logo="http://tv.latintvweb.com:8000/images/2126355.jpg" group-title="VOD-ACCION",San Andreas (2015)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sentencia de Muerte" tvg-logo="http://tv.latintvweb.com:8000/images/0804461.jpg" group-title="VOD-ACCION",Sentencia de Muerte
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spectral (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2106651.jpg" group-title="VOD-ACCION",Spectral (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="spectre 007 hd" tvg-logo="http://tv.latintvweb.com:8000/images/2106651.jpg" group-title="VOD-ACCION",spectre 007 hd
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Split Fragmentado (2017)" tvg-logo="http://tv.latintvweb.com:8000/images/2106651.jpg" group-title="VOD-ACCION",Split Fragmentado (2017)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Standoff (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3703908.jpg" group-title="VOD-ACCION",Standoff (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sword.Master (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/5269396.jpg" group-title="VOD-ACCION",Sword.Master (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="taken 3" tvg-logo="http://tv.latintvweb.com:8000/images/2446042.jpg" group-title="VOD-ACCION",taken 3
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="terminator genisys" tvg-logo="http://tv.latintvweb.com:8000/images/1340138.jpg" group-title="VOD-ACCION",terminator genisys
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The 5th Wave" tvg-logo="http://tv.latintvweb.com:8000/images/2304933.jpg" group-title="VOD-ACCION",The 5th Wave
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18394.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Huntsman Winter’s War (2016)" tvg-logo="n/A" group-title="VOD-ACCION",The Huntsman Winter’s War (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="the mechanic (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-ACCION",the mechanic (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18402.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Siege of Jadotville (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3922798.jpg" group-title="VOD-ACCION",The Siege of Jadotville (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Warcraft (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/0803096.jpg" group-title="VOD-ACCION",Warcraft (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="wild car (2015)" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-ACCION",wild car (2015)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="------VOD-CIENCIA FICCION------" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-CIENCIA FICCION",------VOD-CIENCIA FICCION------
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="08 Power Rangers" tvg-logo="http://tv.latintvweb.com:8000/images/3717490.jpg" group-title="VOD-CIENCIA FICCION",08 Power Rangers
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="2024" tvg-logo="http://tv.latintvweb.com:8000/images/5517534.jpg" group-title="VOD-CIENCIA FICCION",2024
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ahora me ves 2" tvg-logo="http://tv.latintvweb.com:8000/images/3110958.jpg" group-title="VOD-CIENCIA FICCION",ahora me ves 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Atomica" tvg-logo="http://tv.latintvweb.com:8000/images/2406566.jpg" group-title="VOD-CIENCIA FICCION",Atomica
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CARRERA DE LA MUERTE 2050" tvg-logo="http://tv.latintvweb.com:8000/images/2406566.jpg" group-title="VOD-CIENCIA FICCION",CARRERA DE LA MUERTE 2050
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="COVENANT" tvg-logo="http://tv.latintvweb.com:8000/images/0088958.jpg" group-title="VOD-CIENCIA FICCION",COVENANT
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17738.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dragonheart 4" tvg-logo="http://tv.latintvweb.com:8000/images/5610626.jpg" group-title="VOD-CIENCIA FICCION",Dragonheart 4
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Circulo" tvg-logo="http://tv.latintvweb.com:8000/images/4287320.jpg" group-title="VOD-CIENCIA FICCION",El Circulo
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17726.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fabricated City" tvg-logo="http://tv.latintvweb.com:8000/images/6399158.jpg" group-title="VOD-CIENCIA FICCION",Fabricated City
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17735.avi
+#EXTINF:-1 tvg-id="" tvg-name="Gabo, la magia de lo real" tvg-logo="http://tv.latintvweb.com:8000/images/4568106.jpg" group-title="VOD-CIENCIA FICCION",Gabo, la magia de lo real
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost In The Shell" tvg-logo="http://tv.latintvweb.com:8000/images/1219827.jpg" group-title="VOD-CIENCIA FICCION",Ghost In The Shell
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Guardians" tvg-logo="http://tv.latintvweb.com:8000/images/4600952.jpg" group-title="VOD-CIENCIA FICCION",Guardians
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17724.mkv
+#EXTINF:-1 tvg-id="" tvg-name="iBoy" tvg-logo="http://tv.latintvweb.com:8000/images/3171832.jpg" group-title="VOD-CIENCIA FICCION",iBoy
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17712.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kong La Isla Calavera" tvg-logo="http://tv.latintvweb.com:8000/images/3731562.jpg" group-title="VOD-CIENCIA FICCION",Kong La Isla Calavera
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17710.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kong skull island" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-CIENCIA FICCION",Kong skull island
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17711.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La gran muralla" tvg-logo="http://tv.latintvweb.com:8000/images/2034800.jpg" group-title="VOD-CIENCIA FICCION",La gran muralla
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Guerra Del Planeta De Los Simios" tvg-logo="http://tv.latintvweb.com:8000/images/3450958.jpg" group-title="VOD-CIENCIA FICCION",La Guerra Del Planeta De Los Simios
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Life Vida Inteligente " tvg-logo="http://tv.latintvweb.com:8000/images/6741596.jpg" group-title="VOD-CIENCIA FICCION",Life Vida Inteligente 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17727.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Logan" tvg-logo="http://tv.latintvweb.com:8000/images/3315342.jpg" group-title="VOD-CIENCIA FICCION",Logan
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pasajeros" tvg-logo="http://tv.latintvweb.com:8000/images/1355644.jpg" group-title="VOD-CIENCIA FICCION",Pasajeros
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17713.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pirates of the caribe la vengaza de salazar" tvg-logo="http://tv.latintvweb.com:8000/images/1355644.jpg" group-title="VOD-CIENCIA FICCION",Pirates of the caribe la vengaza de salazar
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="http://tv.latintvweb.com:8000/images/3717490.jpg" group-title="VOD-CIENCIA FICCION",Power Rangers
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil El Capitulo Final" tvg-logo="http://tv.latintvweb.com:8000/images/2592614.jpg" group-title="VOD-CIENCIA FICCION",Resident Evil El Capitulo Final
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17715.avi
+#EXTINF:-1 tvg-id="" tvg-name="Resident Evil Vendetta" tvg-logo="http://tv.latintvweb.com:8000/images/5776208.jpg" group-title="VOD-CIENCIA FICCION",Resident Evil Vendetta
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sharknado 5" tvg-logo="http://tv.latintvweb.com:8000/images/6298780.jpg" group-title="VOD-CIENCIA FICCION",Sharknado 5
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17736.avi
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man Homecoming" tvg-logo="http://tv.latintvweb.com:8000/images/2250912.jpg" group-title="VOD-CIENCIA FICCION",Spider-Man Homecoming
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17720.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Starship Troopers Traitor of Mars" tvg-logo="http://tv.latintvweb.com:8000/images/6977240.jpg" group-title="VOD-CIENCIA FICCION",Starship Troopers Traitor of Mars
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The dark tower" tvg-logo="http://tv.latintvweb.com:8000/images/1648190.jpg" group-title="VOD-CIENCIA FICCION",The dark tower
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Discovery" tvg-logo="http://tv.latintvweb.com:8000/images/5155780.jpg" group-title="VOD-CIENCIA FICCION",The Discovery
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mummy" tvg-logo="http://tv.latintvweb.com:8000/images/2345759.jpg" group-title="VOD-CIENCIA FICCION",The Mummy
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers Age of Extinction" tvg-logo="http://tv.latintvweb.com:8000/images/2109248.jpg" group-title="VOD-CIENCIA FICCION",Transformers Age of Extinction
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transformers the.last knight" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-CIENCIA FICCION",Transformers the.last knight
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="What Happened to Monday" tvg-logo="http://tv.latintvweb.com:8000/images/1536537.jpg" group-title="VOD-CIENCIA FICCION",What Happened to Monday
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wonder Woman" tvg-logo="http://tv.latintvweb.com:8000/images/0451279.jpg" group-title="VOD-CIENCIA FICCION",Wonder Woman
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="zookeeper" tvg-logo="http://tv.latintvweb.com:8000/images/1222817.jpg" group-title="VOD-CIENCIA FICCION",zookeeper
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Demolicion " tvg-logo="http://iptvlatinoamericaec.xyz:8000/images/1172049.jpg" group-title="VOD-PELICULAS",Demolicion 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/10147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Now You See Me 2" tvg-logo="http://iptvlatinoamericaec.xyz:8000/images/3110958.jpg" group-title="VOD-PELICULAS",Now You See Me 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/10146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eddie The Eagle" tvg-logo="http://iptvlatinoamericaec.xyz:8000/images/1083452.jpg" group-title="VOD-PELICULAS",Eddie The Eagle
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/10148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Approaching The Unknown (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2674430.jpg" group-title="VOD-CIENCIA FICCION",Approaching The Unknown (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ARQ (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/5640450.jpg" group-title="VOD-CIENCIA FICCION",ARQ (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ben Hur (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2638144.jpg" group-title="VOD-CIENCIA FICCION",Ben Hur (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/1211837.jpg" group-title="VOD-CIENCIA FICCION",Doctor Strange (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="dragon nest" tvg-logo="http://tv.latintvweb.com:8000/images/1857681.jpg" group-title="VOD-CIENCIA FICCION",dragon nest
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Buen Amigo Gigante" tvg-logo="http://tv.latintvweb.com:8000/images/3691740.jpg" group-title="VOD-CIENCIA FICCION",El Buen Amigo Gigante
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Este es el momento (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3691740.jpg" group-title="VOD-CIENCIA FICCION",Este es el momento (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gods of Egypt" tvg-logo="http://tv.latintvweb.com:8000/images/2404233.jpg" group-title="VOD-CIENCIA FICCION",Gods of Egypt
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Independence Day  Resurgence (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/1628841.jpg" group-title="VOD-CIENCIA FICCION",Independence Day  Resurgence (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji" tvg-logo="http://tv.latintvweb.com:8000/images/2283362.jpg" group-title="VOD-CIENCIA FICCION",Jumanji
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18600.avi
+#EXTINF:-1 tvg-id="" tvg-name="JURASSIC WORLD " tvg-logo="http://tv.latintvweb.com:8000/images/0369610.jpg" group-title="VOD-CIENCIA FICCION",JURASSIC WORLD 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Justice League Dark (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2494376.jpg" group-title="VOD-CIENCIA FICCION",Justice League Dark (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kill Command (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2667380.jpg" group-title="VOD-CIENCIA FICCION",Kill Command (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Llegada (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2543164.jpg" group-title="VOD-CIENCIA FICCION",La Llegada (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Máximum Ride (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/0825283.jpg" group-title="VOD-CIENCIA FICCION",Máximum Ride (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maze.Runner.The.Scorch.Trials" tvg-logo="http://tv.latintvweb.com:8000/images/4046784.jpg" group-title="VOD-CIENCIA FICCION",Maze.Runner.The.Scorch.Trials
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miss Peregrine y los Niños Peculiares" tvg-logo="http://tv.latintvweb.com:8000/images/1935859.jpg" group-title="VOD-CIENCIA FICCION",Miss Peregrine y los Niños Peculiares
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster High Un Viaje al Mar de los Monstruos (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/1935859.jpg" group-title="VOD-CIENCIA FICCION",Monster High Un Viaje al Mar de los Monstruos (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pasajeros (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/1355644.jpg" group-title="VOD-CIENCIA FICCION",Pasajeros (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rapido y Furioso 7" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-CIENCIA FICCION",Rapido y Furioso 7
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Road Wars" tvg-logo="http://tv.latintvweb.com:8000/images/4530832.jpg" group-title="VOD-CIENCIA FICCION",Road Wars
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="robot overlords" tvg-logo="http://tv.latintvweb.com:8000/images/2145829.jpg" group-title="VOD-CIENCIA FICCION",robot overlords
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rogue One Una Historia De Star War" tvg-logo="http://tv.latintvweb.com:8000/images/3748528.jpg" group-title="VOD-CIENCIA FICCION",Rogue One Una Historia De Star War
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salvando America (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4382824.jpg" group-title="VOD-CIENCIA FICCION",Salvando America (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Self.less" tvg-logo="http://tv.latintvweb.com:8000/images/2140379.jpg" group-title="VOD-CIENCIA FICCION",Self.less
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek Beyond" tvg-logo="http://tv.latintvweb.com:8000/images/2660888.jpg" group-title="VOD-CIENCIA FICCION",Star Trek Beyond
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars Episode VII The Force Awakens" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-CIENCIA FICCION",Star Wars Episode VII The Force Awakens
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Synchronicity" tvg-logo="http://tv.latintvweb.com:8000/images/2049543.jpg" group-title="VOD-CIENCIA FICCION",Synchronicity
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Divergent Allegiant " tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-CIENCIA FICCION",The Divergent Allegiant 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Martian" tvg-logo="http://tv.latintvweb.com:8000/images/3659388.jpg" group-title="VOD-CIENCIA FICCION",The Martian
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tortugas Ninja 2 (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-CIENCIA FICCION",Tortugas Ninja 2 (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trolls (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/1679335.jpg" group-title="VOD-CIENCIA FICCION",Trolls (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="X-Men Apocalypse (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-CIENCIA FICCION",X-Men Apocalypse (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zoé" tvg-logo="http://tv.latintvweb.com:8000/images/0415463.jpg" group-title="VOD-CIENCIA FICCION",Zoé
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="-----VOD-AVENTURA-----" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-AVENTURA",-----VOD-AVENTURA-----
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18468.
+#EXTINF:-1 tvg-id="" tvg-name="Cazando Salvaje (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-AVENTURA",Cazando Salvaje (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El abrazo de la serpiente" tvg-logo="http://tv.latintvweb.com:8000/images/4285496.jpg" group-title="VOD-AVENTURA",El abrazo de la serpiente
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Equidad" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-AVENTURA",Equidad
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Everest" tvg-logo="http://tv.latintvweb.com:8000/images/2719848.jpg" group-title="VOD-AVENTURA",Everest
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18562.mp4
+#EXTINF:-1 tvg-id="" tvg-name="LA CUEVA DESCENSO AL INFIERNO (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2719848.jpg" group-title="VOD-AVENTURA",LA CUEVA DESCENSO AL INFIERNO (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18559.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Midnight Special" tvg-logo="http://tv.latintvweb.com:8000/images/2649554.jpg" group-title="VOD-AVENTURA",Midnight Special
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster Truck (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-AVENTURA",Monster Truck (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18560.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Que El (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4501244.jpg" group-title="VOD-AVENTURA",Por Que El (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Quackerz  (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3723780.jpg" group-title="VOD-AVENTURA",Quackerz  (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Robinson Crusoe" tvg-logo="http://tv.latintvweb.com:8000/images/4731008.jpg" group-title="VOD-AVENTURA",Robinson Crusoe
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18558.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Skammerens datter" tvg-logo="http://tv.latintvweb.com:8000/images/3022458.jpg" group-title="VOD-AVENTURA",Skammerens datter
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Legend Of Tarzan (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/0918940.jpg" group-title="VOD-AVENTURA",The Legend Of Tarzan (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18561.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lost City of Z (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/1212428.jpg" group-title="VOD-AVENTURA",The Lost City of Z (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18563.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Monster (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3976144.jpg" group-title="VOD-AVENTURA",The Monster (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18557.mp4
+#EXTINF:-1 tvg-id="" tvg-name="-----VOD-COMEDIA-----" tvg-logo="http://tv.latintvweb.com:8000/images/4926348.jpg" group-title="VOD-COMEDIA",-----VOD-COMEDIA-----
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="3 IDIOTAS" tvg-logo="http://tv.latintvweb.com:8000/images/1187043.jpg" group-title="VOD-COMEDIA",3 IDIOTAS
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amateur nightt" tvg-logo="http://tv.latintvweb.com:8000/images/4265508.jpg" group-title="VOD-COMEDIA",Amateur nightt
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baywatch" tvg-logo="http://tv.latintvweb.com:8000/images/1469304.jpg" group-title="VOD-COMEDIA",Baywatch
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bring It On Worldwide Cheersmack" tvg-logo="http://tv.latintvweb.com:8000/images/7014110.jpg" group-title="VOD-COMEDIA",Bring It On Worldwide Cheersmack
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CHIPS PATRULLA MOTORIZADA" tvg-logo="http://tv.latintvweb.com:8000/images/0493405.jpg" group-title="VOD-COMEDIA",CHIPS PATRULLA MOTORIZADA
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="como ser un latin lover" tvg-logo="http://tv.latintvweb.com:8000/images/4795124.jpg" group-title="VOD-COMEDIA",como ser un latin lover
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desnudo" tvg-logo="http://tv.latintvweb.com:8000/images/0107653.jpg" group-title="VOD-COMEDIA",Desnudo
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17754.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gifted" tvg-logo="http://tv.latintvweb.com:8000/images/4396630.jpg" group-title="VOD-COMEDIA",Gifted
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="malditos vecinos 2" tvg-logo="http://tv.latintvweb.com:8000/images/4438848.jpg" group-title="VOD-COMEDIA",malditos vecinos 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mesa 19" tvg-logo="http://tv.latintvweb.com:8000/images/1412528.jpg" group-title="VOD-COMEDIA",Mesa 19
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mike and Dave Need Wedding Dates" tvg-logo="http://tv.latintvweb.com:8000/images/2823054.jpg" group-title="VOD-COMEDIA",Mike and Dave Need Wedding Dates
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naked" tvg-logo="http://tv.latintvweb.com:8000/images/6048930.jpg" group-title="VOD-COMEDIA",Naked
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pitch Perfect" tvg-logo="http://tv.latintvweb.com:8000/images/1981677.jpg" group-title="VOD-COMEDIA",Pitch Perfect
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rough Night" tvg-logo="http://tv.latintvweb.com:8000/images/4799050.jpg" group-title="VOD-COMEDIA",Rough Night
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Snatched" tvg-logo="http://tv.latintvweb.com:8000/images/2334871.jpg" group-title="VOD-COMEDIA",Snatched
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Take Me" tvg-logo="http://tv.latintvweb.com:8000/images/6598626.jpg" group-title="VOD-COMEDIA",Take Me
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The babysitter" tvg-logo="http://tv.latintvweb.com:8000/images/4225622.jpg" group-title="VOD-COMEDIA",The babysitter
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Incredible Jessica James" tvg-logo="http://tv.latintvweb.com:8000/images/5990342.jpg" group-title="VOD-COMEDIA",The Incredible Jessica James
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una Noche Fuera de Control " tvg-logo="http://tv.latintvweb.com:8000/images/4799050.jpg" group-title="VOD-COMEDIA",Una Noche Fuera de Control 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17747.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wilson" tvg-logo="http://tv.latintvweb.com:8000/images/1781058.jpg" group-title="VOD-COMEDIA",Wilson
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Golpe de Moneda" tvg-logo="http://tv.latintvweb.com:8000/images/5740806.jpg" group-title="VOD-COMEDIA",A Golpe de Moneda
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Absolutely Fabulous The Movie (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2112096.jpg" group-title="VOD-COMEDIA",Absolutely Fabulous The Movie (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Almas Gemelas (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-COMEDIA",Almas Gemelas (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amigos de Armas" tvg-logo="http://tv.latintvweb.com:8000/images/2005151.jpg" group-title="VOD-COMEDIA",Amigos de Armas
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Moms" tvg-logo="http://tv.latintvweb.com:8000/images/4651520.jpg" group-title="VOD-COMEDIA",Bad Moms
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Santa 2 Recargado (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4651520.jpg" group-title="VOD-COMEDIA",Bad Santa 2 Recargado (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barely Lethal (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/1731701.jpg" group-title="VOD-COMEDIA",Barely Lethal (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brahman naman (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/5240748.jpg" group-title="VOD-COMEDIA",Brahman naman (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Brother Nature (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4000956.jpg" group-title="VOD-COMEDIA",Brother Nature (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="busco novio para mi mujer" tvg-logo="http://tv.latintvweb.com:8000/images/5321942.jpg" group-title="VOD-COMEDIA",busco novio para mi mujer
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Confirmation" tvg-logo="http://tv.latintvweb.com:8000/images/4608402.jpg" group-title="VOD-COMEDIA",Confirmation
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Conociendo a los Black" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-COMEDIA",Conociendo a los Black
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dad's Army (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4104054.jpg" group-title="VOD-COMEDIA",Dad's Army (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Daddy’s Home (2016)" tvg-logo="n/A" group-title="VOD-COMEDIA",Daddy’s Home (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="descendants" tvg-logo="http://tv.latintvweb.com:8000/images/3440298.jpg" group-title="VOD-COMEDIA",descendants
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dirty Grandpa" tvg-logo="http://tv.latintvweb.com:8000/images/1860213.jpg" group-title="VOD-COMEDIA",Dirty Grandpa
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Bebe de Bridget Jones" tvg-logo="http://tv.latintvweb.com:8000/images/1473832.jpg" group-title="VOD-COMEDIA",El Bebe de Bridget Jones
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL CIUDADANO ILUSTRE (2016) " tvg-logo="http://tv.latintvweb.com:8000/images/4562518.jpg" group-title="VOD-COMEDIA",EL CIUDADANO ILUSTRE (2016) 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elvis and Nixon (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2093991.jpg" group-title="VOD-COMEDIA",Elvis and Nixon (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Er ist wieder da" tvg-logo="http://tv.latintvweb.com:8000/images/4176826.jpg" group-title="VOD-COMEDIA",Er ist wieder da
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESPIANDO A LOS VECINOS" tvg-logo="http://tv.latintvweb.com:8000/images/2387499.jpg" group-title="VOD-COMEDIA",ESPIANDO A LOS VECINOS
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ESPIANDO A LOS VECINOS (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2387499.jpg" group-title="VOD-COMEDIA",ESPIANDO A LOS VECINOS (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Everybody Wants Some" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-COMEDIA",Everybody Wants Some
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Everybody Wants Some!! (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2937696.jpg" group-title="VOD-COMEDIA",Everybody Wants Some!! (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fiesta en la Oficina (SUB) (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2937696.jpg" group-title="VOD-COMEDIA",Fiesta en la Oficina (SUB) (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fifty Shades of Black" tvg-logo="http://tv.latintvweb.com:8000/images/4667094.jpg" group-title="VOD-COMEDIA",Fifty Shades of Black
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Get.Hard" tvg-logo="http://tv.latintvweb.com:8000/images/2561572.jpg" group-title="VOD-COMEDIA",Get.Hard
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="hector " tvg-logo="http://tv.latintvweb.com:8000/images/3917118.jpg" group-title="VOD-COMEDIA",hector 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hot bot" tvg-logo="http://tv.latintvweb.com:8000/images/2854394.jpg" group-title="VOD-COMEDIA",Hot bot
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Transylvania 2" tvg-logo="http://tv.latintvweb.com:8000/images/2510894.jpg" group-title="VOD-COMEDIA",Hotel Transylvania 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="JCVD" tvg-logo="http://tv.latintvweb.com:8000/images/1130988.jpg" group-title="VOD-COMEDIA",JCVD
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jennys Wedding" tvg-logo="http://tv.latintvweb.com:8000/images/3289712.jpg" group-title="VOD-COMEDIA",Jennys Wedding
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="just before i go" tvg-logo="http://tv.latintvweb.com:8000/images/2980472.jpg" group-title="VOD-COMEDIA",just before i go
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Keanu" tvg-logo="http://tv.latintvweb.com:8000/images/4139124.jpg" group-title="VOD-COMEDIA",Keanu
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Keanu (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4139124.jpg" group-title="VOD-COMEDIA",Keanu (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Designada Ultra Fea" tvg-logo="http://tv.latintvweb.com:8000/images/4139124.jpg" group-title="VOD-COMEDIA",La Designada Ultra Fea
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="la dictadura perfecta" tvg-logo="http://tv.latintvweb.com:8000/images/3970854.jpg" group-title="VOD-COMEDIA",la dictadura perfecta
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Fiesta de las Salchichas" tvg-logo="http://tv.latintvweb.com:8000/images/1700841.jpg" group-title="VOD-COMEDIA",La Fiesta de las Salchichas
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Ultima Fiesta" tvg-logo="http://tv.latintvweb.com:8000/images/0113443.jpg" group-title="VOD-COMEDIA",La Ultima Fiesta
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Ultima Fiesta (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/6074024.jpg" group-title="VOD-COMEDIA",La Ultima Fiesta (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las Travesuras de una Sirena" tvg-logo="http://tv.latintvweb.com:8000/images/6074024.jpg" group-title="VOD-COMEDIA",Las Travesuras de una Sirena
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Las Travesuras de una Sirena (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/6074024.jpg" group-title="VOD-COMEDIA",Las Travesuras de una Sirena (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Locos de Amor (2016) Peru" tvg-logo="http://tv.latintvweb.com:8000/images/6074024.jpg" group-title="VOD-COMEDIA",Locos de Amor (2016) Peru
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Looking The Movie (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4552118.jpg" group-title="VOD-COMEDIA",Looking The Movie (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Macho" tvg-logo="http://tv.latintvweb.com:8000/images/6237224.jpg" group-title="VOD-COMEDIA",Macho
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Macho (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/6237224.jpg" group-title="VOD-COMEDIA",Macho (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="margarita, (2016) peruana" tvg-logo="http://tv.latintvweb.com:8000/images/6237224.jpg" group-title="VOD-COMEDIA",margarita, (2016) peruana
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mascotas" tvg-logo="http://tv.latintvweb.com:8000/images/2709768.jpg" group-title="VOD-COMEDIA",Mascotas
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Meet the Blacks (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4191580.jpg" group-title="VOD-COMEDIA",Meet the Blacks (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mentes Maestras" tvg-logo="http://tv.latintvweb.com:8000/images/2461150.jpg" group-title="VOD-COMEDIA",Mentes Maestras
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mike and Dave Need Wedding Dates (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2823054.jpg" group-title="VOD-COMEDIA",Mike and Dave Need Wedding Dates (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mindhorn (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4799064.jpg" group-title="VOD-COMEDIA",Mindhorn (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Big Fat Greek Wedding 2" tvg-logo="http://tv.latintvweb.com:8000/images/3760922.jpg" group-title="VOD-COMEDIA",My Big Fat Greek Wedding 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Natural Born Pranksters" tvg-logo="http://tv.latintvweb.com:8000/images/3671086.jpg" group-title="VOD-COMEDIA",Natural Born Pranksters
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Neighbors 2" tvg-logo="http://tv.latintvweb.com:8000/images/4438848.jpg" group-title="VOD-COMEDIA",Neighbors 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Manches Frida" tvg-logo="http://tv.latintvweb.com:8000/images/5259966.jpg" group-title="VOD-COMEDIA",No Manches Frida
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ordinary World" tvg-logo="http://tv.latintvweb.com:8000/images/4189494.jpg" group-title="VOD-COMEDIA",Ordinary World
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="people places things" tvg-logo="http://tv.latintvweb.com:8000/images/4104022.jpg" group-title="VOD-COMEDIA",people places things
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="people.places.things" tvg-logo="http://tv.latintvweb.com:8000/images/4104022.jpg" group-title="VOD-COMEDIA",people.places.things
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Permitidos (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/5680744.jpg" group-title="VOD-COMEDIA",Permitidos (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pitch Perfect (2015)" tvg-logo="http://tv.latintvweb.com:8000/images/4679328.jpg" group-title="VOD-COMEDIA",Pitch Perfect (2015)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Puerto Ricans in Paris" tvg-logo="http://tv.latintvweb.com:8000/images/3730510.jpg" group-title="VOD-COMEDIA",Puerto Ricans in Paris
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que Culpa Tiene el Niño" tvg-logo="http://tv.latintvweb.com:8000/images/5538800.jpg" group-title="VOD-COMEDIA",Que Culpa Tiene el Niño
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Que Pena Tu Vida (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/5226378.jpg" group-title="VOD-COMEDIA",Que Pena Tu Vida (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ricki.and.the.Flash" tvg-logo="http://tv.latintvweb.com:8000/images/3623726.jpg" group-title="VOD-COMEDIA",Ricki.and.the.Flash
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ride along 2" tvg-logo="http://tv.latintvweb.com:8000/images/2869728.jpg" group-title="VOD-COMEDIA",Ride along 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scooby-Doo! Duelo en el viejo oeste (2017)" tvg-logo="http://tv.latintvweb.com:8000/images/6425560.jpg" group-title="VOD-COMEDIA",Scooby-Doo! Duelo en el viejo oeste (2017)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scout's.Guide.to.the.Zombie.Apocalypse" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-COMEDIA",Scout's.Guide.to.the.Zombie.Apocalypse
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin Filtro (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/6501614.jpg" group-title="VOD-COMEDIA",Sin Filtro (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sing (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3470600.jpg" group-title="VOD-COMEDIA",Sing (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special Correspondents" tvg-logo="http://tv.latintvweb.com:8000/images/4181052.jpg" group-title="VOD-COMEDIA",Special Correspondents
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ted 2 " tvg-logo="http://tv.latintvweb.com:8000/images/2637276.jpg" group-title="VOD-COMEDIA",Ted 2 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Boss (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2702724.jpg" group-title="VOD-COMEDIA",The Boss (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Confirmation (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4210080.jpg" group-title="VOD-COMEDIA",The Confirmation (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The D train" tvg-logo="http://tv.latintvweb.com:8000/images/2690138.jpg" group-title="VOD-COMEDIA",The D train
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Do Over" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-COMEDIA",The Do Over
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Escort" tvg-logo="http://tv.latintvweb.com:8000/images/3793788.jpg" group-title="VOD-COMEDIA",The Escort
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Fundamentals of Caring" tvg-logo="http://tv.latintvweb.com:8000/images/2452386.jpg" group-title="VOD-COMEDIA",The Fundamentals of Caring
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Intern" tvg-logo="http://tv.latintvweb.com:8000/images/2361509.jpg" group-title="VOD-COMEDIA",The Intern
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lady In The Van " tvg-logo="http://tv.latintvweb.com:8000/images/3722070.jpg" group-title="VOD-COMEDIA",The Lady In The Van 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="the lobster" tvg-logo="http://tv.latintvweb.com:8000/images/3464902.jpg" group-title="VOD-COMEDIA",the lobster
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Nice Guys (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3799694.jpg" group-title="VOD-COMEDIA",The Nice Guys (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="This Beautiful Fantastic (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4560008.jpg" group-title="VOD-COMEDIA",This Beautiful Fantastic (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toma la 10" tvg-logo="http://tv.latintvweb.com:8000/images/6957240.jpg" group-title="VOD-COMEDIA",Toma la 10
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Trainwreck" tvg-logo="http://tv.latintvweb.com:8000/images/3152624.jpg" group-title="VOD-COMEDIA",Trainwreck
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Cadaver Para Sobrevivir" tvg-logo="http://tv.latintvweb.com:8000/images/4034354.jpg" group-title="VOD-COMEDIA",Un Cadaver Para Sobrevivir
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Padre no Tan Padre" tvg-logo="http://tv.latintvweb.com:8000/images/4958468.jpg" group-title="VOD-COMEDIA",Un Padre no Tan Padre
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Padre no Tan Padre (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4958468.jpg" group-title="VOD-COMEDIA",Un Padre no Tan Padre (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una Pareja Dispareja" tvg-logo="http://tv.latintvweb.com:8000/images/2238032.jpg" group-title="VOD-COMEDIA",Una Pareja Dispareja
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vacation" tvg-logo="http://tv.latintvweb.com:8000/images/0085995.jpg" group-title="VOD-COMEDIA",Vacation
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Whiskey Tango" tvg-logo="http://tv.latintvweb.com:8000/images/0865409.jpg" group-title="VOD-COMEDIA",Whiskey Tango
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Whiskey Tango Foxtrot" tvg-logo="http://tv.latintvweb.com:8000/images/3553442.jpg" group-title="VOD-COMEDIA",Whiskey Tango Foxtrot
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="-----VOD-DRAMA-----" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-DRAMA",-----VOD-DRAMA-----
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1922" tvg-logo="http://tv.latintvweb.com:8000/images/6214928.jpg" group-title="VOD-DRAMA",1922
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="dios no esta muerto 2" tvg-logo="http://tv.latintvweb.com:8000/images/4824308.jpg" group-title="VOD-DRAMA",dios no esta muerto 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feed" tvg-logo="http://tv.latintvweb.com:8000/images/5226512.jpg" group-title="VOD-DRAMA",Feed
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="King arthur legen" tvg-logo="http://tv.latintvweb.com:8000/images/1972591.jpg" group-title="VOD-DRAMA",King arthur legen
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="King Arthur Legend of the Sword" tvg-logo="http://tv.latintvweb.com:8000/images/1972591.jpg" group-title="VOD-DRAMA",King Arthur Legend of the Sword
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mclaren" tvg-logo="http://tv.latintvweb.com:8000/images/5031332.jpg" group-title="VOD-DRAMA",Mclaren
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mr six" tvg-logo="http://tv.latintvweb.com:8000/images/4701702.jpg" group-title="VOD-DRAMA",Mr six
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Cousin Rachel" tvg-logo="http://tv.latintvweb.com:8000/images/4411596.jpg" group-title="VOD-DRAMA",My Cousin Rachel
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sand Castle" tvg-logo="http://tv.latintvweb.com:8000/images/2582576.jpg" group-title="VOD-DRAMA",Sand Castle
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Founder" tvg-logo="http://tv.latintvweb.com:8000/images/4276820.jpg" group-title="VOD-DRAMA",The Founder
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17777.avi
+#EXTINF:-1 tvg-id="" tvg-name="The Ottoman Lieutenant" tvg-logo="http://tv.latintvweb.com:8000/images/4943322.jpg" group-title="VOD-DRAMA",The Ottoman Lieutenant
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Wizard of Lies" tvg-logo="http://tv.latintvweb.com:8000/images/1933667.jpg" group-title="VOD-DRAMA",The Wizard of Lies
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="To The Bone" tvg-logo="http://tv.latintvweb.com:8000/images/5541240.jpg" group-title="VOD-DRAMA",To The Bone
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="trainspotting" tvg-logo="http://tv.latintvweb.com:8000/images/0117951.jpg" group-title="VOD-DRAMA",trainspotting
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/17772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡Salve, César!" tvg-logo="http://tv.latintvweb.com:8000/images/0475290.jpg" group-title="VOD-DRAMA",¡Salve, César!
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANIMALES NOCTURNOS (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-DRAMA",ANIMALES NOCTURNOS (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aquí no ha pasado nada (2016)" tvg-logo="n/A" group-title="VOD-DRAMA",Aquí no ha pasado nada (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beasts.of.No.Nation" tvg-logo="http://tv.latintvweb.com:8000/images/1365050.jpg" group-title="VOD-DRAMA",Beasts.of.No.Nation
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="brooklyn (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/6111850.jpg" group-title="VOD-DRAMA",brooklyn (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Capitan Koblic (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/5462400.jpg" group-title="VOD-DRAMA",Capitan Koblic (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Collateral Beauty latino" tvg-logo="http://tv.latintvweb.com:8000/images/4682786.jpg" group-title="VOD-DRAMA",Collateral Beauty latino
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Colonia" tvg-logo="http://tv.latintvweb.com:8000/images/4005402.jpg" group-title="VOD-DRAMA",Colonia
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4354930.jpg" group-title="VOD-DRAMA",Creed (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Custody" tvg-logo="http://tv.latintvweb.com:8000/images/4575930.jpg" group-title="VOD-DRAMA",Custody
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dear Eleanor" tvg-logo="http://tv.latintvweb.com:8000/images/2927212.jpg" group-title="VOD-DRAMA",Dear Eleanor
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desde Adentro" tvg-logo="http://tv.latintvweb.com:8000/images/0386534.jpg" group-title="VOD-DRAMA",Desde Adentro
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dulzura Americana (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3721936.jpg" group-title="VOD-DRAMA",Dulzura Americana (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Echoes of War" tvg-logo="http://tv.latintvweb.com:8000/images/3094252.jpg" group-title="VOD-DRAMA",Echoes of War
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL Abogado del Mal (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3503406.jpg" group-title="VOD-DRAMA",EL Abogado del Mal (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Caso Heineken (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3503406.jpg" group-title="VOD-DRAMA",El Caso Heineken (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Fin del Sueño Americano (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/0376479.jpg" group-title="VOD-DRAMA",El Fin del Sueño Americano (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Hombre Que Conocia el Infinito" tvg-logo="http://tv.latintvweb.com:8000/images/0787524.jpg" group-title="VOD-DRAMA",El Hombre Que Conocia el Infinito
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Incendio" tvg-logo="http://tv.latintvweb.com:8000/images/3495644.jpg" group-title="VOD-DRAMA",El Incendio
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="EL PLANETARIO (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3495644.jpg" group-title="VOD-DRAMA",EL PLANETARIO (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Elle Abuso y Seduccion (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3716530.jpg" group-title="VOD-DRAMA",Elle Abuso y Seduccion (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elvira te daria mi Vida pero la estoy Usando" tvg-logo="http://tv.latintvweb.com:8000/images/3576842.jpg" group-title="VOD-DRAMA",Elvira te daria mi Vida pero la estoy Usando
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Exposed" tvg-logo="http://tv.latintvweb.com:8000/images/4019560.jpg" group-title="VOD-DRAMA",Exposed
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fences (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2671706.jpg" group-title="VOD-DRAMA",Fences (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/1289401.jpg" group-title="VOD-DRAMA",Ghostbusters (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Goat (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4437216.jpg" group-title="VOD-DRAMA",Goat (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="God’s Not Dead 2" tvg-logo="n/A" group-title="VOD-DRAMA",God’s Not Dead 2
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gold La Gran Estafa " tvg-logo="http://tv.latintvweb.com:8000/images/1800302.jpg" group-title="VOD-DRAMA",Gold La Gran Estafa 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HASTA EL ULTIMO HOMBRE" tvg-logo="http://tv.latintvweb.com:8000/images/2119532.jpg" group-title="VOD-DRAMA",HASTA EL ULTIMO HOMBRE
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hell & Back" tvg-logo="http://tv.latintvweb.com:8000/images/1692190.jpg" group-title="VOD-DRAMA",Hell & Back
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hidden Figures" tvg-logo="http://tv.latintvweb.com:8000/images/4846340.jpg" group-title="VOD-DRAMA",Hidden Figures
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Honey 3 (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4677938.jpg" group-title="VOD-DRAMA",Honey 3 (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I'm Not Ashamed (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4950110.jpg" group-title="VOD-DRAMA",I'm Not Ashamed (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Irrational Man" tvg-logo="http://tv.latintvweb.com:8000/images/3715320.jpg" group-title="VOD-DRAMA",Irrational Man
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jackie (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/1619029.jpg" group-title="VOD-DRAMA",Jackie (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jane Got a Gun (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/7237782.jpg" group-title="VOD-DRAMA",Jane Got a Gun (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joy" tvg-logo="http://tv.latintvweb.com:8000/images/2446980.jpg" group-title="VOD-DRAMA",Joy
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Juego de Héroes (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3824388.jpg" group-title="VOD-DRAMA",Juego de Héroes (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Kicks (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4254584.jpg" group-title="VOD-DRAMA",Kicks (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Correspondencia (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3530978.jpg" group-title="VOD-DRAMA",La Correspondencia (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Helada Negra (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/5176052.jpg" group-title="VOD-DRAMA",La Helada Negra (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Luz Entre Los Oceanos (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2547584.jpg" group-title="VOD-DRAMA",La Luz Entre Los Oceanos (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Last days in the Desert (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3513054.jpg" group-title="VOD-DRAMA",Last days in the Desert (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="lil and eve" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-DRAMA",lil and eve
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Me and Earl and the Dying Girl" tvg-logo="http://tv.latintvweb.com:8000/images/2582496.jpg" group-title="VOD-DRAMA",Me and Earl and the Dying Girl
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Me Before You (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/2674426.jpg" group-title="VOD-DRAMA",Me Before You (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miracles from Heaven" tvg-logo="http://tv.latintvweb.com:8000/images/4257926.jpg" group-title="VOD-DRAMA",Miracles from Heaven
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Moonlight Sub (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4257926.jpg" group-title="VOD-DRAMA",Moonlight Sub (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MR. holmes" tvg-logo="http://tv.latintvweb.com:8000/images/3168230.jpg" group-title="VOD-DRAMA",MR. holmes
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MR. SIX (2015)" tvg-logo="http://tv.latintvweb.com:8000/images/4701702.jpg" group-title="VOD-DRAMA",MR. SIX (2015)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operación México Un Pacto De Amor (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/5143716.jpg" group-title="VOD-DRAMA",Operación México Un Pacto De Amor (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pink" tvg-logo="http://tv.latintvweb.com:8000/images/5571734.jpg" group-title="VOD-DRAMA",Pink
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Por Mis Bigotes" tvg-logo="http://tv.latintvweb.com:8000/images/3188682.jpg" group-title="VOD-DRAMA",Por Mis Bigotes
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Race (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3499096.jpg" group-title="VOD-DRAMA",Race (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ratter (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/7180060.jpg" group-title="VOD-DRAMA",Ratter (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Reina de Katwe" tvg-logo="http://tv.latintvweb.com:8000/images/4341582.jpg" group-title="VOD-DRAMA",Reina de Katwe
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Room" tvg-logo="http://tv.latintvweb.com:8000/images/3170832.jpg" group-title="VOD-DRAMA",Room
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rumbos paralelos (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/5223624.jpg" group-title="VOD-DRAMA",Rumbos paralelos (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sangre de Campeon (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/5223624.jpg" group-title="VOD-DRAMA",Sangre de Campeon (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saul The Journey to Damascus" tvg-logo="http://tv.latintvweb.com:8000/images/3112206.jpg" group-title="VOD-DRAMA",Saul The Journey to Damascus
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="semillas del ayer" tvg-logo="http://tv.latintvweb.com:8000/images/4103992.jpg" group-title="VOD-DRAMA",semillas del ayer
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Silencio (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-DRAMA",Silencio (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Snowden latino" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-DRAMA",Snowden latino
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="son of a gun" tvg-logo="http://tv.latintvweb.com:8000/images/2452200.jpg" group-title="VOD-DRAMA",son of a gun
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sully" tvg-logo="http://tv.latintvweb.com:8000/images/3263904.jpg" group-title="VOD-DRAMA",Sully
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Talentos Ocultos (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/not-found.jpg" group-title="VOD-DRAMA",Talentos Ocultos (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tenemos Carne (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4682708.jpg" group-title="VOD-DRAMA",Tenemos Carne (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Testament Of Youth" tvg-logo="http://tv.latintvweb.com:8000/images/1441953.jpg" group-title="VOD-DRAMA",Testament Of Youth
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Diary of a Teenage Girl" tvg-logo="http://tv.latintvweb.com:8000/images/3172532.jpg" group-title="VOD-DRAMA",The Diary of a Teenage Girl
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Eichmann Show " tvg-logo="http://tv.latintvweb.com:8000/images/4163668.jpg" group-title="VOD-DRAMA",The Eichmann Show 
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="the finest hours" tvg-logo="http://tv.latintvweb.com:8000/images/2025690.jpg" group-title="VOD-DRAMA",the finest hours
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Girl King" tvg-logo="http://tv.latintvweb.com:8000/images/1254322.jpg" group-title="VOD-DRAMA",The Girl King
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Infiltrator (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/1355631.jpg" group-title="VOD-DRAMA",The Infiltrator (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Face (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/3286560.jpg" group-title="VOD-DRAMA",The Last Face (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Longest Ride" tvg-logo="http://tv.latintvweb.com:8000/images/2726560.jpg" group-title="VOD-DRAMA",The Longest Ride
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Model (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/4074364.jpg" group-title="VOD-DRAMA",The Model (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Revenant" tvg-logo="http://tv.latintvweb.com:8000/images/1663202.jpg" group-title="VOD-DRAMA",The Revenant
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Stanford Prison Experiment" tvg-logo="http://tv.latintvweb.com:8000/images/0420293.jpg" group-title="VOD-DRAMA",The Stanford Prison Experiment
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Water Diviner" tvg-logo="http://tv.latintvweb.com:8000/images/3007512.jpg" group-title="VOD-DRAMA",The Water Diviner
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Young Messiah (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/1002563.jpg" group-title="VOD-DRAMA",The Young Messiah (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Monstruo Viene a Verte (2016)" tvg-logo="http://tv.latintvweb.com:8000/images/1002563.jpg" group-title="VOD-DRAMA",Un Monstruo Viene a Verte (2016)
+http://tv.latintvweb.com:8000/movie/LATINTVHD/Navidad/18865.mp4
