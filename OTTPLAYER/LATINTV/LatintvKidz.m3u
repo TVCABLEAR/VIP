@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="-----INFANTILES-----" tvg-logo="https://www.miscancionesinfantiles.com/wp-content/uploads/2015/10/canciones-infantiles-cortas.jpg" group-title="INFANTILES",-----INFANTILES-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18355.ts
+#EXTINF:-1 tvg-id="BabyTV.mx" tvg-name="Baby First" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Babyfirst-logo.png" group-title="INFANTILES",Baby First
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15084.ts
+#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="INFANTILES",Boomerang
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15094.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/220px-Cartoon_Network_2004_logo.svg.png" group-title="INFANTILES",Cartoon Network
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15093.ts
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids HD" tvg-logo="http://images.mi.tv/channels/co_discovery-kids-hd_m.png" group-title="INFANTILES",Discovery Kids HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15081.ts
+#EXTINF:-1 tvg-id="DisneyChannel.mx" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/1200px-2015_Disney_Channel_logo.svg.png" group-title="INFANTILES",Disney Channel
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15091.ts
+#EXTINF:-1 tvg-id="DisneyJunior.mx" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="INFANTILES",Disney Jr
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15090.ts
+#EXTINF:-1 tvg-id="DisneyXD.mx" tvg-name="DisneyXd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_Disney_XD.png/640px-Logo_Disney_XD.png" group-title="INFANTILES",DisneyXd
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15089.ts
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTILES",Natgeo Kids
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15082.ts
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nick" tvg-logo="http://www.thesimplemoms.com/wp-content/uploads/2013/11/nick2.png" group-title="INFANTILES",Nick
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15088.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/medium.579fecb5c4095_nick2.png.cb5a0b3b78b9442100c1fbb3da60b669.png" group-title="INFANTILES",Nick 2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15083.ts
+#EXTINF:-1 tvg-id="NickJr.mx" tvg-name="NickJr" tvg-logo="https://image.roku.com/channels/images/8b1b286409584a4fb1729a75ef58e077-hd.jpg" group-title="INFANTILES",NickJr
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15086.ts
+#EXTINF:-1 tvg-id="" tvg-name="NickToons" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Nick-toons.png" group-title="INFANTILES",NickToons
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15085.ts
+#EXTINF:-1 tvg-id="TiiN.mx" tvg-name="Tiin" tvg-logo="http://images.mi.tv/channels/mx_tiin_m.png" group-title="INFANTILES",Tiin
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15079.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2000px-Tooncast_logo.svg.png" group-title="INFANTILES",Tooncast
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15080.ts
+#EXTINF:-1 tvg-id="" tvg-name="Yes" tvg-logo="" group-title="INFANTILES",Yes
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2373.ts
