@@ -1,0 +1,118 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="-----CINE Y SERIES [1080]-----" tvg-logo="http://www.diariodemallorca.es/elementosWeb/gestionCajas/DMA/Image/2016//cine2.JPG" group-title="-----CANALES [1080]-----",-----CINE Y SERIES [1080]-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18348.ts
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="TNT SERIES  [1080]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2000px-TNT_Serie_HD.svg.png" group-title="-----CANALES [1080]-----",TNT SERIES  [1080]
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19053.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} HBO West HD 1080P" tvg-logo="https://i.pinimg.com/736x/8c/c3/41/8cc341ea1660cb59c0b4ffde59d34e50--hd-tvs-live-tv.jpg" group-title="-----CANALES [1080]-----",Latino {} HBO West HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11244.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} HBO East HD 1080P" tvg-logo="https://i.pinimg.com/736x/8c/c3/41/8cc341ea1660cb59c0b4ffde59d34e50--hd-tvs-live-tv.jpg" group-title="-----CANALES [1080]-----",Latino {} HBO East HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11249.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} HBO Family HD 1080P" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1157_6_8916.png" group-title="-----CANALES [1080]-----",Latino {} HBO Family HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11248.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} HBO Plus HD 1080P" tvg-logo="https://www.foromedios.com/uploads/gallery/album_1/gallery_1157_1_11888.png" group-title="-----CANALES [1080]-----",Latino {} HBO Plus HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11247.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} HBO Plus West HD 1080P" tvg-logo="https://www.foromedios.com/uploads/gallery/album_1/gallery_1157_1_11888.png" group-title="-----CANALES [1080]-----",Latino {} HBO Plus West HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11246.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} HBO SIGNATURE HD 1080P" tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_1157_6_3018.png" group-title="-----CANALES [1080]-----",Latino {} HBO SIGNATURE HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11245.ts
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E(1080)." tvg-logo="http://blog.cablevision.net.mx/wp-content/uploads/2011/06/AEHD.jpg" group-title="-----CANALES [1080]-----",A&E(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14860.ts
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN(1080)." tvg-logo="https://telecomtalk.info/wp-content/uploads/2014/08/axn-hd-launch-india.png" group-title="-----CANALES [1080]-----",AXN(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14859.ts
+#EXTINF:-1 tvg-id="Fox.ar" tvg-name="FX(1080)." tvg-logo="http://americablejapan.net/images/station_logos/fx_hdjpg.jpg" group-title="-----CANALES [1080]-----",FX(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14864.ts
+#EXTINF:-1 tvg-id="Fox.ar" tvg-name="FOX (1080)" tvg-logo="http://images.mi.tv/channels/ar_fox_m.png" group-title="-----CANALES [1080]-----",FOX (1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17050.ts
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="Fox Premium Action(1080)." tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1561.png.071535640ed34fa4826d5558d281000d.png" group-title="-----CANALES [1080]-----",Fox Premium Action(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14863.ts
+#EXTINF:-1 tvg-id="FOX1.mx" tvg-name="Fox Premium Series(1080)." tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1552.png.3368f8635097a2c7591feefb116bdba1.png" group-title="-----CANALES [1080]-----",Fox Premium Series(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14862.ts
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="FOX PREMIUM MOVIES(1080)" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large_1559.png.5e5bd9e6882c26e41e413379b0ad739c.png" group-title="-----CANALES [1080]-----",FOX PREMIUM MOVIES(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17051.ts
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="AMC(1080)." tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/730-AMC-HD-01.jpg" group-title="-----CANALES [1080]-----",AMC(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14847.ts
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="Cinemax(1080)" tvg-logo="https://i.ytimg.com/vi/XIlBkriD5jw/maxresdefault.jpg" group-title="-----CANALES [1080]-----",Cinemax(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14972.ts
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="Cinecanal(1080)." tvg-logo="http://images.mi.tv/channels/co_cinecanal-sd-hd-1_m.png" group-title="-----CANALES [1080]-----",Cinecanal(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14849.ts
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central(1080)." tvg-logo="https://www.foromedios.com/uploads/monthly_2017_04/large.58ef94449b809_ComedyCentralHD.png.fb1014dd7e1cfb96ee6e0813d7a82c7d.png" group-title="-----CANALES [1080]-----",Comedy Central(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14858.ts
+#EXTINF:-1 tvg-id="" tvg-name="DHE(1080)." tvg-logo="https://mark.trademarkia.com/logo-images/dhe-group-inc/dhe-hd-86810915.jpg" group-title="-----CANALES [1080]-----",DHE(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14851.ts
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="Distrito Comedia(1080)." tvg-logo="http://files.actionpelis.webnode.es/200000026-128c41385e/DistritoComedia-8.jpg" group-title="-----CANALES [1080]-----",Distrito Comedia(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14857.ts
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden HD(1080)." tvg-logo="http://etb.com.co/hogares/img1/guia/logos/logo-goldenhd.jpg" group-title="-----CANALES [1080]-----",Golden HD(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14848.ts
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="Paramount(1080)." tvg-logo="https://i.ytimg.com/vi/W6aEYK71lxM/maxresdefault.jpg" group-title="-----CANALES [1080]-----",Paramount(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14850.ts
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="Sony(1080)." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Canal_Sony_HD_logo.svg/1280px-Canal_Sony_HD_logo.svg.png" group-title="-----CANALES [1080]-----",Sony(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14856.ts
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space(1080)." tvg-logo="https://4.bp.blogspot.com/-lFk8QpkoAK8/WCoYaNh_wSI/AAAAAAAAEK8/OaM2yGAVAOEYa3QoLg1qmo0rlBT8jGi3wCLcB/s1600/space_hd.png" group-title="-----CANALES [1080]-----",Space(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14846.ts
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal(1080)." tvg-logo="https://i.pinimg.com/originals/f9/b7/2d/f9b72db760ce7b8cf791d0d2cf4c853e.png" group-title="-----CANALES [1080]-----",Studio Universal(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14845.ts
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="Syfy(1080)." tvg-logo="https://www.adslzone.tv/app/uploads/2011/10/syfy_hd.png" group-title="-----CANALES [1080]-----",Syfy(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14855.ts
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="Tnt Series(1080)." tvg-logo="https://www.foromedios.com/uploads/gallery/category_6/gallery_5617_6_26684.png" group-title="-----CANALES [1080]-----",Tnt Series(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14854.ts
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="TNT (1080)." tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-tnthd.jpg" group-title="-----CANALES [1080]-----",TNT (1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14844.ts
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="Universal Channel(1080)." tvg-logo="http://media.revistasenal.com/wp-content/uploads/2010/11/universal-hd-llega-a-directv.jpg" group-title="-----CANALES [1080]-----",Universal Channel(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14853.ts
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel(1080)." tvg-logo="http://images.mi.tv/channels/26ba2241-cf4e-42a7-b0e8-c8bbd06392c9_m.jpg" group-title="-----CANALES [1080]-----",Warner Channel(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14852.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz Black HD 1080P" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/starzinblack.png" group-title="-----CANALES [1080]-----",Latino {} Starz Black HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11233.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz Cinema HD 1080P" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzcinemahd_2016_vert_bk_rgb.png" group-title="-----CANALES [1080]-----",Latino {} Starz Cinema HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11232.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz Comedy HD" tvg-logo="http://img4.wikia.nocookie.net/__cb20110410040852/logopedia/images/d/dd/Starz_Comedy_HD.png" group-title="-----CANALES [1080]-----",Latino {} Starz Comedy HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11231.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz Comedy HD 1080P" tvg-logo="http://img4.wikia.nocookie.net/__cb20110410040852/logopedia/images/d/dd/Starz_Comedy_HD.png" group-title="-----CANALES [1080]-----",Latino {} Starz Comedy HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11230.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz East HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Starz_HD_logo.svg/1280px-Starz_HD_logo.svg.png" group-title="-----CANALES [1080]-----",Latino {} Starz East HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11229.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz Edge HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Starz_Edge_HD_logo.svg/2000px-Starz_Edge_HD_logo.svg.png" group-title="-----CANALES [1080]-----",Latino {} Starz Edge HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11228.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz Encore Action 1080P" tvg-logo="https://www.starz.com/guides/starzlibrary/images/logo_starzencoreactionhd_w.gif" group-title="-----CANALES [1080]-----",Latino {} Starz Encore Action 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11227.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz Encore Black HD 1080P" tvg-logo="https://www.starz.com/guides/starzlibrary/logos/stzencblkhd_2016_horz_wh_rgb.png" group-title="-----CANALES [1080]-----",Latino {} Starz Encore Black HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11226.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz Encore Classic HD 1080P" tvg-logo="https://www.starz.com/guides/starzlibrary/images/logo_starzencoreclassichd_w.gif" group-title="-----CANALES [1080]-----",Latino {} Starz Encore Classic HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11225.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz Encore HD 1080P" tvg-logo="https://www.starz.com/guides/starzlibrary/images/logo_starzencorehd_w.gif" group-title="-----CANALES [1080]-----",Latino {} Starz Encore HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11223.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz Encore Suspense HD 1080P" tvg-logo="" group-title="-----CANALES [1080]-----",Latino {} Starz Encore Suspense HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11222.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz Encore Western HD 1080P" tvg-logo="https://sc.dish.com/shared/images/station-logos/ewstn.png" group-title="-----CANALES [1080]-----",Latino {} Starz Encore Western HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11221.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Starz_HD_logo.svg/1280px-Starz_HD_logo.svg.png" group-title="-----CANALES [1080]-----",Latino {} Starz HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11219.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz Kids & Family HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Starz_Kids_%26_Family_HD_logo.svg/2000px-Starz_Kids_%26_Family_HD_logo.svg.png" group-title="-----CANALES [1080]-----",Latino {} Starz Kids & Family HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11218.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Starz West HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Starz_HD_logo.svg/1280px-Starz_HD_logo.svg.png" group-title="-----CANALES [1080]-----",Latino {} Starz West HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11217.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Straz Encore Family HD 1080P" tvg-logo="https://sc.dish.com/shared/images/station-logos/efam.png" group-title="-----CANALES [1080]-----",Latino {} Straz Encore Family HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11216.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} 5 StarMax HD 1080P" tvg-logo="http://static.ontvtonight.com/static/2/Open/SourceLogos/400x300/5StarMax-HD.png" group-title="-----CANALES [1080]-----",Latino {} 5 StarMax HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11256.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} ActionMax HD 1080P" tvg-logo="http://live-tv-channels.net/pt-data/uploads/logo/actionmax-west.html.jpg" group-title="-----CANALES [1080]-----",Latino {} ActionMax HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11255.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Cartelera Premiere HD 1080P" tvg-logo="" group-title="-----CANALES [1080]-----",Latino {} Cartelera Premiere HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11254.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Cinemax East HD 1080P" tvg-logo="" group-title="-----CANALES [1080]-----",Latino {} Cinemax East HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11251.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} IndiePlex HD 1080P" tvg-logo="https://www.starz.com/guides/movieplexlibrary/logos/plexlogos/platform/indieplex_hd/color/jpgrgb/iplxhd_rev_color_rgb.jpg" group-title="-----CANALES [1080]-----",Latino {} IndiePlex HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11243.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} MoreMax HD 1080P" tvg-logo="https://www.tampereenpuhelin.fi/Portals/0/Images/Kanavalogot/Kanavapaketit_uudistus/CMore_maxHD.jpg" group-title="-----CANALES [1080]-----",Latino {} MoreMax HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11242.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} MovieMax HD 1080P" tvg-logo="https://vignette2.wikia.nocookie.net/logopedia/images/a/ae/Moviemax_2013.jpg/revision/latest?cb=20130629192954" group-title="-----CANALES [1080]-----",Latino {} MovieMax HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11241.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} MoviePlex HD 1080P" tvg-logo="https://www.starz.com/guides/movieplexlibrary/logos/plexlogos/platform/1_movieplex_hd_on_demand/color/jpgrgb/mplxhd_od_pre_pos_color_rgb.jpg" group-title="-----CANALES [1080]-----",Latino {} MoviePlex HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} OuterMax HD 1080P" tvg-logo="http://static.ontvtonight.com/static/2/Open/Comcast%20Logos/Comcast%20Source%20Logos/OuterMaxHD_2400_color_dark_light.png" group-title="-----CANALES [1080]-----",Latino {} OuterMax HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11239.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} RetroPlex HD 1080P" tvg-logo="https://sc.dish.com/shared/images/station-logos/RETRO.PNG" group-title="-----CANALES [1080]-----",Latino {} RetroPlex HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11238.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Showtime Beyond HD 1080P" tvg-logo="" group-title="-----CANALES [1080]-----",Latino {} Showtime Beyond HD 1080P
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11237.ts
