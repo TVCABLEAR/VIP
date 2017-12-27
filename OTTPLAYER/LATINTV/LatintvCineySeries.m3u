@@ -1,0 +1,81 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="-----CINE Y SERIES-----" tvg-logo="http://www.diariodemallorca.es/elementosWeb/gestionCajas/DMA/Image/2016//cine2.JPG" group-title="CINE Y SERIES",-----CINE Y SERIES-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18354.ts
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="A&E (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="CINE Y SERIES",A&E (A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18392.ts
+#EXTINF:-1 tvg-id="AandE.mx" tvg-name="a&e" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL.png" group-title="CINE Y SERIES",a&e
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15005.ts
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="AXN (A)" tvg-logo="https://la.axn.com/sites/la.axn/files/ct_custom_page_f_primary_image/axn_logo_0.jpg" group-title="CINE Y SERIES",AXN (A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18391.ts
+#EXTINF:-1 tvg-id="AXN.mx" tvg-name="Axn" tvg-logo="https://la.axn.com/sites/la.axn/files/ct_custom_page_f_primary_image/axn_logo_0.jpg" group-title="CINE Y SERIES",Axn
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15003.ts
+#EXTINF:-1 tvg-id="AMC.mx" tvg-name="Amc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="CINE Y SERIES",Amc
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15004.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO (A)" tvg-logo="" group-title="CINE Y SERIES",HBO (A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3248.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 (A)" tvg-logo="" group-title="CINE Y SERIES",HBO2 (A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3247.ts
+#EXTINF:-1 tvg-id="HBO2.mx" tvg-name="hbo 2 op2" tvg-logo="" group-title="CINE Y SERIES",hbo 2 op2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17986.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAX.(A)" tvg-logo="" group-title="CINE Y SERIES",MAX.(A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3246.ts
+#EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CineCanal" tvg-logo="http://images.mi.tv/channels/ar_cinecanal-1_m.png" group-title="CINE Y SERIES",CineCanal
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15002.ts
+#EXTINF:-1 tvg-id="Cinemax.mx" tvg-name="CineMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="CINE Y SERIES",CineMax
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15001.ts
+#EXTINF:-1 tvg-id="FoxAction.mx" tvg-name="Fox Premium Action" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png" group-title="CINE Y SERIES",Fox Premium Action
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14995.ts
+#EXTINF:-1 tvg-id="FoxCinema.mx" tvg-name="Fox Premium Cinema" tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png" group-title="CINE Y SERIES",Fox Premium Cinema
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14994.ts
+#EXTINF:-1 tvg-id="FoxClassics.mx" tvg-name="Fox Premium Classics" tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Classics-Logo-300x98.png" group-title="CINE Y SERIES",Fox Premium Classics
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14993.ts
+#EXTINF:-1 tvg-id="FoxMovies.mx" tvg-name="Fox Premium Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/FOX-Premium-Movies-Logo-300x98.png" group-title="CINE Y SERIES",Fox Premium Movies
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14990.ts
+#EXTINF:-1 tvg-id="FOX1.mx" tvg-name="Fox Premium Series" tvg-logo="https://seriepolis.com/wp-content/uploads/2017/03/FOX-PREMIUM-SERIES-SIN-FONDO-01-1-750x480.png" group-title="CINE Y SERIES",Fox Premium Series
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14996.ts
+#EXTINF:-1 tvg-id="ComedyCentral.mx" tvg-name="Comedy Central" tvg-logo="http://lachachara.org/chachawp/wp-content/uploads/2015/07/cc_wide-1_0.jpg" group-title="CINE Y SERIES",Comedy Central
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15000.ts
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="DePelicula" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE Y SERIES",DePelicula
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14999.ts
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="" group-title="CINE Y SERIES",DHE
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14978.ts
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-name="DistritoComedia" tvg-logo="http://i.televisa.com/2017/04/distrito_comedia.jpg" group-title="CINE Y SERIES",DistritoComedia
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14998.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Fox" tvg-logo="http://contenidos.enter.co/custom/uploads/2017/01/Fox.jpg" group-title="CINE Y SERIES",Canal Fox
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18388.ts
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="CINE Y SERIES",FX
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14975.ts
+#EXTINF:-1 tvg-id="FXMovieChannel.us" tvg-name="FXM Latinoam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1200px-FXM_Logo.svg.png" group-title="CINE Y SERIES",FXM Latinoam
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14991.ts
+#EXTINF:-1 tvg-id="Fox.ar" tvg-name="Fox" tvg-logo="https://assets.foxdcg.com/dpp-uploaded/images/rent/FallBack-FOX.jpg" group-title="CINE Y SERIES",Fox
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14997.ts
+#EXTINF:-1 tvg-id="GoldenEdge.mx" tvg-name="Golden Edge" tvg-logo="http://televisatvdepaga.com/wp-content/uploads/bfi_thumb/Edge-my69oxi6qklxszfc7ut7kbowp2oei2d3hn3bc9koa8.png" group-title="CINE Y SERIES",Golden Edge
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14989.ts
+#EXTINF:-1 tvg-id="Golden.mx" tvg-name="Golden" tvg-logo="http://etb.com.co/hogares/img1/guia/logos/logo-goldenhd.jpg" group-title="CINE Y SERIES",Golden
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14988.ts
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="Multimedios" tvg-logo="https://uno1one.files.wordpress.com/2009/02/logo-mm1.jpg" group-title="CINE Y SERIES",Multimedios
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14987.ts
+#EXTINF:-1 tvg-id="ParamountChannel.mx" tvg-name="Paramount" tvg-logo="" group-title="CINE Y SERIES",Paramount
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14977.ts
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="Sony" tvg-logo="https://customerservicecontactnumber.uk/wp-content/uploads/2016/08/SONY.jpg" group-title="CINE Y SERIES",Sony
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14986.ts
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.mx" tvg-name="Sony.(A)" tvg-logo="http://www.lamac.org/res/channels/logos/_0022_sony.png" group-title="CINE Y SERIES",Sony.(A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18390.ts
+#EXTINF:-1 tvg-id="Space.mx" tvg-name="Space" tvg-logo="https://yt3.ggpht.com/-MZeETh9Tzk0/AAAAAAAAAAI/AAAAAAAAAAA/BLSdG3sLFwo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CINE Y SERIES",Space
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14985.ts
+#EXTINF:-1 tvg-id="StudioUniversal.mx" tvg-name="Studio Universal" tvg-logo="http://images.mi.tv/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="CINE Y SERIES",Studio Universal
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14984.ts
+#EXTINF:-1 tvg-id="Syfy.mx" tvg-name="Syfy" tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="CINE Y SERIES",Syfy
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14983.ts
+#EXTINF:-1 tvg-id="TBS.mx" tvg-name="TbS" tvg-logo="http://cdn.collider.com/wp-content/uploads/2017/05/tbs-logo.png" group-title="CINE Y SERIES",TbS
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14982.ts
+#EXTINF:-1 tvg-id="TNT.mx" tvg-name="Tnt" tvg-logo="http://www.canaltnt.es/dynamic/channel/00000000/12/d9faae6d68fe0b8a80f646e286157db1135cc2ac_1461934546.png" group-title="CINE Y SERIES",Tnt
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14981.ts
+#EXTINF:-1 tvg-id="TNTSeries.mx" tvg-name="Tnt Series" tvg-logo="http://images.mi.tv/channels/gt_tnt-series_m.png" group-title="CINE Y SERIES",Tnt Series
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14980.ts
+#EXTINF:-1 tvg-id="UniversalChannel.mx" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Universal_Studios.svg/1280px-Universal_Studios.svg.png" group-title="CINE Y SERIES",UNIVERSAL CHANNEL
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14979.ts
+#EXTINF:-1 tvg-id="WarnerChannel.mx" tvg-name="Warner Channel" tvg-logo="https://mitvstatic.com/channels/ar_warner-channel_m.png" group-title="CINE Y SERIES",Warner Channel
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14976.ts
