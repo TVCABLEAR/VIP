@@ -1,0 +1,11 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="(izzi)CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/CNN_HD.svg/2000px-CNN_HD.svg.png" group-title="NOTICIA",(izzi)CNN HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14452.ts
+#EXTINF:-1 tvg-id="CNNEspanol.us" tvg-name="CNN EN ESPAÑOL (1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/CNN_Espa%C3%B1ol_Logo_Viejo.png/220px-CNN_Espa%C3%B1ol_Logo_Viejo.png" group-title="-----CANALES [1080]-----",CNN EN ESPAÑOL (1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15206.ts
+#EXTINF:-1 tvg-id="" tvg-name="NTN24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="NOTICIA",NTN24
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15204.ts
+#EXTINF:-1 tvg-id="" tvg-name="-----CANALES HD-----" tvg-logo="https://www.tclelectronics.com.au/file/4-hd-nav.png" group-title="CANALES HD",-----CANALES HD-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18393.ts
