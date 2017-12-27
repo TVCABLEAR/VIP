@@ -1,0 +1,113 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="-----MEXICO-----" tvg-logo="" group-title="MEXICO",-----MEXICO-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18338.ts
+#EXTINF:-1 tvg-id="Bandamax.mx" tvg-name="HQ Bandamax" tvg-logo="http://www.kebuena.com.mx/wp-content/uploads/2016/10/Bandamax_Logo_Hero_780x439.jpg" group-title="MUSICA",HQ Bandamax
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15113.ts
+#EXTINF:-1 tvg-id="MTV.mx" tvg-name="HQ Mtv" tvg-logo="https://loft965.files.wordpress.com/2010/11/logo_mtv.jpg" group-title="MUSICA",HQ Mtv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15114.ts
+#EXTINF:-1 tvg-id="MTV.es" tvg-name="HQ MtvHits" tvg-logo="http://images.mi.tv/channels/ar_mtv-hits_m.png" group-title="MUSICA",HQ MtvHits
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15112.ts
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="HQ MtvLive" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/MTV_Live.svg/1200px-MTV_Live.svg.png" group-title="MUSICA",HQ MtvLive
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15111.ts
+#EXTINF:-1 tvg-id="Ritmoson.mx" tvg-name="HQ Ritmoson" tvg-logo="http://globalcdn03.mundotkm.com/2016/12/ritmoson-1.jpg" group-title="MUSICA",HQ Ritmoson
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15110.ts
+#EXTINF:-1 tvg-id="SundanceTV.mx" tvg-name="HQ Sundance" tvg-logo="https://www.sundance.org/images/support-us/corporate/sundanceTV_680x136.png" group-title="MUSICA",HQ Sundance
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15106.ts
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="HQ TeleHits" tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/Telehit_logo_Hero_780x439.jpg" group-title="MUSICA",HQ TeleHits
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15109.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ Teleritmo" tvg-logo="http://s2.dmcdn.net/BGKPg/1280x720-NEx.jpg" group-title="MUSICA",HQ Teleritmo
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15105.ts
+#EXTINF:-1 tvg-id="VH1.mx" tvg-name="HQ Vh1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="MUSICA",HQ Vh1
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15108.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ Vh1Classics" tvg-logo="http://www.direct-vs-dish.com/media/channel_logos/vh1_classic_us.png.300x300_q85.jpg" group-title="MUSICA",HQ Vh1Classics
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15107.ts
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="HQ Azteca 7" tvg-logo="https://mitvstatic.com/channels/mx_azteca-7_m.png" group-title="MEXICO",HQ Azteca 7
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15060.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ A Plus" tvg-logo="" group-title="MEXICO",HQ A Plus
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15040.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ Adn 40" tvg-logo="" group-title="MEXICO",HQ Adn 40
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15066.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ AymSports" tvg-logo="" group-title="MEXICO",HQ AymSports
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15067.ts
+#EXTINF:-1 tvg-id="AztecaCinema.mx" tvg-name="HQ AzCinema" tvg-logo="http://condista.com/wp-content/uploads/2016/05/azcinema.png" group-title="MEXICO",HQ AzCinema
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15065.ts
+#EXTINF:-1 tvg-id="AztecaClic.mx" tvg-name="HQ AzClic" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azclick.jpg" group-title="MEXICO",HQ AzClic
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15064.ts
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="HQ AzCorazon" tvg-logo="http://images.mi.tv/channels/co_az-corazon_m.png" group-title="MEXICO",HQ AzCorazon
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15063.ts
+#EXTINF:-1 tvg-id="AztecaMundo.mx" tvg-name="HQ AzMundo" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_32434.png" group-title="MEXICO",HQ AzMundo
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15062.ts
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="HQ Azteca 13" tvg-logo="http://www.gruposalinas.com/images/nv/Azteca_04.png" group-title="MEXICO",HQ Azteca 13
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15061.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ Azteca internacional" tvg-logo="" group-title="MEXICO",HQ Azteca internacional
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15038.ts
+#EXTINF:-1 tvg-id="CanalOnce.mx" tvg-name="HQ Canal 11" tvg-logo="http://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png" group-title="MEXICO",HQ Canal 11
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15059.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="MEXICO",HQ Canal 5
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15058.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5 MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/2000px-Canal_5_Mexico_logo_2014.svg.png" group-title="MEXICO",Canal 5 MX
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18389.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ Congreso de la union" tvg-logo="http://www.canaldelcongreso.gob.mx/assets/img/logo.jpg" group-title="MEXICO",HQ Congreso de la union
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15032.ts
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="HQ E!" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png" group-title="MEXICO",HQ E!
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15057.ts
+#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="HQ ElFinanciero" tvg-logo="http://www.freeetv.com/images/01_logo/el_financiero_bloomberg_tv.jpg" group-title="MEXICO",HQ ElFinanciero
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15056.ts
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="HQ ElGourmet" tvg-logo="https://conexionbovril.files.wordpress.com/2015/09/elgourmet.jpg" group-title="MEXICO",HQ ElGourmet
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15055.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ Food Network" tvg-logo="http://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/11/13/0/FN-3D-Logo-336x252.jpg.rend.hgtvcom.336.252.suffix/1384365569092.jpeg" group-title="MEXICO",HQ Food Network
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15033.ts
+#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="HQ Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Foro_TV_Logo_2015.png/200px-Foro_TV_Logo_2015.png" group-title="MEXICO",HQ Foro TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15054.ts
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="HQ FoxLife" tvg-logo="http://images.mi.tv/channels/ar_fox-life_m.png" group-title="MEXICO",HQ FoxLife
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15053.ts
+#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="HQ Gala TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/Gala-tv.png" group-title="MEXICO",HQ Gala TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15052.ts
+#EXTINF:-1 tvg-id="GarageTV.es" tvg-name="HQ Garagetv" tvg-logo="https://pbs.twimg.com/profile_images/590209545756106752/ckdTiNYI.jpg" group-title="MEXICO",HQ Garagetv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15051.ts
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="HQ Glitz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png" group-title="MEXICO",HQ Glitz
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15050.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ HAVOC" tvg-logo="" group-title="MEXICO",HQ HAVOC
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15035.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ Hmx" tvg-logo="http://www.tudominiohoy.com/diseno/PRUEBAS/hmx/imagenes/hmx-logo3d.png" group-title="MEXICO",HQ Hmx
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15049.ts
+#EXTINF:-1 tvg-id="HolaTV.us" tvg-name="HQ HolaTv" tvg-logo="http://hola.tv/wp-content/uploads/2016/12/logo.png" group-title="MEXICO",HQ HolaTv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15048.ts
+#EXTINF:-1 tvg-id="ISAT.mx" tvg-name="HQ I-Sat" tvg-logo="http://images.mi.tv/channels/ar_i-sat_m.png" group-title="MEXICO",HQ I-Sat
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15047.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ Imagen Televisi" tvg-logo="http://i2.esmas.com/img/rga_televisa_2013/LogoTelevisa.jpg" group-title="MEXICO",HQ Imagen Televisi
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15027.ts
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="HQ Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="MEXICO",HQ Las Estrellas
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15069.ts
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="HQ Lifetime" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Lifetime_logo_2013.png" group-title="MEXICO",HQ Lifetime
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15046.ts
+#EXTINF:-1 tvg-id="MasChicTV.mx" tvg-name="HQ MasChic" tvg-logo="http://maschic.com/img/logo.jpg" group-title="MEXICO",HQ MasChic
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15045.ts
+#EXTINF:-1 tvg-id="MexicoTravelChannel.mx" tvg-name="HQ Mexiquense" tvg-logo="http://cindytakahashi.com/wp-content/uploads/logo_2011.jpg" group-title="MEXICO",HQ Mexiquense
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15034.ts
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="HQ MilenioTv" tvg-logo="http://images.mi.tv/channels/mx_milenio-tv_m.png" group-title="MEXICO",HQ MilenioTv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15044.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ Ocho TV" tvg-logo="http://149.56.241.86:25461/live/manuelhqveJX/iscar96eqveJXEMfn/21.ts" group-title="MEXICO",HQ Ocho TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15037.ts
+#EXTINF:-1 tvg-id="PXSports.mx" tvg-name="HQ Px Tv" tvg-logo="http://revistasenal.com/wp-content/uploads/2015/10/710.jpg" group-title="MEXICO",HQ Px Tv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15028.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ SuresTV" tvg-logo="http://forounivers.com/uploads/monthly_2017_02/Surestv.png.7b7d7b77dfe173650095454613b08cb0.png" group-title="MEXICO",HQ SuresTV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15036.ts
+#EXTINF:-1 tvg-id="TCM.mx" tvg-name="HQ Tcm" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1200px-TCM_logo.svg.png" group-title="MEXICO",HQ Tcm
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15026.ts
+#EXTINF:-1 tvg-id="TeleFormula.mx" tvg-name="HQ TeleFormula" tvg-logo="http://mediavyasa.mx/archivos/representantes/logo/logoteleformula.jpg" group-title="MEXICO",HQ TeleFormula
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15025.ts
+#EXTINF:-1 tvg-id="TeleNovelas.mx" tvg-name="HQ Telenovelas" tvg-logo="" group-title="MEXICO",HQ Telenovelas
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15068.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ Tve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_tve_internacional.png" group-title="MEXICO",HQ Tve
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15043.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ TVM" tvg-logo="" group-title="MEXICO",HQ TVM
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15031.ts
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="HQ Unicable" tvg-logo="http://www.televalltv.net/images/unicable.jpg" group-title="MEXICO",HQ Unicable
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15042.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ Wobi" tvg-logo="http://www.gatogeek.co/wp-content/uploads/2016/06/wobi.jpg" group-title="MEXICO",HQ Wobi
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15041.ts
+#EXTINF:-1 tvg-id="" tvg-name="HQ TVC" tvg-logo="https://www.tvcalx.co.uk/wp-content/uploads/2016/08/TVC-LOGO.png" group-title="MEXICO",HQ TVC
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15029.ts
