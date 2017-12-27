@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="-----INFANTILES [1080]-----" tvg-logo="https://www.miscancionesinfantiles.com/wp-content/uploads/2015/10/canciones-infantiles-cortas.jpg" group-title="-----CANALES [1080]-----",-----INFANTILES [1080]-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18350.ts
+#EXTINF:-1 tvg-id="Boomerang.mx" tvg-name="Boomerang(1080)" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.OnAir_Logo_Boomerang_HD_2015.png.8d0c699f1d21a765cb25af9c1418fb18.png" group-title="-----CANALES [1080]-----",Boomerang(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14869.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.mx" tvg-name="Cartoon Network(1080)" tvg-logo="https://i.ytimg.com/vi/HbbJ-1o4XZ8/maxresdefault.jpg" group-title="-----CANALES [1080]-----",Cartoon Network(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14868.ts
+#EXTINF:-1 tvg-id="" tvg-name="Natgeo Kids(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="-----CANALES [1080]-----",Natgeo Kids(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14866.ts
+#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="Natgeo Wild(1080)" tvg-logo="http://singteltv.com.sg/_channels/pic_ch207.jpg" group-title="-----CANALES [1080]-----",Natgeo Wild(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14865.ts
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nick 2(1080)" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/medium.579fecb5c4095_nick2.png.cb5a0b3b78b9442100c1fbb3da60b669.png" group-title="-----CANALES [1080]-----",Nick 2(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14867.ts
+#EXTINF:-1 tvg-id="Nickelodeon.mx" tvg-name="Nickelodeon(1080)" tvg-logo="https://solonickelodeon.files.wordpress.com/2011/05/nick_hd.png" group-title="-----CANALES [1080]-----",Nickelodeon(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14870.ts
+#EXTINF:-1 tvg-id="BabyFirstTV.us" tvg-name="Baby First(1080)" tvg-logo="http://hwnd.babyfirsttv.com/images/treeThumbs/571755.png" group-title="-----CANALES [1080]-----",Baby First(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14889.ts
+#EXTINF:-1 tvg-id="" tvg-name="-----DOCUMENTALES [1080]-----" tvg-logo="https://voiceacademy.com.ve/wp-content/uploads/2017/05/docu.jpg" group-title="-----CANALES [1080]-----",-----DOCUMENTALES [1080]-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18351.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="Animal Planet(1080)." tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.animalplanethd.png.f733327e29472ff87fbf9ade1b3e9e76.png" group-title="-----CANALES [1080]-----",Animal Planet(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14881.ts
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="Natgeo (1080)" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.ngsversion.1474040243902.adapt.1900.1.jpg" group-title="-----CANALES [1080]-----",Natgeo (1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17056.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="Discovery Channel(1080)." tvg-logo="https://www.blogcdn.com/www.engadget.com/media/2008/04/discoveryhd_newlogo_042008.jpg" group-title="-----CANALES [1080]-----",Discovery Channel(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14880.ts
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="Discovery Home&Health(1080)." tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/d/d9/Discovery_Home_%26_Health_HD.png/revision/latest?cb=20140513101549" group-title="-----CANALES [1080]-----",Discovery Home&Health(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14879.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="Discovery Investigation(1080)." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="-----CANALES [1080]-----",Discovery Investigation(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14878.ts
+#EXTINF:-1 tvg-id="DiscoveryKids.mx" tvg-name="Discovery Kids(1080)." tvg-logo="https://i.ytimg.com/vi/eAOEVnRizOo/maxresdefault.jpg" group-title="-----CANALES [1080]-----",Discovery Kids(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14877.ts
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater(1080)." tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="-----CANALES [1080]-----",Discovery Theater(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14876.ts
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="Discovery TLC(1080)." tvg-logo="https://www.foromedios.com/uploads/monthly_2016_09/large.57e0302d9792e_TLCDiscoveryhd.png.382a550d67992c79543aef37500783cb.png" group-title="-----CANALES [1080]-----",Discovery TLC(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14875.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo(1080)." tvg-logo="http://2.bp.blogspot.com/-djQyUJN9Gfw/VGdEgyhjgtI/AAAAAAAACQ8/DXGTUbzjYHw/s1600/hd.png" group-title="-----CANALES [1080]-----",Discovery Turbo(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14874.ts
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World(1080)." tvg-logo="https://www.adslzone.tv/app/uploads/2011/04/logo-discovery-world-hd.png" group-title="-----CANALES [1080]-----",Discovery World(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14873.ts
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="History(1080)." tvg-logo="https://cms.cignal.tv/Upload/Images/History%20HD.png" group-title="-----CANALES [1080]-----",History(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14872.ts
+#EXTINF:-1 tvg-id="" tvg-name="TruTV (1080)" tvg-logo="" group-title="-----CANALES [1080]-----",TruTV (1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17048.ts
+#EXTINF:-1 tvg-id="" tvg-name="RT Documentales(1080)." tvg-logo="https://actualidad.rt.com/static/img/og-logo-rt.jpg" group-title="-----CANALES [1080]-----",RT Documentales(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14871.ts
