@@ -1,0 +1,52 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="-----ECUADOR-----" tvg-logo="http://www.policiaecuador.gob.ec/wp-content/plugins/sitepress-multilingual-cms_old/res/flags/es.png" group-title="ECUADOR",-----ECUADOR-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18333.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNT SPORT (1080 HQ)" tvg-logo="http://tv.latintvweb.com:8000/live/noustv3422/noustv3434/19048.ts" group-title="ECUADOR",CNT SPORT (1080 HQ)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19048.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNT SPORT (720 HD)" tvg-logo="http://tv.latintvweb.com:8000/live/noustv3422/noustv3434/19048.ts" group-title="ECUADOR",CNT SPORT (720 HD)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19049.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNT SPORTS PPV 1 (1080)" tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/cnt_sports_-_logo_en_alta-estandar.jpg" group-title="ECUADOR",CNT SPORTS PPV 1 (1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19050.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNT SPORTS PPV 1 (720)" tvg-logo="http://www.thedailytelevision.com/sites/default/files/notas/imagenes/cnt_sports_-_logo_en_alta-estandar.jpg" group-title="ECUADOR",CNT SPORTS PPV 1 (720)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19051.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: CNT SPORT" tvg-logo="https://www.cnt.gob.ec/tv/wp-content/uploads/sites/5/2017/05/cnt_sport.png" group-title="ECUADOR",EC: CNT SPORT
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2314.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: DIRECTV (EVENTO)" tvg-logo="http://www.teradeportes.com/sites/default/files/imagecache/titular/images/titulares/2013/2013-01-28/dtv.jpg" group-title="ECUADOR",EC: DIRECTV (EVENTO)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/12443.ts
+#EXTINF:-1 tvg-id="" tvg-name="Futbol de ecuador (solo evento)" tvg-logo="http://ecuafutbol.org/web/images/logo.png" group-title="ECUADOR",Futbol de ecuador (solo evento)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3536.ts
+#EXTINF:-1 tvg-id="" tvg-name="EL CANAL DEL FUTBOL ECUADOR 2" tvg-logo="http://www.ecuafutbol.org/web/images/logo.png" group-title="ECUADOR",EL CANAL DEL FUTBOL ECUADOR 2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18358.ts
+#EXTINF:-1 tvg-id="CanalUno.ec" tvg-name="EC: Canal UNO" tvg-logo="http://static.wixstatic.com/media/a79c12_f434c94e39cc47ee974f8180bdab49ab~mv2.png/v1/fill/w_626,h_307/a79c12_f434c94e39cc47ee974f8180bdab49ab~mv2.png" group-title="ECUADOR",EC: Canal UNO
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2320.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA_SD:ECUADOR TV" tvg-logo="" group-title="ECUADOR",LA_SD:ECUADOR TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17436.ts
+#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-name="EC: Ecuador TV" tvg-logo="https://contenido.bce.fin.ec/documentos/Eventos/Economicos/imagenes/image066.jpg" group-title="ECUADOR",EC: Ecuador TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2321.ts
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="EC: ECUAVISA" tvg-logo="http://st-listas.20minutos.es/images/2013-04/360108/4000411_640px.jpg?1367617828" group-title="ECUADOR",EC: ECUAVISA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2319.ts
+#EXTINF:-1 tvg-id="" tvg-name="GAMA TV" tvg-logo="" group-title="ECUADOR",GAMA TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17980.ts
+#EXTINF:-1 tvg-id="GamaTV.ec" tvg-name="EC: GAMA TV" tvg-logo="http://4.bp.blogspot.com/-_ilwToHuMzo/VLXAm-mk-lI/AAAAAAAAAP4/75RGGEGHvVY/s1600/gamatv-500x500.png" group-title="ECUADOR",EC: GAMA TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2316.ts
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="OROMAR TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Oromartv-orange-footer.jpg" group-title="ECUADOR",OROMAR TV HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17982.ts
+#EXTINF:-1 tvg-id="OromarTV.ec" tvg-name="EC: OROMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR",EC: OROMAR TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2315.ts
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR",RTS HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17979.ts
+#EXTINF:-1 tvg-id="RTS.ec" tvg-name="EC: RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",EC: RTS
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2313.ts
+#EXTINF:-1 tvg-id="" tvg-name="EC: TC Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR",EC: TC Television
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2317.ts
+#EXTINF:-1 tvg-id="TCTelevision.ec" tvg-name="TC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="ECUADOR",TC HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17981.ts
+#EXTINF:-1 tvg-id="" tvg-name="TC HD (A)" tvg-logo="http://www.fulltelevisiononline.com/wp-content/uploads/2016/09/TC-Television.png" group-title="ECUADOR",TC HD (A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3267.ts
+#EXTINF:-1 tvg-id="" tvg-name="ec: canela tv" tvg-logo="" group-title="ECUADOR",ec: canela tv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17987.ts
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="TELEAMAZONAS HD" tvg-logo="http://2.bp.blogspot.com/--3XuaEfhWjk/ViEmqgKZFVI/AAAAAAAADs4/1zUiPcr2rZ4/s1600/11.png" group-title="ECUADOR",TELEAMAZONAS HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17984.ts
+#EXTINF:-1 tvg-id="TeleAmazonas.ec" tvg-name="EC: Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",EC: Teleamazonas
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2318.ts
