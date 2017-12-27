@@ -1,0 +1,97 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="-----COLOMBIA-----" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Flag_of_the_President_of_Colombia.svg/1200px-Flag_of_the_President_of_Colombia.svg.png" group-title="COLOMBIA",-----COLOMBIA-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18336.ts
+#EXTINF:-1 tvg-id="" tvg-name=",WIN SPORT. HD" tvg-logo="http://www.winsports.co/assets/img/win/winsports-logo280x150.png" group-title="DEPORTE HD",,WIN SPORT. HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/8682.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino: WIN SPORT HD" tvg-logo="" group-title="CANALES HD",Latino: WIN SPORT HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/19058.ts
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Colombia: Caracol HD" tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="COLOMBIA",Colombia: Caracol HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14614.ts
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="CARACOL OP2" tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="COLOMBIA",CARACOL OP2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18194.ts
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="CARACOL HD" tvg-logo="https://www.unipymes.com/wp-content/uploads/2014/04/caracol-hd.jpg" group-title="COLOMBIA",CARACOL HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/6300.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN HD" tvg-logo="" group-title="COLOMBIA",RCN HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17445.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN (A)" tvg-logo="" group-title="COLOMBIA",RCN (A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3457.ts
+#EXTINF:-1 tvg-id="" tvg-name="RCN HD 2 (A)" tvg-logo="" group-title="COLOMBIA",RCN HD 2 (A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3458.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cable Noticias" tvg-logo="" group-title="COLOMBIA",Cable Noticias
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2380.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 13" tvg-logo="" group-title="COLOMBIA",Canal 13
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2378.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Antiestres" tvg-logo="" group-title="COLOMBIA",Canal Antiestres
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2372.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cosmovision" tvg-logo="" group-title="COLOMBIA",Cosmovision
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2375.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Tiempo" tvg-logo="" group-title="COLOMBIA",El Tiempo
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2370.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lifedesing" tvg-logo="" group-title="COLOMBIA",Lifedesing
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2374.ts
+#EXTINF:-1 tvg-id="" tvg-name="Se" tvg-logo="" group-title="COLOMBIA",Se
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2379.ts
+#EXTINF:-1 tvg-id="" tvg-name=",Canal TRO (A)" tvg-logo="" group-title="COLOMBIA",,Canal TRO (A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/4041.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal Institucional(A)" tvg-logo="" group-title="COLOMBIA",Canal Institucional(A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/4044.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nuestra Tele(A)" tvg-logo="" group-title="COLOMBIA",Nuestra Tele(A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/4043.ts
+#EXTINF:-1 tvg-id="" tvg-name="telecafe(A)" tvg-logo="" group-title="COLOMBIA",telecafe(A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/4040.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe(A)" tvg-logo="" group-title="COLOMBIA",Telecaribe(A)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/4042.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel HD" tvg-logo="" group-title="COLOMBIA",Sun Channel HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2376.ts
+#EXTINF:-1 tvg-id="" tvg-name="Teleantioquia HD" tvg-logo="" group-title="COLOMBIA",Teleantioquia HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2369.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tele Antioquia" tvg-logo="" group-title="COLOMBIA",Tele Antioquia
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2382.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecafe" tvg-logo="" group-title="COLOMBIA",Telecafe
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2368.ts
+#EXTINF:-1 tvg-id="" tvg-name="VE PLUS" tvg-logo="" group-title="COLOMBIA",VE PLUS
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17449.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telemedellin" tvg-logo="" group-title="COLOMBIA",Telemedellin
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2367.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecaribe HD" tvg-logo="" group-title="COLOMBIA",Telecaribe HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2381.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colombia: Canal Capital HD" tvg-logo="http://images.mi.tv/channels/co_canal-capital_m.png" group-title="COLOMBIA",Colombia: Canal Capital HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14619.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colombia: Canal U TV" tvg-logo="http://utvcanal40.com/wp-content/uploads/2015/08/utv-trnasparent.png" group-title="COLOMBIA",Colombia: Canal U TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14618.ts
+#EXTINF:-1 tvg-id="CanalUno.co" tvg-name="Colombia: Canal Uno HD" tvg-logo="https://i.ytimg.com/vi/4yLk81Hhpqc/maxresdefault.jpg" group-title="COLOMBIA",Colombia: Canal Uno HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14617.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colombia: Canal Wow TV" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png" group-title="COLOMBIA",Colombia: Canal Wow TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14616.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colombia: Cantinazo HD" tvg-logo="https://i.ytimg.com/vi/6qWXQIdxNTo/maxresdefault_live.jpg" group-title="COLOMBIA",Colombia: Cantinazo HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14615.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colombia: Carolina TV HD" tvg-logo="http://www.carolina.cl/tv/img/logo.png" group-title="COLOMBIA",Colombia: Carolina TV HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14613.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colombia: Cosmovision HD" tvg-logo="http://images.mi.tv/channels/co_cosmovision-hd_m.png" group-title="COLOMBIA",Colombia: Cosmovision HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14612.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal U" tvg-logo="" group-title="COLOMBIA",CO: Canal U
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3953.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Cantinazo TV" tvg-logo="" group-title="COLOMBIA",CO: Cantinazo TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3954.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: El Tiempo" tvg-logo="" group-title="COLOMBIA",CO: El Tiempo
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3955.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Mi Musica HD" tvg-logo="" group-title="COLOMBIA",CO: Mi Musica HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3956.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telecafe" tvg-logo="" group-title="COLOMBIA",CO: Telecafe
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3957.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telemedellin" tvg-logo="" group-title="COLOMBIA",CO: Telemedellin
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3958.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Televida" tvg-logo="" group-title="COLOMBIA",CO: Televida
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3959.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Tigo Music" tvg-logo="" group-title="COLOMBIA",CO: Tigo Music
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3960.ts
+#EXTINF:-1 tvg-id="" tvg-name="CO: Vmas TV" tvg-logo="" group-title="COLOMBIA",CO: Vmas TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3961.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trendy Tv" tvg-logo="" group-title="COLOMBIA",Trendy Tv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2377.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ve plus TV" tvg-logo="" group-title="COLOMBIA",Ve plus TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2371.ts
+#EXTINF:-1 tvg-id="" tvg-name="Zoom TV" tvg-logo="" group-title="COLOMBIA",Zoom TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/2366.ts
