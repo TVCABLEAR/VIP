@@ -1,0 +1,102 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="-----MEXICO [1080]-----" tvg-logo="https://images.thestar.com/content/dam/thestar/life/2013/08/28/in_food_news_modern_mexican_cuban_food_on_ossington_italianjamaican_fusion/mexico.jpg" group-title="-----CANALES [1080]-----",-----MEXICO [1080]-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18352.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE (1080)" tvg-logo="" group-title="-----CANALES [1080]-----",MTV LIVE (1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17052.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE (1080)" tvg-logo="http://www.sundance.org/images/support-us/corporate/sundanceTV_680x136.png" group-title="-----CANALES [1080]-----",SUNDANCE (1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17055.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEHITS HD (1080)" tvg-logo="" group-title="-----CANALES [1080]-----",TELEHITS HD (1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17053.ts
+#EXTINF:-1 tvg-id="" tvg-name="VH1 (1080)" tvg-logo="" group-title="-----CANALES [1080]-----",VH1 (1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17054.ts
+#EXTINF:-1 tvg-id="" tvg-name="A3S(1080)." tvg-logo="http://cineking.net/wp-content/uploads/2016/12/A3SERIES-Copiar.jpg" group-title="-----CANALES [1080]-----",A3S(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14882.ts
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RT Noticias(1080)" tvg-logo="https://yt3.ggpht.com/-1RjtzpOiHT4/AAAAAAAAAAI/AAAAAAAAAAA/WU2EQtQvQvs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="-----CANALES [1080]-----",RT Noticias(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14969.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVM(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/TVM_HD_Logo.png" group-title="-----CANALES [1080]-----",TVM(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14966.ts
+#EXTINF:-1 tvg-id="" tvg-name="Star TVE(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Star_tv_hd.png" group-title="-----CANALES [1080]-----",Star TVE(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14968.ts
+#EXTINF:-1 tvg-id="" tvg-name="Televisa Puebla(1080)" tvg-logo="http://www.televisiongratis.tv/components/com_televisiongratis/images/televisa-puebla-en-vivo-859.jpg" group-title="-----CANALES [1080]-----",Televisa Puebla(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14967.ts
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Antena3hd.png" group-title="-----CANALES [1080]-----",Antena 3(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14974.ts
+#EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca 13(1080)" tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-13-hd.png" group-title="-----CANALES [1080]-----",Azteca 13(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14965.ts
+#EXTINF:-1 tvg-id="" tvg-name="Azteca Internacional(1080)" tvg-logo="http://www.revistaneo.com/sites/default/files/styles/article_image_full_node/public/field/image/TV-Azteca.jpg?itok=eW81XHG2" group-title="-----CANALES [1080]-----",Azteca Internacional(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14964.ts
+#EXTINF:-1 tvg-id="AztecaCinema.mx" tvg-name="Az Cinema(1080)." tvg-logo="http://condista.com/wp-content/uploads/2015/09/az-cinema-300x225.jpg" group-title="-----CANALES [1080]-----",Az Cinema(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14891.ts
+#EXTINF:-1 tvg-id="AztecaClic.mx" tvg-name="Az Clic(1080)." tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/azclick.jpg" group-title="-----CANALES [1080]-----",Az Clic(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14890.ts
+#EXTINF:-1 tvg-id="AzCorazon.mx" tvg-name="Az CorazON(1080)" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_6112.png" group-title="-----CANALES [1080]-----",Az CorazON(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14915.ts
+#EXTINF:-1 tvg-id="AztecaMundo.mx" tvg-name="Az Mundo(1080)." tvg-logo="http://revistasenal.com/wp-content/uploads/2015/03/az-tvpaga.jpg" group-title="-----CANALES [1080]-----",Az Mundo(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14897.ts
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7(1080)." tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/azteca-7.png" group-title="-----CANALES [1080]-----",Azteca 7(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14914.ts
+#EXTINF:-1 tvg-id="CanalJudicial.mx" tvg-name="Canal Judicial(1080)" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e5/Canal_Judicial_HD_Mexico.png/revision/latest?cb=20151111060000" group-title="-----CANALES [1080]-----",Canal Judicial(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14973.ts
+#EXTINF:-1 tvg-id="FX.mx" tvg-name="FXM(1080)" tvg-logo="https://sc.dish.com/shared/images/station-logos/fxm.png" group-title="-----CANALES [1080]-----",FXM(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14971.ts
+#EXTINF:-1 tvg-id="" tvg-name="Imagen Televisa(1080)" tvg-logo="https://i.pinimg.com/originals/88/ab/bf/88abbf589c2a17d9aaf712ef7d05f7d8.jpg" group-title="-----CANALES [1080]-----",Imagen Televisa(1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14970.ts
+#EXTINF:-1 tvg-id="" tvg-name="Adn 40(1080)." tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/large.58c547d552942_XHTVM-ADN40.png.bc83280d75016331f3449af51be5ecba-614x165-39570398.png" group-title="-----CANALES [1080]-----",Adn 40(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14916.ts
+#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="Bloomberg(1080)." tvg-logo="https://pbs.twimg.com/profile_images/2874451990/2333ae199449d8316b8afbb7375bd7a3.jpeg" group-title="-----CANALES [1080]-----",Bloomberg(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14888.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5(1080)." tvg-logo="http://www.cablevision.com.mx/contenido/portal/paginas/monterrey2/hd-altadefinicion/canales/canal5HD.png" group-title="-----CANALES [1080]-----",Canal 5(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14913.ts
+#EXTINF:-1 tvg-id="" tvg-name="Canal del Congreso(1080)." tvg-logo="http://internet.alfasurtfibraoptica.com/wp-content/uploads/2016/07/canal-congreso.png" group-title="-----CANALES [1080]-----",Canal del Congreso(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14893.ts
+#EXTINF:-1 tvg-id="EEntertainment.mx" tvg-name="E!(1080)." tvg-logo="http://www.k-iptv.com/images/Channels/51eb9e857afcbCh145.E!.jpg" group-title="-----CANALES [1080]-----",E!(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14904.ts
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="El Gourmet(1080)." tvg-logo="http://www.lamac.org/res/channels/logos/_0046_el_gourmet.png" group-title="-----CANALES [1080]-----",El Gourmet(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14903.ts
+#EXTINF:-1 tvg-id="" tvg-name="Food Network(1080)." tvg-logo="http://www.cablevision.com.lb/Library/Photos/-0912FNH.png" group-title="-----CANALES [1080]-----",Food Network(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14895.ts
+#EXTINF:-1 tvg-id="ForoTv.mx" tvg-name="Foro TV(1080)." tvg-logo="http://4.bp.blogspot.com/-g1svyQimuG8/Usy45D6vaGI/AAAAAAAAArY/5HmBYcTQenA/s1600/foro+tv.jpg" group-title="-----CANALES [1080]-----",Foro TV(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14912.ts
+#EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="Fox Life(1080)." tvg-logo="http://tvimages.burrp.com/images/channels2/entertainment/Fox-Life-HD.png" group-title="-----CANALES [1080]-----",Fox Life(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14902.ts
+#EXTINF:-1 tvg-id="GalaTV9Nacional.mx" tvg-name="Gala TV(1080)." tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/08sky-logo-GalaTvHD.jpg" group-title="-----CANALES [1080]-----",Gala TV(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14910.ts
+#EXTINF:-1 tvg-id="Glitz.mx" tvg-name="Glitz(1080)." tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2011/09/glitz-logo.jpg" group-title="-----CANALES [1080]-----",Glitz(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14901.ts
+#EXTINF:-1 tvg-id="" tvg-name="HAVOC(1080)." tvg-logo="" group-title="-----CANALES [1080]-----",HAVOC(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14896.ts
+#EXTINF:-1 tvg-id="" tvg-name="HMX(1080)." tvg-logo="http://www.teco.tv/assets/img/portfolio/promos/PROMO_29_HMX_CANAL_DE_LOS_HOMBRES.jpg" group-title="-----CANALES [1080]-----",HMX(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14909.ts
+#EXTINF:-1 tvg-id="HolaTV.us" tvg-name="Hola TV(1080)." tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-holatv.jpg" group-title="-----CANALES [1080]-----",Hola TV(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14900.ts
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas(1080)." tvg-logo="https://www.foromedios.com/uploads/monthly_2016_04/large.XEW-HD-2016.png.180089078ddead87ecaf126eae3e902c.png" group-title="-----CANALES [1080]-----",Las Estrellas(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14911.ts
+#EXTINF:-1 tvg-id="Lifetime.mx" tvg-name="Lifetime(1080)." tvg-logo="http://revistasenal.com/wp-content/uploads/2015/08/4-Lifetime-HD.jpg" group-title="-----CANALES [1080]-----",Lifetime(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14885.ts
+#EXTINF:-1 tvg-id="" tvg-name="mas chip (1080)" tvg-logo="" group-title="-----CANALES [1080]-----",mas chip (1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14899.ts
+#EXTINF:-1 tvg-id="NASAChannel.us" tvg-name="Mexiquense(1080)." tvg-logo="http://www.ipomex.org.mx/ipo/upload/img/0/8/9624c0461acd7339d377de1752f174c9.png" group-title="-----CANALES [1080]-----",Mexiquense(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14887.ts
+#EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-name="Milenio TV(1080)." tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Milenio-TV.jpg" group-title="-----CANALES [1080]-----",Milenio TV(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14886.ts
+#EXTINF:-1 tvg-id="" tvg-name="Morbidtv(1080)." tvg-logo="https://pbs.twimg.com/profile_images/833158241802555392/5Ax6jkOJ.jpg" group-title="-----CANALES [1080]-----",Morbidtv(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14894.ts
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="Multimedios Plus(1080)." tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/canal1500-310x163-103851479.jpg" group-title="-----CANALES [1080]-----",Multimedios Plus(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14907.ts
+#EXTINF:-1 tvg-id="Multimedios.mx" tvg-name="Multimedios(1080)." tvg-logo="https://uno1one.files.wordpress.com/2009/02/logo-mm1.jpg" group-title="-----CANALES [1080]-----",Multimedios(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14908.ts
+#EXTINF:-1 tvg-id="" tvg-name="TELEFORMULA (1080)" tvg-logo="" group-title="-----CANALES [1080]-----",TELEFORMULA (1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17049.ts
+#EXTINF:-1 tvg-id="" tvg-name="Once TV(1080)." tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/large.XEIPN-TDT_Logo_2015.png.0fbe8ca85692dfe134d7d763391e54c9-374x135-7852429.png" group-title="-----CANALES [1080]-----",Once TV(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14906.ts
+#EXTINF:-1 tvg-id="" tvg-name="maxine woodside (1080)" tvg-logo="maxine woodside" group-title="-----CANALES [1080]-----",maxine woodside (1080)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14905.ts
+#EXTINF:-1 tvg-id="" tvg-name="Televisa MTY(1080)." tvg-logo="https://i.ytimg.com/vi/0MX-Q-XVyqg/hqdefault.jpg" group-title="-----CANALES [1080]-----",Televisa MTY(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14892.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVC(1080)." tvg-logo="https://yt3.ggpht.com/-L2IzymKCXrc/AAAAAAAAAAI/AAAAAAAAAAA/K3sTYIqYHWo/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="-----CANALES [1080]-----",TVC(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14883.ts
+#EXTINF:-1 tvg-id="Unicable.mx" tvg-name="Unicable(1080)." tvg-logo="http://www.unicablehd.com.ar/img/default.jpg" group-title="-----CANALES [1080]-----",Unicable(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14898.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wobi TV(1080)." tvg-logo="http://www.ipuntotv.com/IMAGES/Wobi-HD.png" group-title="-----CANALES [1080]-----",Wobi TV(1080).
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/14884.ts
