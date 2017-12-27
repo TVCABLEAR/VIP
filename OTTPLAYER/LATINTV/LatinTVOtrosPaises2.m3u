@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="-----REPUBLICA DOMINICANA" tvg-logo="http://www.banderas-mundo.es/data/flags/ultra/do.png" group-title="REPUBLICA DOMINICANA",-----REPUBLICA DOMINICANA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18704.ts
+#EXTINF:-1 tvg-id="" tvg-name="BONAO TV" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/10/Bonao-TV.jpg" group-title="REPUBLICA DOMINICANA",BONAO TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18698.ts
+#EXTINF:-1 tvg-id="" tvg-name="CARIVISION" tvg-logo="http://carivision.online/wp-content/uploads/2017/10/unnamed-17.png" group-title="REPUBLICA DOMINICANA",CARIVISION
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18699.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDN" tvg-logo="https://3.bp.blogspot.com/-3y7HXSlP3BA/WT4RyuTAJ4I/AAAAAAAADjU/ycPKV_JwZYc1L0V9Ln-wslAsan5FHyNXACLcB/w1200-h630-p-k-no-nu/CDN-TV-Logo.jpg" group-title="REPUBLICA DOMINICANA",CDN
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18700.ts
+#EXTINF:-1 tvg-id="" tvg-name="GALAXIA TV" tvg-logo="http://www.asivalco.org/admin/uploads/galaxia-tv.jpg" group-title="REPUBLICA DOMINICANA",GALAXIA TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18701.ts
+#EXTINF:-1 tvg-id="" tvg-name="HILANDO FINO TV" tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2017/04/cropped-logo-tv-3.png" group-title="REPUBLICA DOMINICANA",HILANDO FINO TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18702.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA VOZ DE MRIA TV" tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/04/voz-de-maria-230x150.jpg" group-title="REPUBLICA DOMINICANA",LA VOZ DE MRIA TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18703.ts
+#EXTINF:-1 tvg-id="" tvg-name="-----BOLIVIA-----" tvg-logo="KJV" group-title="BOLIVIA",-----BOLIVIA-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18340.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA TV" tvg-logo="" group-title="BOLIVIA",BOLIVIA TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17446.ts
+#EXTINF:-1 tvg-id="" tvg-name="BOLIVIA DEPORTES TV" tvg-logo="" group-title="BOLIVIA",BOLIVIA DEPORTES TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18705.ts
