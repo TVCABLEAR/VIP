@@ -1,0 +1,117 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="?????? ESPANHA ??????" tvg-logo="" group-title="ESPAÑA",?????? ESPANHA ??????
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/11410.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES - DARK" tvg-logo="http://monstervine.com/wp-content/uploads/2012/10/dark_wallpaper_01_1920.jpg" group-title="ESPAÑA",ES - DARK
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15200.ts
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ES: MOVISTAR ACCION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Movistar_Acci%C3%B3n.svg/1200px-Movistar_Acci%C3%B3n.svg.png" group-title="ESPAÑA",ES: MOVISTAR ACCION
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17107.ts
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ES: MOVISTAR COMEDIA" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png" group-title="ESPAÑA",ES: MOVISTAR COMEDIA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17106.ts
+#EXTINF:-1 tvg-id="MovistarDCine.es" tvg-name="ES: MOVISTAR DCINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1200px-Movistar_Cine_Espa%C3%B1ol.svg.png" group-title="ESPAÑA",ES: MOVISTAR DCINE
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17105.ts
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES: MOVISTAR ESTRENOS" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-estrenos.jpg" group-title="ESPAÑA",ES: MOVISTAR ESTRENOS
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17103.ts
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ES: MOVISTAR SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Movistar_Series.svg/1200px-Movistar_Series.svg.png" group-title="ESPAÑA",ES: MOVISTAR SERIES
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17096.ts
+#EXTINF:-1 tvg-id="MovistarXtra.es" tvg-name="ES: MOVISTAR SERIES XTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Movistar_Xtra.svg/1200px-Movistar_Xtra.svg.png" group-title="ESPAÑA",ES: MOVISTAR SERIES XTRA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17095.ts
+#EXTINF:-1 tvg-id="MovistarXtra.es" tvg-name="ES: MOVISTAR XTRA" tvg-logo="http://decine-y-estrenos.esy.es/wp-content/uploads/2016/10/MovistarXtra.png" group-title="ESPAÑA",ES: MOVISTAR XTRA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17094.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: #O" tvg-logo="" group-title="ESPAÑA",ES: #O
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17144.ts
+#EXTINF:-1 tvg-id="AandE.es" tvg-name="ES: A&E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1200px-A%26E_Network_logo.svg.png" group-title="ESPAÑA",ES: A&E
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17143.ts
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES: AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="ESPAÑA",ES: AMC
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17142.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: ANDALUCIA TV" tvg-logo="http://www.diesl.com/wp-content/uploads/2014/12/csur.png" group-title="ESPAÑA",ES: ANDALUCIA TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17141.ts
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES: Antena 3" tvg-logo="http://images.vertele.eldiario.es/2017/05/03/noticias/Antena-renueva-corporativa-logotipo-autopromos_1899420059_8398569_660x371.jpg" group-title="ESPAÑA",ES: Antena 3
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17140.ts
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="ES: AXN" tvg-logo="https://la.axn.com/sites/la.axn/files/ct_custom_page_f_primary_image/axn_logo_0.jpg" group-title="ESPAÑA",ES: AXN
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17139.ts
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES: AXN WHITE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="ESPAÑA",ES: AXN WHITE
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17138.ts
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="ES: BOING" tvg-logo="http://www.boing.es/sites/boinges/themes/boing_theme/logo-es.png" group-title="ESPAÑA",ES: BOING
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17134.ts
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES: CALLE 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/1200px-Calle13_logo.svg.png" group-title="ESPAÑA",ES: CALLE 13
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17133.ts
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ES: COCINA" tvg-logo="http://vertelevisor.com/logos/cocina.png" group-title="ESPAÑA",ES: COCINA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17132.ts
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ES: COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="ESPAÑA",ES: COMEDY CENTRAL
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17131.ts
+#EXTINF:-1 tvg-id="Cosmo.es" tvg-name="ES: COSMO" tvg-logo="http://1.bp.blogspot.com/_1c9Gn102n_I/Suj8e87PGhI/AAAAAAAADO4/MWBdVtHClE8/s320/cosmo+tv+Copia.JPG" group-title="ESPAÑA",ES: COSMO
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17130.ts
+#EXTINF:-1 tvg-id="CrimeInvestigation.us" tvg-name="ES: CRIMEN INVESTIGACION" tvg-logo="https://3.bp.blogspot.com/-yCXkE9yoEkU/Vt1mku4foQI/AAAAAAAAfoE/9ItqZ7_POrg/s1600/crimen-investigacion.jpg" group-title="ESPAÑA",ES: CRIMEN INVESTIGACION
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17129.ts
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO" tvg-logo="https://infovaticana.com/wp-content/uploads/2016/04/cuatro.jpg" group-title="ESPAÑA",ES: CUATRO
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17128.ts
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="ES: DISCOVERY CHANNEL" tvg-logo="http://3.bp.blogspot.com/_n06ZCfJKIQI/TA69uL-ivcI/AAAAAAAAEWc/u0Uk3V5oXpw/s1600/Discovery-logo.jpg" group-title="ESPAÑA",ES: DISCOVERY CHANNEL
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17127.ts
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="ES: DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/1200px-2015_Disney_Channel_logo.svg.png" group-title="ESPAÑA",ES: DISNEY CHANNEL
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17126.ts
+#EXTINF:-1 tvg-id="DisneyJunior.es" tvg-name="ES: DISNEY JUNIOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="ESPAÑA",ES: DISNEY JUNIOR
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17125.ts
+#EXTINF:-1 tvg-id="DisneyXD.es" tvg-name="ES: DISNEY XD" tvg-logo="https://www.whatutalkingboutwillis.com/wp-content/uploads/2014/07/disneyXD.jpg" group-title="ESPAÑA",ES: DISNEY XD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17124.ts
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="ES: DIVINITY" tvg-logo="http://d2jljza7x0a5yy.cloudfront.net/images/television/logo_divinity.jpg" group-title="ESPAÑA",ES: DIVINITY
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17123.ts
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES: ENERGY" tvg-logo="http://www.formulatv.com/images/noticias/52400/52400/1_f030767927.jpg" group-title="ESPAÑA",ES: ENERGY
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17122.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/FDFTele5.png" group-title="ESPAÑA",ES: FDF
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17121.ts
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="ES: FOX" tvg-logo="http://contenidos.enter.co/custom/uploads/2017/01/Fox.jpg" group-title="ESPAÑA",ES: FOX
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17120.ts
+#EXTINF:-1 tvg-id="FoxLife.es" tvg-name="ES: FOX LIFE" tvg-logo="http://images.mi.tv/channels/ar_fox-life_m.png" group-title="ESPAÑA",ES: FOX LIFE
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17119.ts
+#EXTINF:-1 tvg-id="Gol.es" tvg-name="ES: GOL" tvg-logo="https://www.elconfidencialdigital.com/medios/Gol_ECDIMA20160321_0022_22.png" group-title="ESPAÑA",ES: GOL
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17118.ts
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="ES: HISTORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="ESPAÑA",ES: HISTORIA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17117.ts
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="ES: HOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg/1200px-Hollywood_Sign_%28Zuschnitt%29.jpg" group-title="ESPAÑA",ES: HOLLYWOOD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17116.ts
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES: LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="ESPAÑA",ES: LA 1
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17115.ts
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES: LA 2" tvg-logo="https://pbs.twimg.com/profile_images/899384654259736578/JcRiYU5A.jpg" group-title="ESPAÑA",ES: LA 2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17114.ts
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES: La Sexta" tvg-logo="http://www.brandemia.org/sites/default/files/sites/default/files/la_sexta_logo-antes.jpg" group-title="ESPAÑA",ES: La Sexta
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17113.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: M6 MUSIC" tvg-logo="" group-title="ESPAÑA",ES: M6 MUSIC
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17110.ts
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="ES: Mega" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/Mega-en-directo-Online.png" group-title="ESPAÑA",ES: Mega
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17109.ts
+#EXTINF:-1 tvg-id="NatGeo.es" tvg-name="ES: NAT GEO" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.ngsversion.1474040243902.adapt.1900.1.jpg" group-title="ESPAÑA",ES: NAT GEO
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17093.ts
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES: NAT GEO WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="ESPAÑA",ES: NAT GEO WILD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17092.ts
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="ES: NEOX" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/01/neox-en-directo-online.png" group-title="ESPAÑA",ES: NEOX
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17091.ts
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="ES: NICKELODEON" tvg-logo="https://images.bwwstatic.com/tvnetworklogos/14A520B9-C1A3-ED0B-9AB1E4DAC880B252.jpg" group-title="ESPAÑA",ES: NICKELODEON
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17090.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: NON STOP PEOPLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Logo_d%C3%A9riv%C3%A9_Non_Stop_People.png" group-title="ESPAÑA",ES: NON STOP PEOPLE
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17089.ts
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES: NOVA" tvg-logo="http://blogs.antena3.com/clipping/2012/11/07/00360/31.jpg" group-title="ESPAÑA",ES: NOVA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17088.ts
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES: ODISEA HD" tvg-logo="http://tecavicas.es/wp-content/uploads/2013/03/0906_odisea.jpg" group-title="ESPAÑA",ES: ODISEA HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17087.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PANDA" tvg-logo="http://www.pequepolis.com/wp-content/uploads/2012/04/canal-panda-app.jpg" group-title="INFANTILES",ES: PANDA
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17086.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT" tvg-logo="https://i.ytimg.com/vi/W6aEYK71lxM/maxresdefault.jpg" group-title="ESPAÑA",ES: PARAMOUNT
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17085.ts
+#EXTINF:-1 tvg-id="SyFy.es" tvg-name="ES: SYFY" tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="ESPAÑA",ES: SYFY
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17083.ts
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="ES: TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/1200px-TCM_logo.svg.png" group-title="ESPAÑA",ES: TCM
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17082.ts
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="http://www.miticsfestival.com/wp-content/uploads/2017/02/telecinco.jpg" group-title="ESPAÑA",ES: TELECINCO
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17081.ts
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES: TELEDEPORTE" tvg-logo="https://lh6.googleusercontent.com/-dklwG2HTPg4/UhtsISy5-HI/AAAAAAAAALs/kdCJWEz2NNg/s277/teledeporte2.jpg" group-title="ESPAÑA",ES: TELEDEPORTE
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17080.ts
+#EXTINF:-1 tvg-id="TNT.es" tvg-name="ES: TNT" tvg-logo="http://www.canaltnt.es/dynamic/channel/00000000/12/d9faae6d68fe0b8a80f646e286157db1135cc2ac_1461934546.png" group-title="ESPAÑA",ES: TNT
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17079.ts
+#EXTINF:-1 tvg-id="Viajar.es" tvg-name="ES: VIAJAR" tvg-logo="https://pbs.twimg.com/profile_images/469534713023971328/yzb47Vof.png" group-title="ESPAÑA",ES: VIAJAR
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17077.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR PARTIDAZO HD (Solo Eventos)" tvg-logo="" group-title="ESPAÑA",ES: MOVISTAR PARTIDAZO HD (Solo Eventos)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17098.ts
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR PARTIDAZO OP2  (Solo Eventos)" tvg-logo="" group-title="ESPAÑA",ES: MOVISTAR PARTIDAZO OP2  (Solo Eventos)
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17097.ts
