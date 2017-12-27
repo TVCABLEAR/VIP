@@ -1,0 +1,41 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="" tvg-name="-----PARAGUAY-----" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1200px-Flag_of_Paraguay.svg.png" group-title="PARAGUAY",-----PARAGUAY-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18339.ts
+#EXTINF:-1 tvg-id="" tvg-name="NIU TV" tvg-logo="" group-title="ARGENTINA",NIU TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17448.ts
+#EXTINF:-1 tvg-id="" tvg-name="------SALVADOR-----" tvg-logo="https://lh4.googleusercontent.com/-x2KxhVm_F_A/VC2BG_UX-RI/AAAAAAAAGbM/anLY4bqbA88/s467/bandera-de-el-salvador.jpg" group-title="SALVADOR",------SALVADOR-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18345.ts
+#EXTINF:-1 tvg-id="" tvg-name="canal tvo 23" tvg-logo="" group-title="SALVADOR",canal tvo 23
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18331.ts
+#EXTINF:-1 tvg-id="" tvg-name="canal tvx 23" tvg-logo="" group-title="SALVADOR",canal tvx 23
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18329.ts
+#EXTINF:-1 tvg-id="" tvg-name="canal 10" tvg-logo="" group-title="SALVADOR",canal 10
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18330.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 12" tvg-logo="http://archivo.elsalvador.com/noticias/2004/11/17/escenarios/img/canal12.JPG" group-title="SALVADOR",CANAL 12
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17998.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 19" tvg-logo="http://images.mi.tv/channels/sv_canal-19-nacional_m.png" group-title="SALVADOR",CANAL 19
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17999.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 21" tvg-logo="http://images.mi.tv/channels/sv_canal-21-nacional_m.png" group-title="SALVADOR",CANAL 21
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18000.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Salvador | Canal 17" tvg-logo="https://pbs.twimg.com/profile_images/3753439204/fbdddf5235cb50efc6e0e60919d7211b_400x400.jpeg" group-title="SALVADOR",El Salvador | Canal 17
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15165.ts
+#EXTINF:-1 tvg-id="" tvg-name="Latino {} Tribuna TV El Salvador" tvg-logo="http://www.tribunatv.us/wp-content/uploads/2017/07/NUEVO-LOGO.png" group-title="SALVADOR",Latino {} Tribuna TV El Salvador
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15159.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Salvador | TUTV Canal 11" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_05/57294cd1f3da1_Canal11ElSalvador.png.d7409abb14eb000bef7a696f98c3156c.png" group-title="SALVADOR",El Salvador | TUTV Canal 11
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15163.ts
+#EXTINF:-1 tvg-id="" tvg-name="El Salvador | TVES Canal 10" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-10-sv.jpg" group-title="SALVADOR",El Salvador | TVES Canal 10
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15162.ts
+#EXTINF:-1 tvg-id="" tvg-name="-----HONDURAS-----" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/1200px-Flag_of_Honduras.svg.png" group-title="HONDURAS",-----HONDURAS-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18346.ts
+#EXTINF:-1 tvg-id="" tvg-name="HHonduras | Suyapa TV" tvg-logo="http://1.bp.blogspot.com/-6pclIgEpg8U/UizZoy5M-aI/AAAAAAAARrc/pV5Ug2RKFXo/s1600/Screen+Shot+2013-09-08+at+14.09.42.png" group-title="HONDURAS",HHonduras | Suyapa TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15156.ts
+#EXTINF:-1 tvg-id="" tvg-name="Honduras | Abriendo Brechas" tvg-logo="http://assets.abriendobrecha.tv.s3.amazonaws.com/wp-content/uploads/2017/01/LogoFB.jpg" group-title="HONDURAS",Honduras | Abriendo Brechas
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15155.ts
+#EXTINF:-1 tvg-id="" tvg-name="Honduras | HCH HD" tvg-logo="http://images.mi.tv/channels/hn_hch-hable-como-habla_m.png" group-title="HONDURAS",Honduras | HCH HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15151.ts
+#EXTINF:-1 tvg-id="" tvg-name="Honduras | TEN HD" tvg-logo="http://www.tencanal10.tv/wp-content/uploads/2017/05/CovertenLOG2.png" group-title="HONDURAS",Honduras | TEN HD
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15149.ts
+#EXTINF:-1 tvg-id="" tvg-name="[ST]Globo TV Honduras" tvg-logo="" group-title="HONDURAS",[ST]Globo TV Honduras
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15158.ts
