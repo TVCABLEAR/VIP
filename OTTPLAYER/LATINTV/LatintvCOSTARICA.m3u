@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="-----COSTARRICA-----" tvg-logo="http://www.nacionvasca.eus/wp-content/uploads/2017/08/1200px-Flag_of_Costa_Rica_state.svg_.png" group-title="COSTARICA",-----COSTARRICA-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18341.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIME TV" tvg-logo="http://www.imperioanime.com/wp-content/uploads/2011/06/TVavatar.png" group-title="COSTARICA",ANIME TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18004.ts
+#EXTINF:-1 tvg-id="" tvg-name="CDR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Emblema_CDR.svg/1200px-Emblema_CDR.svg.png" group-title="COSTARICA",CDR
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18003.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 6" tvg-logo="http://d1lofqbqbj927c.cloudfront.net/cdr/2016/10/Untitled-1.jpg" group-title="COSTARICA",CANAL 6
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18002.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 11" tvg-logo="http://tv.en.cr/files/2011/10/11-150x150.png" group-title="COSTARICA",CANAL 11
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18001.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 2" tvg-logo="" group-title="COSTARICA",CANAL 2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18320.ts
+#EXTINF:-1 tvg-id="" tvg-name="canal 4" tvg-logo="" group-title="COSTARICA",canal 4
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18318.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Teletica.png" group-title="COSTARICA",CANAL 7
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18319.ts
