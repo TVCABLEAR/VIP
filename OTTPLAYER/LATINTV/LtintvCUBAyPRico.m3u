@@ -1,0 +1,24 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MARTY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg/1200px-Radio_y_Televisi%C3%B3n_Mart%C3%AD.svg.png" group-title="CUBA",MARTY
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18005.ts
+#EXTINF:-1 tvg-id="" tvg-name="------PUERTORRICO-----" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/1200px-Flag_of_Puerto_Rico.svg.png" group-title="PUERTORRICO",------PUERTORRICO-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18344.ts
+#EXTINF:-1 tvg-id="" tvg-name="WIPR TV" tvg-logo="" group-title="PUERTORRICO",WIPR TV
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18697.ts
+#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="https://cdn4.uvnimg.com/19/43/a8903a484770b4b7fcd15c3a827a/desktop-univision-puerto-rico-298x168.jpg" group-title="PUERTORRICO",Univision
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18371.ts
+#EXTINF:-1 tvg-id="" tvg-name="colosal pr" tvg-logo="" group-title="PUERTORRICO",colosal pr
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17991.ts
+#EXTINF:-1 tvg-id="" tvg-name="telemundo pr" tvg-logo="" group-title="PUERTORRICO",telemundo pr
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17993.ts
+#EXTINF:-1 tvg-id="" tvg-name="Wapa 2 Deportes" tvg-logo="http://2.bp.blogspot.com/-DvYBF4D74H0/VAi-DdUuh0I/AAAAAAAAt2Y/JdW6ce7btoM/s1600/WAPA%2B2%2BDeportes.jpg" group-title="PUERTORRICO",Wapa 2 Deportes
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18384.ts
+#EXTINF:-1 tvg-id="" tvg-name="ctni" tvg-logo="" group-title="PUERTORRICO",ctni
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17992.ts
+#EXTINF:-1 tvg-id="" tvg-name="cdm puertorico" tvg-logo="" group-title="PUERTORRICO",cdm puertorico
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/17990.ts
+#EXTINF:-1 tvg-id="" tvg-name="WAPA PUERTO RICO" tvg-logo="http://www.hispanicprblog.com/wp-content/uploads/2011/09/wapa-tv-logo.png" group-title="PUERTORRICO",WAPA PUERTO RICO
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15205.ts
