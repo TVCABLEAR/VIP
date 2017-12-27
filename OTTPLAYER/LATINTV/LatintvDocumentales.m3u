@@ -1,0 +1,38 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="-----DOCUMENTALES-----" tvg-logo="https://voiceacademy.com.ve/wp-content/uploads/2017/05/docu.jpg" group-title="DOCUMENTALES",-----DOCUMENTALES-----
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/18356.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="AnimalPlanet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1200px-Animal_Planet_logo.svg.png" group-title="DOCUMENTALES",AnimalPlanet
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15024.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="http://www.pandaancha.mx/plds/articulos/froala/Discovery_Civilization_2011-2359x441-773804982.png" group-title="DOCUMENTALES",Discovery Civilization
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15016.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-name="DiscoveryChannel" tvg-logo="http://expedite-consulting.com/wp-content/uploads/2016/05/discovery-channel-1024x768.png" group-title="DOCUMENTALES",DiscoveryChannel
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15023.ts
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="Discovery Home&He" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png" group-title="DOCUMENTALES",Discovery Home&He
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15022.ts
+#EXTINF:-1 tvg-id="" tvg-name="DiscoveryScience" tvg-logo="http://images.mi.tv/channels/ar_discovery-science_m.png" group-title="DOCUMENTALES",DiscoveryScience
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15021.ts
+#EXTINF:-1 tvg-id="DiscoveryTheater.mx" tvg-name="Discovery Theater" tvg-logo="http://images.mi.tv/channels/ar_discovery-hd-theater_m.png" group-title="DOCUMENTALES",Discovery Theater
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15020.ts
+#EXTINF:-1 tvg-id="TLC.mx" tvg-name="DiscoveryTlc" tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/gallery_1163_2_8417.png" group-title="DOCUMENTALES",DiscoveryTlc
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15019.ts
+#EXTINF:-1 tvg-id="" tvg-name="DiscoveryTurbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTALES",DiscoveryTurbo
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15018.ts
+#EXTINF:-1 tvg-id="DiscoveryWorld.mx" tvg-name="Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="DOCUMENTALES",Discovery World
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15017.ts
+#EXTINF:-1 tvg-id="HistoryChannel.mx" tvg-name="History" tvg-logo="" group-title="DOCUMENTALES",History
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15015.ts
+#EXTINF:-1 tvg-id="" tvg-name=",H2" tvg-logo="" group-title="DOCUMENTALES",,H2
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/3459.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery.mx" tvg-name="InvestigationDiscovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="DOCUMENTALES",InvestigationDiscovery
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15014.ts
+#EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="Natgeo" tvg-logo="http://www.hollywoodreporter.com/sites/default/files/2011/12/national_geographic_logo_a_h.jpg" group-title="DOCUMENTALES",Natgeo
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15013.ts
+#EXTINF:-1 tvg-id="NatGeoWild.mx" tvg-name="NatGeoWild" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" group-title="DOCUMENTALES",NatGeoWild
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15012.ts
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RT Documentales" tvg-logo="https://yt3.ggpht.com/-1RjtzpOiHT4/AAAAAAAAAAI/AAAAAAAAAAA/WU2EQtQvQvs/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="DOCUMENTALES",RT Documentales
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15010.ts
+#EXTINF:-1 tvg-id="truTV.mx" tvg-name="Tru Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="DOCUMENTALES",Tru Tv
+http://tv.latintvweb.com:8000/live/LATINTVHD/Navidad/15011.ts
