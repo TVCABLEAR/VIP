@@ -1,0 +1,3 @@
+CDO Premium, http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+COS FCSPORT, http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+LaEstrellas, http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
