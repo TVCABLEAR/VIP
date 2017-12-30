@@ -1,0 +1,718 @@
+#EXTM3U
+
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="A&E TEST" tvg-logo="" group-title="Otros Enlaces",A&E TEST
+http://192.95.33.104:25461/live/roku/wanherchannels/2409.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="A&E TEST P3" tvg-logo="" group-title="",A&E TEST P3
+http://192.95.33.104:25461/live/roku/wanherchannels/2424.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Los Simpson 24/7 Opc. 2" tvg-logo="" group-title="Otros Enlaces",Los Simpson 24/7 Opc. 2
+http://192.95.33.104:25461/live/roku/wanherchannels/961.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="AMC" tvg-name="Amc" tvg-logo="" group-title="Proveedor Principal",Amc
+http://192.95.33.104:25461/live/roku/wanherchannels/11.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="" group-title="Proveedor Principal",Animal Planet
+http://192.95.33.104:25461/live/roku/wanherchannels/31.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="AnimeTV" tvg-logo="" group-title="Otros Enlaces",AnimeTV
+http://192.95.33.104:25461/live/roku/wanherchannels/470.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="AXN" tvg-name="Axn" tvg-logo="" group-title="Proveedor Principal",Axn
+http://192.95.33.104:25461/live/roku/wanherchannels/74.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="AyM Sports" tvg-name="AymSports" tvg-logo="" group-title="Proveedor Principal",AymSports
+http://192.95.33.104:25461/live/roku/wanherchannels/174.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Az Clic" tvg-name="AzClic" tvg-logo="" group-title="Proveedor Principal",AzClic
+http://192.95.33.104:25461/live/roku/wanherchannels/167.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Az Mundo" tvg-name="AzMundo" tvg-logo="" group-title="Proveedor Principal",AzMundo
+http://192.95.33.104:25461/live/roku/wanherchannels/51.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Azteca 7" tvg-name="Azteca 7" tvg-logo="" group-title="Proveedor Principal",Azteca 7
+http://192.95.33.104:25461/live/roku/wanherchannels/160.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Canal 5" tvg-name="Canal 5" tvg-logo="" group-title="Proveedor Principal",Canal 5
+http://192.95.33.104:25461/live/roku/wanherchannels/162.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Canal Once" tvg-logo="" group-title="Proveedor Principal",Canal Once
+http://192.95.33.104:25461/live/roku/wanherchannels/158.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DHE" tvg-logo="" group-title="Proveedor Principal",DHE
+http://192.95.33.104:25461/live/roku/wanherchannels/65.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Bandamax" tvg-logo="" group-title="Proveedor Principal",Bandamax
+http://192.95.33.104:25461/live/roku/wanherchannels/153.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="AzCinema" tvg-logo="" group-title="Proveedor Principal",AzCinema
+http://192.95.33.104:25461/live/roku/wanherchannels/17.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Cinemax (O)" tvg-name="CineMax" tvg-logo="" group-title="Proveedor Principal",CineMax
+http://192.95.33.104:25461/live/roku/wanherchannels/8.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Cinecanal (W)" tvg-name="CineCanal" tvg-logo="" group-title="Proveedor Principal",CineCanal
+http://192.95.33.104:25461/live/roku/wanherchannels/16.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Cinecanal HD" tvg-name="Cinecanal+" tvg-logo="" group-title="Proveedor Principal",Cinecanal+
+http://192.95.33.104:25461/live/roku/wanherchannels/9.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Cartoon Network" tvg-name="CartoonNetwork" tvg-logo="" group-title="Proveedor Principal",CartoonNetwork
+http://192.95.33.104:25461/live/roku/wanherchannels/41.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Az Corazón" tvg-name="AzCorazon" tvg-logo="" group-title="Proveedor Principal",AzCorazon
+http://192.95.33.104:25461/live/roku/wanherchannels/67.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Home and Health" tvg-name="Discovery Home & Healt" tvg-logo="" group-title="Proveedor Principal",Discovery Home & Healt
+http://192.95.33.104:25461/live/roku/wanherchannels/30.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="" group-title="Proveedor Principal",Discovery Turbo
+http://192.95.33.104:25461/live/roku/wanherchannels/25.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="" group-title="Proveedor Principal",Discovery Science
+http://192.95.33.104:25461/live/roku/wanherchannels/27.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="De Película" tvg-name="DePelicula" tvg-logo="" group-title="Proveedor Principal",DePelicula
+http://192.95.33.104:25461/live/roku/wanherchannels/12.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="El Trece" tvg-name="Azteca 13" tvg-logo="" group-title="Proveedor Principal",Azteca 13
+http://192.95.33.104:25461/live/roku/wanherchannels/157.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="" group-title="Proveedor Principal",Distrito Comedia
+http://192.95.33.104:25461/live/roku/wanherchannels/54.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="" group-title="Proveedor Principal",Disney XD
+http://192.95.33.104:25461/live/roku/wanherchannels/40.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Djing: Electronic" tvg-logo="" group-title="Otros Enlaces",Djing: Electronic
+http://192.95.33.104:25461/live/roku/wanherchannels/493.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="" group-title="Proveedor Principal",Disney Jr
+http://192.95.33.104:25461/live/roku/wanherchannels/47.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Djing: Animation" tvg-logo="" group-title="Otros Enlaces",Djing: Animation
+http://192.95.33.104:25461/live/roku/wanherchannels/494.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="" group-title="Proveedor Principal",Disney Channel
+http://192.95.33.104:25461/live/roku/wanherchannels/45.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="" group-title="Proveedor Principal",Discovery Civilization
+http://192.95.33.104:25461/live/roku/wanherchannels/26.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Discovery World HD" tvg-name="Discovery World" tvg-logo="" group-title="Proveedor Principal",Discovery World
+http://192.95.33.104:25461/live/roku/wanherchannels/33.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="" group-title="Proveedor Principal",Boomerang
+http://192.95.33.104:25461/live/roku/wanherchannels/39.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Djing: Summer Vibes" tvg-logo="" group-title="Otros Enlaces",Djing: Summer Vibes
+http://192.95.33.104:25461/live/roku/wanherchannels/497.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Djing: Underground" tvg-logo="" group-title="Otros Enlaces",Djing: Underground
+http://192.95.33.104:25461/live/roku/wanherchannels/496.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="E! Entertainment Television" tvg-name="E! Entertainment" tvg-logo="" group-title="Proveedor Principal",E! Entertainment
+http://192.95.33.104:25461/live/roku/wanherchannels/64.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="El Financiero" tvg-logo="" group-title="Proveedor Principal",El Financiero
+http://192.95.33.104:25461/live/roku/wanherchannels/172.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="ESPN" tvg-name="Espn" tvg-logo="" group-title="Proveedor Principal",Espn
+http://192.95.33.104:25461/live/roku/wanherchannels/176.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="Proveedor Principal",El Gourmet
+http://192.95.33.104:25461/live/roku/wanherchannels/58.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Djing: Hot hot hot" tvg-logo="" group-title="Otros Enlaces",Djing: Hot hot hot
+http://192.95.33.104:25461/live/roku/wanherchannels/495.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Baby First" tvg-logo="" group-title="Proveedor Principal",Baby First
+http://192.95.33.104:25461/live/roku/wanherchannels/48.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="ESPN 3" tvg-name="Espn 3" tvg-logo="" group-title="Proveedor Principal",Espn 3
+http://192.95.33.104:25461/live/roku/wanherchannels/180.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="ESPN +" tvg-name="EspnPlus" tvg-logo="" group-title="Proveedor Principal",EspnPlus
+http://192.95.33.104:25461/live/roku/wanherchannels/181.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Formula 1" tvg-logo="" group-title="Proveedor Principal",Formula 1
+http://192.95.33.104:25461/live/roku/wanherchannels/182.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Imagen Televisión" tvg-name="Imagen TV" tvg-logo="" group-title="Proveedor Principal",Imagen TV
+http://192.95.33.104:25461/live/roku/wanherchannels/69.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="FX" tvg-name="FX" tvg-logo="" group-title="Proveedor Principal",FX
+http://192.95.33.104:25461/live/roku/wanherchannels/61.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="ESPN 2" tvg-name="Espn 2" tvg-logo="" group-title="Proveedor Principal",Espn 2
+http://192.95.33.104:25461/live/roku/wanherchannels/175.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="" group-title="Proveedor Principal",Comedy Central
+http://192.95.33.104:25461/live/roku/wanherchannels/72.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Foro TV" tvg-name="Foro TV" tvg-logo="" group-title="Proveedor Principal",Foro TV
+http://192.95.33.104:25461/live/roku/wanherchannels/161.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Fox" tvg-name="Fox" tvg-logo="" group-title="Proveedor Principal",Fox
+http://192.95.33.104:25461/live/roku/wanherchannels/79.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Fox Sports 3" tvg-logo="" group-title="Proveedor Principal",Fox Sports 3
+http://192.95.33.104:25461/live/roku/wanherchannels/22.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FilmZone" tvg-logo="" group-title="Proveedor Principal",FilmZone
+http://192.95.33.104:25461/live/roku/wanherchannels/13.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="" group-title="Proveedor Principal",Discovery Channel
+http://192.95.33.104:25461/live/roku/wanherchannels/32.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Fox Cinéma" tvg-name="FoxCinema" tvg-logo="" group-title="Proveedor Principal",FoxCinema
+http://192.95.33.104:25461/live/roku/wanherchannels/19.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Televisa MTY" tvg-logo="" group-title="Proveedor Principal",Televisa MTY
+http://192.95.33.104:25461/live/roku/wanherchannels/956.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Fox Classics" tvg-name="Fox Classics" tvg-logo="" group-title="Proveedor Principal",Fox Classics
+http://192.95.33.104:25461/live/roku/wanherchannels/18.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Fox Action (E)" tvg-name="Fox Action" tvg-logo="" group-title="Proveedor Principal",Fox Action
+http://192.95.33.104:25461/live/roku/wanherchannels/21.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="" group-title="Proveedor Principal",Discovery Kids
+http://192.95.33.104:25461/live/roku/wanherchannels/49.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="" group-title="Proveedor Principal",Fox Life
+http://192.95.33.104:25461/live/roku/wanherchannels/55.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Fox" tvg-name="Fox HD" tvg-logo="" group-title="Proveedor Principal",Fox HD
+http://192.95.33.104:25461/live/roku/wanherchannels/66.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Discovery Theater HD" tvg-name="Discovery Theater" tvg-logo="" group-title="Proveedor Principal",Discovery Theater
+http://192.95.33.104:25461/live/roku/wanherchannels/36.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Fox Movies" tvg-name="Fox Movies" tvg-logo="" group-title="Proveedor Principal",Fox Movies
+http://192.95.33.104:25461/live/roku/wanherchannels/20.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TLC" tvg-name="Discovery TLC" tvg-logo="" group-title="Proveedor Principal",Discovery TLC
+http://192.95.33.104:25461/live/roku/wanherchannels/24.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="A&E" tvg-name="A&E" tvg-logo="" group-title="Proveedor Principal",A&E
+http://192.95.33.104:25461/live/roku/wanherchannels/75.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="" group-title="Proveedor Principal",Warner Channel
+http://192.95.33.104:25461/live/roku/wanherchannels/77.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Vh1 Classics" tvg-logo="" group-title="Proveedor Principal",Vh1 Classics
+http://192.95.33.104:25461/live/roku/wanherchannels/155.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Gala tv" tvg-name="GalaTV" tvg-logo="" group-title="Proveedor Principal",GalaTV
+http://192.95.33.104:25461/live/roku/wanherchannels/159.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Garage TV" tvg-logo="" group-title="Proveedor Principal",Garage TV
+http://192.95.33.104:25461/live/roku/wanherchannels/57.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Glitz" tvg-name="Glitz" tvg-logo="" group-title="Proveedor Principal",Glitz
+http://192.95.33.104:25461/live/roku/wanherchannels/56.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Golden Edge" tvg-name="GoldenEdge" tvg-logo="" group-title="Proveedor Principal",GoldenEdge
+http://192.95.33.104:25461/live/roku/wanherchannels/7.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Golden" tvg-name="Golden" tvg-logo="" group-title="Proveedor Principal",Golden
+http://192.95.33.104:25461/live/roku/wanherchannels/14.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="History Channel" tvg-name="History" tvg-logo="" group-title="Proveedor Principal",History
+http://192.95.33.104:25461/live/roku/wanherchannels/35.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Hmx" tvg-logo="" group-title="Proveedor Principal",Hmx
+http://192.95.33.104:25461/live/roku/wanherchannels/80.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Hola TV" tvg-logo="" group-title="Proveedor Principal",Hola TV
+http://192.95.33.104:25461/live/roku/wanherchannels/70.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="I.Sat" tvg-name="iSat" tvg-logo="" group-title="Proveedor Principal",iSat
+http://192.95.33.104:25461/live/roku/wanherchannels/184.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Investigación Discovery" tvg-name="Investigation Discovery" tvg-logo="" group-title="Proveedor Principal",Investigation Discovery
+http://192.95.33.104:25461/live/roku/wanherchannels/60.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Canal 2" tvg-name="Las Estrellas" tvg-logo="" group-title="Proveedor Principal",Las Estrellas
+http://192.95.33.104:25461/live/roku/wanherchannels/163.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Canal 2 HD" tvg-name="Las Estrellas HD" tvg-logo="" group-title="Otros Enlaces",Las Estrellas HD
+http://192.95.33.104:25461/live/roku/wanherchannels/449.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Las Estrellas -2" tvg-logo="" group-title="Otros Enlaces",Las Estrellas -2
+http://192.95.33.104:25461/live/roku/wanherchannels/450.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="" group-title="Proveedor Principal",Lifetime
+http://192.95.33.104:25461/live/roku/wanherchannels/28.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Más chic" tvg-name="MasChic" tvg-logo="" group-title="Proveedor Principal",MasChic
+http://192.95.33.104:25461/live/roku/wanherchannels/68.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Milenio TV" tvg-logo="" group-title="Proveedor Principal",Milenio TV
+http://192.95.33.104:25461/live/roku/wanherchannels/173.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Mtv" tvg-logo="" group-title="Proveedor Principal",Mtv
+http://192.95.33.104:25461/live/roku/wanherchannels/166.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Mtv Hits" tvg-logo="" group-title="Proveedor Principal",Mtv Hits
+http://192.95.33.104:25461/live/roku/wanherchannels/165.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Mtv Live" tvg-logo="" group-title="Proveedor Principal",Mtv Live
+http://192.95.33.104:25461/live/roku/wanherchannels/170.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Multimedios Monterrey" tvg-name="Multimedios" tvg-logo="" group-title="Proveedor Principal",Multimedios
+http://192.95.33.104:25461/live/roku/wanherchannels/81.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Multimedios Monterrey" tvg-name="Multimedios HD" tvg-logo="" group-title="Otros Enlaces",Multimedios HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="NatGeo" tvg-name="Natgeo" tvg-logo="" group-title="Proveedor Principal",Natgeo
+http://192.95.33.104:25461/live/roku/wanherchannels/29.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="" group-title="Proveedor Principal",NatGeo Wild
+http://192.95.33.104:25461/live/roku/wanherchannels/34.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Nick HD" tvg-name="Nick" tvg-logo="" group-title="Proveedor Principal",Nick
+http://192.95.33.104:25461/live/roku/wanherchannels/43.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Nickelodeon (Nick)" tvg-name="Nickelodeon" tvg-logo="" group-title="Proveedor Principal",Nickelodeon
+http://192.95.33.104:25461/live/roku/wanherchannels/42.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="" group-title="Proveedor Principal",Nick Jr
+http://192.95.33.104:25461/live/roku/wanherchannels/46.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Nicktoons" tvg-name="NickToons" tvg-logo="" group-title="Proveedor Principal",NickToons
+http://192.95.33.104:25461/live/roku/wanherchannels/44.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Proyecto 40" tvg-logo="" group-title="Proveedor Principal",Proyecto 40
+http://192.95.33.104:25461/live/roku/wanherchannels/156.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="PxTv" tvg-logo="" group-title="Proveedor Principal",PxTv
+http://192.95.33.104:25461/live/roku/wanherchannels/177.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Ritmoson" tvg-logo="" group-title="Proveedor Principal",Ritmoson
+http://192.95.33.104:25461/live/roku/wanherchannels/154.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Sony" tvg-name="Sony" tvg-logo="" group-title="Proveedor Principal",Sony
+http://192.95.33.104:25461/live/roku/wanherchannels/78.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Space" tvg-name="Space" tvg-logo="" group-title="Proveedor Principal",Space
+http://192.95.33.104:25461/live/roku/wanherchannels/10.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="" group-title="Proveedor Principal",Studio Universal
+http://192.95.33.104:25461/live/roku/wanherchannels/4.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="SyFy" tvg-name="Syfy" tvg-logo="" group-title="Proveedor Principal",Syfy
+http://192.95.33.104:25461/live/roku/wanherchannels/62.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TBS" tvg-name="TBS" tvg-logo="" group-title="Proveedor Principal",TBS
+http://192.95.33.104:25461/live/roku/wanherchannels/53.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TCM" tvg-name="Tcm" tvg-logo="" group-title="Proveedor Principal",Tcm
+http://192.95.33.104:25461/live/roku/wanherchannels/183.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TeleFormula" tvg-logo="" group-title="Proveedor Principal",TeleFormula
+http://192.95.33.104:25461/live/roku/wanherchannels/82.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Telehit" tvg-logo="" group-title="Proveedor Principal",Telehit
+http://192.95.33.104:25461/live/roku/wanherchannels/168.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Telemundo" tvg-name="Telemundo HD" tvg-logo="" group-title="Otros Enlaces",Telemundo HD
+http://192.95.33.104:25461/live/roku/wanherchannels/452.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Telemundo" tvg-name="Telemundo I" tvg-logo="" group-title="Otros Enlaces",Telemundo I
+http://192.95.33.104:25461/live/roku/wanherchannels/453.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TIIN" tvg-name="Tiin" tvg-logo="" group-title="Proveedor Principal",Tiin
+http://192.95.33.104:25461/live/roku/wanherchannels/38.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Tlnovelas" tvg-name="Tlnovelas" tvg-logo="" group-title="Proveedor Principal",Tlnovelas
+http://192.95.33.104:25461/live/roku/wanherchannels/52.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TNT" tvg-name="TNT" tvg-logo="" group-title="Proveedor Principal",TNT
+http://192.95.33.104:25461/live/roku/wanherchannels/15.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="" group-title="Proveedor Principal",TNT Series
+http://192.95.33.104:25461/live/roku/wanherchannels/59.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TorosTV" tvg-logo="" group-title="Otros Enlaces",TorosTV
+http://192.95.33.104:25461/live/roku/wanherchannels/459.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="" group-title="Proveedor Principal",Tooncast
+http://192.95.33.104:25461/live/roku/wanherchannels/37.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="NatGeo Kids" tvg-logo="" group-title="Proveedor Principal",NatGeo Kids
+http://192.95.33.104:25461/live/roku/wanherchannels/50.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TruTV" tvg-name="TruTV" tvg-logo="" group-title="Proveedor Principal",TruTV
+http://192.95.33.104:25461/live/roku/wanherchannels/73.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Tve" tvg-logo="" group-title="Proveedor Principal",Tve
+http://192.95.33.104:25461/live/roku/wanherchannels/171.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Unicable" tvg-name="Unicable" tvg-logo="" group-title="Proveedor Principal",Unicable
+http://192.95.33.104:25461/live/roku/wanherchannels/71.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Universal Channel" tvg-name="Universal" tvg-logo="" group-title="Proveedor Principal",Universal
+http://192.95.33.104:25461/live/roku/wanherchannels/76.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Universal Channel" tvg-name="Universal2" tvg-logo="" group-title="Proveedor Principal",Universal2
+http://192.95.33.104:25461/live/roku/wanherchannels/63.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Fox Series" tvg-logo="" group-title="Proveedor Principal",Fox Series
+http://192.95.33.104:25461/live/roku/wanherchannels/492.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Univisión HD" tvg-logo="" group-title="Proveedor Principal",Univisión HD
+http://192.95.33.104:25461/live/roku/wanherchannels/451.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Univisión TDN" tvg-name="Univisión TDN SD" tvg-logo="" group-title="Otros Enlaces",Univisión TDN SD
+http://192.95.33.104:25461/live/roku/wanherchannels/458.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Univisión TDN" tvg-name="Univisión TDN HD" tvg-logo="" group-title="Otros Enlaces",Univisión TDN HD
+http://192.95.33.104:25461/live/roku/wanherchannels/455.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Vh1" tvg-logo="" group-title="Proveedor Principal",Vh1
+http://192.95.33.104:25461/live/roku/wanherchannels/169.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Wobi" tvg-logo="" group-title="Proveedor Principal",Wobi
+http://192.95.33.104:25461/live/roku/wanherchannels/23.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="" group-title="Proveedor Principal",Fox Sports 2
+http://192.95.33.104:25461/live/roku/wanherchannels/178.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="" group-title="Proveedor Principal",Fox Sports
+http://192.95.33.104:25461/live/roku/wanherchannels/179.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Fight Network (UFC)" tvg-logo="" group-title="Proveedor Principal",Fight Network (UFC)
+http://192.95.33.104:25461/live/roku/wanherchannels/957.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="La Sexta" tvg-logo="" group-title="Proveedor Principal",La Sexta
+http://192.95.33.104:25461/live/roku/wanherchannels/958.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Real Madrid TV" tvg-logo="" group-title="Proveedor Principal",Real Madrid TV
+http://192.95.33.104:25461/live/roku/wanherchannels/960.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Mega HD" tvg-logo="" group-title="Proveedor Principal",Mega HD
+http://192.95.33.104:25461/live/roku/wanherchannels/959.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="A Plus" tvg-logo="" group-title="Proveedor Principal",A Plus
+http://192.95.33.104:25461/live/roku/wanherchannels/1588.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="A3 Series" tvg-logo="" group-title="Proveedor Principal",A3 Series
+http://192.95.33.104:25461/live/roku/wanherchannels/1587.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Azteca internacional" tvg-logo="" group-title="Proveedor Principal",Azteca internacional
+http://192.95.33.104:25461/live/roku/wanherchannels/1586.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Food Network" tvg-logo="" group-title="Proveedor Principal",Food Network
+http://192.95.33.104:25461/live/roku/wanherchannels/1575.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="HAVOC" tvg-logo="" group-title="Proveedor Principal",HAVOC
+http://192.95.33.104:25461/live/roku/wanherchannels/1577.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Mexiquense" tvg-logo="" group-title="Proveedor Principal",Mexiquense
+http://192.95.33.104:25461/live/roku/wanherchannels/1576.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Nickelodeon (Nick)" tvg-name="Nick 2" tvg-logo="" group-title="Proveedor Principal",Nick 2
+http://192.95.33.104:25461/live/roku/wanherchannels/1583.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Ocho TV" tvg-logo="" group-title="Proveedor Principal",Ocho TV
+http://192.95.33.104:25461/live/roku/wanherchannels/1582.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Paramount Channel" tvg-name="Paramount" tvg-logo="" group-title="Proveedor Principal",Paramount
+http://192.95.33.104:25461/live/roku/wanherchannels/1581.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="RT Documentales" tvg-logo="" group-title="Proveedor Principal",RT Documentales
+http://192.95.33.104:25461/live/roku/wanherchannels/1580.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="Sundance" tvg-logo="" group-title="Proveedor Principal",Sundance
+http://192.95.33.104:25461/live/roku/wanherchannels/1579.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="SuresTV" tvg-logo="" group-title="Proveedor Principal",SuresTV
+http://192.95.33.104:25461/live/roku/wanherchannels/1578.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TVC" tvg-logo="" group-title="Proveedor Principal",TVC
+http://192.95.33.104:25461/live/roku/wanherchannels/1585.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TVC Deportes" tvg-name="TVC Deportes" tvg-logo="" group-title="Proveedor Principal",TVC Deportes
+http://192.95.33.104:25461/live/roku/wanherchannels/1584.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="=========SERVIDOR 2 I$==========" tvg-logo="" group-title="Categorias",=========SERVIDOR 2 I$==========
+http://1.1.1.1
+#EXTINF:-1 audio-track="por,eng" tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="" group-title="I$$I",A&E HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2264.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="" group-title="I$$I",AMC HD
+http://192.95.33.104:25461/live/roku/wanherchannels/1001.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="ATRES SERIES HD" tvg-logo="" group-title="I$$I",ATRES SERIES HD
+http://192.95.33.104:25461/live/roku/wanherchannels/1000.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="" group-title="I$$I",AXN HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2263.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Azteca 7 HD" tvg-name="AZTECA 7 HD" tvg-logo="" group-title="I$$I",AZTECA 7 HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2248.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Cinemax (O)" tvg-name="CINEMAX HD" tvg-logo="" group-title="I$$I",CINEMAX HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2252.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Canal 5 HD" tvg-name="CANAL 5 HD (LOCAL)" tvg-logo="" group-title="I$$I",CANAL 5 HD (LOCAL)
+http://192.95.33.104:25461/live/roku/wanherchannels/1003.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Canal 5 HD" tvg-name="CANAL 5 HD (NACIONAL)" tvg-logo="" group-title="I$$I",CANAL 5 HD (NACIONAL)
+http://192.95.33.104:25461/live/roku/wanherchannels/2247.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Boomerang" tvg-name="BOOMERANG SD" tvg-logo="" group-title="I$$I",BOOMERANG SD
+http://192.95.33.104:25461/live/roku/wanherchannels/2256.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="BANDAMAX SD" tvg-logo="" group-title="I$$I",BANDAMAX SD
+http://192.95.33.104:25461/live/roku/wanherchannels/978.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="AL JAZEERA SD" tvg-logo="" group-title="I$$I",AL JAZEERA SD
+http://192.95.33.104:25461/live/roku/wanherchannels/1002.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="" group-title="I$$I",COMEDY CENTRAL HD
+http://192.95.33.104:25461/live/roku/wanherchannels/977.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="De Película HD" tvg-name="DE PELICULA HD" tvg-logo="" group-title="I$$I",DE PELICULA HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2236.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Distrito Comedia" tvg-name="DISTRITO COMEDIA SD" tvg-logo="" group-title="I$$I",DISTRITO COMEDIA SD
+http://192.95.33.104:25461/live/roku/wanherchannels/2260.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CNN INTERNACIONAL HD" tvg-logo="" group-title="I$$I",CNN INTERNACIONAL HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2246.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CNN ESP SD" tvg-logo="" group-title="I$$I",CNN ESP SD
+http://192.95.33.104:25461/live/roku/wanherchannels/2250.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="EL GOURMET HD" tvg-logo="" group-title="I$$I",EL GOURMET HD
+http://192.95.33.104:25461/live/roku/wanherchannels/999.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CANAL F1 LATAM HD" tvg-logo="" group-title="I$$I",CANAL F1 LATAM HD
+http://192.95.33.104:25461/live/roku/wanherchannels/979.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Canal 2" tvg-name="ESTRELLAS SD" tvg-logo="" group-title="I$$I",ESTRELLAS SD
+http://192.95.33.104:25461/live/roku/wanherchannels/976.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="ESPN HD" tvg-name="ESPN HD" tvg-logo="" group-title="I$$I",ESPN HD
+http://192.95.33.104:25461/live/roku/wanherchannels/998.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Foro TV HD" tvg-name="FORO TV HD" tvg-logo="" group-title="I$$I",FORO TV HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2249.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FUSION HD" tvg-logo="" group-title="I$$I",FUSION HD
+http://192.95.33.104:25461/live/roku/wanherchannels/975.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Gala tv" tvg-name="GALATV SD" tvg-logo="" group-title="I$$I",GALATV SD
+http://192.95.33.104:25461/live/roku/wanherchannels/974.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="History HD" tvg-name="HISTORY HD" tvg-logo="" group-title="I$$I",HISTORY HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2242.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="" group-title="I$$I",ESPN 2 HD
+http://192.95.33.104:25461/live/roku/wanherchannels/997.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="H2" tvg-name="H2 SD" tvg-logo="" group-title="I$$I",H2 SD
+http://192.95.33.104:25461/live/roku/wanherchannels/2254.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="El trece HD" tvg-name="EL TRECE HD" tvg-logo="" group-title="I$$I",EL TRECE HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2245.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD" tvg-logo="" group-title="I$$I",CARTOON NETWORK HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2255.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="I.Sat" tvg-name="ISAT SD" tvg-logo="" group-title="I$$I",ISAT SD
+http://192.95.33.104:25461/live/roku/wanherchannels/2259.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="HOLA TV HD" tvg-logo="" group-title="I$$I",HOLA TV HD
+http://192.95.33.104:25461/live/roku/wanherchannels/973.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Golden HD" tvg-name="GOLDEN HD" tvg-logo="" group-title="I$$I",GOLDEN HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2237.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="NatGeo Wild HD" tvg-name="NAT GEO WILD HD" tvg-logo="" group-title="I$$I",NAT GEO WILD HD
+http://192.95.33.104:25461/live/roku/wanherchannels/991.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="NatGeo" tvg-name="NAT GEO HD" tvg-logo="" group-title="I$$I",NAT GEO HD
+http://192.95.33.104:25461/live/roku/wanherchannels/992.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="MTV" tvg-name="MTV HD" tvg-logo="" group-title="I$$I",MTV HD
+http://192.95.33.104:25461/live/roku/wanherchannels/994.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="MILENIO HD" tvg-logo="" group-title="I$$I",MILENIO HD
+http://192.95.33.104:25461/live/roku/wanherchannels/995.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="NBA TV HD" tvg-logo="" group-title="I$$I",NBA TV HD
+http://192.95.33.104:25461/live/roku/wanherchannels/990.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Nick HD" tvg-name="NICK HD" tvg-logo="" group-title="I$$I",NICK HD
+http://192.95.33.104:25461/live/roku/wanherchannels/989.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Nick Jr" tvg-name="NICK JR HD" tvg-logo="" group-title="I$$I",NICK JR HD
+http://192.95.33.104:25461/live/roku/wanherchannels/988.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Nick HD" tvg-name="NICK 2 HD" tvg-logo="" group-title="I$$I",NICK 2 HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2243.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Lifetime" tvg-name="LIFETIME SD" tvg-logo="" group-title="I$$I",LIFETIME SD
+http://192.95.33.104:25461/live/roku/wanherchannels/2253.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="ESPN 3 HD" tvg-name="ESPN 3 HD" tvg-logo="" group-title="I$$I",ESPN 3 HD
+http://192.95.33.104:25461/live/roku/wanherchannels/996.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Sony HD" tvg-name="SONY HD" tvg-logo="" group-title="I$$I",SONY HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2240.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Space HD" tvg-name="SPACE HD" tvg-logo="" group-title="I$$I",SPACE HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2239.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TBS" tvg-name="TBS SD" tvg-logo="" group-title="I$$I",TBS SD
+http://192.95.33.104:25461/live/roku/wanherchannels/2258.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TCM" tvg-name="TCM SD" tvg-logo="" group-title="I$$I",TCM SD
+http://192.95.33.104:25461/live/roku/wanherchannels/2251.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="RITMOSON SD" tvg-logo="" group-title="I$$I",RITMOSON SD
+http://192.95.33.104:25461/live/roku/wanherchannels/986.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Tlnovelas" tvg-name="TL NOVELAS SD" tvg-logo="" group-title="I$$I",TL NOVELAS SD
+http://192.95.33.104:25461/live/roku/wanherchannels/2262.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="SUNDANCE CHANNEL HD" tvg-logo="" group-title="I$$I",SUNDANCE CHANNEL HD
+http://192.95.33.104:25461/live/roku/wanherchannels/980.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TDN HD" tvg-name="TDN HD" tvg-logo="" group-title="I$$I",TDN HD
+http://192.95.33.104:25461/live/roku/wanherchannels/985.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TELEHIT HD" tvg-logo="" group-title="I$$I",TELEHIT HD
+http://192.95.33.104:25461/live/roku/wanherchannels/984.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TIIN" tvg-name="TIIN SD" tvg-logo="" group-title="I$$I",TIIN SD
+http://192.95.33.104:25461/live/roku/wanherchannels/983.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Paramount Channel" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="" group-title="I$$I",PARAMOUNT CHANNEL HD
+http://192.95.33.104:25461/live/roku/wanherchannels/987.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="E! Entertainment Television" tvg-name="E! HD" tvg-logo="" group-title="I$$I",E! HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2261.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Unicable HD" tvg-name="UNICABLE HD" tvg-logo="" group-title="I$$I",UNICABLE HD
+http://192.95.33.104:25461/live/roku/wanherchannels/982.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TNT Series" tvg-name="TNT SERIES SD" tvg-logo="" group-title="I$$I",TNT SERIES SD
+http://192.95.33.104:25461/live/roku/wanherchannels/2257.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TruTV HD" tvg-name="TRUTV HD" tvg-logo="" group-title="I$$I",TRUTV HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2238.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="I$$I",VH1 HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2244.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="" group-title="I$$I",TNT HD
+http://192.95.33.104:25461/live/roku/wanherchannels/981.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="" group-title="I$$I",MTV LIVE HD
+http://192.95.33.104:25461/live/roku/wanherchannels/993.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Warner HD" tvg-name="WARNER HD" tvg-logo="" group-title="I$$I",WARNER HD
+http://192.95.33.104:25461/live/roku/wanherchannels/2241.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="Univisión TDN" tvg-name="UNIVISIÓN TDN SD 2" tvg-logo="" group-title="I$$I",UNIVISIÓN TDN SD 2
+http://192.95.33.104:25461/live/roku/wanherchannels/1004.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="=========SERVIDOR 3 BC==========" tvg-logo="" group-title="Categorias",=========SERVIDOR 3 BC==========
+http://192.95.33.104:25461/live/roku/wanherchannels/2398.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="A&E HD *" tvg-logo="" group-title="BC-S3",A&E HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2368.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="ALJAZEERA SD *" tvg-logo="" group-title="BC-S3",ALJAZEERA SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2382.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="AMC HD *" tvg-logo="" group-title="BC-S3",AMC HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2369.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="ANIMAL PLANET HD *" tvg-logo="" group-title="BC-S3",ANIMAL PLANET HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2370.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="ANTENA3 SD *" tvg-logo="" group-title="BC-S3",ANTENA3 SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2397.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="AXN HD *" tvg-logo="" group-title="BC-S3",AXN HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2367.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="AZCORAZON HD *" tvg-logo="" group-title="BC-S3",AZCORAZON HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2366.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="AZMUNDO HD *" tvg-logo="" group-title="BC-S3",AZMUNDO HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2365.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="BABYTV SD *" tvg-logo="" group-title="BC-S3",BABYTV SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2315.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="BBC WORLD SD *" tvg-logo="" group-title="BC-S3",BBC WORLD SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2303.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="BLOOMBERG SD *" tvg-logo="" group-title="BC-S3",BLOOMBERG SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2386.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="BOOMERANG HD *" tvg-logo="" group-title="BC-S3",BOOMERANG HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2313.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="BOOMERANG SD *" tvg-logo="" group-title="BC-S3",BOOMERANG SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2314.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CARACOL HD *" tvg-logo="" group-title="BC-S3",CARACOL HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2395.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CARACOL SD *" tvg-logo="" group-title="BC-S3",CARACOL SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2396.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CARTOON NETWORK HD *" tvg-logo="" group-title="BC-S3",CARTOON NETWORK HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2312.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CCN ESP SD *" tvg-logo="" group-title="BC-S3",CCN ESP SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2304.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CINECANAL HD *" tvg-logo="" group-title="BC-S3",CINECANAL HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2363.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CINECANAL SD *" tvg-logo="" group-title="BC-S3",CINECANAL SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2364.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CINELATINO SD *" tvg-logo="" group-title="BC-S3",CINELATINO SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2362.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CINEMAX SD *" tvg-logo="" group-title="BC-S3",CINEMAX SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2308.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CLARO HD *" tvg-logo="" group-title="BC-S3",CLARO HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2306.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CLARO SPORTS HD *" tvg-logo="" group-title="BC-S3",CLARO SPORTS HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2305.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CNN INTERNACIONAL SD *" tvg-logo="" group-title="BC-S3",CNN INTERNACIONAL SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2301.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="COMEDY CENTRAL HD *" tvg-logo="" group-title="BC-S3",COMEDY CENTRAL HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2361.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CONCERT CHANNEL HD *" tvg-logo="" group-title="BC-S3",CONCERT CHANNEL HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2302.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DHE HD *" tvg-logo="" group-title="BC-S3",DHE HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2338.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DISCOVERY CHANNEL HD *" tvg-logo="" group-title="BC-S3",DISCOVERY CHANNEL HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2332.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DISCOVERY CIVILIZATION SD *" tvg-logo="" group-title="BC-S3",DISCOVERY CIVILIZATION SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2328.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DISCOVERY HOME & HEALTH HD *" tvg-logo="" group-title="BC-S3",DISCOVERY HOME & HEALTH HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2329.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DISCOVERY KIDS HD *" tvg-logo="" group-title="BC-S3",DISCOVERY KIDS HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2322.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DISCOVERY SCIENCE SD *" tvg-logo="" group-title="BC-S3",DISCOVERY SCIENCE SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2327.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DISCOVERY THEATER HD *" tvg-logo="" group-title="BC-S3",DISCOVERY THEATER HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2326.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DISCOVERY TLC HD *" tvg-logo="" group-title="BC-S3",DISCOVERY TLC HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2330.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DISCOVERY TLC SD *" tvg-logo="" group-title="BC-S3",DISCOVERY TLC SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2331.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DISCOVERY TURBO SD *" tvg-logo="" group-title="BC-S3",DISCOVERY TURBO SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2325.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DISCOVERY WORLD HD *" tvg-logo="" group-title="BC-S3",DISCOVERY WORLD HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2324.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DISNEY CHANNEL HD *" tvg-logo="" group-title="BC-S3",DISNEY CHANNEL HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2335.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DISNEY CHANNEL SD *" tvg-logo="" group-title="BC-S3",DISNEY CHANNEL SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2336.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DISNEY JR SD *" tvg-logo="" group-title="BC-S3",DISNEY JR SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2334.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DISNEY XD SD *" tvg-logo="" group-title="BC-S3",DISNEY XD SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2333.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="DW SD *" tvg-logo="" group-title="BC-S3",DW SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2383.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="EL GOURMET HD *" tvg-logo="" group-title="BC-S3",EL GOURMET HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2311.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="ESPN  HD *" tvg-logo="" group-title="BC-S3",ESPN  HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2360.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="ESPN 2 HD *" tvg-logo="" group-title="BC-S3",ESPN 2 HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2358.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="ESPN 3 HD *" tvg-logo="" group-title="BC-S3",ESPN 3 HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2357.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="ESPN HD *" tvg-logo="" group-title="BC-S3",ESPN HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2359.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="ESTRELLAS SD *" tvg-logo="" group-title="BC-S3",ESTRELLAS SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2300.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="EUROCHANNEL SD *" tvg-logo="" group-title="BC-S3",EUROCHANNEL SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2394.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX ACTION HD *" tvg-logo="" group-title="BC-S3",FOX ACTION HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2352.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX ACTION SD *" tvg-logo="" group-title="BC-S3",FOX ACTION SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2353.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX CINEMA HD *" tvg-logo="" group-title="BC-S3",FOX CINEMA HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2351.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX CLASSICS HD *" tvg-logo="" group-title="BC-S3",FOX CLASSICS HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2349.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX COMEDY HD *" tvg-logo="" group-title="BC-S3",FOX COMEDY HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2350.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX FAMILY HD *" tvg-logo="" group-title="BC-S3",FOX FAMILY HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2348.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX HD *" tvg-logo="" group-title="BC-S3",FOX HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2345.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX LIFE HD *" tvg-logo="" group-title="BC-S3",FOX LIFE HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2340.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX LIFE SD *" tvg-logo="" group-title="BC-S3",FOX LIFE SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2341.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX MOVIES HD *" tvg-logo="" group-title="BC-S3",FOX MOVIES HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2347.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX NEWS SD *" tvg-logo="" group-title="BC-S3",FOX NEWS SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2385.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX SERIES HD *" tvg-logo="" group-title="BC-S3",FOX SERIES HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2346.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX SPORTS 2 HD *" tvg-logo="" group-title="BC-S3",FOX SPORTS 2 HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2355.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX SPORTS 3 HD *" tvg-logo="" group-title="BC-S3",FOX SPORTS 3 HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2354.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FOX SPORTS HD *" tvg-logo="" group-title="BC-S3",FOX SPORTS HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2356.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FRANCE24 HD *" tvg-logo="" group-title="BC-S3",FRANCE24 HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2387.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FRANCE24 SD *" tvg-logo="" group-title="BC-S3",FRANCE24 SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2388.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FX HD *" tvg-logo="" group-title="BC-S3",FX HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2344.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FXM HD *" tvg-logo="" group-title="BC-S3",FXM HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2342.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="FXM SD *" tvg-logo="" group-title="BC-S3",FXM SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2343.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="GLITZ SD *" tvg-logo="" group-title="BC-S3",GLITZ SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2267.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="GOLDEN HD *" tvg-logo="" group-title="BC-S3",GOLDEN HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2270.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="GOLDEN PREMIER HD *" tvg-logo="" group-title="BC-S3",GOLDEN PREMIER HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2269.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="GOLDEN SD *" tvg-logo="" group-title="BC-S3",GOLDEN SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2271.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="GOLF CHANNEL HD *" tvg-logo="" group-title="BC-S3",GOLF CHANNEL HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2268.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="H2 SD *" tvg-logo="" group-title="BC-S3",H2 SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2309.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="HBO 2 HD *" tvg-logo="" group-title="BC-S3",HBO 2 HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2378.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="HBO FAMILY HD *" tvg-logo="" group-title="BC-S3",HBO FAMILY HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2377.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="HBO HD *" tvg-logo="" group-title="BC-S3",HBO HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2379.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="HBO PLUS HD *" tvg-logo="" group-title="BC-S3",HBO PLUS HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2375.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="HBO PLUS SD *" tvg-logo="" group-title="BC-S3",HBO PLUS SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2376.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="HBO SIGNATURE HD *" tvg-logo="" group-title="BC-S3",HBO SIGNATURE HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2374.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="HISTORY HD *" tvg-logo="" group-title="BC-S3",HISTORY HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2284.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="HOLA TV HD *" tvg-logo="" group-title="BC-S3",HOLA TV HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2283.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="HTV SD *" tvg-logo="" group-title="BC-S3",HTV SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2310.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="INVESTIGATION DISCOVERY HD *" tvg-logo="" group-title="BC-S3",INVESTIGATION DISCOVERY HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2323.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="ISAT SD *" tvg-logo="" group-title="BC-S3",ISAT SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2321.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="MASCHIC HD *" tvg-logo="" group-title="BC-S3",MASCHIC HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2296.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="MAX PRIME HD *" tvg-logo="" group-title="BC-S3",MAX PRIME HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2371.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="MAX PRIME SD *" tvg-logo="" group-title="BC-S3",MAX PRIME SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2372.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="MAX UP HD *" tvg-logo="" group-title="BC-S3",MAX UP HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2373.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="MTV HD *" tvg-logo="" group-title="BC-S3",MTV HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2295.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="MTV HITS SD *" tvg-logo="" group-title="BC-S3",MTV HITS SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2293.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="MTV LIVE HD *" tvg-logo="" group-title="BC-S3",MTV LIVE HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2294.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="MULTIPREMIER SD *" tvg-logo="" group-title="BC-S3",MULTIPREMIER SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2292.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="NATGEO HD *" tvg-logo="" group-title="BC-S3",NATGEO HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2290.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="NATGEO KIDS HD *" tvg-logo="" group-title="BC-S3",NATGEO KIDS HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2288.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="NATGEO SD *" tvg-logo="" group-title="BC-S3",NATGEO SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2291.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="NATGEO WILD HD *" tvg-logo="" group-title="BC-S3",NATGEO WILD HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2289.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="NICK 2 HD *" tvg-logo="" group-title="BC-S3",NICK 2 HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2285.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="NICK HD *" tvg-logo="" group-title="BC-S3",NICK HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2287.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="NICK JR SD *" tvg-logo="" group-title="BC-S3",NICK JR SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2286.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="PARAMOUNT HD *" tvg-logo="" group-title="BC-S3",PARAMOUNT HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2316.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="PASIONES HD *" tvg-logo="" group-title="BC-S3",PASIONES HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2392.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="RADIOLA SD *" tvg-logo="" group-title="BC-S3",RADIOLA SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2381.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="RCN HD *" tvg-logo="" group-title="BC-S3",RCN HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2390.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="RCN SD *" tvg-logo="" group-title="BC-S3",RCN SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2391.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="RCN TELENOVELAS SD *" tvg-logo="" group-title="BC-S3",RCN TELENOVELAS SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2389.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="RED  HD *" tvg-logo="" group-title="BC-S3",RED  HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2393.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="SONY HD *" tvg-logo="" group-title="BC-S3",SONY HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2278.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="SPACE HD *" tvg-logo="" group-title="BC-S3",SPACE HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2277.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="STUDIO UNIVERSAL SD *" tvg-logo="" group-title="BC-S3",STUDIO UNIVERSAL SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2276.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="SUNDANCE HD *" tvg-logo="" group-title="BC-S3",SUNDANCE HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2275.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TBS SD *" tvg-logo="" group-title="BC-S3",TBS SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2320.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TCM SD *" tvg-logo="" group-title="BC-S3",TCM SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2307.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TELEHIT SD *" tvg-logo="" group-title="BC-S3",TELEHIT SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2266.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TELEMUNDO SD *" tvg-logo="" group-title="BC-S3",TELEMUNDO SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2265.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TL NOVELAS SD *" tvg-logo="" group-title="BC-S3",TL NOVELAS SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2339.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TNT HD *" tvg-logo="" group-title="BC-S3",TNT HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2318.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TNT SD *" tvg-logo="" group-title="BC-S3",TNT SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2319.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TNT SERIES HD *" tvg-logo="" group-title="BC-S3",TNT SERIES HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2317.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TOONCAST SD *" tvg-logo="" group-title="BC-S3",TOONCAST SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2274.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TRUTV HD *" tvg-logo="" group-title="BC-S3",TRUTV HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2272.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TRUTV SD *" tvg-logo="" group-title="BC-S3",TRUTV SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2273.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="TVE SD *" tvg-logo="" group-title="BC-S3",TVE SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2384.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="UNICABLE SD *" tvg-logo="" group-title="BC-S3",UNICABLE SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2282.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="UNIVERSAL CHANNEL HD *" tvg-logo="" group-title="BC-S3",UNIVERSAL CHANNEL HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2280.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="UNIVERSAL CHANNEL SD *" tvg-logo="" group-title="BC-S3",UNIVERSAL CHANNEL SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2281.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="VH1 CLASSIC SD *" tvg-logo="" group-title="BC-S3",VH1 CLASSIC SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2299.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="VH1 HD *" tvg-logo="" group-title="BC-S3",VH1 HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2297.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="VH1 SD *" tvg-logo="" group-title="BC-S3",VH1 SD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2298.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="WARNER HD *" tvg-logo="" group-title="BC-S3",WARNER HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2279.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="WIN SPORTS HD *" tvg-logo="" group-title="BC-S3",WIN SPORTS HD *
+http://192.95.33.104:25461/live/roku/wanherchannels/2380.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="=========CANALES ESPAÑA==========" tvg-logo="" group-title="Categorias",=========CANALES ESPAÑA==========
+http://1.1.1.1
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="ES: Antena 3 HD" tvg-logo="" group-title="Otros Enlaces",ES: Antena 3 HD
+http://192.95.33.104:25461/live/roku/wanherchannels/631.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="ES: Antena 3 Internacional" tvg-logo="" group-title="Otros Enlaces",ES: Antena 3 Internacional
+http://192.95.33.104:25461/live/roku/wanherchannels/630.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="=========CANALES USA==========" tvg-logo="" group-title="Categorias",=========CANALES USA==========
+http://1.1.1.1
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="USA: Deportes - Arizona" tvg-logo="" group-title="Otros Enlaces",USA: Deportes - Arizona
+http://192.95.33.104:25461/live/roku/wanherchannels/467.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="USA: Deportes - Bay Area" tvg-logo="" group-title="Otros Enlaces",USA: Deportes - Bay Area
+http://192.95.33.104:25461/live/roku/wanherchannels/466.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="USA: Deportes - MLB Network" tvg-logo="" group-title="Otros Enlaces",USA: Deportes - MLB Network
+http://192.95.33.104:25461/live/roku/wanherchannels/520.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="USA: Deportes - Mountain" tvg-logo="" group-title="Otros Enlaces",USA: Deportes - Mountain
+http://192.95.33.104:25461/live/roku/wanherchannels/464.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="USA: Deportes - NFL Now" tvg-logo="" group-title="Otros Enlaces",USA: Deportes - NFL Now
+http://192.95.33.104:25461/live/roku/wanherchannels/519.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="USA: Documentales - Animal Planet HD" tvg-logo="" group-title="Otros Enlaces",USA: Documentales - Animal Planet HD
+http://192.95.33.104:25461/live/roku/wanherchannels/507.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="USA: Deportes - Washington 1" tvg-logo="" group-title="Otros Enlaces",USA: Deportes - Washington 1
+http://192.95.33.104:25461/live/roku/wanherchannels/462.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="USA: Deportes - Oregon" tvg-logo="" group-title="Otros Enlaces",USA: Deportes - Oregon
+http://192.95.33.104:25461/live/roku/wanherchannels/463.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="USA: Infantil - YesTV!" tvg-logo="" group-title="Otros Enlaces",USA: Infantil - YesTV!
+http://192.95.33.104:25461/live/roku/wanherchannels/506.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="USA: Deportes - Washington 2" tvg-logo="" group-title="Otros Enlaces",USA: Deportes - Washington 2
+http://192.95.33.104:25461/live/roku/wanherchannels/461.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="USA: Deportes - Los Angeles" tvg-logo="" group-title="Otros Enlaces",USA: Deportes - Los Angeles
+http://192.95.33.104:25461/live/roku/wanherchannels/465.ts
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="=========CANALES NOTICIAS==========" tvg-logo="" group-title="Categorias",=========CANALES NOTICIAS==========
+http://1.1.1.1
+#EXTINF:-1 audio-track="por,eng" tvg-id="" tvg-name="CH: Noticias - NewsAsia" tvg-logo="" group-title="Otros Enlaces",CH: Noticias - NewsAsia
+http://192.95.33.104:25461/live/roku/wanherchannels/608.ts
