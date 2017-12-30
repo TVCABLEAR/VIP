@@ -1,18 +1,11 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]SUSCRIBETE--TECNO-WILL
-https://www.youtube.com/c/LISTASIPTVFREE
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]LISTA Recopilada ->www.tecnowillblog.wordpress.com
-https://www.youtube.com/c/LISTASIPTVFREE
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR RED] [/COLOR]BÚSCANOS EN YOUTUBE COMO -> TECNO-WILL
-https://www.youtube.com/c/LISTASIPTVFREE
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR RED] [/COLOR]MAS LISTAS EN NUESTRO BLOG-www.tecnowillblog.wordpress.com
-https://www.youtube.com/c/LISTASIPTVFREE
 
-#EXTINF:-1 tvg-name="Las Estrellas -2hrs" tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-de-las-Estrellas/Canal-de-las-Estrellas_.png" group-title="Mexico",Las Estrellas -2hrs
+
+#EXTINF:-1 tvg-name="Las Estrellas -2hrs" tvg-logo="https://goo.gl/xRMZHF" group-title="Mexico",Las Estrellas -2hrs
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 #EXTINF:1,CANAL 4 azteka          
 http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/8.png" group-title="Infantiles",Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://goo.gl/N361kC" group-title="Infantiles",Nick Jr
 http://200.78.215.85:8010/play/a08b
 #EXTINF:-1, Atreseries
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
@@ -36,7 +29,7 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8
 #EXTINF:-1,NAT GEO WILD
 http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2015/05/espn-logo.png" group-title="Mexico Geobloqueo",ESPN
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://goo.gl/5iyqN5" group-title="Mexico Geobloqueo",ESPN
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
 #EXTINF:1,ESPN
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
@@ -69,23 +62,23 @@ http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
 http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
 #EXTINF:1,CANAL 8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="Las Estrellas -2hrs" tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-de-las-Estrellas/Canal-de-las-Estrellas_.png" group-title="Mexico",Las Estrellas -2hrs
+#EXTINF:-1 tvg-name="Las Estrellas -2hrs" tvg-logo="https://goo.gl/pnLM9K" group-title="Mexico",Las Estrellas -2hrs
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
  
-#EXTINF:-1 tvg-name="Anime TV" tvg-logo="http://www.imperioanime.com/wp-content/uploads/2011/06/TVavatar.png" group-title="Infantiles",Anime TV
+#EXTINF:-1 tvg-name="Anime TV" tvg-logo="https://goo.gl/xYCPLp" group-title="Infantiles",Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/8.png" group-title="Infantiles",Nick Jr
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://goo.gl/fwoUd8" group-title="Infantiles",Nick Jr
 http://200.78.215.85:8010/play/a08b
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imgur.com/axvewxY.png" group-title="LATINO",Animax
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:-1  tvg-logo="http://televisionparatodos.tv/wp-content/uploads/2013/06/simpsonstvplay.jpg", Los Simpson Cap. Aleatorio
+#EXTINF:-1  tvg-logo="https://goo.gl/fwoUd8", Los Simpson Cap. Aleatorio
 http://stream.latino-webtv.com/series/simpsons.mp4
-#EXTINF:-1 tvg-logo="http://png-3.vector.me/files/images/7/6/764027/chavo_del_8_thumb.png" group-title="24/7", El Chavo Animado
+#EXTINF:-1 tvg-logo="https://goo.gl/vBFMbb" group-title="24/7", El Chavo Animado
 http://3.sendvid.com/y00xutjl.mp4/
  
 #EXTINF:1,Nova
 http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=oN
-#EXTINF:-1 tvg-logo="http://www.tdcgroup.org/media_library/logos_files/wowtv_logo.png" group-title="Entretenimiento", Wow TV
+#EXTINF:-1 tvg-logo="https://goo.gl/cEKSvG" group-title="Entretenimiento", Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
  
 #EXTINF:-1, Atreseries
@@ -98,7 +91,7 @@ http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
 http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
 #EXTINF:1,NEOX
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?www.tecnotv.info?
-#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Mexico Geobloqueo",Canal 5
+#EXTINF:-1 tvg-name="Canal 5" tvg-logo="https://goo.gl/yneU3e" group-title="Mexico Geobloqueo",Canal 5
  
 #EXTINF:-1,ADN 40
 http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on
