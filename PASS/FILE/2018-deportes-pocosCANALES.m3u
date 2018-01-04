@@ -1,0 +1,12 @@
+#EXTM3U
+
+
+#EXTINF:-1,Movistar Deportes
+http://peta9.pedromo.me/live/plusfutbol/index.m3u8
+#EXTINF:-1, ESPN HD
+#EXTINF:-1, ESPN 2
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1, TELEMUNDO 51
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8
+#EXTINF:-1, SPACE
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
