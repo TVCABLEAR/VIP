@@ -1,0 +1,167 @@
+#EXTM3U
+
+
+#EXTINF:-1, El 13  
+http://ar.watcha.live/ch7/hi.m3u8 
+#EXTINF:-1, TELEFE  
+http://ar.watcha.live/ch6/hi.m3u8  
+#EXTINF:-1, AMERICA HD  
+http://ar.watcha.live/ch3/hi.m3u8  
+#EXTINF:-1, Canal 9  
+http://ar.watcha.live/ch5/hi.m3u8  
+#EXTINF:-1, TV PUBLICA  
+http://ar.watcha.live/ch4/hi.m3u8  
+#EXTINF:-1, TN   
+http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/Playlist.m3u8  
+#EXTINF:-1, A24  
+http://ar.watcha.live/ch2/hi.m3u8  
+#EXTINF:-1, Cronica TV 
+http://ar.watcha.live/ch18/hi.m3u8 
+#EXTINF:-1, Canal 26 
+http://200.115.193.177/live/26hd-720/.m3u8 
+#EXTINF:-1,ROCA TV   
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8  
+#EXTINF:-1, C4(TNT)Jujuy
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8  
+#EXTINF:-1, Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8  
+#EXTINF:-1, ARGENTINA DW 
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8  
+#EXTINF:-1, Diputados TV
+http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8  
+#EXTINF:-1, TV Santa Rosa
+http://live-19.viewer.dacast.com:80/i/dclive_1@336785/master.m3u8  
+#EXTINF:-1, Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8  
+#EXTINF:-1, Tec TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8 
+#EXTINF:-1, CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8  
+--------------------- Deportes ------------------------------------------------
+#EXTINF:-1, SPORTS+DTV 1
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2Fg4AE3%2F8sWfb1RbvrP9xQmsvt7oT5Fr3Xhj8NFnBVEjmw%2BW0r9Nth2TyVi2Y9e2igANxjljpamwQ%3D%3D
+#EXTINF:-1, SPORTS+DTV HD 2
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2FD6WJ7%2BJ8KD1htgklxXzVyR2Ab%2FyzhfoNLYiA%2FbGcvwcttG7YFMS3tASLAoetH65z3yxMyZKaXxA%3D%3D
+#EXTINF:-1, TyC SPORTS   
+https://d1was41vtelyvl.cloudfront.net/out/v1/9218d0ae14a54b5a85423b6aae9166eb/index.m3u8 
+#EXTINF:-1, Fox Sports2 MX
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/43.m3u8 
+#EXTINF:-1, FOX SPORT INT
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/42.m3u8 
+#EXTINF:-1, FOX SPORT2 ARG
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2FdwtNmx9VfavEirJUqJl8Iwp%2BEsvxQxpg7RSmg3RVOLZTgG3n%2BWHQxgefJGtcaafzJ2tzj9YqJkA%3D%3D
+#EXTINF:-1, FOX SPORT Premium
+http://158.69.52.43:8000/live/tammy/tammy/3396.m3u8 
+#EXTINF:-1, BEIN_SPORTS_La Liga
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/41.m3u8 
+#EXTINF:-1, ESPN HD  
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/47.m3u8 
+#EXTINF:-1, EUROSPORT 
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/44.m3u8 
+#EXTINF:-1, ESPN 2 
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/45.m3u8 
+#EXTINF:-1, ESPN 3 Mx
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2FdaXjVIugfeJbn7h3tnEaNeTkfXwVhFcLgdwygVDtHo6YE1hEEPKUjvCyHhFE%2FsSaG3Gpkec1whQ%3D%3D
+#EXTINF:-1,  F1 latino
+http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/Stream(05)/index.m3u8 
+#EXTINF:-1, CLARO SPORTS    
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8 
+#EXTINF:-1, BaseBall   
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8  
+#EXTINF:-1, TDTV Centroamerica   
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8  
+#EXTINF:-1, Brasil Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8 
+#EXTINF:-1, PXSports Mx
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8 
+#EXTINF:-1, CDO Mexico   
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8 
+#EXTINF:-1, UNIVISION_TDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8 
+#EXTINF:-1, Movistar Dep
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/40.m3u8 
+#EXTINF:-1,REDBULL
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8 
+#EXTINF:-1, CDN Sport Max
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8 
+#EXTINF:-1, GOL Peru
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX19eVWxFy1zioAt%2By7c9J8RlOFhwSNxUPBAUZ1bcmhlcD3YoUf11XW%2Fvit9VX3NjNZ8ltBsx5O%2FzcA%3D%3D
+#EXTINF:-1, CableOnda Sports PANAMA
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8 
+#EXTINF:-1, TeleCaribe Deportes
+https://w4.cdn.anvato.net/live/ephemeral/8JN6lx09T0YgECY5CbJZ6zuYEzVblvPG/telecaribedeporteshd2/1864k/index.m3u8 
+#EXTINF:-1, Olimpic Channel
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8 
+------------------ Peliculas y series ----------------------------------------------
+#EXTINF:-1, GolDen-Plus   
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/25.m3u8 
+#EXTINF:-1, SPACE
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2Bs0uqxSWy2BBzsXg30daR7mzs1BS32w9BUsePwIrJKSLobxH4y3sAy52Zh3hdLPCBBH%2FLI%2B2TREQ%3D%3D
+#EXTINF:-1, SPACE HD
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8 
+#EXTINF:-1, WB
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/12.m3u8 
+#EXTINF:-1, FOX-ACTION
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2FqB25JAbDkTRA69cKnWrSP2m0Q3VXt4IOpgjnBH8GlPWqpiECXUS5dyEhPkpaAvimsf4LSfcm0zQ%3D%3D
+#EXTINF:-1, HBO-2 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8 
+#EXTINF:-1, HBO 
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8 
+#EXTINF:-1, TNT  
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/14.m3u8 
+#EXTINF:-1,CINECANAL
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/31.m3u8 
+#EXTINF:-1,CINEMAX
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/32.m3u8 
+#EXTINF:-1,AMC
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8 
+#EXTINF:-1,AXN
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/34.m3u8 
+#EXTINF:-1,SONY
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/20.m3u8 
+#EXTINF:-1,PARAMOUNT
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/21.m3u8 
+#EXTINF:-1,FOX
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/26.m3u8 
+#EXTINF:-1,FOX-Movies
+http://xxedge160.livesports.pw/live/verFOXMOVIdad954a1715ec3f7506d/index.m3u8?token=NeYMWuD7ZeiG6uoPVcoiaA&expires=1514868854
+#EXTINF:-1,FX-Series
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/28.m3u8 
+#EXTINF:-1,FOX Life
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/2.m3u8 
+#EXTINF:-1,STUDIO Universal
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/13.m3u8 
+#EXTINF:-1,SPYFY
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/18.m3u8 
+--------------------------- Radios y Musica -----------------------------------------------
+#EXTINF:-1,Power HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8  
+#EXTINF:-1, Radio 10   
+http://radio10.stweb.tv:1935/radio10/live/chunklist_w877674569.m3u8  
+#EXTINF:-1, La Red   
+http://cdn-zc-lsd-3.planisys.net:1935/AM1/live/chunklist_w418144003.m3u8  
+#EXTINF:-1,Radio Disney   
+http://disneyargradio-lh.akamaihd.net/i/ARG_Disney_RADIO@102438/master.m3u8  
+#EXTINF:-1,ESPN Radio   
+http://espnsslarugby-i.akamaihd.net/hls/live/225068/rugbytest/64/64.m3u8  
+#EXTINF:-1,Music Top   
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8  
+#EXTINF:-1,Cool 103.7   
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8  
+#EXTINF:-1,Vibee Latino   
+http://46.101.21.42:8081/live/live2/playlist.m3u8  
+#EXTINF:-1, Virgin Pop TV   
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8  
+#EXTINF:-1,Radio Dsiney Arg
+http://disneyargradio-lh.akamaihd.net/i/ARG_Disney_RADIO@102438/master.m3u8 
+----------------------------INFANTILES---------
+#EXTINF:-1,Animation
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+#EXTINF:-1,IPE
+http://cdnh4.iblups.com/hls/irtp.m3u8 
+#EXTINF:-1,CHICOS IPE
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8 
+#EXTINF:-1,DISNEY JR
+http://185.152.66.150:25461/live/infantiles/fanstvapp/60.m3u8 
+#EXTINF:-1,DISNEY CHANNEL
+http://185.152.66.150:25461/live/infantiles/fanstvapp/62.m3u8
