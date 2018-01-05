@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="2660", Azteca Uno
+http://www.iptvmexico.xyz/ch/26.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", Azteca A+
+#EXTBG: http://info7rm.blob.core.windows.net.optimalcdn.com/images/2017/03/20/a+_1.jpg
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Azteca Corazón
+#EXTBG: http://www.onlinetv.planetfools.com/imagenes/az-corazon.jpg
+#EXTSIZE: Medium
+http://www.iptvmexico.xyz/ch/394.m3u8
+#EXTINF:0 type="stream" channelId="2287", las Estrellas HD
+www.iptvmexico.xyz/ch/1.m3u8
+#EXTINF:0 type="stream" channelId="332", Foro Tv HD
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1048_av-p.m3u8
+#EXTINF:0 type="stream" channelId="133", Canal 5 HD
+http://www.iptvmexico.xyz/ch/294.m3u8
+#EXTINF:0 type="stream" channelId="1951", Azteca 7
+http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/index.m3u8
+#EXTINF:0 type="stream" channelId="1957" aspect-ratio="4:3", Gala Tv SD
+http://live.izzitv.mx/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+#EXTINF:0 type="stream" channelId="2490", Once HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
+#EXTINF:0 type="stream" channelId="2698", Canal 22
+http://www.iptvmexico.xyz/ch/32.m3u8
+#EXTINF:0 type="stream" channelId="340", Televisión Méxiquense
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2690", ADN 40 HD
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
+#EXTINF:0 type="stream" channelId="1967", Telemundo
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:0 type="stream" channelId="388", Unicable
+http://www.iptvmexico.xyz/ch/212.m3u8
+#EXTINF:0 type="stream" channelId="-1", Glitz
+#EXTBG: https://upload.wikimedia.org/wikipedia/commons/b/b7/Glitzlogo.png
+http://144.217.255.70:8000/live/IPTVPREMIUM/iptvpremiumhd.com/7405.m3u8
+#EXTINF:0 type="stream" channelId="-1", ¡Hola! TV
+#EXTBG: https://revistasenal.com/wp-content/uploads/2016/09/HOLA.jpg
+http://144.217.255.70:8000/live/IPTVPREMIUM/iptvpremiumhd.com/8918.m3u8
+#EXTINF:0 type="stream" channelId="3209", univision 
+http://144.217.255.70:8000/live/IPTVPREMIUM/iptvpremiumhd.com/8888.m3u8
+#EXTINF:0 type="stream" channelId="1968", Telemundo Internacional 
+http://144.217.255.70:8000/live/IPTVPREMIUM/iptvpremiumhd.com/9604.m3u8
