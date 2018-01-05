@@ -1,0 +1,341 @@
+#EXTM3U
+
+#EXTINF:0,Sky Sports Mix HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12779.m3u8
+#EXTINF:0,Sky Sports News HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/586.m3u8
+#EXTINF:0,Sky Sports News HD*
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12147.m3u8
+#EXTINF:0,Sky Sports News HQHD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/44101.m3u8
+#EXTINF:0,Sky Sports News HQHD*
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/44102.m3u8
+#EXTINF:0,Sky Sports Main Events SD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/579.m3u8
+#EXTINF:0,Sky Sports Cricket HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/584.m3u8
+#EXTINF:0,Sky Sports Cricket SD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/578.m3u8
+#EXTINF:0,Sky Sports Action HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/583.m3u8
+#EXTINF:0,Sky Sports Action SD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/577.m3u8
+#EXTINF:0,Sky Sports Golf HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/582.m3u8
+#EXTINF:0,Sky Sports Golf SD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/576.m3u8
+#EXTINF:0,Sky Sports Premier League HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/581.m3u8
+#EXTINF:0,Sky Sports Arena HD*
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/32740.m3u8
+#EXTINF:0,Sky Sports Arena HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/32739.m3u8
+#EXTINF:0,Sky Sports Arena SD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/32738.m3u8
+#EXTINF:0,Sky Sports Football HD*
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/32743.m3u8
+#EXTINF:0,Sky Sports Football HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/32742.m3u8
+#EXTINF:0,Sky Sports Football SD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/32741.m3u8
+#EXTINF:0,Sky Sports F1 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/580.m3u8
+#EXTINF:0,Sky Sports F1 SD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/574.m3u8
+#EXTINF:0,BT Sports 1 HD*
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11375.m3u8
+#EXTINF:0,BT Sports 1 SD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11787.m3u8
+#EXTINF:0,BT Sports 2 HD*
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11374.m3u8
+#EXTINF:0,BT Sports 3 HD*
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11373.m3u8
+#EXTINF:0,BT Sports 3 SD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11785.m3u8
+#EXTINF:0,BT Sports ESPN HD*
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12123.m3u8
+#EXTINF:0,BT Sports ESPN
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11784.m3u8
+#EXTINF:0,BT Sport Extra 3
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12414.m3u8
+#EXTINF:0,BT Sport Extra 4
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12413.m3u8
+#EXTINF:0,BT Sport Extra 5
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12412.m3u8
+#EXTINF:0,British Eurosport HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11002.m3u8
+#EXTINF:0,British Eurosport 2 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11003.m3u8
+#EXTINF:0,EIR Sports 2 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11536.m3u8
+#EXTINF:0,Premier Sports HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/568.m3u8
+#EXTINF:0,Boxnation SD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/17752.m3u8
+#EXTINF:0,At The Races
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/150.m3u8
+#EXTINF:0,MUTV HD*
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12398.m3u8
+#EXTINF:0,Liverpool FC TV HD 1080p
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12120.m3u8
+#EXTINF:0,beIN Sports 1 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1035.m3u8
+#EXTINF:0,beIN Sports 2 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1036.m3u8
+#EXTINF:0,beIN Sports 3 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1037.m3u8
+#EXTINF:0,beIN Sports 4 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1038.m3u8
+#EXTINF:0,beIN Sports 5 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1039.m3u8
+#EXTINF:0,beIN Sports 6 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1040.m3u8
+#EXTINF:0,beIN Sports 7 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1041.m3u8
+#EXTINF:0,beIN Sports 8 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1042.m3u8
+#EXTINF:0,beIN Sports 9 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1043.m3u8
+#EXTINF:0,beIN Sports 10 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1044.m3u8
+#EXTINF:0,beIN Sports 11 HD eng
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1045.m3u8
+#EXTINF:0,beIN Sports 12 HD eng
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1046.m3u8
+#EXTINF:0,beIN MAX 5 HD(FR)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/29543.m3u8
+#EXTINF:0,beIN MAX 6 HD(FR)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/29542.m3u8
+#EXTINF:0,beIN MAX 7 HD(FR)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/29541.m3u8
+#EXTINF:0,beIN MAX 8 HD(FR)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/29540.m3u8
+#EXTINF:0,beIN MAX 9 HD(FR)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/29539.m3u8
+#EXTINF:0,beIN MAX 10 HD(FR)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/29538.m3u8
+#EXTINF:0,SPORT: Fox Sports  2 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/7738.m3u8
+#EXTINF:0,Fox Sports 2 FHD nl
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5539.m3u8
+#EXTINF:0,Fox Sports 3 HD nl
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5540.m3u8
+#EXTINF:0,Fox Sports 4 HD nl
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5541.m3u8
+#EXTINF:0,Fox Sports 5 HD nl
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5542.m3u8
+#EXTINF:0,Fox Sports 3 FHD Eredivisie
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5546.m3u8
+#EXTINF:0,Sport.TV2 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12368.m3u8
+#EXTINF:0,Sport.TV3 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12367.m3u8
+#EXTINF:0,Sport.TV4 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12366.m3u8
+#EXTINF:0,Sport.TV5 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12365.m3u8
+#EXTINF:0,SporTV 1 FHD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12025.m3u8
+#EXTINF:0,Sport Klub 2 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11080.m3u8
+#EXTINF:0,Sport Klub 3 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11079.m3u8
+#EXTINF:0,Sport Klub 4 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11078.m3u8
+#EXTINF:0,Sport Klub 5 HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11077.m3u8
+#EXTINF:0,INT/SP: Futbol 1 HD (UKR)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/20950.m3u8
+#EXTINF:0,INT/SP: Futbol 2 HD (UKR)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/20949.m3u8
+#EXTINF:0,INT/SP: Eleven Sports HD (pol)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12020.m3u8
+#EXTINF:0,INT/SP: Ziggo Sport Voetbal(nl)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/13216.m3u8
+#EXTINF:0,INT/SP: Ziggo Sport Select HD(nl)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/13221.m3u8
+#EXTINF:0,INT/SP: Ziggo Sport Racing(nl)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/13217.m3u8
+#EXTINF:0,INT/SP: Ziggo Sport Golf(nl)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/13218.m3u8
+#EXTINF:0,INT/SP: Ziggo Sport eXtra 2(nl)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/13219.m3u8
+#EXTINF:0,INT/SP: C More Hockey HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12425.m3u8
+#EXTINF:0,INT/SP: NTV Sports HD
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11192.m3u8
+#EXTINF:0,INT/SP: Extreme Sports 1080p (pol)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25854.m3u8
+#EXTINF:0,INT/SP: N sports HD 1080p (pol)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25853.m3u8
+#EXTINF:0,INT/SP: Nova Sport HD (bg)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25852.m3u8
+#EXTINF:0,INT/SP: Diema Spor 1 HD (BG)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/20952.m3u8
+#EXTINF:0,INT/SP: Diema Spor 2 HD (UKR)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/20951.m3u8
+#EXTINF:0,INT/SP: Eurosport 1 HD(DK)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25903.m3u8
+#EXTINF:0,INT/SP: Eurosport 2 HD(DK)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25902.m3u8
+#EXTINF:0,INT/SP: FOX Sport HD 1080p(ITA)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25866.m3u8
+#EXTINF:0,INT/SP: Movistar Formula 1 HD 1080p (ESP)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25859.m3u8
+#EXTINF:0,INT/SP: Movistar Fútbol HD 1080p (ESP)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25858.m3u8
+#EXTINF:0,INT/SP: Movistar Golf HD 1080p (ESP)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25857.m3u8
+#EXTINF:0,INT/SP: Movistar MotoGP HD 1080p (ESP)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25856.m3u8
+#EXTINF:0,INT/SP: Sky Sport 1 HD 1080p(ITA)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25868.m3u8
+#EXTINF:0,INT/SP: Sky Sport 2 HD 1080p(ITA)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25867.m3u8
+#EXTINF:0,INT/SP: Sky Sport 24 HD 1080p(ITA)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25864.m3u8
+#EXTINF:0,INT/SP: Sky Sport F1 HD 1080p(ITA)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25865.m3u8
+#EXTINF:0,INT/SP: Sky Sport MotoGP HD IT(ITA)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25863.m3u8
+#EXTINF:0,INT/SP: Star Sports 1 HD(IND)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25897.m3u8
+#EXTINF:0,INT/SP: Star Sports 3 HD(IND)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25895.m3u8
+#EXTINF:0,INT/SP: TV3 Sport 1 HD(DK)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25900.m3u8
+#EXTINF:0,INT/SP: TV3 Sport 2 HD(DK)
+#EXTGRP:unsorted
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/25899.m3u8
+#EXTINF:0,beIN Sports 3 HD
+#EXTGRP:unsorted
+http://163.172.19.242:80/live/555555555/555555555/1037.ts
+#EXTINF:0,beIN Sports 4 HD
+#EXTGRP:unsorted
+http://163.172.19.242:80/live/555555555/555555555/1038.ts
+#EXTINF:0,beIN Sports 5 HD
+#EXTGRP:unsorted
+http://163.172.19.242:80/live/555555555/555555555/1039.ts
+#EXTINF:0,beIN Sports 6 HD
+#EXTGRP:unsorted
+http://163.172.19.242:80/live/555555555/555555555/1040.ts
+#EXTINF:0,beIN Sports 7 HD
+#EXTGRP:unsorted
+http://163.172.19.242:80/live/555555555/555555555/1041.ts
+#EXTINF:0,beIN Sports 8 HD
+#EXTGRP:unsorted
+http://163.172.19.242:80/live/555555555/555555555/1042.ts
+#EXTINF:0,beIN Sports 9 HD
+#EXTGRP:unsorted
+http://163.172.19.242:80/live/555555555/555555555/1043.ts
+#EXTINF:0,beIN Sports 10 HD
+#EXTGRP:unsorted
+http://163.172.19.242:80/live/555555555/555555555/1044.ts
+#EXTINF:0,beIN Sports 11 HD eng
+#EXTGRP:unsorted
+http://163.172.19.242:80/live/555555555/555555555/1045.ts
+#EXTINF:0,beIN Sports 12 HD eng
+#EXTGRP:unsorted
+http://163.172.19.242:80/live/555555555/555555555/1046.ts
