@@ -1,55 +1,55 @@
 #EXTM3U
 
 
-#EXTINF:-1, CINE CALIDAD
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", CINE CALIDAD
 https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8
-#EXTINF:-1,CHESPIRITO TV
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", CHESPIRITO TV
 https://clutch.vaughnsoft.net/ord/vl/Chespirito_TV.m3u8
-#EXTINF:-1,CIENCIA FICCION
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", CIENCIA FICCION
 https://clutch.vaughnsoft.net/ord/vl/CienciaFiccion.m3u8
-#EXTINF:-1, CINE STAR
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", CINE STAR
 https://clutch.vaughnsoft.net/ord/vl/Cine_Star.m3u8
-#EXTINF:-1, KATY HD
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", KATY HD
 https://clutch.vaughnsoft.net/ord/vl/KatyHD.m3u8
-#EXTINF:-1, VITATO TV
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", VITATO TV
 https://clutch.vaughnsoft.net/ord/vl/VitatoTV.m3u8
-#EXTINF:-1, CREME CARTOON
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", CREME CARTOON
 https://clutch.vaughnsoft.net/ord/vl/cremecartoon.m3u8
-#EXTINF:-1, VECINOS
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", VECINOS
 https://clutch.vaughnsoft.net/ord/vl/300_vecinos.m3u8
-#EXTINF:-1, DRAGON BOOLZ
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", DRAGON BOOLZ
 https://clutch.vaughnsoft.net/ord/vl/bsc_tv05.m3u8
-#EXTINF:-1, EL CHAVO
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg"EL CHAVO
 https://clutch.vaughnsoft.net/ord/vl/mega_chavo.m3u8
-#EXTINF:-1, MEGA ANIMES
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", MEGA ANIMES
 https://clutch.vaughnsoft.net/ord/vl/mega_animes.m3u8
-#EXTINF:-1, MEGA KIDS
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", MEGA KIDS
 https://clutch.vaughnsoft.net/ord/vl/mega_kids.m3u8
-#EXTINF:-1, ESTRELLA TV
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", ESTRELLA TV
 https://clutch.vaughnsoft.net/ord/vl/estrellatv.m3u8
-#EXTINF:-1, LCREME CLASSICHD
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", LCREME CLASSICHD
 https://clutch.vaughnsoft.net/ord/vl/lcreme_classichd.m3u8
-#EXTINF:-1, LCREME PLUS
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", LCREME PLUS
 https://clutch.vaughnsoft.net/ord/vl/lcremeplushd.m3u8
-#EXTINF:-1, MEGA MOVIES HD
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", MEGA MOVIES HD
 https://clutch.vaughnsoft.net/ord/vl/mega_movieshd.m3u8
-#EXTINF:-1, SIMSON MANIA
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", SIMSON MANIA
 https://clutch.vaughnsoft.net/ord/vl/simpson_maniahd51.m3u8
-#EXTINF:-1, GOKU TV
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", GOKU TV
 https://clutch.vaughnsoft.net/ord/vl/goku_tv.m3u8
-#EXTINF:-1, ALF
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", ALF
 https://clutch.vaughnsoft.net/ord/vl/alfie_.m3u8
-#EXTINF:-1, LUCAS STONE55
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", LUCAS STONE55
 https://clutch.vaughnsoft.net/ord/vl/lucastone55.m3u8
-#EXTINF:-1, 300
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", 300
 https://clutch.vaughnsoft.net/ord/vl/300.m3u8
-#EXTINF:-1,SMISTY
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", SMISTY
 https://clutch.vaughnsoft.net/ord/vl/80smisty.m3u8
-#EXTINF:-1, LCREME STAFF
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", LCREME STAFF
 https://clutch.vaughnsoft.net/ord/vl/lcreme_staff.m3u8
-#EXTINF:-1, ZONA FILM
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", ZONA FILM
 https://clutch.vaughnsoft.net/ord/vl/zonafilmstv.m3u8
-#EXTINF:-1,ZONA FIL TERROR
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", ZONA FIL TERROR
 https://clutch.vaughnsoft.net/ord/vl/zonafilmsterror.m3u8
-#EXTINF:-1, TERROR MANIA
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", TERROR MANIA
 https://clutch.vaughnsoft.net/ord/vl/terror_mania.m3u8
