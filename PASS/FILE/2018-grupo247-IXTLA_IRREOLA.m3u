@@ -53,3 +53,20 @@ https://clutch.vaughnsoft.net/ord/vl/zonafilmstv.m3u8
 https://clutch.vaughnsoft.net/ord/vl/zonafilmsterror.m3u8
 #EXTINF:-1 tvg-name="247" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/VIP/master/PASS/FILE/24-7-Logo1.jpg", TERROR MANIA
 https://clutch.vaughnsoft.net/ord/vl/terror_mania.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="247" tvg-logo="https://peliculas-247.com/wp-content/uploads/2017/08/05.png" group-title="24/7", PELICULAS 2017 24/7 
+https://clutch.vaughnsoft.net/ord/vl/lcremeplushd.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="247" tvg-logo="https://peliculas-247.com/wp-content/uploads/2017/08/05.png" group-title="24/7", PELICULAS HD 24/7 
+https://clutch.vaughnsoft.net/ord/vl/mega_movieshd.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="247" tvg-logo="https://peliculas-247.com/wp-content/uploads/2017/08/05.png" group-title="24/7", LOS SIMPSON 24/7 
+https://clutch.vaughnsoft.net/ord/vl/simpson_maniahd51.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="247" tvg-logo="https://peliculas-247.com/wp-content/uploads/2017/08/05.png" group-title="24/7", PELICULAS OPC.2 24/7 
+https://clutch.vaughnsoft.net/ord/vl/vitatotv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="247" tvg-logo="https://peliculas-247.com/wp-content/uploads/2017/08/05.png" group-title="24/7", CINE CALIDAD 24/7 
+https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="247" tvg-logo="https://peliculas-247.com/wp-content/uploads/2017/08/05.png" group-title="24/7", CINE STAR 24/7 
+https://clutch.vaughnsoft.net/ord/vl/cine_star.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="247" tvg-logo="https://peliculas-247.com/wp-content/uploads/2017/08/05.png" group-title="24/7", PELICULAS CLASSICAS 24/7
+https://clutch.vaughnsoft.net/ord/vl/lcreme_classichd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="247" tvg-logo="https://peliculas-247.com/wp-content/uploads/2017/08/05.png" group-title="24/7", CREMECARTOON 24/7 
+https://clutch.vaughnsoft.net/ord/vl/cremecartoon.m3u8 
