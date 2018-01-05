@@ -1,0 +1,384 @@
+#EXTM3U
+
+
+#EXTINF:-1, OUSIR01
+
+
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/sites/default/files/imported/119386_PAC12_Poster_16x9.jpg" group-title="deportes", PAC 12 Networks
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/sites/default/files/imported/119386_PAC12_Poster_16x9.jpg", PAC 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/sites/default/files/imported/119386_PAC12_Poster_16x9.jpg", PAC 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/sites/default/files/imported/119386_PAC12_Poster_16x9.jpg", PAC 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/sites/default/files/imported/119386_PAC12_Poster_16x9.jpg", PAC 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/sites/default/files/imported/119386_PAC12_Poster_16x9.jpg", PAC 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://x.pac-12.com/sites/default/files/imported/119386_PAC12_Poster_16x9.jpg", PAC 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3625.png",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/323.png",Bursaspor TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-7FtHFDOhS4M/WOkVwuwEhyI/AAAAAAAABfo/O5Pu2Wxrgskgv1f-pcqFlzBiYPoQ0AayACLcB/s1600/bloomberg-tv.png"  group-title="noticias", BLOOMBERG TV US
+http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
+
+#EXTINF:-1 tvg-logo="http://jewishnews.com.ua/uploads/2017/01/19/620x260_5ce9b5c29286411fb918f92ddab38660_c.jpg", BLOOMBERG TV UK
+http://live-bloomberg-eu-west.global.ssl.fastly.net/eu/EU1000kb_live.m3u8
+
+#EXTINF:-1 tvg-logo="http://jewishnews.com.ua/uploads/2017/01/19/620x260_5ce9b5c29286411fb918f92ddab38660_c.jpg",BLOOMBERG TV ASIA
+http://live-bloomberg-ap-north.global.ssl.fastly.net/ap/AP1000kb_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic8/BD8597C1-C2E0-03A4-59E0D9DEEFD81FA9.jpg",CBS NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3563.png",EL TIEMPO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/361.png",CABLE NOTICIAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/abc-news-logo.jpg?w=1000&h=563&crop=1",ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.tribtv.com/slates/wgntv.png",WGN NEWS
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.creativeplanetnetwork.com/sites/default/files/public/2000px-Logo_of_C-SPAN.svg.png",C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://www.esc.edu/media/ocgr/2013/food4thought/C-SPAN2-BookTV-logo.jpg",C-SPAN BOOK TV
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://estaticos.elperiodico.com/resources/jpg/6/3/1456393070336.jpg",FRANCE 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="http://diesl.com/wp-content/uploads/2013/06/press-tv.jpg",PRESS TV
+http://178.32.255.199:1935/live/ptven/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.ecuavisa.com/sites/default/files/fotos/2013/08/20/al_jazeera.jpg",AL JAZEERA
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index1296.m3u8
+
+#EXTINF:-1 tvg-logo="http://es.live-tv-channels.net/pt-data/uploads/logo/za-ann7-tv.jpg",ANN7
+rtmp://46.4.25.213/live-ann7/ann7-hi.stream
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/461.png" ,RAI NEWS 24
+http://b2.stream8.rai.it/live/smil%3Arnews1_android.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dw.com/image/15705485_303.jpg",D WELLE
+http://metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://kiwi.racer159.com/site/images/channels/dwlatinoamerica.png",DW LATINOAMERICA
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/PLpyQsV.png",TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/NHK-WORLD-670x300.jpg",NHK WORLD
+http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_2100.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1137.png",Telesur
+http://cdna.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1610.png",Azteca Noticias
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.repstatic.it/video/photo/2014/10/23/221710/221710-thumb-social-play-grande.jpg" group-title="musica", M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-3Qz8bfzhHYA/AAAAAAAAAAI/AAAAAAAAAAA/KK0rj1dWcjk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",U MUSIC
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.lamiaradio.it/wp-content/uploads/2017/01/monte.jpg",RADIO MONTE CARLO
+rtmp://fms.105.net:1935/live/rmc1
+
+#EXTINF:-1 tvg-logo="http://movingdesign.tv/wp-content/uploads/2015/03/VIRGIN_National.jpg",VIRGIN RADIO
+http://wow01.105.net/live/virgin1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sKE9ubggd3s/UY642NGUgBI/AAAAAAAANpk/CY2zny4IBW8/w530-h342-p/Capital+TV+Logo.png",CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/74/56/d0/7456d0409c5871001b408c3234c248cb--dream-music-tv.jpg",DREAM TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://i1.wp.com/pmcvariety.files.wordpress.com/2014/01/weather_channel2.jpg?crop=143px%2C71px%2C1166px%2C649px&resize=670%2C377&ssl=1" group-title="clima",THE WEATHER CHANNEL
+http://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mydish.com/filestream.ashx?ID=6150",WEATHER NATION
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/protocol/http/format/applehttp/a.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3656.png" group-title="españoles",Murcia TV 7
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3654.png",13TV
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w986866555.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3653.png",Logos TV
+http://streamer1.streamhost.org:1935/salive/GMIalfah/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3652.png",Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/347.png",ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/349.png",Canal Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1351.png",Castilla la Mancha TV
+http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1353.png",Huelva Televisión
+http://cls.todostreaming.eu/telehuelva/restricted/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1357.png",Aragon TV
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1363.png",Lancelot TV
+rtmp://62.210.141.18:1935/directo/lancelot.television
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1365.png",InterEconomia TV
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1367.png",Enlace Juvenil
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1369.png",Navarra TV
+rtmp://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478ext
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1371.png",8 TV
+rtmp://178.33.113.212/8TV/8aldia-directe
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1373.png",Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3624.png",La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1742.png" group-title="latinos",Unicanal
+http://strm.unicanal.com.py/live/unicanal.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1107.png",Canal 9 Honduras
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1111.png",Señal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1113.png",Canal 13 Puerto Rico
+http://live247tv.com:1935/worodtcanal13/worodtcanal13/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1109.png",Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1179.png",TV Sur Canal 14
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1183.png",Colosal TV
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1303.png",Telemetro Radio
+http://live.medcom.com.pa/live/tmradio.stream_live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3661.png",Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3664.png",TVC Continental
+rtmp://77.92.76.135:1935/tvce/livestream
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1319.png",TEN Canal 10
+rtmp://stream.grupoabchn.com:1935/TENHD/TENLIVEHD_2
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3658.png",Bolivia Redadvenir
+rtmp://streamer1.streamhost.org/salive/GMIredadvenirh
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/367.png",Canal Antiestrés
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/365.png",TV Agro
+http://190.248.81.11:1938/live/myStream22/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3613.png",Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/363.png",Telecafé
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3612.png",Telemedellin
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1173.png",Canal Tro
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1175.png",Tele Islas
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1309.png",PDVSA TV
+rtmp://controlstreams.com:1935/pdvsatvweb/pdvsatvweb
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1313.png",Promar TV
+http://edge.wms28.lorini.net/promar/promar/hasbahca.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1315.png",TVO
+rtmp://edge.wms28.lorini.net/tvo/tvo
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3513.png",Arica TV
+http://wow1.dallas.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1167.png",El Pinguino TV
+rtmp://streaming.elpinguino.com:1935/live/pinguinotv_360p
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1141.png",Telpin TV Canal 2 HD
+rtmp://201.219.100.30:1935/telpintv/ttv.stream_720p
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1143.png",TLX Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1149.png",Canal 4 Argentina
+rtmp://streaming.wirenetserver.com.ar/canal4/live_1
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1520.png",Canal 26 Argentina
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1547.png",360 TV
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1159.png",Sol TV Perú
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1177.png",Canal Once
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1099.png",Teleuno
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1251.png",Ve Plus TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1163.png",Capital TV
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1247.png",TV Cosmos
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1249.png",RBC Online
+rtmp://184.154.28.210:1935/rbc-tv/rbc-tv
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1652.png",Pacifico Television Virtual
+https://5949aa132c8fb.streamlock.net:554/iptvpacifico/livepacificotv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/807.png",Telesistema Canal 11
+http://mek6.mekstream.com/telesistema/live/chunklist_w743063287.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1329.png",Canal 17 El Salvador
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1193.png",NET Television
+http://stream2.netmedia.com.mt:1935/live/smil:tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/953.png",RCG Televisión
+http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/991.png",TV Más
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/993.png",Milenio Televisión
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/995.png",Canal 3 Culiacan
+http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3659.png",TeleMax
+rtmp://s5.mexside.net:1935/telemax_1/telemax_1
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/999.png",Proyecto 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1327.png",Globo TV Honduras
+http://tv.aliasdns.info:8979/live/g13/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CHCH2010.svg/1200px-CHCH2010.svg.png" group-title="no español", CHCHING
+http://52.86.189.59:1935/live/news/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://amarudontv.com/wp-content/uploads/2014/05/London-Live.jpg", LONDON LIVE
+http://bcoveliveios-i.akamaihd.net/hls/live/217434-b/3083279840001/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/421.png",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://ugc.kn3.net/i/origin/http://s3.amazonaws.com/pluto.tv/assets/images/channels/c2351708-4ade-e5ba-a684-e3eb5ec9ef12-NASATV_heroXL.jpg",NASA TV
+http://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/325.png",TV Poços
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1989.png",Tébéo TV
+http://live2.awedia.com/hls/tebeo.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1997.png",Thaqafiya TV
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel6/1.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/2002.png",Al Hiwar TV
+http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/2007.png",Mekameleen TV
+http://mn-l.mncdn.com/r_mekameleen/smil:mekameleen_web.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1397.png",Porto Canal
+http://213.13.26.11:1935/live/portocanal/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/3630.png",Belarus 24
+http://video.tvr.by:1935/belarus24/live/chunklist_w573899412.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1532.png",RTP 1
+http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1535.png",TCV
+rtmp://213.13.26.13/live/rtc_teste
+
+#EXTINF:-1 tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1541.png",KKRtv
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
