@@ -1,27 +1,6 @@
 #EXTM3U
 
-#Canales de TV y Radios online
-#playlist: http://lao.pe/tv
-#cambios: http://lao.pe/b/
-#ultima actualizacion: 03/01/2018
-#
-#pueden usar esta lista en: PC, Mac, iPhone, Android, Linux, Raspberry Pi, Smart TV, etc.
-#
-#*****************************
-#Como usar esta lista en Kodi:
-#
-#	Habilitar PVR IPTV Simple Client en PVR Addons
-#	En la configuracion de PVR IPTV Simple Client elegir ruta remota y agregar http://lao.pe/tv
-#	Desmarcar la opcion de guardar la lista en cache, asi siempre se descargara la lista mas actualizada.
-#
-#*****************************
-#Como ver los logos de los canales:
-#
-#	En PVR IPTV Simple Client ir a Configurar, y ahora darle click a Logotipos de Canales.
-#	En Ubicacion elegir ruta remota.
-#	En URL de la Base Logotipos de Canales: http://i.imgur.com/
-#
-#*****************************
+
 
 #EXTINF:-1, tvg-logo="" group-title="Leeme",- [COLOR cyan]Actualizado 03/01/2018[/COLOR] -
 http://127.0.0.1
