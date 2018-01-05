@@ -1,0 +1,96 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jV8fc5/el_mito_de_osiris.jpg",  Compilador @ousir_01
+
+ 
+
+#EXTINF:-1 tvg-logo="http://www.debate.com.mx/export/sites/debate/img/2016/08/22/las-estrellas-624x468.jpg_1561595587.jpg",Las Estrellas [-2]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/ADN_40_logo.png",ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://i64.tinypic.com/2wegqc3.png",AZ Noticias
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/milenio-tv.gif",Milenio TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Logo_CanalOnce.png/273px-Logo_CanalOnce.png", Once TV
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://channelpear.s3-us-west-2.amazonaws.com/images/12371/1491410940185.jpg",Teleritmo
+http://d34z3o74zqnctr.cloudfront.net/live-stream/57b4dc126338448314449d0c/publish/media_1000.m3u8?dnt=true&ref=http%3A%2F%2Fwww.multimedios.com%2Ftv%2Fenvivo%2Fteleritmo&es=d34z3o74zqnctr.cloudfront.net&proto=http&time=1486351096793
+ 
+#EXTINF:-1 tvg-logo="http://telemarcampeche.com/wp-content/uploads/2017/05/logo-TELEMAR-big-110.png",Telemar
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cindytakahashi.com/wp-content/uploads/TV-Mexiquense.png?w=640",Mexiquense TV
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg",Canal 10
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://cdn.playbuzz.com/cdn/f830bb11-014e-4866-9bf8-ac85c4f5ba4e/a2e0682b-c4ba-406d-8cfa-81e8ffd0d5f7.jpg",TVP Culiacan
+http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1521299175_b1428000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.cemev.gob.mx/local1/Imagenes/tvmas1.png",TVMas
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/c_Hu7SDQMrl_zimuiOjUR8qbOEDpGB7SOOFLs29OzlhonQ5D1UyHLXC-QB8gZVznApw=w300",TELEMUNDO 51
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Univision_-_Televisa_Deportes_Network_logo_-_2012.png",UNIVISION TDN
+http://sced.cdnak.neulion.net:80/250/nlds/univision/as/live/udnoo_hd_1600_ipad.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_TV_Per%C3%BA.png",TV PERU
+http://cdnh15.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1 tvg-logo="https://jefedejefes.wordpress.com/files/2009/04/logo_teaser.jpg",EFEKTO TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/17/TVAgro_2003_1.png/revision/latest?cb=20170520163151",TV AGRO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-G-CNMy7dAls/AAAAAAAAAAI/AAAAAAAAAAA/PqH6kUGN5TQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",CDO PREMIUM
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://static.cableondasports.com/site/templates/images/cos-generic.jpg",COS
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.medcom.com.pa/site/assets/files/1265/cos_fc.200x200.jpg",COS FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/Deportv_logo-magenta_RGB-01-730x299.png",DEPORTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w636710220_b800000_slesp.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/865895520417533953/4WISx12s.jpg",A PLUS
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-48Uexo74A_k/VGk9g8fWluI/AAAAAAABtfM/uw0GdkZgsHo/s1600/Azteca%2BHonduras.jpg",AZ HONDURAS
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Orbe_21.png",ORBE 21
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1897151/e/1_2yqsgxqj/sd/10000/t/LsuNrHg2tHgVlIcWYN9kvA/index-s32.m3u8
+
+#EXTINF:-1 tvg-logo="http://live.campushd.tv/wp-content/uploads/2017/04/LOGO-CAMPUS.png",CAMPUS TV
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.uestv.cl/sites/all/themes/uestv/images/logo.png",UESTV
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://canal12misiones.com/cftvp/wp-content/uploads/2014/03/logo-cana-7-TV_P%C3%BAblica.png",TV PUBLICA
+http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://spbtv.com/user_files/userfiles/WordFashionChannel.jpg",WORLD FASHION
+http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-ETYibekId-Q/AAAAAAAAAAI/AAAAAAAAAAA/Q4nr5_8eSz8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",TEC TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/7zwnAgRltwPWvQOui6CZaVPrp9QDz-_dC14_00USaddd2mRFmmuaewPX1dCR4wVDn33J=w300",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.portalfoxmix.cl/radioenvivo/images/recta-pfm-tv.png",PORTAL FOX MIX
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8
