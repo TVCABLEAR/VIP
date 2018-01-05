@@ -1,0 +1,102 @@
+#EXTM3U
+
+
+
+#EXTINF:-1  tvg-logo="http://elpoderdelespiritu.com/channels/antena3.png", ANTENA 3 
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.culturamas.es/wp-content/uploads/2015/11/atreseries-3.png", ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-mobile-channels/fx-generic.png?ver=b0a17120-d4f9-4a81-b4f9-73606469c033", FX
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://4.bp.blogspot.com/-PDe2OdW13fI/VdUXJQBodiI/AAAAAAAAPpE/vdSPrfMGhFc/s1600/Universal%2BChannel%2B-%2Blogo.png", UNIVERSAL CHANNEL
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://oklivetv.com/wp-content/uploads/media/031a89fb932fc4501cfc67691ccb6f31.jpeg", BETIS TV
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+
+#EXTINF:-1  tvg-logo="http://kompitv.com/images/chelsea-tv.jpg", CHELSEA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.fcporto.pt/SiteCollectionImages/2015-16/fotos_de_noticias/Porto%20Canal%20610x340.jpg", PORTO CANAL
+http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.grupocomunica.com/wp-content/uploads/2016/05/o_20110816180900_sfc_tv_arrasa_con_la_emision_en_directo_del_deportivo_sevilla_fc_a_traves_de_tdt_e_internet.jpg" , SEVILLA FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://sport.bt.com/s/assets/ucl/images/btsport3.png", BT SPORT 3
+http://185.142.239.164:3135/BT/3/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://i.vimeocdn.com/video/579815979_1280x720.jpg", EIR SPORT 1
+http://185.142.239.164:3135/Setanta/Sports/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://i.vimeocdn.com/video/579815979_1280x720.jpg", EIR SPORT 2
+http://185.142.239.164:3135/Premiere/Sports/index.m3u8
+
+#EXTINF:-1 tvg-logo"https://18839-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2016/03/FS2-live-stream.jpg", FOX SPORTS 2
+http://185.142.239.164:3135/2/FOX/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.televisionparatodos.tv/wp-content/uploads/2013/02/fox_sports_logo.jpg", FOX SPORTS
+http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2
+http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://visionperuanatv.com/wp-content/uploads/2017/01/fox-sports-3-online.png", FOX SPORTS 3
+http://209.126.116.177:2086/508FoxSports3/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://omtv2.tv2.dk/fileadmin/_migrated/pics/TV-2-SPORT-logo-450x180.jpg", TV2 SPORT
+http://tv2danmark-tv2sport-live.hls.adaptive.level3.net/tv2danmark/tv2sport/master.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.lepoint.fr/images/2016/06/07/4196567lpw-4196810-jpg_3591288.jpg", BFM SPORT
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master.m3u8
+
+#EXTINF:-1 tvg-logo"https://i.ytimg.com/vi/uF_cuBWZBgE/maxresdefault.jpg", EARTHTV
+http://cdn.liveonearth.com//cdnedge//smil:TWL-en.smil//playlist.m3u8
+
+#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_%26_Health_Asia.svg/1280px-Discovery_Home_%26_Health_Asia.svg.png", DISCOVERY H&H
+http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.sat-address.com/f/pics/Stations/Azteca-Plus-TV_o.jpg", A+
+http://aztecalive-lh.akamaihd.net/i/0qfv8evsp_1@458764/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette4.wikia.nocookie.net/doblaje/images/a/a9/Azteca_7_Logo.png/revision/latest?cb=20140426231035&path-prefix=es", AZTECA 7
+http://209.126.116.177:2086/107azteca7/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-yn-bVK6RKhY/Ue7JJkV-HiI/AAAAAAAAqqs/j4Tjmvl9YOg/s1600/azteca+trece.PNG", AZTECA TRECE
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
+
+#EXTINF:-1 tvg-logo"https://yt3.ggpht.com/-t2sdLFpDHTQ/AAAAAAAAAAI/AAAAAAAAAAA/4leo-9VdTww/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", CPETV
+http://live-19.viewer.dacast.com:80/i/dclive_1@336785/index_150_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.clubdeportescopiapo.cl/wp-content/uploads/2016/05/cl-reg-holvoet.png" , HOLVOET TV
+http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://2.bp.blogspot.com/-u-XeuP6db-I/T5N6rhIImgI/AAAAAAAABhs/oW1Rgj9evf4/s320/canal%2B9%2Bregional.png" , CANAL 9 CHILE
+http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8#1
+
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/120/poster_600x315-2.jpg" , EL PINGÜINO
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.canalenvivo.com.ar/wp-content/uploads/2014/09/canal13.jpg?fit=600%2C344&w=640" , EL TRECE
+http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" , CANAL 26
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.canalmimusica.com/wp-content/uploads/2012/11/logo-mimusica.png" , MI MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1  tvg-logo="http://i.imgur.com/tRonseR.png", NRJ HITS TV
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
+
+#EXTINF:-1  tvg-logo="http://images.derstandard.at/2015/02/09/kronehit.jpg", KRONEHIT
+http://bitcdn-kronehit-live.bitmovin.com/m3u8s/bitcodin.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.porto.it/radio/it_m2otv.jpg", M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.stweb.tv/indalo/radioone/one.jpg", RADIO ONE
+http://server5.stweb.tv/radioone/live/playlist.m3u8
