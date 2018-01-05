@@ -1,0 +1,234 @@
+#EXTM3U
+
+
+#EXTINF:0,Azteca7
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/index.m3u8
+#EXTINF:0,Azteca Trece
+#EXTGRP:unsorted
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:0,A+
+#EXTGRP:unsorted
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,ADN 40
+#EXTGRP:unsorted
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,Multimedios
+#EXTGRP:unsorted
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,Canal 5
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:0,Las Estrellas
+#EXTGRP:unsorted
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:0,Estrellas
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESTRELLAS_SD)/index.m3u8
+#EXTINF:0,Hola Tv
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(HOLA_TV)/index.m3u8
+#EXTINF:0,Milenio
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(MILENIO_HD)/index.m3u8
+#EXTINF:0,Foro TV
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(FORO_TV)/index.m3u8
+#EXTINF:0,Gala TV
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+#EXTINF:0,Azteca13
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca13)/index.m3u8
+#EXTINF:0,CNN
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(CNN_HD)/index.m3u8
+#EXTINF:0,Unicable
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+#EXTINF:0,RCN
+#EXTGRP:unsorted
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:0,A&E
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
+#EXTINF:0,Comedy Central
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
+#EXTINF:0,TruTV
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
+#EXTINF:0,Distrito Comedia
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+#EXTINF:0,TBS
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8
+#EXTINF:0,Paramount Channel
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8
+#EXTINF:0,SUNDANCE Channel
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/hls_clear/Live/Channel(SUNDANCE_HD)/index.m3u8
+#EXTINF:0,Eurochannel
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/hls_clear/Live/Channel(EUROCHANNEL)/index.m3u8
+#EXTINF:0,DE PELICULA
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/Stream(05)/index.m3u8
+#EXTINF:0,Sony
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
+#EXTINF:0,AMC
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:0,AXN
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+#EXTINF:0,Space
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:0,TNT
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:0,TCM
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8
+#EXTINF:0,Warner
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
+#EXTINF:0,TNT Series
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
+#EXTINF:0,CINEMAX HD
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+#EXTINF:0,GOLDEN HD
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(Golden_HD)/index.m3u8
+#EXTINF:0,Atres Series
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8
+#EXTINF:0,De Pelicula
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+#EXTINF:0,I-SAT
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
+#EXTINF:0,Cinemax
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+#EXTINF:0,Golden
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:0,Sundace Channel
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
+#EXTINF:0,Nick 2
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK2_HD)/index.m3u8
+#EXTINF:0,Cartoon Network
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
+#EXTINF:0,Tiin
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(TIIN)/index.m3u8
+#EXTINF:0,Nick JR
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:0,Nick
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:0,ESPN HD
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:0,ESPN2 HD
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+#EXTINF:0,ESPN3
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+#EXTINF:0,F1 Latinoamerica
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+#EXTINF:0,TDN
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:0,Univision TDN
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+#EXTINF:0,NBA Tv
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+#EXTINF:0,E!
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
+#EXTINF:0,DISCOVERY CIVIZATION
+#EXTGRP:unsorted
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CIVILIZATION)/index.m3u8
+#EXTINF:0,DISCOVERY SCIENCE
+#EXTGRP:unsorted
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_SCIENCE)/index.m3u8
+#EXTINF:0,DISCOVERY THEATER HD
+#EXTGRP:unsorted
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_THEATER_HD)/index.m3u8
+#EXTINF:0,DISCOVERY TURBO
+#EXTGRP:unsorted
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_TURBO)/index.m3u8
+#EXTINF:0,DISCOVERY WORLD
+#EXTGRP:unsorted
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_WORLD_HD)/index.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+#EXTGRP:unsorted
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
+#EXTINF:0,DISCOVERY H&H
+#EXTGRP:unsorted
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
+#EXTINF:0,Discovery ID
+#EXTGRP:unsorted
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(01)/index.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:unsorted
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
+#EXTINF:0,FOX LIFE
+#EXTGRP:unsorted
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
+#EXTINF:0,Lifetime
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
+#EXTINF:0,History Channel
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+#EXTINF:0,H2
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(h2)/index.m3u8
+#EXTINF:0,NAT_GEO
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:0,El Gourmet
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
+#EXTINF:0,MTV
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
+#EXTINF:0,MTV Live
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+#EXTINF:0,Video Rola
+#EXTGRP:unsorted
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RADIOLA)/index.m3u8
+#EXTINF:0,VH1
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(VH1)/index.m3u8
+#EXTINF:0,Ritmoson
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
+#EXTINF:0,Telehit
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
+#EXTINF:0,BANDAMAX
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
