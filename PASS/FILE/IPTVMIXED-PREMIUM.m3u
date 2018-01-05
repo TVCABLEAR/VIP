@@ -1,0 +1,378 @@
+#EXTM3U
+
+
+#EXTINF:0,Azteca UNO
+#EXTGRP:unsorted
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Canal de las Estrellas
+#EXTGRP:unsorted
+http://189.216.247.113/Content/HLS/Live/Channel(ESTRELLAS_SD)/Stream(04)/index.m3u8
+#EXTINF:0,Canal 5
+#EXTGRP:unsorted
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(04)/index.m3u8
+#EXTINF:0,Azteca 7
+#EXTGRP:unsorted
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Once TV
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/35.m3u8
+#EXTINF:0,Foro TV
+#EXTGRP:unsorted
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1048_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Proyecto 40
+#EXTGRP:unsorted
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Az Corazon
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/394.m3u8
+#EXTINF:0,Az Mundo
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/1381.m3u8
+#EXTINF:0,Canal 22
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/32.m3u8
+#EXTINF:0,Mexiquense TV
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2041.m3u8
+#EXTINF:0,Distrito Comedia
+#EXTGRP:unsorted
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(05)/index.m3u8
+#EXTINF:0,Telemundo
+#EXTGRP:unsorted
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,F1 LatinoAmerica
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/847.m3u8
+#EXTINF:0,TDN
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:0,Univision TDN
+#EXTGRP:unsorted
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/Stream(04)/index.m3u8
+#EXTINF:0,ESPN
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:0,ESPN2 HD
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+#EXTINF:0,ESPN3
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+#EXTINF:0,Fox Sports HD
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/57.m3u8
+#EXTINF:0,Fox Sports 2
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/333.m3u8
+#EXTINF:0,PX Sports
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2084.m3u8
+#EXTINF:0,NBA TV
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+#EXTINF:0,Anime TV
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/965.m3u8
+#EXTINF:0,Baby TV
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2054.m3u8
+#EXTINF:0,Boomerang
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/224.m3u8
+#EXTINF:0,Discovery Kids
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/45.m3u8
+#EXTINF:0,Disney Channel
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/41.m3u8
+#EXTINF:0,Disney Junior
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/89.m3u8
+#EXTINF:0,Disney XD
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/123.m3u8
+#EXTINF:0,Locomotion
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2022.m3u8
+#EXTINF:0,Los Simpson 24x7
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2035.m3u8
+#EXTINF:0,NickToons
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/310.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:0,Nick JR
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:0,Nick 2
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK2_HD)/index.m3u8
+#EXTINF:0,iptvtools_40
+#EXTGRP:unsorted
+https://lh3.googleusercontent.com/ue6Egka2vQ4RUXmC0bQmHfWInNt7TtAUJbju1euIaNpYSs2xgsC-6Cy12bYsX7zF4301=w300
+#EXTINF:0,NiuMedia
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2080.m3u8
+#EXTINF:0,Retro Cartoon
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2039.m3u8
+#EXTINF:0,TIIN
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/208.m3u8
+#EXTINF:0,Tooncast
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/131.m3u8
+#EXTINF:0,Cinecanal
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/110.m3u8
+#EXTINF:0,De Pelicula
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/365.m3u8
+#EXTINF:0,ExtremaTV
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2023.m3u8
+#EXTINF:0,FXM
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/220.m3u8
+#EXTINF:0,AMC
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:0,AXN
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+#EXTINF:0,Sundance
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
+#EXTINF:0,SPACE
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:0,TNT
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:0,Golden Edge
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/179.m3u8
+#EXTINF:0,Golden HD
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(Golden_HD)/index.m3u8
+#EXTINF:0,I.Sat
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/301.m3u8
+#EXTINF:0,Studio Universal
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/233.m3u8
+#EXTINF:0,SyFy
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/211.m3u8
+#EXTINF:0,TCM
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/234.m3u8
+#EXTINF:0,AE HD
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/324.m3u8
+#EXTINF:0,Comedy Central HD
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/284.m3u8
+#EXTINF:0,Cinemax HD
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+#EXTINF:0,Fox HD
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/438.m3u8
+#EXTINF:0,Fox Life
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/216.m3u8
+#EXTINF:0,FX
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/115.m3u8
+#EXTINF:0,TNT Series
+#EXTGRP:unsorted
+http://23.237.22.2/LIVE/H01/CANAL266/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:0,Sony
+#EXTGRP:unsorted
+http://23.237.22.2/LIVE/H01/CANAL203/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:0,Universal Channel Op1
+#EXTGRP:unsorted
+http://23.237.22.2/LIVE/H01/CANAL207/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:0,Space
+#EXTGRP:unsorted
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:0,Investigation Discovery
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/291.m3u8
+#EXTINF:0,TBS Op1
+#EXTGRP:unsorted
+http://23.237.22.2/LIVE/H01/CANAL273/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:0,TBS veryfunny
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/286.m3u8
+#EXTINF:0,Universal Channel
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/148.m3u8
+#EXTINF:0,Universal Channel HD
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/344.m3u8
+#EXTINF:0,Warner Channel
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/327.m3u8
+#EXTINF:0,Warner HD
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/21.m3u8
+#EXTINF:0,FOX Series Subtitulado
+#EXTGRP:unsorted
+http://23.237.22.2/LIVE/H01/CANAL420/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:0,FOX Movies Subtitulado
+#EXTGRP:unsorted
+http://23.237.22.2/LIVE/H01/CANAL417/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:0,FOX Action Subtitulado
+#EXTGRP:unsorted
+http://23.237.22.2/LIVE/H01/CANAL416/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:0,FOX Family
+#EXTGRP:unsorted
+http://23.237.22.2/LIVE/H01/CANAL418/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:0,Fox Premium Action
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/217.m3u8
+#EXTINF:0,Fox Premium Cinema
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/230.m3u8
+#EXTINF:0,Fox Premium Classics
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/228.m3u8
+#EXTINF:0,Fox Premium Movies
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/305.m3u8
+#EXTINF:0,Fox Premium Series
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/379.m3u8
+#EXTINF:0,The Film Zone
+#EXTGRP:unsorted
+http://23.237.22.2/LIVE/H01/CANAL440/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:0,LifeTime
+#EXTGRP:unsorted
+http://23.237.22.2/LIVE/H01/CANAL379/PROFILE03.m3u8?authorization=knife.handshake
+#EXTINF:0,Animal Planet
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/114.m3u8
+#EXTINF:0,Discovery World HD
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/226.m3u8
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/40.m3u8
+#EXTINF:0,Discovery Civilization
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/287.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/288.m3u8
+#EXTINF:0,Discovery Turbo
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/289.m3u8
+#EXTINF:0,Discovery Theater
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/290.m3u8
+#EXTINF:0,Discovery Home and Health
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/292.m3u8
+#EXTINF:0,History
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+#EXTINF:0,History 2
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(h2)/index.m3u8
+#EXTINF:0,NatGeo Wild
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:0,E Gourmet
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
+#EXTINF:0,Sun Channel
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2034.m3u8
+#EXTINF:0,TLC
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/833.m3u8
+#EXTINF:0,WOBI
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/903.m3u8
+#EXTINF:0,Antena 3
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/77.m3u8
+#EXTINF:0,El 4
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2036.m3u8
+#EXTINF:0,Glitz
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2068.m3u8
+#EXTINF:0,Lifetime
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/149.m3u8
+#EXTINF:0,Pasiones
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2073.m3u8
+#EXTINF:0,RCN HD
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2037.m3u8
+#EXTINF:0,RCN Telenovelas
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2069.m3u8
+#EXTINF:0,Trendy
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2021.m3u8
+#EXTINF:0,TVE Internacional
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/140.m3u8
+#EXTINF:0,BBC World
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2067.m3u8
+#EXTINF:0,Efekto TV
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2040.m3u8
+#EXTINF:0,Milenio TV
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/1283.m3u8
+#EXTINF:0,Bloomberg
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/74.m3u8
+#EXTINF:0,Teleformula
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/440.m3u8
+#EXTINF:0,Bandamax
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/361.m3u8
+#EXTINF:0,MTV HD
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
+#EXTINF:0,MTV Hits
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/399.m3u8
+#EXTINF:0,VH1
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(VH1)/index.m3u8
+#EXTINF:0,Ritmoson
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
+#EXTINF:0,Telehit
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
+#EXTINF:0,One TV
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/1276.m3u8
+#EXTINF:0,Tigo Music
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2026.m3u8
+#EXTINF:0,VH1 Classic
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/396.m3u8
+#EXTINF:0,Virgin Music
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2032.m3u8
+#EXTINF:0,MC Music
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2033.m3u8
+#EXTINF:0,Mi Musica
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2031.m3u8
