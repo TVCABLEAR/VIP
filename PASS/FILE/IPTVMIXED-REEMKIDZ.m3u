@@ -1,0 +1,81 @@
+#EXTM3U
+
+
+#EXTINF:0,Anime TV
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/965.m3u8
+#EXTINF:0,Baby TV
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2054.m3u8
+#EXTINF:0,Boomerang
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/224.m3u8
+#EXTINF:0,Discovery Kids
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/45.m3u8
+#EXTINF:0,Disney Channel
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/41.m3u8
+#EXTINF:0,Disney Junior
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/89.m3u8
+#EXTINF:0,Disney XD
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/123.m3u8
+#EXTINF:0,Locomotion
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2022.m3u8
+#EXTINF:0,Los Simpson 24x7
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2035.m3u8
+#EXTINF:0,NickToons
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/310.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:0,Nick JR
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:0,Nick 2
+#EXTGRP:unsorted
+http://live.izzitv.mx/Content/HLS/Live/Channel(NICK2_HD)/index.m3u8
+#EXTINF:0,iptvtools_40
+#EXTGRP:unsorted
+https://lh3.googleusercontent.com/ue6Egka2vQ4RUXmC0bQmHfWInNt7TtAUJbju1euIaNpYSs2xgsC-6Cy12bYsX7zF4301=w300
+#EXTINF:0,NiuMedia
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2080.m3u8
+#EXTINF:0,Retro Cartoon
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/2039.m3u8
+#EXTINF:0,TIIN
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/208.m3u8
+#EXTINF:0,Tooncast
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/131.m3u8
+#EXTINF:0,El Chavo Animado 24x7
+#EXTGRP:unsorted
+http://3.sendvid.com/y00xutjl.mp4/
+#EXTINF:0,Cremecartoon
+#EXTGRP:unsorted
+https://clutch.vaughnsoft.net/ord/vl/cremecartoon.m3u8
+#EXTINF:0,Chespirito 24x7
+#EXTGRP:unsorted
+https://clutch.vaughnsoft.net/ord/vl/chespirito_tV.m3u8
+#EXTINF:0,Dragon Ball Sagas 24x7
+#EXTGRP:unsorted
+https://clutch.vaughnsoft.net/ord/vl/goku_tv.m3u8
+#EXTINF:0,Dragon Ball Peliculas 24x7
+#EXTGRP:unsorted
+https://clutch.vaughnsoft.net/ord/vl/mega_animes.m3u8
+#EXTINF:0,Chavo del 8 24x7
+#EXTGRP:unsorted
+https://clutch.vaughnsoft.net/ord/vl/mega_chavo.m3u8
+#EXTINF:0,Peliculas Infantiles 24x7
+#EXTGRP:unsorted
+https://clutch.vaughnsoft.net/ord/vl/mega_kids.m3u8
+#EXTINF:0,MeryMovies
+#EXTGRP:unsorted
+https://clutch.vaughnsoft.net/ord/vl/mery_movies.m3u8
