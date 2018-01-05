@@ -1,0 +1,248 @@
+#EXTM3U
+
+#######################################Telecines
+
+
+#EXTINF:-1 tvg-id="Telecine Premium [Brazil]" tvg-logo="http://s26.postimg.org/gggjtc1ix/assistir-telecine-liberado.jpg" group-title="TELECINES",Telecine Premium
+http://str01.ddns.net/005/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Action [Brazil]" tvg-logo="http://s26.postimg.org/sh1zu28xl/ACTION_assinatura.jpg" group-title="TELECINES",Telecine Action
+http://str01.ddns.net/004/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Touch [Brazil]" tvg-logo="http://s26.postimg.org/i0lvrq9x5/117762540_1280x720.jpg" group-title="TELECINES",Telecine Touch
+http://str04.ddns.net/109/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Fun [Brazil]" tvg-logo="http://s26.postimg.org/5fq021ynt/telecine-fun.jpg" group-title="TELECINES",Telecine Fun
+http://str02.ddns.net/051/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Pipoca [Brazil]" tvg-logo="http://s26.postimg.org/vql0e9mex/images.jpg" group-title="TELECINES",Telecine Pipoca
+http://str01.ddns.net/001/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecine Cult [Brazil]" tvg-logo="http://s26.postimg.org/b9022mabd/793b7ea395ed2001b187776a8d259888.jpg" group-title="TELECINES",Telecine Cult HD
+http://str02.ddns.net/055/myStream/playlist.m3u8
+
+########################################HBOs
+
+
+#EXTINF:-1 tvg-id="HBO [Brazil]" tvg-logo="http://s26.postimg.org/sil4eypix/1000x420_moviehbo-logo.jpg" group-title="HBOs",HBO
+http://str02.ddns.net/053/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO 2 [Brazil]" tvg-logo="http://s26.postimg.org/ry63c9wah/hbo-2.jpg" group-title="HBOs",HBO 2
+http://str02.ddns.net/047/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO Plus [Brazil]" tvg-logo="http://s26.postimg.org/bxi3d1nsp/HBO_Plus.png" group-title="HBOs",HBO Plus
+http://str02.ddns.net/037/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO Family [Brazil]" tvg-logo="http://s26.postimg.org/xzcz0txo9/HBO_Family_logo.png" group-title="HBOs",HBO Family
+http://str03.ddns.net/088/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO Signature [Brazil]" tvg-logo="http://s26.postimg.org/6nmbd8ibd/fb-signature-480x320.jpg" group-title="HBOs",HBO Signature
+http://str03.ddns.net/065/myStream/playlist.m3u
+
+#EXTINF:-1 tvg-id="Max [Brazil]" tvg-logo="http://s26.postimg.org/ogcgyuoxl/maxresdefault.jpg" group-title="HBOs",MAX
+http://cine.elitehdbr.com:25461/live/juliocesar/XihwN0SIvc/786.m3u8
+
+#EXTINF:-1 tvg-id="Max Prime" tvg-logo="http://s26.postimg.org/ctwybgr09/maxresdefault_1.jpg" group-title="HBOs",Max Prime
+http://str03.ddns.net/092/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Max Up" tvg-logo="http://s26.postimg.org/5f7mj354p/maxresdefault_2.jpg" group-title="HBOs",Max Up
+http://str02.ddns.net/045/myStream/playlist.m3u8
+
+####################################Filmes & Series
+
+
+#EXTINF:-1 tvg-id="A&E" tvg-logo="http://s26.postimg.org/4yx0xsng9/b9e019e167dbe9b3dca370e8051faf1f.jpg" group-title="Filmes & Series",A&E
+http://str04.ddns.net/099/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://s20.postimg.org/7dh5zk3gp/AMC_logo_2013.jpg" group-title="Filmes & Series",AMC
+http://str03.ddns.net/071/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXN [Brazil]" tvg-logo="http://s26.postimg.org/dha3pl8zd/novologoaxn_01.jpg" group-title="Filmes & Series",AXN
+http://str01.ddns.net/016/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-logo="http://s26.postimg.org/698mi2ldl/canal-brasil-_NOVO.jpg" group-title="Filmes & Series",Canal Brasil
+http://67.21.76.99:8080/TV1277
+
+#EXTINF:-1 tvg-id="Cine Claro" tvg-logo="http://s16.postimg.org/62wznzh4l/clarocine.png" group-title="Filmes & Series",Cine Claro
+http://inalamega.com.br:1935/tvcariocanet/tvcariocanet/playlist.m3u8?DantasIPTV
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="http://s26.postimg.org/4h0wrnni1/pmdb_Nm4.jpg" group-title="Filmes & Series",Cinemax
+http://67.21.76.99:8080/TV3176?AuthInfo=4ec9415662a45b93fe638f1fc6e50ecb7e43fa4ee2b44004e92d07071630bf0be3c74dfc4625c25c858aff331442474d697c1d8dd87fbb6aabf426a2fa2e36cc25894e6c09372d5d0fd0053f1ce50a0c
+
+#EXTINF:-1 tvg-id="Fox" tvg-logo="http://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes & Series",Fox
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Fox Life" tvg-logo="http://s26.postimg.org/trwfgohbt/FOX_Crime_changing_to_FOX_Life_DStv_Star_Sat.png" group-title="Filmes & Series",Fox Life HD
+http://str03.ddns.net/083/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="http://s26.postimg.org/r1o29rv09/maxresdefault.jpg" group-title="Filmes & Series",FX
+http://67.21.76.99:8080/TV1307?AuthInfo=4ec9415662a45b93fe638f1fc6e50ecb7e43fa4ee2b44004e92d07071630bf0be3c74dfc4625c25c858aff331442474d697c1d8dd87fbb6aabf426a2fa2e36cc25894e6c09372d5d0fd0053f1ce50a0c
+
+#EXTINF:-1 tvg-id="Megapix [Brazil]" tvg-logo="http://s26.postimg.org/cjqv1s3p5/Megapix.jpg" group-title="Filmes & Series",Megapix
+http://str02.ddns.net/033/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-logo="http://s26.postimg.org/p1242oo8p/paramount-pictures-logo.jpg" group-title="Filmes & Series",Paramount
+http://str03.ddns.net/068/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Sony" tvg-logo="http://s31.postimg.org/r52hou6h7/sony2.png" group-title="Filmes & Series",CANAL SONY
+http://67.21.76.99:8080/TV1279?AuthInfo=4ec9415662a45b93fe638f1fc6e50ecb7e43fa4ee2b44004e92d07071630bf0be3c74dfc4625c25c858aff331442474d697c1d8dd87fbb6aabf426a2fa2e36cc25894e6c09372d5d0fd0053f1ce50a0c
+
+#EXTINF:-1 tvg-id="Space" tvg-logo="http://s26.postimg.org/qep5k8y49/nota_space-estrena-la-serie-zoo-.jpg" group-title="Filmes & Series",Space
+http://str01.ddns.net/029/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Studio Universal [Brazil]" tvg-logo="http://s26.postimg.org/uhkrx2hmh/Studio-_Universal.jpg" group-title="Filmes & Series",Studio Universal 
+http://str03.ddns.net/096/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://s26.postimg.org/o2h5mnlix/default.jpg" group-title="Filmes & Series",Syfy
+http://str03.ddns.net/093/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrAxguusszWtCJn1DUshKmOEJb1WOpZHX3XZgXxfu-z6LM-hjO" tvg-logo="" group-title="Filmes & Series",Só filmes 1
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?DantasIPTV
+
+#EXTINF:-1 tvg-id="TBS" tvg-logo="http://s26.postimg.org/4gsoqgj3t/5718e491a4ded.png" group-title="Filmes & Series",TBS
+http://str02.ddns.net/038/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TCM" tvg-logo="http://s26.postimg.org/8shafgq0p/redesign-novo-logo-canal-tcm-turner-classic-movi.png" group-title="Filmes & Series",TCM
+http://str02.ddns.net/039/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://s26.postimg.org/51cb6w1q1/dc58f76e15a157a4e7e807824d5f6d8d.png" group-title="Filmes & Series",TNT
+http://str01.ddns.net/023/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TNT Series" tvg-logo="http://s26.postimg.org/yhrx9b83d/tnt_serie.jpg" group-title="Filmes & Series",TNT Séries
+http://str01.ddns.net/019/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tru TV" tvg-logo="http://s26.postimg.org/3tydeobll/largelogo_100.jpg" group-title="Filmes & Series",TruTV
+http://str04.ddns.net/111/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="http://s26.postimg.org/8aqqdcptl/28846.jpg" group-title="Filmes & Series",Universal Channel
+http://str01.ddns.net/003/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Warner Channel" tvg-logo="http://s26.postimg.org/xxcw6meux/d395fa0ea7a0c7a43df71790e1137f7a.jpg" group-title="Filmes & Series",Warner Channel
+http://str03.ddns.net/080/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cine Sky" tvg-logo="http://s16.postimg.org/z4yd0upsl/cine_sky.png" group-title="Filmes & Series",Cine Sky
+http://wse.stmip.in:1935/rtguarany/rtguarany/live.m3u8
+
+####################################Noticias
+
+
+#EXTINF:-1 tvg-id="GloboNews" tvg-logo="http://s26.postimg.org/d0vg851gp/e3e879c57a76b70c1400f7d6cd9e.png" group-title="Noticiarios",Globo News
+http://str03.ddns.net/075/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BandNews" tvg-logo="http://s26.postimg.org/6r06l5221/GDFGD.jpg" group-title="Noticiarios",Band News 
+http://str01.ddns.net/032/myStream/playlist.m3u8
+
+####################################Variedades
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s26.postimg.org/jesq1x4mx/placeholder_cda.jpg" group-title="Variedades",GNT
+http://str03.ddns.net/084/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Viva" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2014/05/Versao_3D_Cor_Integral.jpg" group-title="Variedades",Viva
+http://str03.ddns.net/079/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Viva" tvg-logo="" group-title="Variedades",+GLOBOSAT
+http://cine.elitehdbr.com:25461/live/juliocesar/XihwN0SIvc/787.m3u8
+
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="http://s26.postimg.org/5qcq0a8qh/post110.jpg" group-title="Variedades",Multishow
+http://str01.ddns.net/009/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://s26.postimg.org/ke3wgy6y1/TLC-estreia-temporada-in_dita-de-_Uma-_Mulher-de-_P.png" group-title="Variedades",TLC
+http://str02.ddns.net/034/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Home Health" tvg-logo="http://s26.postimg.org/64lusdmeh/hh_placeholder.jpg" group-title="Variedades",Discovery Home & Health
+http://str03.ddns.net/078/myStream/playlist.m3u8
+
+###################################Televendas
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://s26.postimg.org/3x57y7y61/shoptime.jpg" group-title="Televendas",Shoptime
+http://klive-a.akamaihd.net/dc-1/live/hls/p/1828041/e/1_lld8saie/sd/10000/t/66vCvDIjPGEOL74WH8BlFA/index-s32.m3u8?DantasIPTV
+
+###################################Infantil
+
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://s26.postimg.org/8dh6569pl/Logo_Disney_XD.svg.png" group-title="Infantil",Disney XD
+http://str03.ddns.net/086/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nick" tvg-logo="http://s26.postimg.org/vxsad4yuh/584.jpg" group-title="Infantil",Nickelodeon
+http://str03.ddns.net/077/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://s26.postimg.org/bhh9uwokp/Discovery_kids_logo.png" group-title="Infantil",Discovery Kids
+http://str02.ddns.net/061/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-logo="http://s26.postimg.org/9oed6l3e1/logo_gloob_fundobranco_500x500.jpg" group-title="Infantil",Gloob
+http://str03.ddns.net/089/myStream/playlist.m3u8
+
+###################################Musicas
+
+#EXTINF:-1 tvg-id="Capital TV (UK)" tvg-logo="http://s26.postimg.org/phd7uvzcp/8a69b968527ce6d3a2083fc05ec56753.png" group-title="Musica",Capital TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?DantasIPTV
+
+#EXTINF:-1 tvg-id="Djing Summer Vibes HD" tvg-logo="http://s26.postimg.org/f5s4u49tl/summer-vibes.jpg" group-title="Musica",Djing Summer Vibes HD
+http://www.djing.com/tv/s-03-summer-vibes.m3u8?DantasIPTV
+
+#EXTINF:-1 tvg-id="Heart TV (UK)" tvg-logo="http://s26.postimg.org/lri6fqcvt/ac7d3aa2c6875405c9eed3c3bf922d4a.png" group-title="Musica",Heart TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?DantasIPTV
+
+#EXTINF:-1 tvg-id="HIT TV" tvg-logo="http://s26.postimg.org/3kmk05dq1/8303c11c0310e371ef23dee00fff67dd.jpg" group-title="Musica",HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_1.m3u8?DantasIPTV
+
+#EXTINF:-1 tvg-id="Music Box Gold" tvg-logo="https://i.imgur.com/g9k2F8Y.png" group-title="Musica",Music Box Gold
+http://musicbox.cdnvideo.ru:1935/musicbox/musicboxtv.sdp/playlist.m3u8?DantasIPTV
+
+#EXTINF:-1 tvg-id="Radio 105 TV (ITÁLIA) tvg-logo="http://fancystreams.com/channelthumb/radio105.png" group-title="Musica", Radio 105 TV (ITÁLIA)
+http://fms.105.net:1935/live/105Test1/playlist.m3u8?DantasIPTV
+
+#EXTINF:-1 tvg-id="Radio Monte Carlo TV (ITÁLIA)" tvg-logo="http://s26.postimg.org/dofeqo2wp/3be22a27a0123eabc4717396042f9217.png" group-title="Musica",Radio Monte Carlo TV (ITÁLIA)
+http://fms.105.net:1935/live/rmc1/chunklist_w210499975.m3u8?DantasIPTV
+
+#EXTINF:-1 tvg-id="TV 538" tvg-logo="http://s26.postimg.org/sqw8f3cu1/6973c1242bc777c5bfd3ee19bc81f3a4.png" group-title="Musica",TV 538 (Holanda)
+http://hlscdn.538.nl/content/538tv/538tv_3.m3u8?DantasIPTV
+
+#EXTINF:-1 tvg-id="1 Music" tvg-logo="" group-title="Musica",1 Music
+http://92.249.129.152/stream/1music.m3u8
+
+#EXTINF:-1 tvg-id="CITY TV" tvg-logo="" group-title="Musica",CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
+
+####################################RADIOS
+
+#EXTINF:-1 tvg-id="Energia 97.7 FM" tvg-logo="http://www2.97fm.com.br/imagens/layout/logo.png" group-title="Radios",Energia 97.7 FM
+http://aac.97fm.com.br/energia?type=.flv
+
+#EXTINF:-1 tvg-id="Dubstep FM" tvg-logo="http://db.radioline.fr/pictures/radio_ee1c41831c42197a6fa49f7bb7ce8946/logo200.jpg" group-title="Radios",Dubstep FM
+http://192.99.150.31:9083/stream
+
+#EXTINF:-1 tvg-id="Disney 91.3 FM" tvg-logo="http://img.radios.com.br/radio/lg/radio12826_1439401446.jpg" group-title="Radios",Disney 91.3 FM
+http://disneyradiohds-lh.akamaihd.net/i/LTM_Radio_Disney_HDS_1@92327/master.m3u8
+
+#EXTINF:-1 tvg-id="Joven Pan SP 100.9 FM" tvg-logo="http://i1094.photobucket.com/albums/i447/Celso_Moraes/jovem_zps492738a1.jpg" group-title="Radios","Radio" radio=true,Joven Pan SP 100.9 FM
+http://centova6.ciclanohost.com.br:9256/;
+
+#EXTINF:-1 tvg-id="Mix 106.3 FM" tvg-logo="http://radioenegocios.com.br/wp-content/uploads/2014/04/mixfmsaopaulo_24022014-400x230.png" group-title="Radios",Mix 106.3 FM
+http://mixmp3.crossradio.com.br:1102/live
+
+#EXTINF:-1 tvg-id="Coca Cola FM" tvg-logo="https://www.imusicaradios.com.br/go_ccfm/img/logo_cc.png?176d163dce6f3a78" group-title="Radios",Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+
+#EXTINF:-1 tvg-id="Hunter FM Electronic" tvg-logo="" group-title="Radios",Hunter FM Electronic
+http://live.hunterfm.com:80/electronic
+
+#EXTINF:-1 tvg-id="Vibe FM" tvg-logo="http://www.vibe89fm.com/sites/all/themes/vibe/images/logo.png" group-title="Radios",Vibe FM
+http://servidor36.brlogic.com:8180/live
+
+#EXTINF:-1 tvg-id="Transamerica FM" tvg-logo="https://img.radios.com.br/radio/xl/radio8832_1439401341.jpg" group-title="Radios",Transamerica FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+
+#EXTINF:-1 tvg-id="Metropolitana 98.5 FM" tvg-logo="http://s1.postimg.org/6nyrtftewv/e804cd84914c76924b9c82a2e3a5669b.png" group-title="Radios",Metropolitana 98.5 FM
+http://aacp.paineldj3.com.br:8000/;stream/1
+
+#EXTINF:-1 tvg-id="Radio Maringa" tvg-logo="http://2.bp.blogspot.com/--AonEe0rnSs/VKiRI2KwU7I/AAAAAAAAYVE/dPJmgQGy9ho/s1600/RADIO_MARINGA_FM_POMBAL_PB.png" group-title="Radios",Radio Maringa
+http://ice1.fabricahost.com.br:8010/live.128
+
+#EXTINF:-1 tvg-id="Rádio Melodia Gospel 97.5 FM (RJ)" tvg-logo="http://s1.postimg.org/97121qqikf/melodia-fm-rj1.png" group-title="RÁDIOS",Radio Melodia Gospel 97.5 FM (RJ)
+http://stm38.srvstm.com:31010/;stream/1
+
+#EXTINF:-1 tvg-id="Radio Dumont 104.3 FM" tvg-logo="http://2.bp.blogspot.com/-pjoAgVtyT-o/US7MGCVNySI/AAAAAAAAFFA/1FmQtDP5vbA/s1600/logo+120.png" group-title="Radios",Radio Dumont 104.3 FM
+http://216-155-149-154.webnow.com.br/dumont.aac
