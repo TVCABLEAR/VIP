@@ -1,0 +1,146 @@
+#EXTINF:0,ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,ESPN 2
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,ESPN 3
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,FOX SPORTS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,FOX SPORTS 2
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,FOX SPORTS 3
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,WINSPORTS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,CANAL F1 LATIN AMERICA
+http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,TDN MEXICO
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,UNIVISION TDN
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Golf Latin america
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLF_CHANNEL_HD)/Stream(01)/index.m3u8
+#EXTINF:0,NBA TV (Basketball)
+http://216.31.255.235/hlsl/5/NBATV/NBATV.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,NFL TV (American Football)
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,MLB Network (Baseball)
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Pac 12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Pac 12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Pac 12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Pac 12 Mountain
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Pac 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Pac 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,CHELSEA TV (English Premier League football club)
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Real Madrid TV (English)
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Real Madrid TV*
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Sevilla FC TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Sevilla FC TV*
+http://sevillafc_live-lh.akamaihd.net/i/radio_0@354144/master.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,TyC Sports
+https://tycsportsalive-a.akamaihd.net/fee95c06c9a8473f93d2d09bbefe8ece/sa-east-1/5395474896001/profile_1/chunklist.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Gol TV
+http://149.56.26.6:25461/live/dreamscanales/123456/34672.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Mundo Auto
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist_w393925018.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,CLARO SPORTS HD
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,RED BULL TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,FIGHT BOX HD
+http://hls.redefine.pl/ECD95B41/1573/0/hls720/masterlist.m3u
+#EXTINF:0,SPORT FIGHT HD
+http://hls.redefine.pl/1A4514F5/12311/0/hls720/720p/list.m3u8
+#EXTINF:0,NBC GOLF 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:0,NBC GOLF SD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:0,Fox Sports News
+http://foxsportshlsg01-lh.akamaihd.net/i/fsnewshls_0@301672/master.m3u8?|X-Forwarded-For=110.33.122.75
+#EXTINF:0,RED BULL TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:0, OLIMPIC CHANNEL HD
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8
+#EXTINF:0, OLIMPIC CHANNEL FULL HD
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+#EXTINF:0,CDN SportsMax
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0, CDO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0, ESPN Sur
+http://35.196.195.222/hls/live/channel1.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,ESPN 2 Sur
+http://35.196.195.222/hls/live/channel3.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0, ESPN 3 Sur
+http://35.196.195.222/hls/live/channel7.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Win Sports
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Todo Deportes TV
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Teletrak
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Deport Tv
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,RAI Sport 1
+http://212.162.68.240/italy/raisport1_1800/playlist.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,RAI Sport 2
+http://212.162.68.240/italy/raisport2_1800/playlist.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Formula 1 Internacional.
+http://opus.cf/allfrtvstrm/tkn/formule1int/i/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,All Sports 
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Dub Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,AD Sports 1 HD Opc 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
+#EXTINF:0,AD Sports 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,AD Sports 2 HD Opc2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:0,Sports TV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:0,EUROSPORT 1
+http://65.254.55.10:4000/live/197/197.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,EUROSPORT 1 (Ingles)
+http://163.172.86.59:3135/Euro/1/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,EUROSPORT 2 (Ingles)
+http://163.172.86.59:3135/Euro/2/index.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,VIASAT SPORT
+http://persik.by/stream/2944/263250/10249.m3u8?Familia-TV-Free.m3u8
+#EXTINF:0,Bein sport1
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=bein_sport_1
+#EXTINF:0,Bein sport2
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=bein_sport_2
+#EXTINF:0,Bein sport3
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=bein_sport_3
+#EXTINF:0,Bein sport4
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=bein_sport_4
+#EXTINF:0,Bein sport5
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=bein_sport_5
+#EXTINF:0,Bein sport6
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=bein_sport_6
+#EXTINF:0,Bein sport7
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=bein_sport_7
+#EXTINF:0,Bein sport8
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=bein_sport_8
+#EXTINF:0,Bein sport9
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=bein_sport_9
+#EXTINF:0,Bein sport10
+http://www.elahmad.com/tv/m3u8/teledu1.m3u8?id=bein_sport_10
+#EXTINF:0,FUTBOLCHILE.NET 
+https://live11.userapi.com/637614/live/ZPS1VdJCfc4/playlist.m3u8
