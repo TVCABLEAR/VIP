@@ -1,0 +1,159 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", AD SPORTS1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", AD SPORTS2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", GOLF
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/23.ts
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", BARCA
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git
+http://37.187.128.169:8000/live/dkkkasd4545rrrpp/akqpp33845hvnajur/24.ts
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", BEINSPORTS LALIGA
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git 
+http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/15.ts
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", BEINSPORTS
+#EXTVLCOPT:http-referrer=http://09stream.com/canales/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87
+http://www.playerhd1.pw/channel.php?%20file=113&width=650&height=400&autostart=true
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", DEPORTES 1
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git 
+http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/17.ts
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", DEPORTES1
+#EXTVLCOPT:http-referrer=http://telefivegb.com/canales/deporte/deporte1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 
+http://www.playerhd1.pw/channel.php?%20file=114&width=650&height=400&autostart=true
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", DEPORTES 2
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git 
+http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/18.ts
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", DEPORTES2
+#EXTVLCOPT:http-referrer=http://telefivegb.com/canales/deporte/deporte2/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 
+http://www.playerhd1.pw/channel.php?%20file=115&width=650&height=400&autostart=true
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", BETIS TV  
+http://rbetis-hls.flumotion.com/rbetis/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/HasBahCa.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", CANAL MOTOR
+http://03.sf.bg.unistream.tv/test/canalmotor-hls/pl.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", CHELSEA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", CDO PREMIUM
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", DEPORTV 
+http://ar.watcha.live/ch8/full.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", FUTBOL
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git 
+http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/19.ts
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", FUTBOL
+#EXTVLCOPT:http-referrer=http://09stream.com/canales/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 
+http://www.playerhd1.pw/channel.php?%20file=112&width=650&height=400&autostart=true
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", EUROSPORT1
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git 
+http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/25.ts
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", EUROSPORT1
+#EXTVLCOPT:http-referrer=http://09stream.com/canales/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 
+http://www.playerhd1.pw/channel.php?file=120&width=650&height=400&autostart=true
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", EUROSPORT2
+#EXTVLCOPT:http-referrer=http://09stream.com/canales/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 
+http://www.playerhd1.pw/channel.php?file=121&width=650&height=400&autostart=true
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", FORMULA1
+#EXTVLCOPT:http-user-agent=VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git 
+http://37.187.128.169:8000/live/canaaallp21/is001ra121el36ma45moni/24.ts
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", FORMULA1
+http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", MLB NETWORK
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/index_wired.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", NBC GOLF
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", PORTO CANAL
+http://213.13.26.41:1935/live/portocanal/KodiPortugal.pt.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", REDBULL TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", SEVILLA TV
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", TODO DEPORTES
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", SKY BUNDESLIGA
+#EXTVLCOPT:http-referrer=http://09stream.com/canales/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 
+http://www.playerhd1.pw/channel.php?file=127&width=650&height=400&autostart=true
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", SKY F1
+#EXTVLCOPT:http-referrer=http://09stream.com/canales/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 
+http://www.liveonlinetv247.info/embed/skysportsf1.php
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", MOTOGP
+#EXTVLCOPT:http-referrer=http://09stream.com/canales/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 
+http://www.playerhd1.pw/channel.php?%20file=117&width=650&height=400&autostart=true
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", UFC
+#EXTVLCOPT:http-referrer=http://09stream.com/canales/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 
+http://www.filmon.tv/tv/channel/export?channel_id=713
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", ESPN2
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", ESPN3
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(06)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", TDN
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", UNIVISION TDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", COS
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", COS FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://oi66.tinypic.com/k1cuad.jpg", PX SPORTS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
