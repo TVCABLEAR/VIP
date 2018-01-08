@@ -1,0 +1,1404 @@
+#EXTM3U
+
+***********ETRETENIMIENTO 1*********
+
+#EXTINF:-1, 01 SIN ID
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1, 02 - AZTECA 1
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8 
+#EXTINF:-1, 03 - CH 32
+http://www.iptvmexico.xyz/ch/32.m3u8
+#EXTINF:-1, 04 FORO TV
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, 05 GRUPO MAC
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8 
+#EXTINF:-1, 06 CANAL 11
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8 
+#EXTINF:-1, 07 NVS RADIO
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:-1, 08 ESPN HD (05)
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8 
+#EXTINF:-1, 09 ESPN 2 HD (06)
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, 10 ESPN 3 HD (06)
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(06)/index.m3u8 
+#EXTINF:-1, 11 OOYALA HD
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
+
+********** KIDS ***********
+
+#EXTINF:-1, 1 MTCH LIVE
+http://live10.cdnmedia.tv/mtchlive/mtch.smil/playlist.m3u8 
+#EXTINF:-1, 2 CORACYT
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8 
+#EXTINF:-1, 03 GFORMULA
+http://gformula.mmdlive.lldns.net/gformula/596433f167b64696bb03398fecdefbad/chunklist_b732000.m3u8 
+#EXTINF:-1, 04 WMS
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1, 05 TV ACAPULCO
+http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
+#EXTINF:-1, 06 PTV
+http://cdnh15.iblups.com/hls/ptv.m3u8 
+#EXTINF:-1, 07 CALI TV
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1, 08 ANTI
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8 
+#EXTINF:-1, 09 TIEMPO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8 
+#EXTINF:-1, 10 EVENTOS LIVE
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/playchannel.m3u8 
+#EXTINF:-1, 11 TMED
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8 
+#EXTINF:-1, 12 WGN PRIME
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8 
+#EXTINF:-1, 13 WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8 
+#EXTINF:-1, 14 AD SPORT 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
+#EXTINF:-1, 15 AD SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
+#EXTINF:-1, 16 SECURE LIVE
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1, 17 SPORTING HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8 
+#EXTINF:-1, 18 TV MEXIQUENSE
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+#EXTINF:-1, 19 AZTECA 2
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8
+#EXTINF:-1, 20 GRUPO MAC
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+#EXTINF:-1, 21 CNOT
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8 
+#EXTINF:-1, 22 MILENIO CENTER
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1, 23 PINGUINO TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8 
+#EXTINF:-1, 24 SIP TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8 
+#EXTINF:-1, 25 TV B8
+http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8 
+#EXTINF:-1, 26 RAI PREMIUM
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8 
+#EXTINF:-1, 27 SCJN
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1, 28 OCB TV
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
+#EXTINF:-1, 29 C-SPAN 1
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
+#EXTINF:-1, 30 C SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+#EXTINF:-1, 31 C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
+#EXTINF:-1, 32 COOL HD
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:-1, 33 MM HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1, 34 RETRO TV HQ
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8 
+#EXTINF:-1, 35 VIRGIN 1
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8 
+#EXTINF:-1, 36 UTV LIVE
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8 
+#EXTINF:-1, 37 AT FALLBACK
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8 
+#EXTINF:-1, 38 RT ESPAÑOL
+http://secure-streams.akamaized.net/rt-esp/index2500.m3u8 
+#EXTINF:-1, 39 LANCELOT 
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8 
+#EXTINF:-1, 40 YES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8 
+#EXTINF:-1, 41 DGRAU
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8 
+#EXTINF:-1, 42 VMAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8 
+
+********** TODO UN POCO ***********
+
+#EXTINF:-1, 01 BC LIVE
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:-1, 02 CDO LIVE
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8 
+#EXTINF:-1, 03 COSMOS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:-1, 04 LIVE STREAM
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1, 05 AZTECA LIVE
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8 
+#EXTINF:-1, 06 CHILEVISION
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8 
+#EXTINF:-1, 07 RMTV LIVE
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1, 08 HLS LIVE
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8 
+#EXTINF:-1, 09 RAXA TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+#EXTINF:-1, 10 RAXA 2 TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://3.sendvid.com/y00xutjl.mp4/ #Name: iptvtools_245
+#EXTINF:-1,#Name: iptvtools_234
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8? 
+#EXTINF:-1,#Name: iptvtools_234
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://ar.watcha.live/ch17/hi.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?JoCaRoIPTV.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://5g.iptvmanagerpro.com/stream_102_d0f8ecbae19153181e4c89ecd48244d7_1513214025.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://5g.iptvmanagerpro.com/stream_77_764d9424af1ae308c12ac1813427c9f4_1513214025.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://5g.iptvmanagerpro.com/stream_35_57d28d7bd35a8da64778cd086d49137f_1513214025.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://strm.unicanal.com.py/live/unicanal_src.m3u8?JoCaRoIPTV.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://cdnh15.iblups.com/hls/ptv.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/playchannel.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?JoCaRoIPTV.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?
+#EXTINF:-1,#Name: iptvtools_234
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8 
+#EXTINF:-1,
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8 
+#EXTINF:-1,
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8 
+#EXTINF:-1,
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8 
+#EXTINF:-1,
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8 
+#EXTINF:-1,
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,
+http://secure-streams.akamaized.net/rt-esp/index2500.m3u8 
+#EXTINF:-1,
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8 
+#EXTINF:-1,
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8 
+#EXTINF:-1,
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8 
+#EXTINF:-1,
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8 
+#EXTINF:-1,
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8 
+#EXTINF:-1,
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+
+*********Deportes******************
+
+#EXTINF:-1, #Name: CANAL 5 HD
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_1
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8 
+#EXTINF:-1,#Name: iptvtools_2
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1,#Name: CARTOON
+https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
+#EXTINF:-1,#Name: iptvtools_5
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+#EXTINF:-1,#Name: ESPN_HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: ESPN2_HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 #Name: iptvtools_9
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8
+#EXTINF:-1, #Name:SPACE
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+
+***********PELICULAS 1*********
+
+#EXTINF:-1,#Name: TV UNO 
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1,#Name: CANU
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1,#Name: iptvtools_14
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
+#EXTINF:-1,#Name: iptvtools_17
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1,#Name: SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,#Name: DIA TV
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(DIA_TV_HD)/index.m3u8
+#EXTINF:-1, #Name: iptvtools_19
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8 
+#EXTINF:-1,#Name: NAT GEO
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8
+
+***********ETRETENIMIENTO 1*********
+
+
+#EXTINF:-1, #Name: NAT GEO
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8 
+#EXTINF:-1, #Name: FORO TV
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: GOLDEN HD
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: iptvtools_22
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8 #Name: 
+#EXTINF:-1, #Name: iptvtools_22
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?tecnotv.info?iptv.m3u8 
+#EXTINF:-1, #Name: iptvtools_22
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8 
+#EXTINF:-1, #Name: iptvtools_22
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8 
+#EXTINF:-1, #Name: EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_22
+http://200.115.193.177/live/26hd-720/.m3u8 
+#EXTINF:-1, #Name: iptvtools_22
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1, #Name: iptvtools_22
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8 
+#EXTINF:-1, #Name: HBTV
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_22
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_22
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+#EXTINF:-1, #Name: iptvtools_22
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_22
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+ 
+*********************PELICULAS 21 *********
+
+#EXTINF:-1,#Name: iptvtools_39
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-360p/chunks.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-360p/chunks.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,#Name: iptvtools_39
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8 
+#EXTINF:-1, #Name: UNICABLE
+http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8 
+#EXTINF:-1, #Name: ESPN HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8 
+#EXTINF:-1, #Name: ESPN HD 2
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8
+#EXTINF:-1, #Name SPACE
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1, #Name: TV UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
+#EXTINF:-1, #Name: TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(DIA_TV_HD)/index.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8 
+#EXTINF:-1, #Name: NAT GEO
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8 
+#EXTINF:-1, #Name: NAT GEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8 
+#EXTINF:-1, #Name: FORO TV HD
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: GOLDEN HD
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1, #Name: TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://200.115.193.177/live/26hd-720/.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-360p/chunks.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-360p/chunks.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: iptvtools_3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://184.154.28.210:1935/canal4/canal4/live.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://live10.cdnmedia.tv/mtchlive/mtch.smil/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://gformula.mmdlive.lldns.net/gformula/596433f167b64696bb03398fecdefbad/chunklist_b732000.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://cdnh15.iblups.com/hls/ptv.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/playchannel.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?JoCaRoIPTV.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://secure-streams.akamaized.net/rt-esp/index2500.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?tecnotv.info?iptv.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://184.154.28.210:1935/canal4/canal4/live.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+********** KIDS ***********
+
+#EXTINF:-1,#Name: iptvtools_186
+http://live10.cdnmedia.tv/mtchlive/mtch.smil/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://gformula.mmdlive.lldns.net/gformula/596433f167b64696bb03398fecdefbad/chunklist_b732000.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+#EXTINF:-1,#Name: iptvtools_186
+http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
+#EXTINF:-1,#Name: iptvtools_186
+http://cdnh15.iblups.com/hls/ptv.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1,#Name: iptvtools_186
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/playchannel.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,#Name: iptvtools_186
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,#Name: iptvtools_186
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_186
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1,#Name: iptvtools_186
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1,#Name: iptvtools_186
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
+#EXTINF:-1,#Name: iptvtools_186
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_186
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_186
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_186
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:-1,#Name: iptvtools_186
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1,#Name: iptvtools_186
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://secure-streams.akamaized.net/rt-esp/index2500.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8 
+#EXTINF:-1,#Name: iptvtools_186
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8 
+
+********** TODO UN POCO ***********
+
+#EXTINF:-1,#Name: iptvtools_234
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?tecnotv.info?iptv.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://3.sendvid.com/y00xutjl.mp4/ #Name: iptvtools_245
+#EXTINF:-1,#Name: iptvtools_234
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8? 
+#EXTINF:-1,#Name: iptvtools_234
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://ar.watcha.live/ch17/hi.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?JoCaRoIPTV.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://5g.iptvmanagerpro.com/stream_102_d0f8ecbae19153181e4c89ecd48244d7_1513214025.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://5g.iptvmanagerpro.com/stream_77_764d9424af1ae308c12ac1813427c9f4_1513214025.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://5g.iptvmanagerpro.com/stream_35_57d28d7bd35a8da64778cd086d49137f_1513214025.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://strm.unicanal.com.py/live/unicanal_src.m3u8?JoCaRoIPTV.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://cdnh15.iblups.com/hls/ptv.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/playchannel.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?JoCaRoIPTV.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8 
+#EXTINF:-1,#Name: iptvtools_234
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8?
+#EXTINF:-1,#Name: iptvtools_234
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
+#EXTINF:-1,#Name: iptvtools_234
+
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8 
+#EXTINF:-1,
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8 
+#EXTINF:-1,
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8 
+#EXTINF:-1,
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8 
+#EXTINF:-1,
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8 
+#EXTINF:-1,
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1,
+http://secure-streams.akamaized.net/rt-esp/index2500.m3u8 
+#EXTINF:-1,
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8 
+#EXTINF:-1,
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8 
+#EXTINF:-1,
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8 
+#EXTINF:-1,
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8 
+#EXTINF:-1,
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8 
+#EXTINF:-1,
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?tecnotv.info?iptv.m3u8 
+
+***********ETRETENIMIENTO 1*********
+
+#EXTINF:-1,#Name: iptvtools_1
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1,#Name: iptvtools_1
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8 
+#EXTINF:-1,#Name: iptvtools_1
+http://www.iptvmexico.xyz/ch/32.m3u8
+#EXTINF:-1,#Name: iptvtools_1
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_1
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8 
+#EXTINF:-1,#Name: iptvtools_1
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8 
+#EXTINF:-1,#Name: iptvtools_1
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8?tecnotv.info?iptv.m3u8 
+#EXTINF:-1,#Name: iptvtools_1
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_1
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_1
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(06)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_1
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8 #EXTM3U
+
+
+*********Deportes******************
+
+#EXTINF:-1, #Name: CANAL 5 HD
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8 
+#EXTINF:-1,#Name: iptvtools_1
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8 
+#EXTINF:-1,#Name: iptvtools_2
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1,#Name: CARTOON
+https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
+#EXTINF:-1,#Name: iptvtools_5
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+#EXTINF:-1,#Name: ESPN_HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8 
+#EXTINF:-1,#Name: ESPN2_HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1 #Name: iptvtools_9
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8
+#EXTINF:-1, #Name:SPACE
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+
+***********PELICULAS 1*********
+
+#EXTINF:-1,#Name: TV UNO 
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1,#Name: CANU
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1,#Name: iptvtools_14
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
+#EXTINF:-1,#Name: iptvtools_17
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:-1,#Name: SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,#Name: DIA TV
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(DIA_TV_HD)/index.m3u8
+#EXTINF:-1, #Name: iptvtools_19
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8 
+#EXTINF:-1,#Name: NAT GEO
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8
+
+***********ETRETENIMIENTO 1*********
+
+
+#EXTINF:-1, #Name: NAT GEO
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8 
+#EXTINF:-1, #Name: FORO TV
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: GOLDEN HD
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: iptvtools_22
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8 #Name: 
+#EXTINF:-1, #Name: iptvtools_22
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?tecnotv.info?iptv.m3u8 
+#EXTINF:-1, #Name: iptvtools_22
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8 
+#EXTINF:-1, #Name: iptvtools_22
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8 
+#EXTINF:-1, #Name: EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_22
+http://200.115.193.177/live/26hd-720/.m3u8 
+#EXTINF:-1, #Name: iptvtools_22
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1, #Name: iptvtools_22
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8 
+#EXTINF:-1, #Name: HBTV
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_22
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_22
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+#EXTINF:-1, #Name: iptvtools_22
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_22
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+ 
+*********************PELICULAS 21 *********
+
+#EXTINF:-1,#Name: iptvtools_39
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-360p/chunks.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-360p/chunks.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,#Name: iptvtools_39
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8 
+#EXTINF:-1, #Name: UNICABLE
+http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8 
+#EXTINF:-1, #Name: ESPN HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8 
+#EXTINF:-1, #Name: ESPN HD 2
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8
+#EXTINF:-1, #Name SPACE
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+#EXTINF:-1, #Name: TV UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8
+#EXTINF:-1, #Name: TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(DIA_TV_HD)/index.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8 
+#EXTINF:-1, #Name: NAT GEO
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8 
+#EXTINF:-1, #Name: NAT GEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8 
+#EXTINF:-1, #Name: FORO TV HD
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: GOLDEN HD
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1, #Name: TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://200.115.193.177/live/26hd-720/.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-360p/chunks.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-360p/chunks.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8 
+#EXTINF:-1, #Name: iptvtools_3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://184.154.28.210:1935/canal4/canal4/live.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://live10.cdnmedia.tv/mtchlive/mtch.smil/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://gformula.mmdlive.lldns.net/gformula/596433f167b64696bb03398fecdefbad/chunklist_b732000.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://cdnh15.iblups.com/hls/ptv.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/playchannel.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1, #Name: iptvtools_39
+http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8 
+#EXTINF:-1, #Name: iptvtools_39
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?JoCaRoIPTV.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://83.222.205.10/TVB8/wfhdeu/track_0_3000/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://secure-streams.akamaized.net/rt-esp/index2500.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?tecnotv.info?iptv.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://spainserver.miamitvchannel.com/miamitv/smil:miamitvspain/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://184.154.28.210:1935/canal4/canal4/live.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8 
+#EXTINF:-1, #Name: iptvtools_129
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1, #Name: iptvtools_129
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
