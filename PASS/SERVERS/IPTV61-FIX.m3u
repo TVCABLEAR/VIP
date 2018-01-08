@@ -1,0 +1,906 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 group-title="IPTV61-MOISES123", =IPTV61=
+https://www.youtube.com/watch?v=50GTjROY1es
+<!--https://pastebin.com/raw/914X9Wrs-->
+
+#EXTINF:-1 tvg-id="I187.41118.tvguide.com" tvg-name="" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="IPTV61-MOISES123",=IPTV61=
+#EXTGRP: =IPTV61= User Moises123
+
+#EXTINF:-1,DTV Sports
+http://iptv61w.com:25461/live/CHILE/IPTV61W/7343.m3u8
+#EXTINF:-1,DTV Sports 2
+http://iptv61w.com:25461/live/CHILE/IPTV61W/7344.m3u8
+#EXTINF:-1,CNT Sports HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4739.m3u8
+#EXTINF:-1,PLANETA 11
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5764.m3u8
+#EXTINF:-1,Movistar Deportes
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3805.m3u8
+#EXTINF:-1,Fox Series Premium
+http://iptv61w.com:25461/live/CHILE/IPTV61W/7444.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL HD.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4499.m3u8
+#EXTINF:-1,DISCOVERY ID HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4546.m3u8
+#EXTINF:-1,DISCOVERY KIDS HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4545.m3u8
+#EXTINF:-1,DISCOVERY WORLD HD.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4542.m3u8
+#EXTINF:-1,ESPN DEPORTES HD.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4482.m3u8
+#EXTINF:-1,FOX DEPORTES HD.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4484.m3u8
+#EXTINF:-1,GOL TV LATIN HD.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4481.m3u8
+#EXTINF:-1,PARAMOUNT HD.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4543.m3u8
+#EXTINF:-1,PASIONES HD.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4691.m3u8
+#EXTINF:-1,TELEMUNDO HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4483.m3u8
+#EXTINF:-1,HBO HD (2)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4822.m3u8
+#EXTINF:-1,13C (CH)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3738.m3u8
+#EXTINF:-1,24 Horas TVN .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3739.m3u8
+#EXTINF:-1,A 24 HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6464.m3u8
+#EXTINF:-1,A&E .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3740.m3u8
+#EXTINF:-1,AMC .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3742.m3u8
+#EXTINF:-1,America TV ARG
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3882.m3u8
+#EXTINF:-1,America TV (PE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3741.m3u8
+#EXTINF:-1,Animal Planet .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3743.m3u8
+#EXTINF:-1,Antena 3 .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3744.m3u8
+#EXTINF:-1,ANTV (VE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3745.m3u8
+#EXTINF:-1,Atreseries
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3902.m3u8
+#EXTINF:-1,ATV (PE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3746.m3u8
+#EXTINF:-1,AXN
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3747.m3u8
+#EXTINF:-1,AzClick
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5301.m3u8
+#EXTINF:-1,Azteca Siete
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3893.m3u8
+#EXTINF:-1,Azteca Trece
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3892.m3u8
+#EXTINF:-1,Baby TV.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3748.m3u8
+#EXTINF:-1,BBC WORLD ..
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3708.m3u8
+#EXTINF:-1,Bein Sports Ñ
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5768.m3u8
+#EXTINF:-1,Bein Liga
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3863.m3u8
+#EXTINF:-1,Bein Liga HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5738.m3u8
+#EXTINF:-1,Boomerang
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3709.m3u8
+#EXTINF:-1,C5N
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6466.m3u8
+#EXTINF:-1,CableNoticias .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3749.m3u8
+#EXTINF:-1,Cine Argentino
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6468.m3u8
+#EXTINF:-1,Cronica TV HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6470.m3u8
+#EXTINF:-1,Canal 4  (Arg)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5736.m3u8
+#EXTINF:-1,Canal 13 HD (Arg)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6472.m3u8
+#EXTINF:-1,Canal 26 (ARG)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6214.m3u8
+#EXTINF:-1,Canal 5 (URU)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4655.m3u8
+#EXTINF:-1,Canal 10 (URU)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4653.m3u8
+#EXTINF:-1,Canal 12 (URU)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4654.m3u8
+#EXTINF:-1,Canal 13 (CH)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3945.m3u8
+#EXTINF:-1,Canal 13 HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3944.m3u8
+#EXTINF:-1,Canal Capital
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3750.m3u8
+#EXTINF:-1,Canal Fox Norte.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3752.m3u8
+#EXTINF:-1,Canal N (PE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3755.m3u8
+#EXTINF:-1,Canal TRO
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3756.m3u8
+#EXTINF:-1,Canal Uno HD (EC)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4352.m3u8
+#EXTINF:-1,Canal Uno (EC)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5316.m3u8
+#EXTINF:-1,Canal Uno (CO)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3757.m3u8
+#EXTINF:-1,Canal 4 (CR)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8260.m3u8
+#EXTINF:-1,Canal 6 (CR)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8259.m3u8
+#EXTINF:-1,Canal 7 (CR)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8258.m3u8
+#EXTINF:-1,Canal 9 (CR)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8257.m3u8
+#EXTINF:-1,Canal 11 (CR)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8256.m3u8
+#EXTINF:-1,Canal 13 (CR)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8255.m3u8
+#EXTINF:-1,Canal 2 TVN (PAN)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8263.m3u8
+#EXTINF:-1,Canal 22 (MX)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3891.m3u8
+#EXTINF:-1,Canal 5 (MX)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3890.m3u8
+#EXTINF:-1,Canal 2 (ESA)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8324.m3u8
+#EXTINF:-1,Canal 6 (ESA)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8323.m3u8
+#EXTINF:-1,Canal 19 (ESA)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8325.m3u8
+#EXTINF:-1,Canal 21 (ESA)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8327.m3u8
+#EXTINF:-1,Canal 35 (ESA)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8322.m3u8
+#EXTINF:-1,Canal Claro
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8355.m3u8
+#EXTINF:-1,Claro Sports
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3888.m3u8
+#EXTINF:-1,CineLatino
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3889.m3u8
+#EXTINF:-1,Caracol HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4325.m3u8
+#EXTINF:-1,Caracol.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3677.m3u8
+#EXTINF:-1,Cartoon Network .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3678.m3u8
+#EXTINF:-1,Caza Y Pesca
+http://iptv61w.com:25461/live/CHILE/IPTV61W/7234.m3u8
+#EXTINF:-1,CDF Basico .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3679.m3u8
+#EXTINF:-1,CDF HD.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8228.m3u8
+#EXTINF:-1,CDF Full HD.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3934.m3u8
+#EXTINF:-1,CDF Premium.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3680.m3u8
+#EXTINF:-1,CDF Estadio HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6164.m3u8
+#EXTINF:-1,CDO Basico .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3681.m3u8
+#EXTINF:-1,CDO Premium .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3682.m3u8
+#EXTINF:-1,CDN2 (RD)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8340.m3u8
+#EXTINF:-1,Chilevision HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3943.m3u8
+#EXTINF:-1,Chilevision HD (2)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6183.m3u8
+#EXTINF:-1,Chilevision (CH)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3683.m3u8
+#EXTINF:-1,Cine Dinamita
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8358.m3u8
+#EXTINF:-1,Cinecanal .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3729.m3u8
+#EXTINF:-1,Cinemax .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3684.m3u8
+#EXTINF:-1,City TV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3760.m3u8
+#EXTINF:-1,CMD (PE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3674.m3u8
+#EXTINF:-1,CNN Chile
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3862.m3u8
+#EXTINF:-1,Cnn Espanol .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3686.m3u8
+#EXTINF:-1,CNN International .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3761.m3u8
+#EXTINF:-1,CNT Sports
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3866.m3u8
+#EXTINF:-1,Cnt Sports 2 HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3762.m3u8
+#EXTINF:-1,Color Vision 9
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8339.m3u8
+#EXTINF:-1,Concert Channel
+http://iptv61w.com:25461/live/CHILE/IPTV61W/7457.m3u8
+#EXTINF:-1,Comedy Central .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3710.m3u8
+#EXTINF:-1,Concert Channel HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/7473.m3u8
+#EXTINF:-1,De Pelicula .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3763.m3u8
+#EXTINF:-1,DHE Movies
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8486.m3u8
+#EXTINF:-1,DeporTV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6471.m3u8
+#EXTINF:-1,Digital 15 (RD)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8338.m3u8
+#EXTINF:-1,Discovery Channel ..
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3764.m3u8
+#EXTINF:-1,Discovery Civilization .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3711.m3u8
+#EXTINF:-1,Discovery Home & Health HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/7470.m3u8
+#EXTINF:-1,Discovery H&H
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3765.m3u8
+#EXTINF:-1,Discovery Kids
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3766.m3u8
+#EXTINF:-1,Discovery Science
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3767.m3u8
+#EXTINF:-1,Discovery Teather HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8321.m3u8
+#EXTINF:-1,Discovery TLC
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3841.m3u8
+#EXTINF:-1,Discovery Turbo .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3768.m3u8
+#EXTINF:-1,Disney Channel ..
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3769.m3u8
+#EXTINF:-1,Disney JR.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3731.m3u8
+#EXTINF:-1,Disney XD .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3712.m3u8
+#EXTINF:-1,DXTV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4480.m3u8
+#EXTINF:-1,Antena Latina (RD)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8341.m3u8
+#EXTINF:-1,EcuadorTV.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3868.m3u8
+#EXTINF:-1,Ecuavisa HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3937.m3u8
+#EXTINF:-1,Ecuavisa.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3874.m3u8
+#EXTINF:-1,Efekto TV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4479.m3u8
+#EXTINF:-1,El Gourmet
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3770.m3u8
+#EXTINF:-1,El Nueve HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6473.m3u8
+#EXTINF:-1,El Trece .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3687.m3u8
+#EXTINF:-1,Epoca (CO)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3771.m3u8
+#EXTINF:-1,Espn HD (Sur)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4700.m3u8
+#EXTINF:-1,Espn 2 HD (Sur)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4701.m3u8
+#EXTINF:-1,Espn 3 HD (Sur)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4702.m3u8
+#EXTINF:-1,ESPN (Sur)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3690.m3u8
+#EXTINF:-1,ESPN 2 (Sur)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3730.m3u8
+#EXTINF:-1,ESPN 3 (Sur)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3689.m3u8
+#EXTINF:-1,ESPN MX
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3886.m3u8
+#EXTINF:-1,Espn 2 MX.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3885.m3u8
+#EXTINF:-1,Espn 3 MX.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3898.m3u8
+#EXTINF:-1,ESPN Radio
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6474.m3u8
+#EXTINF:-1,ET Canal El Tiempo
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3772.m3u8
+#EXTINF:-1,ETC TV .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3773.m3u8
+#EXTINF:-1,Eurochannel .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3774.m3u8
+#EXTINF:-1,Europa Europa .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3775.m3u8
+#EXTINF:-1,FANB
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3776.m3u8
+#EXTINF:-1,Film&Arts
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3777.m3u8
+#EXTINF:-1,Formula1
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3865.m3u8
+#EXTINF:-1,Fox Action .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3778.m3u8
+#EXTINF:-1,FOX Channel .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3714.m3u8
+#EXTINF:-1,Fox Cinema .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3715.m3u8
+#EXTINF:-1,Fox Classics .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3716.m3u8
+#EXTINF:-1,Fox Comedia .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3691.m3u8
+#EXTINF:-1,Fox Family .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3717.m3u8
+#EXTINF:-1,Fox Life
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3779.m3u8
+#EXTINF:-1,Fox Movies.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3718.m3u8
+#EXTINF:-1,Fox News .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3780.m3u8
+#EXTINF:-1,Fox Series E .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3781.m3u8
+#EXTINF:-1,Fox Sports Premium HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6475.m3u8
+#EXTINF:-1,Fox Sports Premium HD (Opc2)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8354.m3u8
+#EXTINF:-1,Fox Sports HD (Sur)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4697.m3u8
+#EXTINF:-1,Fox Sports 1 HD (CH)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6527.m3u8
+#EXTINF:-1,Fox Sports 2 HD (Sur)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4698.m3u8
+#EXTINF:-1,Fox Sports 3 HD (Sur)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4699.m3u8
+#EXTINF:-1,Fox Sports (Arg)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3783.m3u8
+#EXTINF:-1,Fox Sport 2 (Sur)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3861.m3u8
+#EXTINF:-1,Fox Sports 3 (Sur)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3692.m3u8
+#EXTINF:-1,Fox Sports Chile
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3733.m3u8
+#EXTINF:-1,Fox Sports Ven
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3737.m3u8
+#EXTINF:-1,Fox Sports MX
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3887.m3u8
+#EXTINF:-1,Fox Sports 2 MX
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3884.m3u8
+#EXTINF:-1,Fox Sports 3 MX
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3897.m3u8
+#EXTINF:-1,Fox Series O
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3782.m3u8
+#EXTINF:-1,FX .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3785.m3u8
+#EXTINF:-1,FX Movies
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8264.m3u8
+#EXTINF:-1,Glitz .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3786.m3u8
+#EXTINF:-1,GamaTV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3860.m3u8
+#EXTINF:-1,Globovision (VE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3787.m3u8
+#EXTINF:-1,Gol TV HD (Norte)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3867.m3u8
+#EXTINF:-1,Gol Tv Sur.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3693.m3u8
+#EXTINF:-1,Golden .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3734.m3u8
+#EXTINF:-1,Golden Edge .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3788.m3u8
+#EXTINF:-1,Golf Channel .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3719.m3u8
+#EXTINF:-1,Gol Peru
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3789.m3u8
+#EXTINF:-1,H2 .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3790.m3u8
+#EXTINF:-1,HBO
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3694.m3u8
+#EXTINF:-1,HBO 2
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3695.m3u8
+#EXTINF:-1,HBO Family.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3696.m3u8
+#EXTINF:-1,HBO Plus
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3697.m3u8
+#EXTINF:-1,HBO Plus Oeste .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3698.m3u8
+#EXTINF:-1,HBO SD ..
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3791.m3u8
+#EXTINF:-1,HBO Signature .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3699.m3u8
+#EXTINF:-1,HBO HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6203.m3u8
+#EXTINF:-1,HBO 2 HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6204.m3u8
+#EXTINF:-1,HBO 2 HD (2)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8347.m3u8
+#EXTINF:-1,HBO Family HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6202.m3u8
+#EXTINF:-1,HBO Family (2)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5294.m3u8
+#EXTINF:-1,HBO Signature HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6201.m3u8
+#EXTINF:-1,History HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/7472.m3u8
+#EXTINF:-1,History Channel .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3792.m3u8
+#EXTINF:-1,Hola TV .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3793.m3u8
+#EXTINF:-1,HTV .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3794.m3u8
+#EXTINF:-1,ID - Investigation Discovery
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3796.m3u8
+#EXTINF:-1,Imagen.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3901.m3u8
+#EXTINF:-1,Ingenio TV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3896.m3u8
+#EXTINF:-1,iSat
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8230.m3u8
+#EXTINF:-1,Las Estrellas
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3797.m3u8
+#EXTINF:-1,Latina (PE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3798.m3u8
+#EXTINF:-1,MasChic
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3801.m3u8
+#EXTINF:-1,MasTV +23 (PAN)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8261.m3u8
+#EXTINF:-1,MAX .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3720.m3u8
+#EXTINF:-1,Max Prime (E)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3800.m3u8
+#EXTINF:-1,Max Prime (O) .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3721.m3u8
+#EXTINF:-1,MC Play TV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4114.m3u8
+#EXTINF:-1,Miami TV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4111.m3u8
+#EXTINF:-1,Mega HD.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8229.m3u8
+#EXTINF:-1,Mega (CH) .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3700.m3u8
+#EXTINF:-1,Mega ES
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5769.m3u8
+#EXTINF:-1,Meridiano (VE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3803.m3u8
+#EXTINF:-1,Mi Musica HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3903.m3u8
+#EXTINF:-1,Movistar Futbol SD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6453.m3u8
+#EXTINF:-1,Movistar Plus
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3806.m3u8
+#EXTINF:-1,Movistar TV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3807.m3u8
+#EXTINF:-1,MP
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3895.m3u8
+#EXTINF:-1,MTV .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3722.m3u8
+#EXTINF:-1,MTV Hits
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8484.m3u8
+#EXTINF:-1,Nat Geo Wild .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3809.m3u8
+#EXTINF:-1,NatGeo HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/7468.m3u8
+#EXTINF:-1,National Geographic
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3810.m3u8
+#EXTINF:-1,NexTV (PE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3811.m3u8
+#EXTINF:-1,Nex TV (PAN)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5949.m3u8
+#EXTINF:-1,Nick HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/7466.m3u8
+#EXTINF:-1,Nick 2 HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/7467.m3u8
+#EXTINF:-1,Nick Jr ..
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3812.m3u8
+#EXTINF:-1,Nickelodeon
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3813.m3u8
+#EXTINF:-1,NTN 24 Horas ..
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3814.m3u8
+#EXTINF:-1,NU Music.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3900.m3u8
+#EXTINF:-1,RCN Nuestra Tele
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3815.m3u8
+#EXTINF:-1,Once Ninos.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3883.m3u8
+#EXTINF:-1,OromarTV. (EC)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3872.m3u8
+#EXTINF:-1,Panamericana (PE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3817.m3u8
+#EXTINF:-1,Paramount .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3701.m3u8
+#EXTINF:-1,PERU MAGICO ..
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3818.m3u8
+#EXTINF:-1,Plus TV (PE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3819.m3u8
+#EXTINF:-1,RCN
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3702.m3u8
+#EXTINF:-1,RCN 2.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3876.m3u8
+#EXTINF:-1,RCN Novelas
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3820.m3u8
+#EXTINF:-1,Real Madrid 1
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4187.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3985.m3u8
+#EXTINF:-1,REC TV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3821.m3u8
+#EXTINF:-1,La Red (CH)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3822.m3u8
+#EXTINF:-1,La Red HD (CH)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6207.m3u8
+#EXTINF:-1,RPP (PE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3823.m3u8
+#EXTINF:-1,RPC (PAN)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6206.m3u8
+#EXTINF:-1,RTS HD (Ec)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8267.m3u8
+#EXTINF:-1,RTS (EC)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3871.m3u8
+#EXTINF:-1,San Vito TV (CR)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8350.m3u8
+#EXTINF:-1,Senal Colombia .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3703.m3u8
+#EXTINF:-1,Ser TV (PAN)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5947.m3u8
+#EXTINF:-1,SNT (PY)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6617.m3u8
+#EXTINF:-1,Sony HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/7469.m3u8
+#EXTINF:-1,Sony .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3704.m3u8
+#EXTINF:-1,Space .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3825.m3u8
+#EXTINF:-1,Studio Universal .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3826.m3u8
+#EXTINF:-1,Sun Channel
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8485.m3u8
+#EXTINF:-1,SyFy .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3827.m3u8
+#EXTINF:-1,TBS Very Funny .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3828.m3u8
+#EXTINF:-1,TC Television HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3938.m3u8
+#EXTINF:-1,TC Television.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3870.m3u8
+#EXTINF:-1,TCM .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3705.m3u8
+#EXTINF:-1,T13 (CH)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4657.m3u8
+#EXTINF:-1,Teleamazonas HD.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3936.m3u8
+#EXTINF:-1,Teleamazonas.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3869.m3u8
+#EXTINF:-1,Teleantioquia
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3829.m3u8
+#EXTINF:-1,Telecafe
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3830.m3u8
+#EXTINF:-1,Telecanal
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3831.m3u8
+#EXTINF:-1,Telecaribe (CO)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3832.m3u8
+#EXTINF:-1,Teleciudadana (EC)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4737.m3u8
+#EXTINF:-1,TELEFE
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3706.m3u8
+#EXTINF:-1,Telefe HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3880.m3u8
+#EXTINF:-1,Telemetro (PAN)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5946.m3u8
+#EXTINF:-1,Telemundo PR
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6200.m3u8
+#EXTINF:-1,Telemundo .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3833.m3u8
+#EXTINF:-1,Punto 2 (PR)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3929.m3u8
+#EXTINF:-1,Telenovelas
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3834.m3u8
+#EXTINF:-1,Telepacifico (CO)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3835.m3u8
+#EXTINF:-1,Tele Antillas (RD)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8337.m3u8
+#EXTINF:-1,Telecentro (RD)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8336.m3u8
+#EXTINF:-1,Telemicro (RD)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8335.m3u8
+#EXTINF:-1,Telesistema (RD)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8333.m3u8
+#EXTINF:-1,Teleunion (RD)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8331.m3u8
+#EXTINF:-1,Telesur
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3836.m3u8
+#EXTINF:-1,Teletrak ..
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3837.m3u8
+#EXTINF:-1,Televen
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3838.m3u8
+#EXTINF:-1,Tigo Music
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3904.m3u8
+#EXTINF:-1,TLX HD (Arg)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8351.m3u8
+#EXTINF:-1,TyC Sports HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4174.m3u8
+#EXTINF:-1,TodoNoticias HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6481.m3u8
+#EXTINF:-1,TNP (PE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3839.m3u8
+#EXTINF:-1,TNT .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3840.m3u8
+#EXTINF:-1,TNT ARG+ Futbol
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6482.m3u8
+#EXTINF:-1,TNT Series .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3724.m3u8
+#EXTINF:-1,TNT Sport HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6483.m3u8
+#EXTINF:-1,TNT Sports HD (Opc 2).
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8353.m3u8
+#EXTINF:-1,Tooncast.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3725.m3u8
+#EXTINF:-1,Toros
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3859.m3u8
+#EXTINF:-1,Tru TV .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3842.m3u8
+#EXTINF:-1,Tv Ciudad (URU)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4656.m3u8
+#EXTINF:-1,TV FAMILIA ..
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3843.m3u8
+#EXTINF:-1,TVE .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3844.m3u8
+#EXTINF:-1,TVC Deportes
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3894.m3u8
+#EXTINF:-1,TVN HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5944.m3u8
+#EXTINF:-1,Tvn (CH)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3707.m3u8
+#EXTINF:-1,Tv Max (PAN)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5948.m3u8
+#EXTINF:-1,TVN (Pan)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5945.m3u8
+#EXTINF:-1,TyC Sports .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3847.m3u8
+#EXTINF:-1,TyC Sports HD (2)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6488.m3u8
+#EXTINF:-1,TV Publica HD (Arg)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6485.m3u8
+#EXTINF:-1,UCV ..
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3726.m3u8
+#EXTINF:-1,UFC Networks
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3954.m3u8
+#EXTINF:-1,Unicanal (PY)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6616.m3u8
+#EXTINF:-1,Unimas
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6205.m3u8
+#EXTINF:-1,Universal Channel .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3727.m3u8
+#EXTINF:-1,Univision LA
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5767.m3u8
+#EXTINF:-1,Univision PR
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3930.m3u8
+#EXTINF:-1,Univision TDN
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4175.m3u8
+#EXTINF:-1,VALE TV (VE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3849.m3u8
+#EXTINF:-1,VE Plus TV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4113.m3u8
+#EXTINF:-1,Venevision .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3850.m3u8
+#EXTINF:-1,Venevision PLUS.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3675.m3u8
+#EXTINF:-1,Venezolana de TV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3851.m3u8
+#EXTINF:-1,Video Rola.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3899.m3u8
+#EXTINF:-1,VH1 Classics
+http://iptv61w.com:25461/live/CHILE/IPTV61W/8356.m3u8
+#EXTINF:-1,VH1 Megahits .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3852.m3u8
+#EXTINF:-1,Via X
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3853.m3u8
+#EXTINF:-1,Canal 21 (Chillan)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3940.m3u8
+#EXTINF:-1,Visual Radio
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4110.m3u8
+#EXTINF:-1,Vive (VE)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3854.m3u8
+#EXTINF:-1,VTV SD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3955.m3u8
+#EXTINF:-1,VTV HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3877.m3u8
+#EXTINF:-1,VTV PLUS
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3878.m3u8
+#EXTINF:-1,Warner Channel .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3736.m3u8
+#EXTINF:-1,Wapa 2 PR
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3932.m3u8
+#EXTINF:-1,Wapa PR
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3931.m3u8
+#EXTINF:-1,Win Sports ..
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3855.m3u8
+#EXTINF:-1,Zona Latina
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3856.m3u8
+#EXTINF:-1,ABN Kids
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4475.m3u8
+#EXTINF:-1,ABN Latino
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4471.m3u8
+#EXTINF:-1,CBN Español
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4476.m3u8
+#EXTINF:-1,CTNi
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4474.m3u8
+#EXTINF:-1,Cielo TV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4477.m3u8
+#EXTINF:-1,Comunion TV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4478.m3u8
+#EXTINF:-1,Enlace
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4324.m3u8
+#EXTINF:-1,Enlace Juvenil
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4323.m3u8
+#EXTINF:-1,Gracia TV
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4473.m3u8
+#EXTINF:-1,Nuevo Tiempo
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4472.m3u8
+#EXTINF:-1,24H: Masha y el Oso
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6507.m3u8
+#EXTINF:-1,24H: DRAGON BALL Z
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6458.m3u8
+#EXTINF:-1,NARCOTRAFICO
+http://iptv61w.com:25461/movie/CHILE/IPTV61W/6719.avi
+#EXTINF:-1,FRANCO ESE HOMBRE
+http://iptv61w.com:25461/movie/CHILE/IPTV61W/6718.avi
+#EXTINF:-1,RESTREPO
+http://iptv61w.com:25461/movie/CHILE/IPTV61W/6717.avi
+#EXTINF:-1,EL OCEANO
+http://iptv61w.com:25461/movie/CHILE/IPTV61W/6711.avi
+#EXTINF:-1,### FULL HD - NECESITA 6MB ###
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4690.m3u8
+#EXTINF:-1,A&E HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4682.m3u8
+#EXTINF:-1,AMC  HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4667.m3u8
+#EXTINF:-1,AXN HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4681.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4680.m3u8
+#EXTINF:-1,CINECANAL HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4692.m3u8
+#EXTINF:-1,CINEMAX HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4660.m3u8
+#EXTINF:-1,DE PELICULA HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4659.m3u8
+#EXTINF:-1,ESPN HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4694.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4695.m3u8
+#EXTINF:-1,ESPN 3 HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4696.m3u8
+#EXTINF:-1,F1 HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4668.m3u8
+#EXTINF:-1,FOX 1 HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4686.m3u8
+#EXTINF:-1,FOX ACTION HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4688.m3u8
+#EXTINF:-1,FOX HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4683.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4689.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4669.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4687.m3u8
+#EXTINF:-1,FX HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4674.m3u8
+#EXTINF:-1,GALAVISION HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4672.m3u8
+#EXTINF:-1,GOLDEN HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4684.m3u8
+#EXTINF:-1,HISTORY HD (2)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4679.m3u8
+#EXTINF:-1,HOLA TV HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4665.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4685.m3u8
+#EXTINF:-1,NAT GEO  HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4664.m3u8
+#EXTINF:-1,NATGEO WILD HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4671.m3u8
+#EXTINF:-1,NICK JR HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4662.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4663.m3u8
+#EXTINF:-1,SPACE HD. (3)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4693.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4658.m3u8
+#EXTINF:-1,TELEHITS HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4661.m3u8
+#EXTINF:-1,TNT HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4677.m3u8
+#EXTINF:-1,TNT SERIES HD (2)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4678.m3u8
+#EXTINF:-1,TRUTV HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4673.m3u8
+#EXTINF:-1,UNICABLE HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4666.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4675.m3u8
+#EXTINF:-1,WARNER BROS HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4676.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5303.m3u8
+#EXTINF:-1,DISCOVERY H&H HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5304.m3u8
+#EXTINF:-1,DISCOVERY THEATHER HD (2)
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5305.m3u8
+#EXTINF:-1,DISCOVERY TURBO HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5306.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5302.m3u8
+#EXTINF:-1,24H: BOB ESPONJA
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4826.m3u8
+#EXTINF:-1,24H: CANTINFLAS
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6193.m3u8
+#EXTINF:-1,24H: CHAVO DEL 8
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4106.m3u8
+#EXTINF:-1,24H: CHAPULIN
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4749.m3u8
+#EXTINF:-1,24H: FUTURAMA HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5756.m3u8
+#EXTINF:-1,24H: iCARLY
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6303.m3u8
+#EXTINF:-1,24H: LOS SIMPSONS SD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4266.m3u8
+#EXTINF:-1,24H: LOONEY TUNES HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5753.m3u8
+#EXTINF:-1,24H: LOS 3 CHIFLADOS
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4105.m3u8
+#EXTINF:-1,24H: MR. BEEN
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6456.m3u8
+#EXTINF:-1,24H: PEPPA PIG
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5646.m3u8
+#EXTINF:-1,24H: PANTERA ROSA
+http://iptv61w.com:25461/live/CHILE/IPTV61W/7345.m3u8
+#EXTINF:-1,24H: TOM Y JERRY
+http://iptv61w.com:25461/live/CHILE/IPTV61W/7346.m3u8
+#EXTINF:-1,24H: SUPER CAMPEONES
+http://iptv61w.com:25461/live/CHILE/IPTV61W/6169.m3u8
+#EXTINF:-1,24H: SERIES RETRO
+http://iptv61w.com:25461/live/CHILE/IPTV61W/5915.m3u8
+#EXTINF:-1,24H: UFC EVENTOS
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4210.m3u8
+#EXTINF:-1,AMC HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4037.m3u8
+#EXTINF:-1,AXN ES
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4043.m3u8
+#EXTINF:-1,AXN WHITE
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4035.m3u8
+#EXTINF:-1,BEIN SPORT
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4031.m3u8
+#EXTINF:-1,Barca TV.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4033.m3u8
+#EXTINF:-1,BEIN SPORT HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3966.m3u8
+#EXTINF:-1,DISNEY XD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4013.m3u8
+#EXTINF:-1,ESTRENOS
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4010.m3u8
+#EXTINF:-1,DISNEY JR
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4014.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4015.m3u8
+#EXTINF:-1,FOX
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4005.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4008.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4007.m3u8
+#EXTINF:-1,EUROSPORT HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3963.m3u8
+#EXTINF:-1,ESTRENOS HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3964.m3u8
+#EXTINF:-1,HISTORY
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4001.m3u8
+#EXTINF:-1,GolTV HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4002.m3u8
+#EXTINF:-1,FOX NEWS
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4004.m3u8
+#EXTINF:-1,DEPORTES 2
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4016.m3u8
+#EXTINF:-1,DEPORTES 1
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4017.m3u8
+#EXTINF:-1,CUATRO HD
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3965.m3u8
+#EXTINF:-1,FOX LIFE ES
+http://iptv61w.com:25461/live/CHILE/IPTV61W/4042.m3u8
+#EXTINF:-1,LALIGA TV BAR
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3996.m3u8
+#EXTINF:-1,TELEMADRID .
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3997.m3u8
+#EXTINF:-1,SPACE HD.
+http://iptv61w.com:25461/live/CHILE/IPTV61W/3958.m3u8
+
+#EXTINF:-1 tvg-id="I187.41118.tvguide.com" tvg-name="" tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="IPTV61-MOISES123",=IPTV61=
+
