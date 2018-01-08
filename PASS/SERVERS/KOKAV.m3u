@@ -1,0 +1,127 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://emspay.nl/sites/emspay.nl/files/images/paypal-logo1.png" group-title=", http://paypal.me/Jcastror23
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal-de-las-estrellas-en-vivo.jpg" group-title="MEXICO", LAS ESTRELLAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal-de-las-estrellas-en-vivo.jpg" group-title="MEXICO", LAS ESTRELLAS OPC 2
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/Tlnovelas_%28TV_network%29_logo.jpg" group-title="MEXICO", TLNOVELAS
+http://live.izzitv.mx/Content/HLS/Live/Channel(TLNOVELAS)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/48/Tlnovelas_%28TV_network%29_logo.jpg" group-title="MEXICO", TLNOVELAS OPC2
+http://iptv61w.com:25461/live/daniel/daniel/3834.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" group-title="MEXICO", AZTEKA 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reKy9/756ca89d9b.png" group-title="MEXICO", AZ CORAZON NO DISPONIBLE
+
+#EXTINF:-1 tvg-logo="https://farm2.staticflickr.com/1704/25634859013_42315466b0_o.png" group-title="MEXICO", AZTECA CINEMA NO DISPONIBLE
+
+#EXTINF:-1 tvg-logo="http://www.matrixtvnet.com.ve/img/canales/az_clic.png" group-title="MEXICO", AZ CLICK NO DISPONIBLE
+
+#EXTINF:-1 tvg-logo="http://cindytakahashi.com/wp-content/uploads/TV-Mexiquense.png" group-title="MEXICO",TV MEXIQUENSE
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="MEXICO", Azteca 7
+http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal5.jpg" group-title="MEXICO", CANAL 5
+http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal5.jpg" group-title="MEXICO", CANAL 5 OPC2
+http://iptv61w.com:25461/live/daniel/daniel/3890.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/LogoGalavision2013.png" group-title="MEXICO", GALATV YUCATAN
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/LogoGalavision2013.png" group-title="MEXICO", GALATV
+http://live.izzitv.mx/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MEXICO", DE PELICULA
+http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MEXICO", DE PELICULA OPC2
+http://iptv61w.com:25461/live/daniel/daniel/3763.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/multimedios.jpg" group-title="MEXICO", MULTIMEDIOS
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/once.jpg" group-title="MEXICO", CANAL ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.sky.com.mx/Code/templates/images/channels/sky-logo-adn40.jpg" group-title="MEXICO", ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.multicanalcatamayo.com/cablevisiondondiego/images/74.png" group-title="MEXICO",DISTRITO COMEDIA
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="MEXICO", AZTECA A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-u2yqJpcuQbA/AAAAAAAAAAI/AAAAAAAAAAA/M6fZninIKdk/s100-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO", EFEKTO TV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_1_av-p.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvonlineapp.com/wp-content/uploads/2012/09/TVMas.jpg" group-title="MEXICO", TV MAS
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.sizq.net/mpm/images/logotipos/milenio-tv.jpg" group-title="MEXICO", MILENIO TV
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://tvonlinegratis.com/wp-content/uploads/2014/06/Canal2-Obregon-Mx-Logo-300x300.jpg" group-title="MEXICO", CANAL 2 OBREGON
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/canal-7-mazatlan.jpg" group-title="MEXICO", CANAL 7 MAZATLAN
+http://216.227.135.186:1935/gpacifico4/smil:mazatlan.smil/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.chingonatv.com/wp-content/uploads/2013/11/Mochis-TV.png" group-title="MEXICO", CANAL 2 LOS MOCHIS
+http://216.227.135.186:1935/gpacifico2/smil:mochis.smil/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.firstone.tv/images/logos/mx/TELEMAR.png" group-title="MEXICO", TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Y0oiMPs.jpg" group-title="MEXICO", CANAL JUDICIAL
+http://dl-scjn.scjn.gob.mx/scjn/scjn.mp4/playlist.m3u8
+?JoCaRoIPTV.m3u8
+#EXTINF:-1 tvg-logo="http://www.liveonlinetv247.info/images/miamitv.png" group-title="MEXICO", MIAMI TV MEXICO
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://i2.esmas.com/2016/08/23/884902/foro-tv-280x370.jpg" group-title="MEXICO", FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/CNN_HD.svg/2000px-CNN_HD.svg.png" group-title="PREMIUM", CNN HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(CNN_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/CNN_HD.svg/2000px-CNN_HD.svg.png" group-title="PREMIUM", CNN SD
+http://iptv61w.com:25461/live/daniel/daniel/5539.m3u8
+#EXTINF:-1 tvg-logo="https://www.wysetc.org/wp-content/uploads/2014/11/CNN.png" group-title="PREMIUM", CNN ESP
+http://live.izzitv.mx/Content/HLS/Live/Channel(CNN_ESP)/index.m3u8
+#EXTINF:-1 tvg-logo="http://conectateacablevision.mx/projects/commercialofferchannels/img/channels/203.png" group-title="PREMIUM", UNICABLE
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="http://conectateacablevision.mx/projects/commercialofferchannels/img/channels/203.png" group-title="PREMIUM", UNICABLE OPC2
+http://iptv61w.com:25461/live/daniel/daniel/4666.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="PREMIUM", EL GOURMET
+http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Elgourmet.logonuevo.png" group-title="PREMIUM", EL GOURMET OPC2
+http://iptv61w.com:25461/live/daniel/daniel/3770.m3u8
+#EXTINF:-1 tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/Nat_geo_me.png" group-title="PREMIUM", NATGEO
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.mejorescanales.com/wp-content/uploads/2016/02/Nat_geo_me.png" group-title="PREMIUM", NATGEO OPC2
+http://iptv61w.com:25461/live/daniel/daniel/3810.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1024px-Nat_Geo_Wild_Canada.svg.png" group-title="PREMIUM", NATGEO WILD
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1024px-Nat_Geo_Wild_Canada.svg.png" group-title="PREMIUM", NATGEO WILD OPC2
+http://iptv61w.com:25461/live/daniel/daniel/3809.m3u8
+#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/tbs.png" group-title="PREMIUM", TBS
+http://live.izzitv.mx/Content/HLS/Live/Channel(TBS)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/med_gallery_1157_2_1147.png" group-title="PREMIUM", ISAT
+http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/album_2/med_gallery_1157_2_1147.png" group-title="PREMIUM", ISAT OPC2 NO DISPONIBLE
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156" group-title="PREMIUM", AMC 
+http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156" group-title="PREMIUM", AMC OPC2
+http://iptv61w.com:25461/live/daniel/daniel/3742.m3u8
+#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0003_tcm.png" group-title="PREMIUM", TCM
+http://live.izzitv.mx/Content/HLS/Live/Channel(TCM)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.lamac.org/res/channels/logos/_0003_tcm.png" group-title="PREMIUM", TCM OPC2 NO DISPONIBLE
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-za1hb9sNrLU/UqLjmOIZikI/AAAAAAAAA6M/1N4oIDZxIng/s1600/_0004_true_tv.png" group-title="PREMIUM", TRUTV
+http://live.izzitv.mx/Content/HLS/Live/Channel(TRUTV)/index.m3u8
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-za1hb9sNrLU/UqLjmOIZikI/AAAAAAAAA6M/1N4oIDZxIng/s1600/_0004_true_tv.png" group-title="PREMIUM", TRUTV OPC2
+http://iptv61w.com:25461/live/daniel/daniel/4673.m3uu8
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="PREMIUM", E!
+http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="PREMIUM", E! OPC2 NO DISPONIBLE
+
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/11/ae_network_logo-svg.png?w=605" group-title="PREMIUM", A&E
+http://live.izzitv.mx/Content/HLS/Live/Channel(AE)/index.m3u8
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/11/ae_network_logo-svg.png?w=605" group-title="PREMIUM", A&E OPC2
+http://iptv61w.com:25461/live/daniel/daniel/3740.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/712px-Comedy_Central.svg.png" group-title="PREMIUM", COMEDY CENTAL
+http://live.izzitv.mx/Content/HLS/Live/Channel(COMEDY_CENTRAL)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Comedy_Central.svg/712px-Comedy_Central.svg.png" group-title="PREMIUM", COMEDY CENTAL OPC2
+http://iptv61w.com:25461/live/daniel/daniel/3710.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-LiaQDlzHFPU/U7UozRfRUpI/AAAAAAAAEQc/jK_3OyQ7nds/s1600/Lifetime.jpeg" group-title="PREMIUM", LIFETIME
+http://live.izzitv.mx/Content/HLS/Live/Channel(LIFETIME)/index.m3u8
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-LiaQDlzHFPU/U7UozRfRUpI/AAAAAAAAEQc/jK_3OyQ7nds/s1600/Lifetime.jpeg" group-title="PREMIUM", LIFETIME OPC2 NO DISPONIBLE
+
