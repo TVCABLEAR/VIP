@@ -1,0 +1,218 @@
+#EXTM3U
+
+__=======CH. CANALES NACIONALES=======__
+
+#EXTINF:0 type=”stream” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/b/b3/TVN_HD_Chile.png”group-title=”Chile”, TVN 1 HD
+#EXTBG: https://i.ytimg.com/vi/sxZKdznlW5E/maxresdefault.jpg
+http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
+
+#EXTINF:0 type=”stream” tvg-logo=”http://vignette2.wikia.nocookie.net/tvcable/images/1/11/TVCHILE.png/revision/latest?cb=20161006142334&path-prefix=es”group-title=”Chile”, TV Chile 1
+#EXTBG: https://i.ytimg.com/vi/sxZKdznlW5E/maxresdefault.jpg
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+
+#EXTINF:0 type=”stream” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/d/da/Mega_hd.png”group-title=”Chile”, Mega HD
+#EXTBG: https://i.ytimg.com/vi/sxZKdznlW5E/maxresdefault.jpg
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+
+#EXTINF:0 type=”stream” tvg-logo=”http://img3.wikia.nocookie.net/__cb20140110181037/logopedia/images/4/44/Mega2013oficial.png”group-title=”Chile”, Mega normal
+#EXTBG: https://i.ytimg.com/vi/sxZKdznlW5E/maxresdefault.jpg
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 type=”stream” tvg-logo=”http://4.bp.blogspot.com/-I0ZGpsDySjE/VP87Bw6JdUI/AAAAAAAAEHY/gN1869LDdPE/s1600/CHV%2BHD%2B3.png”group-title=”Chile”, CHV HD
+#EXTBG: https://i.ytimg.com/vi/sxZKdznlW5E/maxresdefault.jpg
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+
+#EXTINF:0 type=”stream” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/2/2e/13hd.png”group-title=”Chile”, El 13
+#EXTBG: https://i.ytimg.com/vi/sxZKdznlW5E/maxresdefault.jpg
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8#ByCrissHD
+
+#EXTINF:0 type=”stream” tvg-logo=”http://resource.t13.cl/img/t13-movil-b.png”group-title=”Chile”, T13 Movil
+#EXTBG: https://i.ytimg.com/vi/sxZKdznlW5E/maxresdefault.jpg
+http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
+
+#EXTINF:0 type=”stream” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/5/57/24_Horas_TVN_alt.png”group-title=”Chile”, 24 Horas
+#EXTBG: https://i.ytimg.com/vi/sxZKdznlW5E/maxresdefault.jpg
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+
+#EXTINF:0 type=”video” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/La_Red.svg/2000px-La_Red.svg.png”group-title=”Chile”, La RED HD
+#EXTBG: https://i.ytimg.com/vi/sxZKdznlW5E/maxresdefault.jpg
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/chunklist_b829163.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:0 type=”stream” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/UCV_HD_2014.png/200px-UCV_HD_2014.png”group-title=”Chile”, UCV HD
+#EXTBG: https://i.ytimg.com/vi/sxZKdznlW5E/maxresdefault.jpg
+http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=”http://tv-online.cl/bio-bio-television-canal-9-regional-chile-en-vivo.jpg”group-title=”Chile”,Bio Bio TV
+http://unlimited1-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8?
+
+group,Entretenimiento
+
+ComedyCentral.cl,Comedy Central,http://4k.electrodahri.com:8000/live/123/123/54306.m3u8
+Fox.cl,FOX,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1696.m3u8
+Fox.cl,FOX,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/49.ts
+FX.cl,FX,http://4k.electrodahri.com:8000/live/123/123/54276.m3u8
+FX.cl,FX,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1645.m3u8
+FXMovie.us,FXM,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/47.ts
+ext,RCN,https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+ext,TlNovelas (Prueba),http://94.102.51.78:8088/stream/tlnovelascaballona/playlist.m3u8?id=18821&wowzasessionid=283429579&pk=f21d866b0f95723a28e09cc3a2d120ae6081329e31b25e4c769d1f78684afdc3
+ext,GalaTV Cancun,http://74.222.3.185:1935/live/ngrp:galatvcancun_all/chunklist_w1586024867_b1180672.m3u8
+E.uk,E!,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1651.m3u8
+FoxLife.cl,Fox Life,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1647.m3u8
+ComedyCentral.cl,Comedy Central,http://iptv.cs2017.info:9090/live/vaquezs/24/164.m3u8
+ext,ADN 40,http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
+ext,Las Estrellas,http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+ext,Las estrellas opc2,http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+group,Cine
+AyE.cl,A&E,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1703.m3u8
+AyE.cl,A&E,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/01.ts
+AMC.cl,AMC,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1668.m3u8
+AMC.cl,AMC,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/02.ts
+SonyEntertainmentTV.uk,Sony,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1600.m3u8
+DePelicula.mx,De Pelicula,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/24.ts
+FoxSerie.de,Fox Series,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1693.m3u8
+FoxAction.cl,Fox Action,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1694.m3u8
+FoxCinema.cl,Fox Cinema,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1695.m3u8
+FoxClassics.cl,Fox Classics,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1607.m3u8
+Golden.mx,Golden,http://antenatv.tk/prohibido_usar_-54-2059496.m3u8
+24dok,TBS,http://antenatv.tk/prohibido_usar_-60-2060430.m3u8
+TCM.cl,TCM,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1596.m3u8
+StudioUniversal.cl,Studio Universal,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1599.m3u8
+WarnerChannel.cl,Warner Channel,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1672.m3u8
+WarnerChannel.cl,Warner Channel,http://4k.electrodahri.com:8000/live/123/123/54242.m3u8
+Cinemax.cl,Cinemax,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1614.m3u8
+Cinemax.cl,Cinemax,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/22.ts
+TNT.cl,TNT,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1702.m3u8
+Universal.uk,Universal Channel,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1673.m3u8
+Cinecanal.cl,Cinecanal,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1707.m3u8
+Cinecanal.cl,Cinecanal,http://4k.electrodahri.com:8000/live/123/123/54309.m3u8
+Cinecanal.cl,Cinecanal,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/20.ts
+Cinelatino.us,Cinelatino,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1655.m3u8
+Hbofamily.br,HBO Family,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1654.m3u8
+HBOAdria.rs,HBO,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1643.m3u8
+HBO2.cl,HBO 2,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1642.m3u8
+Space.cl,Space,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1676.m3u8
+FoxAction.cl,Fox Action,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1694.m3u8
+AXN.cl,AXN,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1705.m3u8
+AXN.cl,AXN,http://4k.electrodahri.com:8000/live/123/123/54322.m3u8
+AXN.cl,AXN,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/04.ts
+Universal.uk,Universal Channel,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1673.m3u8
+ext,=INFANTIL=,http://srregio.com/
+
+group,Infantil
+Boomerang.cl,Boomerang,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1615.m3u8
+Boomerang.cl,Boomerang,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/15.ts
+Nickelodeon.uk,Nick,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1664.m3u8
+NickJunior.uk,NickJR,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1631.m3u8
+ToonCast.cl,Tooncast,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1592.m3u8
+DisneyJr.pl,Disney Jr,http://4k.electrodahri.com:8000/live/active/active/54295.ts
+DisneyJr.pl,Disney Jr,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/35.ts
+DisneyXD.cl,Disney XD,http://195.181.162.207:25461/live/nl3C6Rv2mW/aCoZi2EdGd/1782.m3u8
+DisneyXD.cl,Disney XD,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/36.ts
+CartoonNetwork.cl,Cartoon Network,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1656.m3u8
+CartoonNetwork.cl,Cartoon Network,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/17.ts
+DisneyChannel.cl,Disney Channel,http://4k.electrodahri.com:8000/live/active/active/54296.ts
+DiscoveryKids.cl,Discovery Kids,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1711.m3u8
+ext,Locomotion,http://locomotiontv.com/envivo/loco_app/stream.m3u8
+Animax.de,Animax,http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+canalpanda.pt,Canal Panda,http://iptv.cs2017.info:9090/live/vaquezs/24/196.m3u8
+BabyTV.uk,BabyTV,http://iptv.cs2017.info:9090/live/vaquezs/24/213.m3u8
+Nickelodeon.cl,Nickelodeon,http://iptv.cs2017.info:9090/live/vaquezs/24/226.m3u8
+DisneyXD.cl,Disney XD,http://iptv.cs2017.info:9090/live/vaquezs/24/128.m3u8
+DisneyChannel.cl,Disney Channel,http://iptv.cs2017.info:9090/live/vaquezs/24/146.m3u8
+disneychannel.de,Disney Channel HD,http://iptv.cs2017.info:9090/live/vaquezs/24/223.m3u8
+ext,Disney Jr España,http://iptv.cs2017.info:9090/live/vaquezs/24/202.m3u8
+ext,BOING España,http://iptv.cs2017.info:9090/live/vaquezs/24/167.m3u8
+
+group,Deportes
+ext,CDO Premium,http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+FoxSports.cl,Fox Sports,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1698.m3u8
+FoxSports.cl,Fox Sports,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/57.ts
+FoxSports2.cl,Fox Sports 2,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1699.m3u8
+FoxSports2.cl,Fox Sports 2,http://144.217.85.216/streams/src2/lk.m3u8?mxg=U2FsdGVkX1%2FhF1CYp1twJIJNWh9CktSohPtLTBr7Fa1MNv6ISAwwg6xC9LJNIBfnnnrM2xADucXLsp%2BVRi6uXg%3D%3D
+FoxSports2.cl,Fox Sports 2,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/58.ts
+ext,DirecTV Sports,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/465.ts
+ext,F1 Latinoamerica,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/485.ts
+UnivisionTDN.mx,Univision TDN,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/139.ts
+ESPNDeportes.us,ESPN DEPORTES,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1622.m3u8
+ESPN.cl,ESPN,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1715.m3u8
+ESPN2.mx,ESPN 2,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1690.m3u8
+ESPN2.mx,ESPN 2,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/42.ts
+ESPN3.mx,ESPN 3,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1691.m3u8
+ESPN3.mx,ESPN 3,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/43.ts
+ext,CDF P,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1584.m3u8
+ext,Gol Peru (Prueba),http://186.103.216.85:85/matias_test/get.php?url=5&type=m3u8
+TyCSports.cl,TyC Sports,https://vivoplay-i.akamaihd.net/hls/live/255333/canal5/master2500k.m3u8
+AyMSports.mx,AyM Sports,https://vivoplay-i.akamaihd.net/hls/live/253483/canal2/master2500k.m3u8?
+RealMadridTV.sp,Real Madrid TV,http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+ext,=MUSICA=,http://srregio.com/
+
+group,Musica
+ext,MTV (Prueba),http://2233.janjuaplayer.com:8088/live/mtvmalosotv666/playlist.m3u8?id=74163&wowzasessionid=3521533778&pk=f21d866b0f95723a28e09cc3a2d120ae6081329e31b25e4c769d1f78684afdc3
+ext,Radio One,http://server5.stweb.tv/radioone/live/playlist.m3u8
+ext,Cantinazo TV,http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+ext,Cool 103.7,http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+ext,Teleritmo,http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+ext,Melody Channel,http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?Musica.m3u8
+ext,MiMusica,http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+ext,SON POPULAR,http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
+ext,Top Latino,http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+ext,Virgin Music,http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+ext,MC Music Choice,http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+ext,Vibee TV,http://46.101.21.42:8081/live/live2/playlist.m3u8
+baltijos-lt,RetroTV,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+ext,Pop & Country,http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+Pophits.br,Pop Hits,http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+ext,R&B Soul,http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+ext,Rock,http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+ext,Mexicana,http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+ext,Pop Latino,http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+ext,Tropicales,http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+Alternative.us,Alternative,http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+ext,Dance/EDM,http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+ext,Hip-Hop And R&B,http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+ext,Hit List,http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+ext,Indie,http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+Metal.br,Metal,http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+ext,Rap,http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+ext,90s,http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+ext,=CULTURA=,http://srregio.com/
+
+group,Cultura
+EEntertainment.cl,E! Entertainment,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1651.m3u8
+ext,Aprende TV,http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+HistoryChannel.cl,History Channel,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1678.m3u8
+H2.uk,H2,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1644.m3u8
+HomeHealthHD.mx,Discovery H&H,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1613.m3u8
+HomeHealthHD.mx,Discovery H&H,http://4k.electrodahri.com:8000/live/123/123/54304.m3u8
+tlc-russia,Discovery TLC,http://4k.electrodahri.com:8000/live/123/123/54299.m3u8
+Investigation.uk,Discovery Investigation,http://antenatv.tk/prohibido_usar_-65-2060469.m3u8
+DiscoveryTurbo.cl,Discovery Turbo,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1714.m3u8
+DiscoveryChannel.cl,Discovery Channel,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1708.m3u8
+DiscoveryChannel.cl,Discovery Channel,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/25.ts
+Discovery.uk,Discovery World,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/32.ts
+DiscoveryTheatreHD.ar,Discovery Theater,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/29.ts
+ext,Discovery Civilizacion,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1709.m3u8
+ext,Discovery Civilizacion,http://4k.electrodahri.com:8000/live/123/123/54302.m3u8
+natgeo,NatGeo,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1632.m3u8
+NatGeoWild.cl,NatGeo Wild,http://4k.electrodahri.com:8000/live/123/123/54263.m3u8
+NatGeoWild.cl,NatGeo Wild,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1701.m3u8
+ElGourmet.cl,El Gourmet,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1650.m3u8
+Lifetime.cl,Lifetime,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1604.m3u8
+DiscoveryScience.cl,Discovery Science,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1612.m3u8
+DiscoveryScience.cl,Discovery Science,http://4k.electrodahri.com:8000/live/123/123/54300.m3u8
+AnimalPlanet.cl,Animal Planet,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1704.m3u8
+AnimalPlanet.cl,Animal Planet,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/03.ts
+ext,TravelHD,http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+GarageTV.es,Garage TV,http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+
+group,24/7
+ext,Dragon Ball Super,http://hls-mycdn07356802419.cdnvideo.ru/mycdn07356802419/miercoles54/chunklist.m3u8
+ext,The Simpsons Random,http://tecnotv.xyz/tv2/simpsonvod
+ext,Los Simpson,http://mediacp.cloudserver.cl:1935/CloudserverChanel/CloudserverChanel/playlist.m3u8?
+ext,Anime TV,http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+avi,Los Simpsons opc 2,http://stream.latino-webtv.com/series/simpsons.mp4
+avi,Futurama,http://1.sendvid.com/btgbuzr7.mp4/
+ext,Malcolm el de en medio 24/7,http://server.poweriptv.cl:25461/live/asd123/asd123/1330.m3u8
+ext,=ESPAÑA=,http://srregio.com/
+
