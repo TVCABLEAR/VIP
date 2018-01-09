@@ -1,6 +1,5 @@
 #EXTM3U
 
-__=======CH. CANALES NACIONALES=======__
 
 #EXTINF:0 type=”stream” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/b/b3/TVN_HD_Chile.png”group-title=”Chile”, TVN 1 HD
 #EXTBG: https://i.ytimg.com/vi/sxZKdznlW5E/maxresdefault.jpg
@@ -47,17 +46,28 @@ http://unlimited1-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8?
 
 group,Entretenimiento
 
-ComedyCentral.cl,Comedy Central,http://4k.electrodahri.com:8000/live/123/123/54306.m3u8
-Fox.cl,FOX,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1696.m3u8
-Fox.cl,FOX,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/49.ts
-FX.cl,FX,http://4k.electrodahri.com:8000/live/123/123/54276.m3u8
-FX.cl,FX,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1645.m3u8
-FXMovie.us,FXM,http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/47.ts
-ext,RCN,https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
-ext,TlNovelas (Prueba),http://94.102.51.78:8088/stream/tlnovelascaballona/playlist.m3u8?id=18821&wowzasessionid=283429579&pk=f21d866b0f95723a28e09cc3a2d120ae6081329e31b25e4c769d1f78684afdc3
-ext,GalaTV Cancun,http://74.222.3.185:1935/live/ngrp:galatvcancun_all/chunklist_w1586024867_b1180672.m3u8
-E.uk,E!,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1651.m3u8
-FoxLife.cl,Fox Life,http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1647.m3u8
+#EXTINF:-1, ComedyCentral.cl
+http://4k.electrodahri.com:8000/live/123/123/54306.m3u8
+#EXTINF:-1, FOX 195 1696
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1696.m3u8
+#EXTINF:-1, FOX iptvlatino
+http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/49.ts
+#EXTINF:-1, fox 4K
+http://4k.electrodahri.com:8000/live/123/123/54276.m3u8
+#EXTINF:-1, FOX 195 1645
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1645.m3u8
+#EXTINF:-1, FXM
+http://us.iptvlatino.xyz:25461/live/zqCmF3zI65/BJgpV79bhq/47.ts
+#EXTINF:-1, RCN
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1, lNovelas (Prueba)
+http://94.102.51.78:8088/stream/tlnovelascaballona/playlist.m3u8?id=18821&wowzasessionid=283429579&pk=f21d866b0f95723a28e09cc3a2d120ae6081329e31b25e4c769d1f78684afdc3
+#EXTINF:-1, GalaTV Cancun
+http://74.222.3.185:1935/live/ngrp:galatvcancun_all/chunklist_w1586024867_b1180672.m3u8
+#EXTINF:-1, E!
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1651.m3u8
+#EXTINF:-1, Fox Life
+http://195.181.162.207:25461/live/NphHJbc4IU/8SIZVjHPbp/1647.m3u8
 ComedyCentral.cl,Comedy Central,http://iptv.cs2017.info:9090/live/vaquezs/24/164.m3u8
 ext,ADN 40,http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
 ext,Las Estrellas,http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
