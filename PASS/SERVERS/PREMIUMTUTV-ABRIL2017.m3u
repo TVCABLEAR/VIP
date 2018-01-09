@@ -1,0 +1,151 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id=”A&E” tvg-name=”A&E” tvg-logo=”http://z.cdn.entutele.com/media/channels/medium/ae.gif” group-title=”TP SIN GEOBLOQUEO”,A&E Latino
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/48/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://vignette4.wikia.nocookie.net/logopedia/images/5/50/AMC_2013.png” group-title=”TP SIN GEOBLOQUEO”,AMC (nogeo)
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/7/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://1.bp.blogspot.com/-ZxSLgUvnfbA/UgmwyPWsM_I/AAAAAAAAAAc/7TyqbuEdPKg/s1600/animal+planet.jpg” group-title=”TP SIN GEOBLOQUEO”,Animal Planet (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/28/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://www.brandemia.org/sites/default/files/sites/default/files/axn_nuevo_logo_negativo.jpg” group-title=”TP SIN GEOBLOQUEO”,AXN (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/74/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png” group-title=”TP SIN GEOBLOQUEO”,Boomerang (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/51/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://vignette1.wikia.nocookie.net/cartoonnetwork/images/f/f1/Cartoon_Network_2004_logo.svg.png” group-title=”TP SIN GEOBLOQUEO”,Cartoon Network (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/16/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://2.bp.blogspot.com/-S6dlrqMH98E/TZJGSrMWPsI/AAAAAAAAPQw/5UQKoyQcMfk/s1600/cinecanal-2010.png” group-title=”TP SIN GEOBLOQUEO”,Cine Canal (nogeo)
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/12/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://4.bp.blogspot.com/-t6yR937E3Ko/TjjMG-JJ7PI/AAAAAAAAB24/BScsqYy3a7s/s500/Cinemax+logo+2011.png” group-title=”TP SIN GEOBLOQUEO”,Cinemax (nogeo)
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/11/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/2000px-Comedy_Central_2011_Logo.svg.png” group-title=”TP SIN GEOBLOQUEO”,Comedy Central (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/59/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://14575-presscdn-0-73.pagely.netdna-cdn.com/wp-content/uploads/2014/05/depelicula_gallery.jpg” group-title=”TP SIN GEOBLOQUEO”,De Pelicula (nogeo)
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/85/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://logok.org/wp-content/uploads/2014/04/Discovery-channel-logo-old-1024×768.png” group-title=”TP SIN GEOBLOQUEO”,Discovery Channel (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/19/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://www.logotypes101.com/logos/397/F6D3A0C3E688D9072F58B0B9DBF4C190/Discovery_Civilization_Channel.png” group-title=”TP SIN GEOBLOQUEO”,Discovery Civilization (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/61/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://3.bp.blogspot.com/-e7U-6TeiJwo/TdRHH69VEBI/AAAAAAAABYc/1k7NVJGn8B0/s320/Discovery+Home+%2526+Health+icon+2011.png” group-title=”TP SIN GEOBLOQUEO”,Discovery H&H (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/66/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://vignette2.wikia.nocookie.net/logopedia/images/b/b2/LogoDK.png” group-title=”TP SIN GEOBLOQUEO”,Discovery Kids (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/22/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://4.bp.blogspot.com/-vp2f7vxSVuE/Vm3VU3rl_pI/AAAAAAAAAY0/Hxg6YW5HZWI/s1600/Discovery-Science.png” group-title=”TP SIN GEOBLOQUEO”,Discovery SCI (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/62/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/7/7e/2015_Discovery_theater_HD_logo.svg” group-title=”TP SIN GEOBLOQUEO”,Discovery Theater (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/64/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://vignette1.wikia.nocookie.net/logopedia/images/c/cb/Discovery_Turbo_2009.png/revision/latest?cb=20100413144122″ group-title=”TP SIN GEOBLOQUEO”,Discovery Turbo (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/63/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/175px-2015_Disney_Channel_logo.svg.png” group-title=”TP SIN GEOBLOQUEO”,Disney Channel (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/20/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”https://s-media-cache-ak0.pinimg.com/originals/01/4b/56/014b569c2bd9bc466ec3e71893042629.jpg” group-title=”TP SIN GEOBLOQUEO”,Disney Jr (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/25/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://fontmeme.com/images/disney-xd-logo.png” group-title=”TP SIN GEOBLOQUEO”,Disney XD (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/30/stream.m3u8
+
+#EXTINF:-1 tvg-id=”Distrito Comedia” tvg-name=”Distrito Comedia” tvg-logo=”http://y.cdn.entutele.com/media/channels/big/distrito-comedia.gif” group-title=”TP SIN GEOBLOQUEO”,DistritoComedia
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/168/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUCYm2ghYFPJe9feVVr8vqh3vkqnTaB7SDxNowFIPWuUPCea-r2df1J3EB” group-title=”TP SIN GEOBLOQUEO”,E
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/45/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://logos-download.com/wp-content/uploads/2016/05/ESPN_logo_red_bg.jpg” group-title=”TP SIN GEOBLOQUEO”,ESPN (nogeo)
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/95/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://www.multicanalcatamayo.com/cablevisiondondiego/images/espn_lam_plus_andino.png” group-title=”TP SIN GEOBLOQUEO”,ESPN + (nogeo)
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/103/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://2.bp.blogspot.com/-w0fjD0r_Evs/VmW-VfUpaAI/AAAAAAAAAQ8/XWAfmUm3RUk/s1600/espn2.png” group-title=”TP SIN GEOBLOQUEO”,ESPN 2 (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/35/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”https://www.foromedios.com/uploads/gallery/category_2/gallery_1163_2_11865.png” group-title=”TP SIN GEOBLOQUEO”,ESPN 3 (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/36/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://3.bp.blogspot.com/-zHueLzhpkzc/UFcjuqZ4jAI/AAAAAAAAN4I/N01Reruy8g0/s1600/canal_fox_cl.png” group-title=”TP SIN GEOBLOQUEO”,Fox (nogeo)
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/98/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://3.bp.blogspot.com/-oYNXUOTyr9w/VFoqo54ECBI/AAAAAAAAo7o/o9b2_GphlAI/s1600/fox-action.png” group-title=”TP SIN GEOBLOQUEO”,Fox Action (nogeo)
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/88/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://vignette1.wikia.nocookie.net/logopedia/images/f/f9/Fox_(5).png” group-title=”TP SIN GEOBLOQUEO”,Fox Movies (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/46/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://www.jazarah.net/directory/wp-content/logos/Media/foxseries.jpg” group-title=”TP SIN GEOBLOQUEO”,Fox Premium Series
+http://ret8eg4d4vd4u48i44.premiumtutv.com/streams/89/stream.m3u8
+
+#EXTINF:-1 tvg-id=”Fox Sports” tvg-name=”Fox Sports” tvg-logo=”http://y.cdn.entutele.com/media/channels/big/fox-sports.gif” group-title=”TP SIN GEOBLOQUEO”,Fox Sports 1
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/4/stream.m3u8
+
+#EXTINF:-1 tvg-id=”Fox Sports 2″ tvg-name=”Fox Sports 2″ tvg-logo=”http://y.cdn.entutele.com/media/channels/big/fox-sports-2.gif” group-title=”TP SIN GEOBLOQUEO”,Fox Sports 2
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/5/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://archive.boston.com/ae/tv/blog/fx_logo.png” group-title=”TP SIN GEOBLOQUEO”,FX (nogeo)
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/8/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png” group-title=”TP SIN GEOBLOQUEO”,Golden (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/54/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://vignette1.wikia.nocookie.net/logopedia/images/b/bf/Goldenedge.jpg” group-title=”TP SIN GEOBLOQUEO”,Golden Edge (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/37/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/052016/untitled-1_247.png” group-title=”TP SIN GEOBLOQUEO”,History (nogeo)
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/6/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://vignette2.wikia.nocookie.net/logopedia/images/6/67/Investigation_discovery_us_hd.png” group-title=”TP SIN GEOBLOQUEO”,Investigation Discovery (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/65/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://www.mandinga.tv/tpl/img/trabajos/_logo_isat.jpg” group-title=”TP SIN GEOBLOQUEO”,ISat (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/69/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://nick.mtvnimages.com/nick-assets/common/nick-logo-200×200.png” group-title=”TP SIN GEOBLOQUEO”,Nick (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/21/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://www.logoeps.com/wp-content/uploads/2011/05/nick-jr.-logo-vector.png” group-title=”TP SIN GEOBLOQUEO”,Nick Jr (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/49/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://vignette3.wikia.nocookie.net/logopedia/images/e/e7/Nick_Toons_UK.png” group-title=”TP SIN GEOBLOQUEO”,Nick Toons (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/70/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://vignette3.wikia.nocookie.net/logopedia/images/b/b5/Canal_Sony_2014.png” group-title=”TP SIN GEOBLOQUEO”,Sony (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/11/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://3.bp.blogspot.com/-MTQ-yA_Pbm4/VrJwFBqhw5I/AAAAAAAAnVc/l0arJSmrCK4/s1600/spacehd.png” group-title=”TP SIN GEOBLOQUEO”,Space (nogeo)
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/15/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1280px-Logo_Studio_Universal.svg.png” group-title=”TP SIN GEOBLOQUEO”,Studio Universal (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/56/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://logodatabases.com/wp-content/uploads/2012/05/syfy-logo.jpg” group-title=”TP SIN GEOBLOQUEO”,Syfy (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/42/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://sincable.tv/noticias/wp-content/uploads/2013/04/LOGO-TCM-2012.jpg” group-title=”TP SIN GEOBLOQUEO”,TCM (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/57/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://reportajede.news/wp-content/uploads/2016/02/TNT-Logo.jpg” group-title=”TP SIN GEOBLOQUEO”,TNT (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/15/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png” group-title=”TP SIN GEOBLOQUEO”,TruTV (nogeo)
+http://34dsdfwrwfsdf4f74d.premiumtutv.com/streams/73/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”https://upload.wikimedia.org/wikipedia/de/thumb/0/0c/Logo_Universal-Channel_HD.svg/800px-Logo_Universal-Channel_HD.svg.png” group-title=”TP SIN GEOBLOQUEO”,Universal Channel (nogeo)
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/10/stream.m3u8
+
+#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-logo=”http://vignette3.wikia.nocookie.net/logopedia/images/6/64/Warner2012.png” group-title=”TP SIN GEOBLOQUEO”,Warner Channel (nogeo)
+http://67rhdrdy6t4jhgj45j.premiumtutv.com/streams/9/stream.m3u8
