@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1,HU FIX hd
+rtmp://video.fixhd.tv/fix/hd.stream
+#EXTINF:-1,HU Hangulat TV-rtvstat.hu
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chhangulattv/2013/10/23/01a71dd6-306c-4de4-9d88-c3ccc76c770e
+#EXTINF:-1,HU Konyha TV
+rtmp://91.82.85.44:1935/live/konyhatv
+#EXTINF:-1,HU M2 HD m3u8
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
+#EXTINF:-1,HU O2 Tv
+rtmp://91.82.85.41:1935/liverelay/o2tv.sdp
+#EXTINF:-1,HU Oxygen_Hir_TV_640_360
+rtmp://91.82.85.41:1935/liverelay/o2tv.sdp
+#EXTINF:-1,HU RTL KLUB HD
+udp://239.123.13.124:57124
+#EXTINF:-1,SPORT eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1,SPORT eurosport 2 RU
+http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
+#EXTINF:-1,SPORT Time TV 1
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:-1,SPORT TIME TV 2
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+#EXTINF:-1,SPORT Night
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+#EXTINF:-1,SPORT Tonight UK
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001
+#EXTINF:-1,CARTOON movo.tv (RU/EN)
+http://hls.svc.moyo.tv/hls/CH_CARTOON/variant.m3u8?version=2
+#EXTINF:-1,CARTOON camp
+rtsp://72.13.93.186/campcartoon
+#EXTINF:-1,MUSIC Dj Underground
+http://cdn.djing.com/tv/u-05.m3u8
+#EXTINF:-1,MUSIC MIXTV RU
+rtmp://tv-mix.ru/live/Stream1
+#EXTINF:-1,NL RTV Drenthe
+rtmp://stream.rtvdrenthe.nl/tv/tvstream
+#EXTINF:-1,NL Maharishi Channel 3
+rtsp://streaming.mou.org/videodialup
