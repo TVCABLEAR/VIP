@@ -1,0 +1,110 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://tecnotv.info/logosss.png",KIDS
+https://tecnotv.xyz/lock.php
+#EXTINF:-1 tvg-logo="http://i.imgur.com/EkMMbwB.png",1/Dic/17
+http://tecnotv.xyz/redes.avi
+#EXTINF:-1 tvg-logo="http://imgur.com/sQ5MpXq.png",TecnotvOficial
+http://tecnotv.xyz/redes.avi
+#EXTINF:-1 tvg-logo="http://imgur.com/5TKzHnS.png",@Tecnotv
+http://tecnotv.xyz/redes.avi
+#EXTINF:-1 tvg-logo="http://imgur.com/kIbbGl4.jpg",AdryanList No Autorizado
+http://tecnotv.xyz/redes.avi
+#EXTINF:-1 tvg-logo="http://imgur.com/kIbbGl4.jpg",AdryanList No Autorizado
+http://tecnotv.xyz/redes.avi
+#EXTINF:-1 tvg-logo="http://imgur.com/kIbbGl4.jpg",AdryanList No Autorizado
+http://tecnotv.xyz/redes.avi
+#EXTINF:-1 tvg-logo="https://imgur.com/axvewxY.png" group-title="Infantil",Animax
+http://tecnotv.xyz/tv3/animax
+#EXTINF:-1 tvg-logo="https://imgur.com/LKK6eko.jpg" group-title="Infantil",PakaPaka
+http://tecnotv.xyz/tv3/pakapaka
+#EXTINF:-1 tvg-logo="https://imgur.com/t1qPpbK.jpg" group-title="Infantil",Locomotion
+http://tecnotv.xyz/tv3/locomotion
+#EXTINF:-1 tvg-logo="https://imgur.com/1oapo3E.png" group-title="Infantil",El Chavo
+http://tecnotv.xyz/tv3/chavo1717
+#EXTINF:-1 tvg-logo="https://imgur.com/OXkACt9.jpg" group-title="Infantil",Yes
+http://tecnotv.xyz/tv3/yes
+
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zmTGzafOIe8/Vfz6Yzk1MQI/AAAAAAAAAX0/bomr2zyOrdw/s400/logo%2BFOX%2BFAMILY.png" group-title="HD", Fox Family HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXFAMILY_HD)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/44.png" group-title="HD",Nick HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICKELODEON_HD)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="HD", Boomerang HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG_HD)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="http://tbsila.cdn.turner.com/toonla/images/cnemea/site/static-3.1.88/img/cnlogo_social.png" group-title="HD", Cartoon Network HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRXX/7e741b9363.png" group-title="HD", Discovery Kids HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSpf/d906cbcd81.png" group-title="INFANTILES", Disney Jr 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-YU6tpGgbodw/WVr42oxkkWI/AAAAAAAACXo/OjSf27YJiZ4szRUhrSmuXUC6eo7Tpc3HACLcBGAs/s640/18881845_1689128821389050_7148178865498555867_n.png" group-title="INFANTILES", NatGeo Kids
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.turner.com/s3fs-public/location_brand_logo/TurnerLogos_LATAM_TOONCAST-01.png" group-title="INFANTILES", Tooncast
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://tbsila.cdn.turner.com/toonla/images/cnemea/site/static-3.1.88/img/cnlogo_social.png" group-title="INFANTILES", Cartoon Network
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="INFANTILES", Boomerang
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/can_hd/44.png" group-title="INFANTILES",Nick
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICKELODEON_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/8.png" group-title="INFANTILES",Nick JR 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_JR)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRXX/7e741b9363.png" group-title="INFANTILES", Discovery Kids
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png" group-title="INFANTILES", Disney XD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://cdn.kidscreen.com/wp/wp-content/uploads/2011/02/BabyTV_Logo_TM-300x215.png" group-title="INFANTILES", Baby TV 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BABYTV)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2015_Disney_Channel_logo.svg/170px-2015_Disney_Channel_logo.svg.png" group-title="INFANTILES",Disney Channel
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/7/78/Nick_2.png/revision/latest?cb=20161211190940&path-prefix=es" group-title="INFANTILES",Nick 2
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_2_HD)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/b9jUASs.png" group-title="INFANTILES",TVN Kids
+http://cl-a1-p-e-tz2.cdn.mdstrm.com/live-stream/591f607e06b52d200a6066ea/playout/index-v1-a1.m3u8?
+#EXTINF:-1 tvg-logo="http://images.eltelon.com/cache/media/4477/square_150x150-2.jpg" group-title="INFANTILES",Trailer Tv Kids
+http://evo.eltelon.com:1935/trailertvkids/smil:trailertvkids.smil/chunklist_w194535224_b650000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/exvuGgQ.png" group-title="INFANTILES",Anime Tv
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/-9xw4Qr5M1RA/AAAAAAAAAAI/AAAAAAAAADM/233Pgqp4EU8/photo.jpg" group-title="INFANTILES",Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/iptvsmartv.files.wordpress.com/2017/04/logo-pkpk1.png?ssl=1&w=450" group-title="INFANTILES", PakaPaka
+http://ar.watcha.live/ch15/full.m3u8
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/88/a7/a8/88a7a88649006d00e51f0d3545752b86.png" group-title="INFANTILES",Retro Cartoon 
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+#EXTINF:-1, Peque Radio
+http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Tacho_Pistacho.png" group-title="INFANTILES",Tacho Pistacho
+http://canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw5bY/e2bab1e46e.png" group-title="INFANTILES", Tiin
+http://149.56.26.6:25461/live/dreamscanales/123456/13361.m3u8
+#EXTINF:-1 group-title="INFANTILES,Baby First
+http://149.56.26.6:25461/live/dreamscanales/123456/34691.m3u8
+#EXTINF:-1 group-title="INFANTILES,Nick Toons
+http://149.56.26.6:25461/live/dreamscanales/123456/8481.m3u8
+
+#EXTINF:-1 tvg-logo="http://imgur.com/6kfXPdg.jpg" group-title="Infantil",Sing
+http://tecnotv.xyz/media/id2017sing
+#EXTINF:-1 tvg-logo="http://imgur.com/yv0Joae.jpg" group-title="Infantil",Moana
+http://tecnotv.xyz/media/id2017moanas
+#EXTINF:-1 tvg-logo="http://imgur.com/Z9DH16e.jpg" group-title="Infantil",Trolls
+http://tecnotv.xyz/media/id2017trolls
+#EXTINF:-1 tvg-logo="http://imgur.com/gbKX0zt.jpg" group-title="Infantil",La bella y la bestia
+http://tecnotv.xyz/id=multi20/peliculas/labellaylabestia.php
+#EXTINF:-1 tvg-logo="http://imgur.com/1QQSCkO.jpg" group-title="Infantil",Angry Birds
+http://tecnotv.xyz/media/id2017angrybirds
+#EXTINF:-1 tvg-logo="http://bit.ly/PBAILA" group-title="Infantil",Bailarina 
+http://tecnotv.xyz/media/id2017bailarina
+#EXTINF:-1 tvg-logo="http://imgur.com/J5upZvo.jpg" group-title="Infantil",El Rey Leon
+http://tecnotv.xyz/id=multi20/peliculas/elreyleon.php
+#EXTINF:-1 tvg-logo="http://imgur.com/imePAPq.jpg" group-title="Fantasia",Harry Potter 1
+http://tecnotv.xyz/id=multi20/peliculas/lapiedrafilosofal.php
+#EXTINF:-1 tvg-logo="http://i.imgur.com/gKKQuNf.jpg.jpg" group-title="Fantasia",Harry Potter 2
+http://tecnotv.xyz/id=multi20/peliculas/lacamarasecreta.php
+#EXTINF:-1 tvg-logo="http://imgur.com/etIRx7J.jpg" group-title="Fantasia",Harry Potter 3
+http://tecnotv.xyz/id=multi20/peliculas/prisionerodeazkaban.php
+#EXTINF:-1 tvg-logo="http://imgur.com/BdUdrCr.jpg" group-title="Fantasia",Harry Potter 4
+http://tecnotv.xyz/id=multi20/peliculas/calizdefuego.php
+#EXTINF:-1 tvg-logo="http://imgur.com/gQjrxSo.jpg" group-title="Familiar",La fabrica de chocolate
+http://tecnotv.xyz/id=multi20/peliculas/lafabricadechocolate.php
+#EXTINF:-1 tvg-logo="http://imgur.com/3x27Zkv.jpg" group-title="Familiar",Daniel el Travieso
+http://tecnotv.xyz/media/id2017daniel
