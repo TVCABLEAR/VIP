@@ -1,12 +1,9 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://imgur.com/wLiUaSS.png" group-title="Información",TECNOTV
-http://195.181.162.207:25461/live/infantiles/fanstvapp/1656.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/YhInhHl.png" group-title="Información",Apoya el Proyecto
 http://tecnotv.xyz/live/tutorial
-#EXTINF:-1 tvg-logo="https://imgur.com/otzWdul.png" group-title="Información",Tutorial OttPlayer
-http://tecnotv.xyz/live/ott
 #EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="Información",3/Ene/2018
-http://tecnotv.xyz/error7
+http://tecnotv.xyz/redes.avi
 #EXTINF:-1 tvg-logo="https://imgur.com/sQ5MpXq.png" group-title="Información",TecnotvOficial
 http://tecnotv.xyz/redes.avi
 #EXTINF:-1 tvg-logo="https://imgur.com/5TKzHnS.png" group-title="Información",@Tecnotv
