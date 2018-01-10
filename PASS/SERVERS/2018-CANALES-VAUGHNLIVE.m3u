@@ -2,14 +2,27 @@
 
 #EXTINF:-1, CANALES 24/7
 #
-#EXTINF:-1, FAMILY GUY (24/7)
+
+#EXTINF:-1, TELEMUNDO (24/7)
+https://clutch.vaughnsoft.net/ord/vl/anahix11.m3u8
+#EXTINF:-1, TELEMUNDO 1RO (24/7)
+https://clutch.vaughnsoft.net/ord/vl/tele1.m3u8
+#EXTINF:-1, TELEMUNDO 50 (24/7)
+https://clutch.vaughnsoft.net/ord/vl/telemundo50.m3u8
+#EXTINF:-1, TELEMUNDO baja calidad (24/7)
+https://clutch.vaughnsoft.net/ord/vl/tvhdenvivo14.m3u8
+#EXTINF:-1,UNIVISION (24/7)
+https://clutch.vaughnsoft.net/ord/vl/tvhdenvivo21.m3u8
+#EXTINF:-1, TE LE FE (24/7)
+https://clutch.vaughnsoft.net/ord/vl/beto_26.m3u8
+
+#EXTINF:-1, PADRE DE FAMILIA (24/7)
 https://clutch.vaughnsoft.net/ord/vl/chor3ograph1c.m3u8
-#EXTINF:-1, Cine ChinoMex (24/7)
+#EXTINF:-1, CINE CHINO (24/7)
 https://clutch.vaughnsoft.net/ord/vl/chinomex2.m3u8
 #EXTINF:-1, 300 VECINOS (24/7)
 https://clutch.vaughnsoft.net/ord/vl/300_vecinos.m3u8
-#EXTINF:-1, TELEMUNDO (24/7)
-https://clutch.vaughnsoft.net/ord/vl/anahix11.m3u8
+
 #EXTINF:-1, PELICULAS 1 (24/7)
 https://clutch.vaughnsoft.net/ord/vl/beto_7.m3u8
 #EXTINF:-1, PELICULAS SyFy (24/7)
@@ -20,8 +33,7 @@ https://clutch.vaughnsoft.net/ord/vl/cienciaficcion01.m3u8
 https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8
 #EXTINF:-1, EL CHAVO DEL 8 (24/7)
 https://clutch.vaughnsoft.net/ord/vl/mega_chavo.m3u8
-#EXTINF:-1, TE LE FE (24/7)
-https://clutch.vaughnsoft.net/ord/vl/beto_26.m3u8
+
 #EXTINF:-1, LOS PICAPIEDRAS Y OTROS(24/7)
 https://clutch.vaughnsoft.net/ord/vl/cremecartoon.m3u8
 #EXTINF:-1, DOCTOR HOUSE (24/7)
@@ -92,14 +104,7 @@ https://clutch.vaughnsoft.net/ord/vl/seriesan342.m3u8
 https://clutch.vaughnsoft.net/ord/vl/simpson_maniahd53.m3u8
 #EXTINF:-1, SIMPSON SERIES 54  (24/7)
 https://clutch.vaughnsoft.net/ord/vl/simpson_maniahd54.m3u8
-#EXTINF:-1, TELEMUNDO 1RO (24/7)
-https://clutch.vaughnsoft.net/ord/vl/tele1.m3u8
-#EXTINF:-1, TELEMUNDO 50 (24/7)
-https://clutch.vaughnsoft.net/ord/vl/telemundo50.m3u8
-#EXTINF:-1, TELEMUNDO baja calidad (24/7)
-https://clutch.vaughnsoft.net/ord/vl/tvhdenvivo14.m3u8
-#EXTINF:-1,UNIVISION (24/7)
-https://clutch.vaughnsoft.net/ord/vl/tvhdenvivo21.m3u8
+
 #EXTINF:-1, UNIVERSAL MOVIES (24/7)
 https://clutch.vaughnsoft.net/ord/vl/universal_movies.m3u8
 #EXTINF:-1, CABALLLEROS DEL ZODIACO (24/7)
