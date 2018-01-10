@@ -3,119 +3,128 @@
 #EXTINF:-1, CANALES 24/7
 #
 
-#EXTINF:-1, TELEMUNDO (24/7)
-https://clutch.vaughnsoft.net/ord/vl/anahix11.m3u8
-#EXTINF:-1, TELEMUNDO 1RO (24/7)
-https://clutch.vaughnsoft.net/ord/vl/tele1.m3u8
-#EXTINF:-1, TELEMUNDO 50 (24/7)
-https://clutch.vaughnsoft.net/ord/vl/telemundo50.m3u8
-#EXTINF:-1, TELEMUNDO baja calidad (24/7)
+#EXTINF:-1, TELEMUNDO 0 (24/7)
 https://clutch.vaughnsoft.net/ord/vl/tvhdenvivo14.m3u8
-#EXTINF:-1,UNIVISION (24/7)
-https://clutch.vaughnsoft.net/ord/vl/tvhdenvivo21.m3u8
-#EXTINF:-1, TE LE FE (24/7)
-https://clutch.vaughnsoft.net/ord/vl/beto_26.m3u8
-
-#EXTINF:-1, PADRE DE FAMILIA (24/7)
-https://clutch.vaughnsoft.net/ord/vl/chor3ograph1c.m3u8
-#EXTINF:-1, CINE CHINO (24/7)
-https://clutch.vaughnsoft.net/ord/vl/chinomex2.m3u8
-#EXTINF:-1, 300 VECINOS (24/7)
-https://clutch.vaughnsoft.net/ord/vl/300_vecinos.m3u8
-
-#EXTINF:-1, PELICULAS 1 (24/7)
-https://clutch.vaughnsoft.net/ord/vl/beto_7.m3u8
-#EXTINF:-1, PELICULAS SyFy (24/7)
-https://clutch.vaughnsoft.net/ord/vl/cienciaficcion.m3u8
-#EXTINF:-1, PELICULAS WARNER (24/7)
-https://clutch.vaughnsoft.net/ord/vl/cienciaficcion01.m3u8
-#EXTINF:-1, CINE CALIDAD (24/7)
-https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8
-#EXTINF:-1, EL CHAVO DEL 8 (24/7)
-https://clutch.vaughnsoft.net/ord/vl/mega_chavo.m3u8
-
-#EXTINF:-1, LOS PICAPIEDRAS Y OTROS(24/7)
-https://clutch.vaughnsoft.net/ord/vl/cremecartoon.m3u8
-#EXTINF:-1, DOCTOR HOUSE (24/7)
-https://clutch.vaughnsoft.net/ord/vl/dr_daniel_jackson.m3u8
-#EXTINF:-1, SIN PELOS Y NEGRO (24/7)
-https://clutch.vaughnsoft.net/ord/vl/eldolape.m3u8
+#EXTINF:-1, TELEMUNDO 1 (24/7)
+https://clutch.vaughnsoft.net/ord/vl/anahix11.m3u8
+#EXTINF:-1, TELEMUNDO 2 (24/7)
+https://clutch.vaughnsoft.net/ord/vl/luzclarita.m3u8
+#EXTINF:-1, TELEMUNDO 3 (24/7)
+https://clutch.vaughnsoft.net/ord/vl/tele1.m3u8
+#EXTINF:-1, TELEMUNDO 4 (24/7)
+https://clutch.vaughnsoft.net/ord/vl/telemundo50.m3u8
 #EXTINF:-1, ESTRELLA TV (24/7)
 https://clutch.vaughnsoft.net/ord/vl/estrellatv.m3u8
 #EXTINF:-1, CANAL DE LA FE (24/7)
 https://clutch.vaughnsoft.net/ord/vl/felovetv.m3u8
-#EXTINF:-1, CINE STAR (24/7)
-https://clutch.vaughnsoft.net/ord/vl/cine_star.m3u8
-#EXTINF:-1, FM CIUDAD (24/7)
-https://clutch.vaughnsoft.net/ord/vl/fmciudad1059.m3u8
-#EXTINF:-1, FUTURAMA (24/7)
-https://clutch.vaughnsoft.net/ord/vl/futur4ma.m3u8
-#EXTINF:-1, 13 ARGENTINA (24/7)
-https://clutch.vaughnsoft.net/ord/vl/juan_13tv.m3u8
-#EXTINF:-1, PELICULAS 2 (24/7)
-https://clutch.vaughnsoft.net/ord/vl/katyhd.m3u8
-#EXTINF:-1, PELICULAS ANIME 1 (24/7)
-https://clutch.vaughnsoft.net/ord/vl/latinokidstv.m3u8
-#EXTINF:-1, PELICULAS ANIME 2 (24/7)
-https://clutch.vaughnsoft.net/ord/vl/lcreme_dreams.m3u8
-#EXTINF:-1, A24 ARGENTINA (24/7)
-https://clutch.vaughnsoft.net/ord/vl/all_music.m3u8
-#EXTINF:-1, PELICULAS TERROR (24/7)
-https://clutch.vaughnsoft.net/ord/vl/lcreme_horror.m3u8 
-#EXTINF:-1, AMERICA TV ARGENTINA (24/7)
-https://clutch.vaughnsoft.net/ord/vl/0_arroba2.m3u8
-#EXTINF:-1, PELICULAS CLASICAS (24/7)
-https://clutch.vaughnsoft.net/ord/vl/lcreme_classichd.m3u8
-#EXTINF:-1, PELICULAS DE ACCION (24/7)
-https://clutch.vaughnsoft.net/ord/vl/lcreme_staff.m3u8
-#EXTINF:-1, TERROR MANIA (24/7)
-https://clutch.vaughnsoft.net/ord/vl/terror_mania.m3u8
-#EXTINF:-1, HABLANDO DE CINE (24/7)
-https://clutch.vaughnsoft.net/ord/vl/zonafilmstvseries.m3u8
-#EXTINF:-1, CINE COMEDIA  (24/7)
-https://clutch.vaughnsoft.net/ord/vl/lcrememax.m3u8
-#EXTINF:-1, CINE ESTRENOS (24/7)
-https://clutch.vaughnsoft.net/ord/vl/lcremeplushd.m3u8
-#EXTINF:-1, TELEMUNDO 2 (24/7)
-https://clutch.vaughnsoft.net/ord/vl/luzclarita.m3u8
-#EXTINF:-1, NCIS MANIA (24/7)
-https://vaughnlive.tv/mania_ncis.m3u8
-#EXTINF:-1, GOKU (24/7)
-https://clutch.vaughnsoft.net/ord/vl/mega_animes.m3u8
-#EXTINF:-1, PELICULAS TERROR (24/7)
-https://clutch.vaughnsoft.net/ord/vl/mega_extremo.m3u8
-#EXTINF:-1, PELICULAS INFANTILES (24/7)
-https://vaughnlive.tv/mega_kids.m3u8
-#EXTINF:-1, PELICULAS HD (24/7)
-https://clutch.vaughnsoft.net/ord/vl/mega_movieshd.m3u8
-#EXTINF:-1, HBO (24/7)
-https://clutch.vaughnsoft.net/ord/vl/mikyiptvhb.m3u8
-#EXTINF:-1, TELE CIENCIAS (24/7)
-https://clutch.vaughnsoft.net/ord/vl/nurtv.m3u8
-#EXTINF:-1, ANIMES 24 HS (24/7)
-https://clutch.vaughnsoft.net/ord/vl/proyecto1.m3u8
+#EXTINF:-1, UNIVISION (24/7)
+https://clutch.vaughnsoft.net/ord/vl/tvhdenvivo21.m3u8
 #EXTINF:-1, CANAL PSN (24/7)
 https://clutch.vaughnsoft.net/ord/vl/psn85v.m3u8
-#EXTINF:-1, SERIES ESPAÑOLAS (24/7)
-https://clutch.vaughnsoft.net/ord/vl/rajaduradplacard.m3u8
+#EXTINF:-1, VITATO TV  (24/7)
+https://clutch.vaughnsoft.net/ord/vl/vitatotv.m3u8
+#EXTINF:-1, DOCUMENTALES (24/7)
+https://clutch.vaughnsoft.net/ord/vl/bobwopel.m3u8
+#EXTINF:-1, TE LE FE (24/7)
+https://clutch.vaughnsoft.net/ord/vl/beto_26.m3u8
+#EXTINF:-1, 13 ARGENTINA (24/7)
+https://clutch.vaughnsoft.net/ord/vl/juan_13tv.m3u8
+#EXTINF:-1, A24 ARGENTINA (24/7)
+https://clutch.vaughnsoft.net/ord/vl/all_music.m3u8
+#EXTINF:-1, AMERICA TV ARGENTINA (24/7)
+https://clutch.vaughnsoft.net/ord/vl/0_arroba2.m3u8
+#EXTINF:-1, FM CIUDAD (24/7)
+https://clutch.vaughnsoft.net/ord/vl/fmciudad1059.m3u8
+#EXTINF:-1, TELE CIENCIAS (24/7)
+https://clutch.vaughnsoft.net/ord/vl/nurtv.m3u8
+
+#EXTINF:-1, PADRE DE FAMILIA (24/7)
+https://clutch.vaughnsoft.net/ord/vl/chor3ograph1c.m3u8
+#EXTINF:-1, EL CHAVO DEL 8 (24/7)
+https://clutch.vaughnsoft.net/ord/vl/mega_chavo.m3u8
+#EXTINF:-1, FUTURAMA (24/7)
+https://clutch.vaughnsoft.net/ord/vl/futur4ma.m3u8
+#EXTINF:-1, LOS PICAPIEDRAS (24/7)
+https://clutch.vaughnsoft.net/ord/vl/cremecartoon.m3u8
+#EXTINF:-1, GOKU (24/7)
+https://clutch.vaughnsoft.net/ord/vl/mega_animes.m3u8
+#EXTINF:-1, CABALLLEROS DEL ZODIACO (24/7)
+https://clutch.vaughnsoft.net/ord/vl/variedtv.m3u8
 #EXTINF:-1, ANIME PiKACHU (24/7)
 https://clutch.vaughnsoft.net/ord/vl/seriesan342.m3u8
+#EXTINF:-1, MEGA KIDZ (24/7)
+https://vaughnlive.tv/mega_kids.m3u8
+#EXTINF:-1, ANIMES 24 HS (24/7)
+https://clutch.vaughnsoft.net/ord/vl/proyecto1.m3u8
 #EXTINF:-1, SIMPSON SERIES 53 (24/7)
 https://clutch.vaughnsoft.net/ord/vl/simpson_maniahd53.m3u8
 #EXTINF:-1, SIMPSON SERIES 54  (24/7)
 https://clutch.vaughnsoft.net/ord/vl/simpson_maniahd54.m3u8
+#EXTINF:-1, LATINO KIDS 1 (24/7)
+https://clutch.vaughnsoft.net/ord/vl/latinokidstv.m3u8
+#EXTINF:-1, LATINO KIDS 2 (24/7)
+https://clutch.vaughnsoft.net/ord/vl/lcreme_dreams.m3u8
 
-#EXTINF:-1, UNIVERSAL MOVIES (24/7)
-https://clutch.vaughnsoft.net/ord/vl/universal_movies.m3u8
-#EXTINF:-1, CABALLLEROS DEL ZODIACO (24/7)
-https://clutch.vaughnsoft.net/ord/vl/variedtv.m3u8
-#EXTINF:-1, VITATO TV  (24/7)
-https://clutch.vaughnsoft.net/ord/vl/vitatotv.m3u8
 #EXTINF:-1, SERIES DE TV (24/7)
 https://clutch.vaughnsoft.net/ord/vl/zonafilmstvseries.m3u8
-#EXTINF:-1, PELICULAS TERROR 2(24/7)
-https://clutch.vaughnsoft.net/ord/vl/zonafilmsterror.m3u8
-#EXTINF:-1, DOCUMENTALES (24/7)
-https://vaughnlive.tv/bobwopel.m3u8
+#EXTINF:-1, 300 VECINOS (24/7)
+https://clutch.vaughnsoft.net/ord/vl/300_vecinos.m3u8
+#EXTINF:-1, DOCTOR HOUSE (24/7)
+https://clutch.vaughnsoft.net/ord/vl/dr_daniel_jackson.m3u8
+#EXTINF:-1, HOMBRES DE NEGRO (24/7)
+https://clutch.vaughnsoft.net/ord/vl/eldolape.m3u8
+#EXTINF:-1, SERIES ESPAÑOLAS (24/7)
+https://clutch.vaughnsoft.net/ord/vl/rajaduradplacard.m3u8
+
+
+#EXTINF:-1, CINE CHINO (24/7)
+https://clutch.vaughnsoft.net/ord/vl/chinomex2.m3u8
+#EXTINF:-1, CINE CALIDAD (24/7)
+https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8
+#EXTINF:-1, CINE STAR (24/7)
+https://clutch.vaughnsoft.net/ord/vl/cine_star.m3u8
+#EXTINF:-1, CINE COMEDIA  (24/7)
+https://clutch.vaughnsoft.net/ord/vl/lcrememax.m3u8
+#EXTINF:-1, CINE ESTRENOS (24/7)
+https://clutch.vaughnsoft.net/ord/vl/lcremeplushd.m3u8
 #EXTINF:-1, CINE DE JUAN (24/7)
 https://clutch.vaughnsoft.net/ord/vl/juancine_tv.m3u8
+
+
+#EXTINF:-1, PELIS SyFy (24/7)
+https://clutch.vaughnsoft.net/ord/vl/cienciaficcion.m3u8
+#EXTINF:-1, PELIS WARNER (24/7)
+https://clutch.vaughnsoft.net/ord/vl/cienciaficcion01.m3u8
+#EXTINF:-1, PELIS HBO (24/7)
+https://clutch.vaughnsoft.net/ord/vl/mikyiptvhb.m3u8
+#EXTINF:-1, PELIS NCIS (24/7)
+https://vaughnlive.tv/mania_ncis.m3u8
+#EXTINF:-1, PELIS UNIVERSAL(24/7)
+https://clutch.vaughnsoft.net/ord/vl/universal_movies.m3u8
+
+#EXTINF:-1, PELIS 1 (24/7)
+https://clutch.vaughnsoft.net/ord/vl/beto_7.m3u8
+#EXTINF:-1, PELIS 2 (24/7)
+https://clutch.vaughnsoft.net/ord/vl/katyhd.m3u8
+#EXTINF:-1, PELIS CLASICAS (24/7)
+https://clutch.vaughnsoft.net/ord/vl/lcreme_classichd.m3u8
+#EXTINF:-1, PELIS ACCION (24/7)
+https://clutch.vaughnsoft.net/ord/vl/lcreme_staff.m3u8
+#EXTINF:-1, PELIS HD (24/7)
+https://clutch.vaughnsoft.net/ord/vl/mega_movieshd.m3u8
+
+
+
+#EXTINF:-1, HABLANDO DE CINE (24/7)
+https://clutch.vaughnsoft.net/ord/vl/zonafilmstvseries.m3u8
+#EXTINF:-1, TERROR MANIA (24/7)
+https://clutch.vaughnsoft.net/ord/vl/terror_mania.m3u8
+#EXTINF:-1, PELICULAS TERROR 1 (24/7)
+https://clutch.vaughnsoft.net/ord/vl/lcreme_horror.m3u8
+#EXTINF:-1, PELICULAS TERROR 2 (24/7)
+https://clutch.vaughnsoft.net/ord/vl/mega_extremo.m3u8
+#EXTINF:-1, PELICULAS TERROR 3 (24/7)
+https://clutch.vaughnsoft.net/ord/vl/zonafilmsterror.m3u8
+
+
+
