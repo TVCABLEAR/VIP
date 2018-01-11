@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:-1,A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ACS Network
+http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+#EXTINF:-1,AMC
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:-1,AMC (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:-1,ATRESSERIES
+http://189.216.247.113/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8
+#EXTINF:-1,AXN (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(AXN)/index.m3u8
+#EXTINF:-1,América TV (Argentina)
+http://ar.watcha.live/ch3/hi.m3u8
+#EXTINF:-1,Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,BANDA MAX
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:-1,BANDAMAX (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:-1,Bemad
+http://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_4.m3u8
+#EXTINF:-1,CANAL 26 (Arg)
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:-1,CINEMAX HD (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+#EXTINF:-1,COS
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+#EXTINF:-1,COS FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+#EXTINF:-1,Canal 9 Argentina
+http://ar.watcha.live/ch5/full.m3u8
+#EXTINF:-1,Canal Once Internacional
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8?rochafree
+#EXTINF:-1,Caracol HD
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1,Cartoon Network (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(CARTOON_NETWORK)/index.m3u8
+#EXTINF:-1,Cine AR
+http://ar.watcha.live/ch17/hi.m3u8?
+#EXTINF:-1,Cinemax (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(CINEMAX_HD)/index.m3u8
+#EXTINF:-1,Claro Sports
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+#EXTINF:-1,De Pelicula HD
+http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+#EXTINF:-1,Deportv
+http://186.33.227.200/DXTV/smil:DXTV.smil/chunklist_w222748973_b800000_slesp.m3u8
+#EXTINF:-1,E! (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(E)/index.m3u8
+#EXTINF:-1,ESPN 3
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+#EXTINF:-1,ESPN HD  HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:-1,ESPN HD (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:-1,ESPN2 HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+#EXTINF:-1,ESPN2 HD (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+#EXTINF:-1,ESPN3 (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+#EXTINF:-1,Efekto TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8
+#EXTINF:-1,El Gourmet (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(EL_GOURMET)/index.m3u8
+#EXTINF:-1,El Nueve (Argentina)
+http://ar.watcha.live/ch5/hi.m3u8
+#EXTINF:-1,Encuentro
+http://ar.watcha.live/ch14/hi.m3u8
+#EXTINF:-1,F1 Latinoamerica
+http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+#EXTINF:-1,FORO TV
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/index.m3u8
+#EXTINF:-1,FUSION TV
+http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/index.m3u8
+#EXTINF:-1,Foro TV MX
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:-1,GALA TV
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+#EXTINF:-1,Golden
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1,Golden (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:-1,H2 (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(h2)/index.m3u8
+#EXTINF:-1,History Channel (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(HISTORY)/index.m3u8
+#EXTINF:-1,I-SAT (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(ISAT)/index.m3u8
+#EXTINF:-1,LA TELETUYA VENEZUELA
+http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8
+#EXTINF:-1,La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1,Las Estrellas (México)
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:-1,MC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,MEGA HD
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8?
+#EXTINF:-1,MTV (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
+#EXTINF:-1,MTV LIVE
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+#EXTINF:-1,MTV Live (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+#EXTINF:-1,Mi Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1,Movistar Musica
+http://b38629-p53-hb6.2.cdn.telefonica.com/_38629/3.m3u8
+#EXTINF:-1,Multimedios Televisión (Monterrey)
+http://mdstrm.com/live-stream-playlist/57b4db886338448314449cfa.m3u8?&dnt=true&ref=http%3A%2F%2Fm.multimedios.com%2Ftv%2Fenvivo%2FMonterrey
+#EXTINF:-1,NBA_TV
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+#EXTINF:-1,NFL NOW
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_964k.m3u8
+#EXTINF:-1,NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1,NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:-1,NIU
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:-1,Nat Geo
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:-1,Nat Geo (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:-1,Nat Geo Wild (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+#EXTINF:-1,Nick 2
+http://live.izzitv.mx/Content/HLS/Live/Channel(RITMOSON)/index.m3u8
+#EXTINF:-1,Ocho Tv
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Oromar TV
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:-1,Paramount Channel (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/index.m3u8
+#EXTINF:-1,RCN
+https://mdstrm.com/live-stream-playlist_1200/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1,RPC PANAMA
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
+#EXTINF:-1,SPACE
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1,Sony (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(SONY)/index.m3u8
+#EXTINF:-1,Space
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1,Space (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
+#EXTINF:-1,Sundace Channel (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(SUNDANCE_CHANNEL)/index.m3u8
+#EXTINF:-1,TDN
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:-1,TDN (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:-1,TICAVISION
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1,TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1,TNT (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1,TNT Series
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:-1,TNT Series (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(TNT_SERIES)/index.m3u8
+#EXTINF:-1,TV Más MEXICO
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+#EXTINF:-1,Tacho Pistacho
+http://canalrcnhd.cdn.net.co/hlsme/envivoinfantil.m3u8
+#EXTINF:-1,Telefe
+http://ar.watcha.live/ch6/hi.m3u8
+#EXTINF:-1,Telehit (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(TELEHIT)/index.m3u8
+#EXTINF:-1,Telemundo 39
+https://clutch.vaughnsoft.net/ord/vl/anahix11.m3u8
+#EXTINF:-1,Telemundo 51
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Tigo music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:-1,Tv Pública
+http://ar.watcha.live/ch4/hi.m3u8
+#EXTINF:-1,UNIVISION_TDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+#EXTINF:-1,Unicable
+http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+#EXTINF:-1,Unimas Now (Solo Android)
+http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_1600_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
+#EXTINF:-1,Univision
+https://ssh101.com/m3u8/dyn/unonuevo/index.m3u8
+#EXTINF:-1,Univision Deportes
+http://antenatv.tk/not_use222-UnivisionDeportes.m3u8
+#EXTINF:-1,Univision Now (Solo Android)
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_1600_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
+#EXTINF:-1,VH1 (Solo México)
+http://live.izzitv.mx/Content/HLS/Live/Channel(VH1)/index.m3u8
+#EXTINF:-1,Virgin TV Live
+http://tv.105.net:1935/live/virgin1/chunklist_w620779835.m3u8?iptvgratis?chile.m3u8
