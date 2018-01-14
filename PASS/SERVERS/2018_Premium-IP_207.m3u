@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:0, lista pastebin
+#EXTINF:0, PASTEBIN hnaQgS6R
 https://pastebin.com/raw/hnaQgS6R
+#EXTINF:0, USER jam1976
+https://pastebin.com/u/jam1976
 
 #EXTINF:0,Cartoon Network
 #EXTGRP:unsorted
