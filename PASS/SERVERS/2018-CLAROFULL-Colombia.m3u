@@ -1,0 +1,679 @@
+#EXTM3U
+#EXTINF:0,Warner 149
+http://149.56.26.6:25461/live/2130/2130/1647.ts
+
+#EXTINF:0,Warner 149
+http://149.56.26.6:25461/live/2130/2130/1647.m3u8
+
+#EXTINF:0,AZCORAZON_HD 1080
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AZCORAZON_HD)/index.m3u8
+#EXTINF:0,AZCORAZON_HD 720
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AZCORAZON_HD)/Stream(02)/index.m3u8
+#EXTINF:0,AZCORAZON_HD 720
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AZCORAZON_HD)/Stream(01)/index.m3u8
+#EXTINF:0,A+
+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
+#EXTINF:0,A+
+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8
+#EXTINF:0,EL TRECE
+
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:0,CANAL 5 HD
+
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:0,ESTRELLAS_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESTRELLAS_HD)/index.m3u8
+#EXTINF:0,ESTRELLAS opt2
+
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:0,AZCORAZON_HD
+
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+#EXTINF:0,FORO TV
+
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1048_av-p.m3u8
+#EXTINF:0,MULTIMEDIOS MONTERREY
+
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,FORO TV
+
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/index.m3u8
+#EXTINF:0,MILENIO HD
+
+http://189.216.247.113/Content/HLS/Live/Channel(MILENIO_HD)/index.m3u8
+#EXTINF:0,PROYECTO 40
+
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,MVS RADIO
+
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0,FUSION TV
+
+http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/index.m3u8
+#EXTINF:0,GALA TV
+
+http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
+#EXTINF:0,TELEMUNDO
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELEMUNDO)/index.m3u8
+#EXTINF:0,HOLA_TV_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HOLA_TV_HD)/index.m3u8
+#EXTINF:0,UNICABLE
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNICABLE)/index.m3u8
+#EXTINF:0,DIA_TV_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DIA_TV_HD)/index.m3u8
+#EXTINF:0,CONCERT_CHANNEL_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CONCERT_CHANNEL_HD)/index.m3u8
+#EXTINF:0,LIFETIME
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(LIFETIME)/index.m3u8
+#EXTINF:0,!E
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(E)/index.m3u8
+#EXTINF:0,TLNOVELAS
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/index.m3u8
+#EXTINF:0,RCN_TELENOVELAS
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RCN_TELENOVELAS)/index.m3u8
+#EXTINF:0,MASCHIC_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MASCHIC_HD)/index.m3u8
+#EXTINF:0,CANAL_CLARO_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CANAL_CLARO_HD)/index.m3u8
+#EXTINF:0,MASCHIC_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MASCHIC_HD)/index.m3u8
+#EXTINF:0,LIFETIME
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(LIFETIME)/index.m3u8
+#EXTINF:0,DISCOVERY_WORLD_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_WORLD_HD)/index.m3u8
+#EXTINF:0,DISCOVERY
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/index.m3u8
+#EXTINF:0,DISCOVERY THEATER
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_THEATER_HD)/index.m3u8
+#EXTINF:0,DISCOVERY CIVI
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CIVILIZATION)/index.m3u8
+#EXTINF:0,DISCOVERY SCINCE
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_SCIENCE)/index.m3u8
+#EXTINF:0,ANIMAL PLANETHD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/index.m3u8
+#EXTINF:0,HISTORY CHANNEL HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HISTORY_CHANNEL_HD)/index.m3u8
+#EXTINF:0,H2
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/index.m3u8
+#EXTINF:0,NAT GEO
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_HD)/index.m3u8
+#EXTINF:0,NAT GEO WILD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_WILD_HD)/index.m3u8
+#EXTINF:0,TISCOVERY TURBO
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_TURBO)/index.m3u8
+#EXTINF:0,TLC HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLC_HD)/index.m3u8
+#EXTINF:0,ARIRANG
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ARIRANG)/index.m3u8
+#EXTINF:0,NUESTRA_TELE
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NUESTRA_TELE)/index.m3u8
+#EXTINF:0,CARACOL
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARACOL)/index.m3u8
+#EXTINF:0,CARACOL_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARACOL_HD)/index.m3u8
+#EXTINF:0,ANTENA3
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANTENA3)/index.m3u8
+#EXTINF:0,DW
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DW)/index.m3u8
+#EXTINF:0,TV5
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TV5)/index.m3u8
+#EXTINF:0,RAI
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RAI)/index.m3u8
+#EXTINF:0,TVE
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TVE)/index.m3u8
+#EXTINF:0,AZMUNDO_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AZMUNDO_HD)/index.m3u8
+#EXTINF:0,PASIONES_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PASIONES_HD)/index.m3u8
+#EXTINF:0,VEPLUSTV
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VEPLUSTV)/index.m3u8
+#EXTINF:0,ZOOM
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ZOOM)/index.m3u8
+#EXTINF:0,DHE_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DHE_HD)/index.m3u8
+#EXTINF:0,NUESTRA_TELE
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NUESTRA_TELE)/index.m3u8
+#EXTINF:0,BLOOMBERG
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BLOOMBERG)/index.m3u8
+#EXTINF:0,ARIRANG
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ARIRANG)/index.m3u8
+#EXTINF:0,TV_AGRO_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TV_AGRO_HD)/index.m3u8
+#EXTINF:0,RCN
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RCN)/index.m3u8
+#EXTINF:0,CANAL_CAPITAL
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CANAL_CAPITAL)/index.m3u8
+#EXTINF:0,TELECARIBE
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELECARIBE)/index.m3u8
+#EXTINF:0,TELEPACIFICO
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELEPACIFICO)/index.m3u8
+#EXTINF:0,CANAL13
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CANAL13)/index.m3u8
+#EXTINF:0,TELECAFE
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELECAFE)/index.m3u8
+#EXTINF:0,COSMOVISION
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(COSMOVISION)/index.m3u8
+#EXTINF:0,CANAL_UNO_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CANAL_UNO_HD)/index.m3u8
+#EXTINF:0,SENAL_INSTITUCIONAL_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SENAL_INSTITUCIONAL_HD)/index.m3u8
+#EXTINF:0,SENAL_COLOMBIA_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SENAL_COLOMBIA_HD)/index.m3u8
+#EXTINF:0,INT HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(INTI_HD)/index.m3u8
+#EXTINF:0,---
+
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+#EXTINF:0,....
+
+http://streaminglivehd.com:1935/8022/8022/playlist.m3u8
+#EXTINF:0,TENHD
+
+http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w562335381_b1848000.m3u8
+#EXTINF:0,CANAL 10
+
+http://198.24.135.42/canal10/canal10/chunklist_w1902896771.m3u8
+#EXTINF:0,TELE MADRI
+
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+#EXTINF:0,ANTENA 3
+
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:0,DW
+
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:0,UNICANAL
+
+http://strm.unicanal.com.py/live/unicanal_src.m3u8
+#EXTINF:0,ALJAZEERA_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ALJAZEERA_HD)/index.m3u8
+#EXTINF:0,FRANCE24_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FRANCE24_HD)/index.m3u8
+#EXTINF:0,BBC_WORLD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BBC_WORLD)/index.m3u8
+#EXTINF:0,CNN_INTERNACIONAL
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CNN_INTERNACIONAL)/index.m3u8
+#EXTINF:0,DATA_IFX
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DATA_IFX)/index.m3u8
+#EXTINF:0,BLOOMBERG
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BLOOMBERG)/index.m3u8
+#EXTINF:0,FOX NEWS
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXNEWS)/index.m3u8
+#EXTINF:0,NTN24
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NTN24)/index.m3u8
+#EXTINF:0,CABLENOTICIAS_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CABLENOTICIAS_HD)/index.m3u8
+#EXTINF:0,CNN USA
+
+http://189.216.247.113/Content/HLS/Live/Channel(CNN_HD)/index.m3u8
+#EXTINF:0,DISNEY HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_HD)/index.m3u8
+#EXTINF:0,NICK JR
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:0,NICK_JR
+
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:0,NATGEOKIDS HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/index.m3u8
+#EXTINF:0,NICK2 HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_2_HD)/index.m3u8
+#EXTINF:0,DISCOVERY KIDS HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/index.m3u8
+#EXTINF:0,CARTOON NETWORK HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/index.m3u8
+#EXTINF:0,NICKELODEON HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICKELODEON_HD)/index.m3u8
+#EXTINF:0,BOOMERANG HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG_HD)/index.m3u8
+#EXTINF:0,DISNEY XD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/index.m3u8
+#EXTINF:0,BABYTV
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BABYTV)/index.m3u8
+#EXTINF:0,DISNEY JR
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/index.m3u8
+#EXTINF:0,TOONCAST
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/index.m3u8
+#EXTINF:0,MTV LIVE  HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_LIVE_HD)/index.m3u8
+#EXTINF:0,HTV
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HTV)/index.m3u8
+#EXTINF:0,RADIOLA
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(RADIOLA)/index.m3u8
+#EXTINF:0,VH1 HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1_HD)/index.m3u8
+#EXTINF:0,VH1 CLASSIC
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(VH1_CLASSIC)/index.m3u8
+#EXTINF:0,TELEHIT
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELEHIT)/index.m3u8
+#EXTINF:0,MTV_HITS
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MTV_HITS)/index.m3u8
+#EXTINF:0,BANDA MAX
+
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:0,CANTINZAO
+
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:0,CAPITAL MUSI
+
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:0,Heart TV Music
+
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,M2O TV Music
+
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0,Melody TV Music
+
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0,ATRES_SERIES
+
+http://189.216.247.113/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8
+#EXTINF:0,WARNER_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/index.m3u8
+#EXTINF:0,FOX LIFE_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE_HD)/index.m3u8
+#EXTINF:0,FOX LIFE SD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/index.m3u8
+#EXTINF:0,AE_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE_MUNDO_HD)/index.m3u8
+#EXTINF:0,AE_SD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/index.m3u8
+#EXTINF:0,AXN HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/index.m3u8
+#EXTINF:0,SONY HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/index.m3u8
+#EXTINF:0,ID_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/index.m3u8
+#EXTINF:0,UNIVERSAL_CHANNEL_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_HD)/index.m3u8
+#EXTINF:0,FOX HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_HD)/index.m3u8
+#EXTINF:0,FX_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/index.m3u8
+#EXTINF:0,TNT_SERIES_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_SERIES_HD)/index.m3u8
+#EXTINF:0,COMEDY_CENTRAL_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(COMEDY_CENTRAL_HD)/index.m3u8
+#EXTINF:0,TRUTV HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TRU_TV_HD)/index.m3u8
+#EXTINF:0,EWTN
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(EWTN)/index.m3u8
+#EXTINF:0,TELEAMIGA
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELEAMIGA)/index.m3u8
+#EXTINF:0,ENLACE
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ENLACE)/index.m3u8
+#EXTINF:0,EL_SEMBRADOR
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(EL_SEMBRADOR)/index.m3u8
+#EXTINF:0,CRISTOVISION
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CRISTOVISION)/index.m3u8
+#EXTINF:0,ESPN_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:0,ESPN_2_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/index.m3u8
+#EXTINF:0,ESPN_3_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/index.m3u8
+#EXTINF:0,FOX SPORTS HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
+#EXTINF:0,FOX_SPORTS 2 HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
+#EXTINF:0,FOX_SPORTS3_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8
+#EXTINF:0,WINSPORTS HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8
+#EXTINF:0,GOLF_CHANNEL_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLF_CHANNEL_HD)/index.m3u8
+#EXTINF:0,UNIVISION DEPORTES
+
+http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
+#EXTINF:0,CLARO_SPORTS
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_SPORTS_LATAM_HD)/index.m3u8
+#EXTINF:0,TDN
+
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:0,TDN 2
+
+http://live.izzitv.mx/Content/HLS/Live/Channel(TDN)/index.m3u8
+#EXTINF:0,F1
+
+http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+#EXTINF:0,UNIVISION_TDN
+
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+#EXTINF:0,NBA_TV
+
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+#EXTINF:0,REDBULL
+
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:0,CINEMA PLUS
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAPLUS)/index.m3u8
+#EXTINF:0,TCM
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TCM)/index.m3u8
+#EXTINF:0,GOLDEN PREMIER HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_PREMIER_HD)/index.m3u8
+#EXTINF:0,de PELICULA HD
+
+http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+#EXTINF:0,GOLDEN_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:0,GOLDEN_SD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN)/index.m3u8
+#EXTINF:0,SUNDANCE_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SUNDANCE_HD)/index.m3u8
+#EXTINF:0,TNT_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:0,TNT_SD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT)/index.m3u8
+#EXTINF:0,SPACE_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/index.m3u8
+#EXTINF:0,SPACE_SD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
+#EXTINF:0,AMC_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:0,PARAMOUNT_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PARAMOUNT_HD)/index.m3u8
+#EXTINF:0,CINEMAX
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAX)/index.m3u8
+#EXTINF:0,STUDIO_UNIVERSAL
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(STUDIO_UNIVERSAL)/index.m3u8
+#EXTINF:0,GOLDEN_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:0,MULTIPREMIER
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/index.m3u8
+#EXTINF:0,CINELATINO
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/index.m3u8
+#EXTINF:0,CINECANAL_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/index.m3u8
+#EXTINF:0,CLARO_CINEMA
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_CINEMA)/index.m3u8
+#EXTINF:0,DEPELICULA sd
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/index.m3u8
+#EXTINF:0,THE_FILM_ZONE_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/index.m3u8
+#EXTINF:0,ISAT
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/index.m3u8
+#EXTINF:0,EUROCHANNEL
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(EUROCHANNEL)/index.m3u8
+#EXTINF:0,TBS
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TBS)/index.m3u8
+#EXTINF:0,MULTIPREMIER
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/index.m3u8
+#EXTINF:0,CINEMA PLUS
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAPLUS)/index.m3u8
+#EXTINF:0,TCM
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TCM)/index.m3u8
+#EXTINF:0,GOLDEN PREMIER HD
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_PREMIER_HD)/index.m3u8
+#EXTINF:0,de PELICULA HD
+ 
+http://live.izzitv.mx/Content/HLS/Live/Channel(DE_PELICULA_HD)/index.m3u8
+#EXTINF:0,GOLDEN_HD
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:0,GOLDEN_SD
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN)/index.m3u8
+#EXTINF:0,SUNDANCE_HD
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SUNDANCE_HD)/index.m3u8
+#EXTINF:0,TNT_HD
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_HD)/index.m3u8
+#EXTINF:0,TNT_SD
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT)/index.m3u8
+#EXTINF:0,SPACE_HD
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/index.m3u8
+#EXTINF:0,SPACE_SD
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
+#EXTINF:0,AMC_HD
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AMC_HD)/index.m3u8
+#EXTINF:0,PARAMOUNT_HD
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PARAMOUNT_HD)/index.m3u8
+#EXTINF:0,CINEMAX
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMAX)/index.m3u8
+#EXTINF:0,STUDIO_UNIVERSAL
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(STUDIO_UNIVERSAL)/index.m3u8
+#EXTINF:0,GOLDEN_HD
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/index.m3u8
+#EXTINF:0,MULTIPREMIER
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/index.m3u8
+#EXTINF:0,CINELATINO
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/index.m3u8
+#EXTINF:0,CINECANAL_HD
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/index.m3u8
+#EXTINF:0,CLARO_CINEMA
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_CINEMA)/index.m3u8
+#EXTINF:0,DEPELICULA sd
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/index.m3u8
+#EXTINF:0,THE_FILM_ZONE_HD
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/index.m3u8
+#EXTINF:0,ISAT
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/index.m3u8
+#EXTINF:0,EUROCHANNEL
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(EUROCHANNEL)/index.m3u8
+#EXTINF:0,TBS
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TBS)/index.m3u8
+#EXTINF:0,MULTIPREMIER
+ 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MULTIPREMIER)/index.m3u8
+#EXTINF:0,FOX1  ESTE
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_ESTE)/index.m3u8
+#EXTINF:0,FOX ESTE OESTE
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_OESTE)/index.m3u8
+#EXTINF:0,HBO_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/index.m3u8
+#EXTINF:0,HBO_2_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/index.m3u8
+#EXTINF:0,HBO_FAMILY_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/index.m3u8
+#EXTINF:0,HBO_PLUS_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/index.m3u8
+#EXTINF:0,HBO_PLUS_SD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS)/index.m3u8
+#EXTINF:0,HBO_SIGNATURE_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
+#EXTINF:0,MAX
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX)/index.m3u8
+#EXTINF:0,MAX_PRIME_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME_HD)/index.m3u8
+#EXTINF:0,MAX_PRIME_SD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME)/index.m3u8
+#EXTINF:0,MAX_UP_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/index.m3u8
+#EXTINF:0,FOX_CINEMA_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CINEMA_HD)/index.m3u8
+#EXTINF:0,FOX_ACTION-SD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_ACTION)/index.m3u8
+#EXTINF:0,FOX_ACTION HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXACTION_HD)/index.m3u8
+#EXTINF:0,FOXMOVIES_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/index.m3u8
+#EXTINF:0,FOX_CLASSICS_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_CLASSICS_HD)/index.m3u8
+#EXTINF:0,FOX_COMEDY_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/index.m3u8
+#EXTINF:0,FOX_FAMILY
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_FAMILY)/index.m3u8
+#EXTINF:0,FOXFAMILY_HD
+
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXFAMILY_HD)/index.m3u8
