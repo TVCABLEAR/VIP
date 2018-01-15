@@ -1,8 +1,13 @@
-https://pastebin.com/raw/gFBFgLyM
+
 
 #EXTM3U
-#EXTINF:-1,08-01-18 GRACIAS! B.I.G SYSTEM CO.
-#EXTGRP:ADMIN https://www.facebook.com/bigsystemsco/
+
+
+
+#EXTINF:-1, LISTA VIP
+https://pastebin.com/raw/gFBFgLyM
+
+
 #EXTINF:-1,MAMA
 #EXTGRP:NIÑOS KIDS
 http://185.231.160.35:5000//60/2/index.m3u8
