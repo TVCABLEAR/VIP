@@ -1,57 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1  ,Chelsea TV 
-http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
-#EXTINF:-1 group-title= "MUSICA", Music Choice Musica Urbana 
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
-#EXTINF:-1 group-title= "MUSICA", Music Choice Pop Latino 
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Tropicales 
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Alternative 
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Dance 
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Play 
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Brits + Hits 
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Hip-Hop And R&amp;B 
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
-#EXTINF:-1 group-title= "MUSICA", Music Choice Hit 
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Indie 
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Metal 
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Pop &amp; Country 
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Pop Hits 
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice R&amp;B Soul 
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Rap 
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Rap 2K 
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Rock 
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Today 
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice 90 
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Throwback Jamz 
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Y2K 
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Music Choice 
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Mexicana 
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Teen Beats 
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
-#EXTINF:-1  group-title= "MUSICA", Music Choice Kidz Only 
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+
 
 #EXTINF:-1   ,Azteca 7 HD  S. y L
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=AZMX0068
