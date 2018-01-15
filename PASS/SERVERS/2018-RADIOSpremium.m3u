@@ -1,0 +1,336 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  ,   *[COLOR red]RADIO LATINOS[/COLOR]*
+http://127.0.0.1
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Imagina (88.1 FM)
+http://14003.live.streamtheworld.com/IMAGINA_SC
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Maxima FM (88.1 FM Antofagasta)
+http://cast3.serverhost.cl:8764/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Canal 95 (88.1 FM Antofagasta)
+http://sonando.us.digitalproserver.com/canal95_aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Nostalgica (88.1 FM Copiapo)
+http://comunicacionespuntocreativo.cl:8000/nostalgica
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Bio Bio Temuco (88.1 FM Temuco)
+http://ice.dallas.digitalproserver.com/biotemu
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Concierto (88.5 FM)
+http://17833.live.streamtheworld.com/CONCIERTO_SC
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , FM OK (89.3 FM Antofagasta)
+http://streaming.fmokey.cl:8000/FmOkAT.mp3
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Nuevo Mundo (88.9 FM Ovalle)
+http://s3.medionline.cl:7960/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , FM Mas (89.1 Arica)
+http://cast.radioservicios.cl:8026/fmmas
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Diferencia (FM 89.3 Salamanca)
+http://epsilon.clickhost.cl:9607/diferencia.aac.m3u
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Duna (89.7 FM)
+http://tunein.digitalproserver.com/dunabb.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Nuble (89.7 FM Chillan)
+http://198.50.154.235:7684
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Carnaval (89.9 FM Viña del Mar)
+http://radio.cl.digitalproserver.com:443/carnaval/carnaval_ovalle/carnaval_ovalle.stream/elpi.co.m3u8
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Colo-colo (90.1 FM)
+http://186.103.213.249:9988
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Alegria del Transporte (90.9 FM Calama)
+http://s6.medionline.cl:9364/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Mirador (90.9 FM Lautaro)
+http://demo.dyndns.biz:8016/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Digital FM (91.1 FM)
+http://mimix.mercurio.cl:8000/digitalfm
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Cariñosa (92.1 FM)(1)
+http://stream5.eltelon.com/carinosa-chillan.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Sur (92.1 FM Los Angeles)
+http://ww3.radiosur.cl:5074/rsur
+
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Romina (92.5 FM Antofagasta)
+http://198.50.154.235:10246/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio ? (? FM ?)
+http://167.114.208.100:9844/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Entretenida FM (92.5 FM Vilcun)
+http://atanua.broadcastchile.cl:7000/;
+
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Primavera FM (93.5 FM Arica)
+http://cast.radioservicios.cl:9350/web
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Universo (93.7 FM)
+http://tunein.digitalproserver.com/universobb.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Amanecer (93.7 FM Caldera)
+http://107.155.120.114:9954/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Comunicativa (93.7 FM Ovalle)
+http://ip.audiostreaming.cl:9996/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Centinela (93.9 FM Yumbel)
+http://s3.medionline.cl:9964
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Fenomenal (93.9 FM Coyhaique)
+http://stream5.eltelon.com/fenomenal.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Magistral (93.9 FM Galvarino)
+http://www.magistralfm.cl:9110/galvarino
+
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Genesis (94.1 FM Andacollo)
+http://stream5.eltelon.com/genesis-andacollo.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Rinconada (94.3 FM Mejillones)
+http://server4.radiostreaming.cl:8062/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Almeyda (94.3 FM Diego de Almagro)
+http://192.99.18.164:9974/stream
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Universitaria de la Serena (94.5 FM)
+http://radio.cic.userena.cl:8000/radio-uls
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio La Discusion (94.7 FM Chillan)
+http://stream5.eltelon.com/radio-la-discusion.aac
+
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Amanda (94.9 FM Buin)
+http://amanda.cmtelcom.com/amanda128
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Udec (95.1 FM Concepcion)
+http://radio.udec.cl:8000/radioudec
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Coyhaique (95.3 FM Coyhaique)
+http://stream5.eltelon.com/radio-coyhaique.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Atractiva (FM 95.3 Concepcion)
+http://5.9.65.9:8062/atractiva
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , FM Tiempo (95.9 FM)
+http://tunein.digitalproserver.com/fmtiempobb.mp3
+
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Araucana (95.9 FM Temuco)
+http://s6.medionline.cl:9180/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Beethoven (96.5 FM)
+http://tunein.digitalproserver.com/beethovenbb.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Illapel (96.5 FM Illapel)
+http://200.111.113.18:8500/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Genesis (96.5 FM Curacautin)
+http://stream5.eltelon.com/genesis.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Loactual (96.7 FM Calama)
+http://rs.comtic.net:8000/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Bio Bio Radio Los Angeles (96.7 FM Los Angeles)
+http://ice.dallas.digitalproserver.com/biola
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio San Bartolome (96.7 FM La Serena)
+http://stream5.eltelon.com/san-bartolome.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Uno (97.1 FM)
+http://14073.live.streamtheworld.com/RADIO_UNO_SC
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Zero (97.7 FM)
+http://tunein.digitalproserver.com/zerobb.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Sol (97.7 FM Antofagasta)
+http://online.radiosol.cl:8000/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Sol (97.7 FM Antofagasta)(Alt)
+http://stream5.eltelon.com/sol-radio.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Ventisqueros (97.7 FM Coyhaique)
+http://stream5.eltelon.com:8000/ventisqueros.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Positiva (98.5 FM Temuco)
+http://mimix.mercurio.cl:8000/temuco2
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio El Conquistador (98.9 FM Concepcion)
+http://stream5.eltelon.com/el-conquistador-concepcion.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Digital FM (99.1 FM Punta Arenas)
+http://mimix.mercurio.cl:8000/digitalfm
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Marcela (99.1 FM Huasco)
+http://stream5.eltelon.com/archi-marcela.aac?type=.flv
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Arcoiris (99.3 FM Coyhaique)
+http://s6.jcwebnew.com:8120/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Positiva (FM 99.5 Valdivia)
+http://mimix.mercurio.cl:8000/valdivia2
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Caramelo (99.5 FM Los Angeles)
+http://sc6.digitalproserver.com:8120/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Bio-Bio La Radio Santiago (99.7 FM)
+http://unlimited1-cl.dps.live/biobiosantiago/aac/icecast.audio
+
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Nueva Genial (100.5 FM Coyhaique)
+http://s6.jcwebnew.com:7555/stream
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Dinamica (100.7 FM Coronel)
+http://stream5.eltelon.com/dinamica.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Futura FM (100.7 Talca)
+http://stream5.eltelon.com/futura.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Mejillones FM (100.9 FM)
+http://s6.medionline.cl:8006/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Festiva (100.9 FM Copiapo)
+http://s6.jcwebnew.com:8070/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Corazon (101.3 FM)
+http://19263.live.streamtheworld.com/CORAZON_SC
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Revelacion (101.5 FM Canete)
+http://stream5.eltelon.com/doble-r.aac
+
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Oasis (102.1 FM)
+http://mp3.oasisfm.cl/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , U. de Chile (102.5 FM)
+http://stream3.rbm.cl:8010/playerweb.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Madero (102.5 FM Antofagasta)
+http://unlimited1-cl.digitalproserver.com/madero_antofagasta/mp3/icecast.audio
+
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Las Nieves (102.9 FM Puerto Aysen)
+http://s6.jcwebnew.com:7060/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Okey (103.1 FM Copiapo)
+http://streaming.fmokey.cl:8000/FmOkCP.mp3
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Centro FM (103.3 FM Antofagasta)
+http://stream5.eltelon.com/centro.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio 1049 (FM 104.9 Pucon)
+http://audio.streaminghd.cl:8034/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Sonar (105.3)
+http://mp3.sonarfm.cl/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Positiva (FM 105.5 FM Concepcion)
+http://mimix.mercurio.cl:8000/concepcion2
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Extrema (106.1 FM Puerto Saavedra)
+http://stream5.eltelon.com/radio-extrema.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Nativa (106.5 FM Lumaco)
+http://stream5.eltelon.com/nativa.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Cooperativa (106.7 FM)
+http://unlimited1-us.digitalproserver.com/cooperativafm/mp3/icecast.audio
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Paula (106.9 FM)
+http://tunein.digitalproserver.com/paulafm.mp3
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Plus FM (106.9 FM Antofagasta)
+http://sonando.us.digitalproserver.com/fmplus_aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Dixi (106.9 FM)
+http://192.99.150.234:9940
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Candelaria (106.9 FM Tierra Amarilla)
+http://stream5.eltelon.com/candelaria.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Esperanza (106.9 FM Temuco)
+http://s6.jcwebnew.com:7800/;
+
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Popular (107.3 FM Coihueco :lib)
+http://192.99.150.234:9920/;
+
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , El Bosque (107.9 FM)
+http://104.236.248.181:8766
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , radio="true" tvg-logo="IdDLahq.png" , NIU Radio
+http://live-origin.us.niu.cl/niu_radio.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , radio="true" tvg-logo="F2NETjA.png" , NIU POP
+http://live-origin.us.niu.cl/niu_pop.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , radio="true" tvg-logo="bJo50Wn.png" , NIU Indie
+http://live-origin.us.niu.cl/niu_indie.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , radio="true" tvg-logo="s7OJiQm.png" , NIU Rock
+http://live-origin.us.niu.cl/niu_rock.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , radio="true" tvg-logo="MirXwU7.png" , NIU CL
+http://live-origin.us.niu.cl/niu_cl.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , radio="true" tvg-logo="j1IuV62.png" , NIU 80s
+http://live-origin.us.niu.cl/niu_80s.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , radio="true" tvg-logo="0LJAWqq.png" , NIU 90s
+http://live-origin.us.niu.cl/niu_90s.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , radio="true" tvg-logo="EP5tAqv.png" , Niu LIVE
+http://live-origin.us.niu.cl/niu_live.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Candela FM (Online)
+http://tunein.digitalproserver.com/candelabb.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Rockaxis (Online)
+http://radio.cl.mediastre.am/rockaxis.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Galaxia (Online)
+http://sscl.denialstream.com:8830/;stream/1.mp3
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Anglo Latina (Online)
+http://streaming.radioanglolatina.com:8012/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Siente (Online - Arica)
+http://radio1.us.mediastre.am/siente.aac
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Aternativa FM (Online - Huasco)
+http://107.155.120.114:9944/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , UCT Radio Temuco (Online)
+http://audio.uctradio.cl/radio
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Santiago (Orquestada) (690 AM)
+http://167.114.119.122:9982/;stream/1
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Santiago (Romantica) (690 AM)
+http://167.114.119.122:9978/;stream/1
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Chilena Concepcion (1030 AM)
+http://unlimited1-cl.digitalproserver.com/chilena/aac/icecast.audio
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio UBB (1360 AM Concepcion)
+http://radioubb.cl:8000/online
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Radio Llacolen (1600 AM Concepcion)
+http://sc.digitalproserver.com:9532/;
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  , Portales (1180 AM)
+http://s6.jcwebnew.com:8060/stream
+
+#EXTINF:-1 group-title="RADIOS ESTABLES"  ,   Radio Caracol (590 AM Concepcion)
+http://208.80.54.40/CARACOL_RADIOAAC_SC
