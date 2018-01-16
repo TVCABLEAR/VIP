@@ -1,0 +1,450 @@
+
+#EXTM3U
+
+#EXTINF:-1,Entretenimiento:Telemundo
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:-1,DISTRITO COMEDIA TECNO-WILL
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(05)/index.m3u8
+#EXTINF:-1,Deportes:CDO Premium
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+#EXTINF:-1,DISNEY JR ESP
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
+#EXTINF:-1,CLARO SPORTS OK
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+#EXTINF:-1,TELETRACK DEPORTES
+http://edge1.cl.grupoz.cl/teletrak//live/chunklist_w650478349.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,[COLOR WHITE] [/COLOR] NICK
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
+#EXTINF:-1,Deportes:Fox Sport MX
+http://200.78.215.85:8010/play/a09g
+#EXTINF:-1,[COLOR WHITE] [/COLOR] NICK_JR
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
+#EXTINF:-1,Deportes:Fox Sport 2 MX
+http://200.78.215.85:8010/play/a0ay
+#EXTINF:-1,LATINO:Animax
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:-1,Mexico Geobloqueo:ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:Las Estrellas
+http://bit.ly/2xzAwi6
+#EXTINF:-1,TNT HD
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:-1,CINEMA PLUS HD
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(05)/index.m3u8
+#EXTINF:-1,ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,ESPN2
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,UNIVISION
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361
+#EXTINF:-1,Entretenimiento:RCN
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:-1,[COLOR WHITE] [/COLOR] Canal 5
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:-1,[COLOR WHITE] [/COLOR] BANDA MAX
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:-1,[COLOR WHITE] [/COLOR] TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:-1,Zona Films TECNO
+http://tecnotv.xyz/tvmex/films
+#EXTINF:-1,Mega Movies TECNO
+http://tecnotv.xyz/tvmex/movies
+#EXTINF:-1,MEGA EXTREMO TECNO
+http://tecnotv.xyz/tvmex/extremo
+#EXTINF:-1,LATINO KIDS TECNO
+http://tecnotv.xyz/tvmex/kids
+#EXTINF:-1,Cine Tv TECNO
+http://tecnotv.xyz/tvmex/cine
+#EXTINF:-1,Katy TV CINE TECNO
+http://tecnotv.xyz/tvmex/katy
+#EXTINF:-1,Cine Star TECNO
+http://tecnotv.xyz/tvmex/star
+#EXTINF:-1,Cine Hogar TECNO
+http://tecnotv.xyz/tvmex/hogar
+#EXTINF:-1,Cine Calidad TECNO
+http://tecnotv.xyz/tvmex/calidad
+#EXTINF:-1,INFANTILES:DISNEY JR
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
+#EXTINF:-1,DEPORTES:All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,DEPORTES:ESPN
+http://bit.ly/2AoZTVs
+#EXTINF:-1,CULTURA:Travel HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:TELEMUNDO 51 HD
+http://bit.ly/2iIFCmC
+#EXTINF:-1,ENTRETENIMIENTO:Unimas
+http://bit.ly/2zauQQy
+#EXTINF:-1,ENTRETENIMIENTO:Univision
+http://bit.ly/2zSTthY
+#EXTINF:-1,INFANTIL:Disney Jr.
+http://wowza2.mysoltv.com:1992/Latino_Disney_JR/tracks-v1a1/index.m3u8
+#EXTINF:-1,INFANTIL:Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1,CULTURA:Aprende TV
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+#EXTINF:-1,CULTURA:CGTN Documentary
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1,CULTURA:COSMOVISION
+http://bit.ly/2hhLq5y
+#EXTINF:-1,CULTURA:Silence TV
+http://bit.ly/2wxlPQD
+#EXTINF:-1,DEPORTES:Samurai Fighting TV
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+#EXTINF:-1,DEPORTES:Sporting Tv HD
+http://unlimited5-cl.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,DEPORTES:SportsTV
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1,DEPORTES:Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:NexTV
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
+#EXTINF:-1,ENTRETENIMIENTO:RAI Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-p.m3u8
+#EXTINF:-1,group-title="ENTRETENIMIENTO"
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+#EXTINF:-1,ENTRETENIMIENTO:TelePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,NOTICIAS:RT Español
+http://bit.ly/2iLCJC2
+#EXTINF:-1,CHILE:Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1,z-omitir:[COLOR YELLOW] [/COLOR] =ESPAÑA=
+https://www.youtube.com/c/LISTASIPTVFREE
+#EXTINF:-1,ESPAÑA:324
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1,ESPAÑA:Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:-1,ESPAÑA:Aragon Tv
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:-1,ESPAÑA:Castilla-La Mancha
+http://klive-a.akamaihd.net/dc-1/live/hls/p/2288691/e/1_c9gw17x6/sd/10000/t/o8xKPUjaWz2E6hV7vICo1Q/index-s32.m3u8
+#EXTINF:-1,ESPAÑA:Correo TV
+http://cls.elitehd-audiovisuales.com:80/luztv/livestream/live.m3u8
+#EXTINF:-1,ESPAÑA:EL DÍA TV España
+http://188.165.135.22/rtvd/livestream/chunklist_w662830705.m3u8
+#EXTINF:-1,ESPAÑA:EXTREMADURA TV
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+#EXTINF:-1,ESPAÑA:HuelvaTv
+http://cls.todostreaming.eu/telehuelva/restricted/chunklist.m3u8
+#EXTINF:-1,ESPAÑA:IB3
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1,ESPAÑA:La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?iptvgratis?chile.m3u8
+#EXTINF:-1,ESPAÑA:LEVANTE TV
+http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
+#EXTINF:-1,ESPAÑA:Navarra Televisión
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+#EXTINF:-1,ESPAÑA:Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,ESPAÑA:ONDA AZUL MALAGA
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:-1,ESPAÑA:RTPA Radiotelevisión del Principado de Asturias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+#EXTINF:-1,ESPAÑA:TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/.m3u8
+#EXTINF:-1,z-omitir:[COLOR YELLOW] [/COLOR] =MEXICO=
+https://www.youtube.com/c/LISTASIPTVFREE
+#EXTINF:-1,MEXICO:Aristegui NOTICIAS
+https://vod.livestream.com/events/00000000006147c6/42a5ebd3-9d01-4ab5-ba7b-f6b01afb7752_1756.m3u8?token=0_595a9bd5_aa2ebcad66b28c4fc4b122ab115e3d6b5bd98b3e&start=106&end=14498
+#EXTINF:-1,MEXICO:Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:-1,MEXICO:Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,MEXICO:Gala TV (YU)
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+#EXTINF:-1,MEXICO:Once TV
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:-1,MEXICO:RTQ (QE)
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1,MEXICO:TDT (TL)
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+#EXTINF:-1,MEXICO:TV Acapulco
+http://stream.duplika.com:1935/tvacapulco/tvacapulco/playlist.m3u8
+#EXTINF:-1,MEXICO:TV CANCUN
+http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
+#EXTINF:-1,MEXICO:TVMas Veracruz
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+#EXTINF:-1,MEXICO:TVP CULIACÁN
+http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/chunklist_w1277967391_b1428000_sleng.m3u8
+#EXTINF:-1,MEXICO:TVP YAQUI TV
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/chunklist_w1903526755_b1428000_sleng.
+
+#EXTINF:-1,mega_kids
+https://clutch.vaughnsoft.net/ord/vl/mega_kids.m3u8
+#EXTINF:-1,estrellatv
+https://clutch.vaughnsoft.net/ord/vl/estrellatv.m3u8
+#EXTINF:-1,Canal 5
+http://channels.premiumtutv.com/stream_14_sk_st.m3u8
+#EXTINF:-1,cine_calidad
+https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8
+#EXTINF:-1,cine_star
+https://clutch.vaughnsoft.net/ord/vl/cine_star.m3u8
+#EXTINF:-1,creme_classichd#EXTINF:-1 tvg-name="Las Estrellas " tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-de-las-Estrellas/Canal-de-las-Estrellas_.png" group-title="Mexico",Las Estrellas -2hrs
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:-1,MULTIMEDIOS MONTERREY HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+ #EXTINF:-1 tvg-shift=0 tvg-name="Azteca 13 HD" tvg-logo="http://iptvmexico.xyz/logos/png/26.png", Azteca 13 HD
+http://www.iptvmexico.xyz/ch/26.m3u8
+ 
+#EXTINF:-1 tvg-shift=0 tvg-name="Az Corazon" tvg-logo="http://iptvmexico.xyz/logos/png/394.png", Az Corazon
+http://www.iptvmexico.xyz/ch/394.m3u8
+#EXTINF:-1,Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+ #EXTINF:-1 tvg-shift=0 
+="Gala TV HD" tvg-logo="http://iptvmexico.xyz/logos/png/129.png", Gala TV HD
+http://www.iptvmexico.xyz/ch/129.m3u8
+
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Claro Sports" tvg-logo="http://iptvmexico.xyz/logos/png/2030.png", ClaroSports
+http://www.iptvmexico.xyz/ch/2030.m3u8
+#EXTINF: -1, ES: Bein Sport HD
+#EXTVLCOPT: http-user-agent = Samsung SM-G935F stagefright / Beyonce / 1.1.9 (Linux; Android 7.0)
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/49.m3u8
+
+# EXTINF: -1, ES: Canal Real Madrid
+#EXTVLCOPT: http-user-agent = Samsung SM-G935F stagefright / Beyonce / 1.1.9 (Linux; Android 7.0)
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/38.m3u8
+# EXTINF: -1, ES: Canal LIGA HD
+#EXTVLCOPT: http-user-agent = Samsung SM-G935F stagefright / Beyonce / 1.1.9 (Linux; Android 7.0)
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/41.m3u8
+# EXTINF: -1, Latino: WIN SPORT HD
+#EXTVLCOPT: http-user-agent = Samsung SM-G935F stagefright / Beyonce / 1.1.9 (Linux; Android 7.0)
+http://185.152.66.150:25461/live/deportesfans/fanstvapp/37.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Fox Sports HD" tvg-logo="http://iptvmexico.xyz/logos/png/57.png", Fox Sports HD
+http://www.iptvmexico.xyz/ch/57.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Fox Sports 2" tvg-logo="http://iptvmexico.xyz/logos/png/57.png", Fox Sports 2
+http://www.iptvmexico.xyz/ch/333.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="TDN" tvg-logo="http://iptvmexico.xyz/logos/png/2018.png", TDN
+http://www.iptvmexico.xyz/ch/2018.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Univision TDN" tvg-logo="http://iptvmexico.xyz/logos/png/2019.png", Univision TDN
+http://www.iptvmexico.xyz/ch/130.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Boomerang" tvg-logo="http://iptvmexico.xyz/logos/png/224.png", Boomerang
+http://www.iptvmexico.xyz/ch/224.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Cartoon Network" tvg-logo="http://iptvmexico.xyz/logos/png/36.png", Cartoon Network
+http://www.iptvmexico.xyz/ch/36.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Kids" tvg-logo="http://iptvmexico.xyz/logos/png/45.png", Discovery Kids
+http://www.iptvmexico.xyz/ch/45.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Disney Channel" tvg-logo="http://iptvmexico.xyz/logos/png/41.png", Disney Channel
+http://www.iptvmexico.xyz/ch/41.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Disney Junior" tvg-logo="http://iptvmexico.xyz/logos/png/89.png", Disney Junior
+http://www.iptvmexico.xyz/ch/89.m3u8
+#EXTINF:-1,Nickelodeon (Nick)
+http://channels.premiumtutv.com/stream_21_sk_st.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Disney XD" tvg-logo="http://iptvmexico.xyz/logos/png/123.png", Disney XD
+http://www.iptvmexico.xyz/ch/123.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Nickelodeon" tvg-logo="http://iptvmexico.xyz/logos/png/44.png", Nickelodeon HD
+http://www.iptvmexico.xyz/ch/44.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Nick Jr" tvg-logo="http://iptvmexico.xyz/logos/png/222.png", Nick Jr.
+http://www.iptvmexico.xyz/ch/222.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="TIIN" tvg-logo="http://iptvmexico.xyz/logos/png/208.png", TIIN
+http://www.iptvmexico.xyz/ch/208.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Tooncast" tvg-logo="http://iptvmexico.xyz/logos/png/131.png", Tooncast
+http://www.iptvmexico.xyz/ch/131.m3u8
+#EXTINF:-1 tvg-shift=-1 tvg-name="Cinecanal" tvg-logo="http://iptvmexico.xyz/logos/png/110.png", Cinecanal
+http://www.iptvmexico.xyz/ch/110.m3u8
+#EXTINF:-1,Lifetime
+http://channels.premiumtutv.com/stream_34_sk_st.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="De Pelicula" tvg-logo="http://iptvmexico.xyz/logos/png/365.png", De Película
+http://www.iptvmexico.xyz/ch/365.m3u8   #EXTINF:-1 tvg-shift=0 tvg-name="FXM" tvg-logo="http://iptvmexico.xyz/logos/png/220.png", FXM
+http://www.iptvmexico.xyz/ch/220.m3u8
+#EXTINF:-1,Golden Edge
+http://channels.premiumtutv.com/stream_37_sk_st.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="I.Sat" tvg-logo="http://iptvmexico.xyz/logos/png/301.png", I.Sat
+http://www.iptvmexico.xyz/ch/301.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Latino: Espacio HD" tvg-logo = "" group-title = "Flujos generales", Latino: Espacio HD
+#EXTVLCOPT: http-user-agent = Samsung SM-G935F stagefright / Beyonce / 1.1.9 (Linux; Android 7.0)
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/17.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="SyFy" tvg-logo="http://iptvmexico.xyz/logos/png/211.png", SyFy
+http://www.iptvmexico.xyz/ch/211.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TCM" tvg-logo="http://iptvmexico.xyz/logos/png/234.png", TCM
+http://www.iptvmexico.xyz/ch/234.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Latino: AMC" tvg-logo = "" group-title = "Flujos generales", Latino: AMC
+#EXTVLCOPT: http-user-agent = Samsung SM-G935F stagefright / Beyonce / 1.1.9 (Linux; Android 7.0)
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/35.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="TNT" tvg-logo="http://iptvmexico.xyz/logos/png/30.png", TNT
+http://www.iptvmexico.xyz/ch/302.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TNT HD" tvg-logo="http://iptvmexico.xyz/logos/png/31.png", TNT HD
+http://www.iptvmexico.xyz/ch/31.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="AE" tvg-logo="http://iptvmexico.xyz/logos/png/323.png", A&E
+http://www.iptvmexico.xyz/ch/323.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="AE HD" tvg-logo="http://iptvmexico.xyz/logos/png/324.png", A&E HD
+http://www.iptvmexico.xyz/ch/324.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Latino: HBO" tvg-logo = "" group-title = "Flujos generales", Latino: HBO
+#EXTVLCOPT: http-user-agent = Samsung SM-G935F stagefright / Beyonce / 1.1.9 (Linux; Android 7.0)
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/24.m3u8
+#EXTINF: -1 tvg-id = "" tvg-name = "Latino: HBO 2" tvg-logo = "" group-title = "Flujos generales", Latino: HBO 2
+#EXTVLCOPT: http-user-agent = Samsung SM-G935F stagefright / Beyonce / 1.1.9 (Linux; Android 7.0)
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/23.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Comedy Central HD" tvg-logo="http://iptvmexico.xyz/logos/png/284.png", Comedy Central HD
+http://www.iptvmexico.xyz/ch/284.m3u8
+#EXTINF:-1,Distrito Comedia FIXED
+http://channels.premiumtutv.com/stream_121_sk_st.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Fox HD" tvg-logo="http://iptvmexico.xyz/logos/png/438.png", Fox HD
+http://www.iptvmexico.xyz/ch/438.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Fox Life" tvg-logo="http://iptvmexico.xyz/logos/png/216.png", Fox Life HD
+http://www.iptvmexico.xyz/ch/216.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="FX" tvg-logo="http://iptvmexico.xyz/logos/png/115.png", FX
+http://www.iptvmexico.xyz/ch/115.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Investigation Discovery" tvg-logo="http://iptvmexico.xyz/logos/png/2051.png", Investigation Discovery
+http://www.iptvmexico.xyz/ch/291.m3u8
+ #EXTINF:-1 tvg-shift=0 tvg-name="Sony HD" tvg-logo="http://iptvmexico.xyz/logos/png/22.png", Sony HD
+http://www.iptvmexico.xyz/ch/22.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="TNT Series" tvg-logo="http://iptvmexico.xyz/logos/png/200.png", TNT Series
+http://www.iptvmexico.xyz/ch/200.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="TruTV HD" tvg-logo="http://iptvmexico.xyz/logos/png/320.png", TruTV HD
+http://www.iptvmexico.xyz/ch/320.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Universal Channel" tvg-logo="http://iptvmexico.xyz/logos/png/148.png", Universal Channel
+http://www.iptvmexico.xyz/ch/148.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Universal Channel HD" tvg-logo="http://iptvmexico.xyz/logos/png/344.png", Universal Channel HD
+http://www.iptvmexico.xyz/ch/344.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Warner Channel" tvg-logo="http://iptvmexico.xyz/logos/png/327.png", Warner Channel
+http://www.iptvmexico.xyz/ch/327.m3u8
+
+
+#EXTINF:-1 tvg-shift=-3 tvg-name="Fox Action" tvg-logo="http://iptvmexico.xyz/logos/png/217.png", Fox Premium Action
+http://www.iptvmexico.xyz/ch/217.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Fox Cinema" tvg-logo="http://iptvmexico.xyz/logos/png/230.png", Fox Premium Cinema
+http://www.iptvmexico.xyz/ch/230.m3u8
+
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery World HD" tvg-logo="http://iptvmexico.xyz/logos/png/226.png", Discovery World HD
+http://www.iptvmexico.xyz/ch/226.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Channel HD" tvg-logo="http://iptvmexico.xyz/logos/png/40.png", Discovery Channel HD
+http://www.iptvmexico.xyz/ch/40.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Theater" tvg-logo="http://iptvmexico.xyz/logos/png/290.png", Discovery Theater
+http://www.iptvmexico.xyz/ch/290.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Discovery Home and Health" tvg-logo="http://iptvmexico.xyz/logos/png/292.png", Discovery Home and Health
+http://www.iptvmexico.xyz/ch/292.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="H2 (History 2)" tvg-logo="http://iptvmexico.xyz/logos/png/2012.png", H2 (History 2)
+http://www.iptvmexico.xyz/ch/576.m3u8
+# EXTINF: -1, Latino: H2
+#EXTVLCOPT: http-user-agent = Samsung SM-G935F stagefright / Beyonce / 1.1.9 (Linux; Android 7.0)
+http://185.152.66.150:25461/live/culturales/fanstvapp/68.m3u8
+# EXTINF: -1, Latino: Historia HD
+#EXTVLCOPT: http-user-agent = Samsung SM-G935F stagefright / Beyonce / 1.1.9 (Linux; Android 7.0)
+http://185.152.66.150:25461/live/culturales/fanstvapp/74.m3u8
+# EXTINF: -1, Latino: NatGeo Wild HD
+#EXTVLCOPT: http-user-agent = Samsung SM-G935F stagefright / Beyonce / 1.1.9 (Linux; Android 7.0)
+http://185.152.66.150:25461/live/culturales/fanstvapp/73.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Antena 3" tvg-logo="http://iptvmexico.xyz/logos/png/77.png", Antena 3
+http://www.iptvmexico.xyz/ch/77.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Caracol HD" tvg-logo="http://iptvmexico.xyz/logos/png/2074.png", Caracol HD
+http://www.iptvmexico.xyz/ch/989.m3u8
+
+
+#EXTINF:-1 tvg-shift=0 tvg-name="Hola TV" tvg-logo="http://iptvmexico.xyz/logos/png/1209.png", Hola TV
+http://www.iptvmexico.xyz/ch/1209.m3u8
+ #EXTINF:-1 tvg-shift=0 tvg-name="Trendy" tvg-logo="http://iptvmexico.xyz/logos/png/2021.png", Trendy
+http://www.iptvmexico.xyz/ch/2021.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Unicable" tvg-logo="http://iptvmexico.xyz/logos/png/212.png", Unicable HD
+http://www.iptvmexico.xyz/ch/212.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="Teleformula" tvg-logo="http://iptvmexico.xyz/logos/png/440.png", Telefórmula
+http://www.iptvmexico.xyz/ch/440.m3u8
+
+
+#EXTINF:-1 tvg-shift=0 tvg-name="MC Music" tvg-logo="http://iptvmexico.xyz/logos/png/2033.png", MC Music
+http://www.iptvmexico.xyz/ch/2033.m3u8
+
+#EXTINF:-1 tvg-shift=0 tvg-name="MTV Hits" tvg-logo="http://iptvmexico.xyz/logos/png/399.png", MTV Hits
+http://www.iptvmexico.xyz/ch/399.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name="One TV" tvg-logo="http://iptvmexico.xyz/logos/png/1276.png", One TV
+http://www.iptvmexico.xyz/ch/1276.m3u8
+
+
+#EXTINF:-1, Dia del Patriotas
+http://bit.ly/2iYa5Rp
+ 
+#EXTINF:-1 tvg-logo="http://cinevall.club/images/aventuras_poster.jpg" group-title="CINE", Aventuras Extremas
+http://bit.ly/2ziIPnj?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg" group-title="CINE", Secuestrado
+http://bit.ly/2yCdJpr?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Killing_Hasselhoff.png" group-title="CINE", Operativo Hasselhoff
+http://bit.ly/2gkOjpV?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://cdn.traileraddict.com/content/warner-bros-pictures/annabelle-2-poster.jpg" group-title="CINE", Annabelle 2
+http://bit.ly/2yqjyGj?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://noescinetodoloquereluce.com/wp-content/uploads/2017/06/dunkerque.jpg" group-title="CINE", Dunkerque
+http://bit.ly/2yOg4y1?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/kong_poster.jpg" group-title="CINE", Kong La Isla Calavera
+http://bit.ly/2yrVenR?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://noescinetodoloquereluce.com/wp-content/uploads/2017/09/Poster-de-Coco.jpg" group-title="CINE", Coco
+http://bit.ly/2zlc9tv?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_37278.jpg" group-title="CINE", Jig SAw 8
+http://bit.ly/2hpjtK0?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://www.bollywoodlife.com/wp-content/uploads/2017/04/THOR_1.jpg" group-title="CINE", Thor Ragnarok
+http://bit.ly/2zOMTbe?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://www.bollywoodlife.com/wp-content/uploads/2017/04/THOR_1.jpg" group-title="CINE", Thor Ragnarok Castellano
+http://bit.ly/2xx2sUg?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/e5c871_cb470a416dcd4c92ba772bb7bbcecd65~mv2.jpg" group-title="CINE", Hazlo Como Hombre
+http://condor1726.dedicatedpanel.com/CAM-PELIS/Hazlo%20como%20Hombre%20(2017).mp4?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://septimopodcast.com/wp/wp-content/uploads/2017/03/gostorm-poster.jpg" group-title="CINE", Geo Tormenta
+http://bit.ly/2zJqugm?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://mediafiles.cineplex.com/Central/Film/Posters/26311_320_470.jpg" group-title="CINE", Linea Mortal
+http://bit.ly/2x6sqhh?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/me_gusta_pero_me_asusta-745603400-large.jpg" group-title="CINE", Me gusta pero me Asusta
+http://bit.ly/2lny0u8?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://www.retornoanime.com/wp-content/uploads/2017/03/eso_02.jpg" group-title="CINE", IT (ESO)
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:397-It.mp4/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYTg0MmUyNjItYzJmNi00YTcxLTg4OTQtNmI2ZjI0ZDIzNjQ2XkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_UY1200_CR113,0,630,1200_AL_.jpg" group-title="CINE", 1922
+http://bit.ly/2gu7Wbz?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="https://mediafiles.cineplex.com/Central/Film/Posters/26311_320_470.jpg" group-title="CINE", Linea Mortal
+https://ia801503.us.archive.org/25/items/linea_201710/linea.mp4
+ 
+#EXTINF:-1 tvg-logo="http://cinevall.club/images/la_torre_oscura_poster.jpg" group-title="CINE", La Torre Oscura
+http://bit.ly/2hPm8Mv?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://i.myegy.to/images/39f43564090d.original.jpeg" group-title="CINE", El Ultimo Rey
+http://bit.ly/2x56eUz?JoCaRoMovie
+ 
+#EXTINF:-1 tvg-logo="http://cinevall.com/images/terremoto_poster.jpg" group-title="CINE", Terromoto
+http://www.cinevall.com/videos/terremoto.m4v
+ 
+ 
+#EXTINF:-1 tvg-logo="https://puu.sh/xa5Ns/e9ca28e7a5.png" group-title="CINE", Los 3 Chiflados 24/7
+https://www.youtube.com/watch?v=CXUX0AV7LNY
