@@ -1,4 +1,6 @@
 #EXTM3U
+
+
 #EXTINF:0 type="stream" channelId="-1" tvg-group="DEPORTES" tvg-logo="http://p4.zdassets.com/hc/settings_assets/240700/200018186/br5kwKteXLu0JhEwmHmrGw-ecdf_3.png", Estadio CDF
 http://cdn1.shurs.xyz/verliga/2/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-group="DEPORTES" tvg-logo="http://i.imgur.com/k8zI3vd.png", ESPN
