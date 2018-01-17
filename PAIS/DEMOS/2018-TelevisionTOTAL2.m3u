@@ -1,6 +1,15 @@
-
-
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 group-title="IPTVCANALES.COM", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="IPTVCANALES.COM", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
 
 
 
@@ -12745,4 +12754,4 @@ http://portal.geniptv.com:8080/live/sanna/sanna/6202.ts
 #EXTINF:-1,Sky Sports Box Office FHD UK
 http://portal.geniptv.com:8080/live/sanna/sanna/7601.ts
 #EXTINF:-1,Sky Sports Cricket FHD UK
-http://portal.geniptv.com:8080/live/sanna/sanna/57
+http://portal.geniptv.com:8080/live/sanna
