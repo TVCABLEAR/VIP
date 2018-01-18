@@ -1,0 +1,256 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 group-title="IPTVCANALES.COM", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="IPTVCANALES.COM", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
+
+
+
+###### Channel KIDS #######
+
+#EXTINF:-1 tvg-logo="" group-title="Kids", cartoonnetwork
+http://listatv.cf/prem.php?id=cartoonnetwork&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids", nick
+http://listatv.cf/prem.php?id=nick&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids", disney channel
+http://listatv.cf/prem.php?id=disneychannel&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids", disney xd
+http://listatv.cf/prem.php?id=disneyxd&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids", disney junior
+http://listatv.cf/prem.php?id=disneyjunior&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids", pogo
+http://listatv.cf/prem.php?id=pogo&tk=january&f=.m3u8
+
+###### Channel LIFESTYLE #######
+
+#EXTINF:-1 tvg-logo="" group-title="Lifestyle", animal planet
+http://listatv.cf/prem.php?id=animalplanet&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lifestyle", discovery
+http://listatv.cf/prem.php?id=discovery&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lifestyle", history
+http://listatv.cf/prem.php?id=history&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lifestyle", natgeo
+http://listatv.cf/prem.php?id=natgeo&tk=january&f=.m3u8
+
+###### Channel Entertainment#######
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", amc
+http://listatv.cf/prem.php?id=amc&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", axn
+http://listatv.cf/prem.php?id=axn&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", bbc one
+http://listatv.cf/prem.php?id=bbcone&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", bbc two
+http://listatv.cf/prem.php?id=bbctwo&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", bein movies 1
+http://listatv.cf/prem.php?id=beinmovies1&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", bein movies 2
+http://listatv.cf/prem.php?id=beinmovies2&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", bein movies 3
+http://listatv.cf/prem.php?id=beinmovies3&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", comedy central
+http://listatv.cf/prem.php?id=comedycentral&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", fox
+http://listatv.cf/prem.php?id=fox&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", fx
+http://listatv.cf/prem.php?id=fx&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", hbo
+http://listatv.cf/prem.php?id=hbo&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", itv1
+http://listatv.cf/prem.php?id=itv1&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", itv2
+http://listatv.cf/prem.php?id=itv2&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", mtv
+http://listatv.cf/prem.php?id=mtv&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", setmax
+http://listatv.cf/prem.php?id=setmax&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", skyatlantic
+http://listatv.cf/prem.php?id=skyatlantic&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", sky movies action
+http://listatv.cf/prem.php?id=skymoviesaction&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", sky movies comedy
+http://listatv.cf/prem.php?id=skymoviescomedy&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", sky movies crime
+http://listatv.cf/prem.php?id=skymoviescrime&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", sky movies disney
+http://listatv.cf/prem.php?id=skymoviesdisney&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", sky movies family
+http://listatv.cf/prem.php?id=skymoviesfamily&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", sky movies premiere
+http://listatv.cf/prem.php?id=skymoviespremiere&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", sky movies select
+http://listatv.cf/prem.php?id=skymoviesselect&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", sky movies showcase
+http://listatv.cf/prem.php?id=skymoviesshowcase&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", star movies
+http://listatv.cf/prem.php?id=starmovies&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", syfy
+http://listatv.cf/prem.php?id=syfy&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", tlc
+http://listatv.cf/prem.php?id=tlc&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", tnt
+http://listatv.cf/prem.php?id=tnt&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment", vh1
+http://listatv.cf/prem.php?id=vh1&tk=january&f=.m3u8
+
+###### Channel SPORTS #######
+
+#EXTINF:-1 tvg-logo="" group-title="sports", canal+futbol
+http://listatv.cf/canal.php?id=canalfutbol&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", canal+liga
+http://listatv.cf/canal.php?id=canalliga&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", canal+sports
+http://listatv.cf/canal.php?id=canalsport&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", chelsea tv
+http://listatv.cf/prem.php?id=chelseatv&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", espn
+http://listatv.cf/prem.php?id=espn&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", espnuk
+http://listatv.cf/prem.php?id=espnuk&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", eurosport 1
+http://listatv.cf/prem.php?id=eurosport&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", eurosport 2
+http://listatv.cf/prem.php?id=eurosport2&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", fox sports
+http://listatv.cf/prem.php?id=foxsports1&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", fox sports 2
+http://listatv.cf/prem.php?id=foxsports2&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", golf channel
+http://listatv.cf/prem.php?id=golfchannel&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", lfctv
+http://listatv.cf/prem.php?id=lfctv&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", motors tv
+http://listatv.cf/prem.php?id=motorstv&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", mutv
+http://listatv.cf/prem.php?id=mutv&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", NBA
+http://listatv.cf/prem.php?id=nbatv&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", nbcsn
+http://listatv.cf/prem.php?id=nbcsn&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", NFL
+http://listatv.cf/prem.php?id=nflnetwork&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", premiersports
+http://listatv.cf/prem.php?id=premiersports&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", ptv sports
+http://listatv.cf/prem.php?id=ptvsports&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", racing uk
+http://listatv.cf/prem.php?id=racinguk&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", setanta sports
+http://listatv.cf/prem.php?id=setantasports&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky calcio
+http://listatv.cf/prem.php?id=skycalcio&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", skys port1 italia
+http://listatv.cf/prem.php?id=skysport1italia&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky sport 24 italia
+http://listatv.cf/prem.php?id=skysport24italia&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky sport 2 italia
+http://listatv.cf/prem.php?id=skysport2italia&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky sport 3 italia
+http://listatv.cf/prem.php?id=skysport3italia&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky sport bundesliga 1
+http://listatv.cf/prem.php?id=skysportbundesliga1&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky sport bundesliga 2
+http://listatv.cf/prem.php?id=skysportbundesliga2&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky sport motogp
+http://listatv.cf/prem.php?id=skysportmotogp&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky sports 1
+http://listatv.cf/prem.php?id=skysports1&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky sports 2
+http://listatv.cf/prem.php?id=skysports2&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky sports 3
+http://listatv.cf/prem.php?id=skysports3&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky sports 4
+http://listatv.cf/prem.php?id=skysports4&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky sports 5
+http://listatv.cf/prem.php?id=skysports5&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky sports news
+http://listatv.cf/prem.php?id=skysportsnews&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", skysports f1
+http://listatv.cf/prem.php?id=skysportsf1&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky sports football
+http://listatv.cf/prem.php?id=skysportsfootball&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sky sports box office
+http://listatv.cf/prem.php?id=skysportsboxoffice&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sony six
+http://listatv.cf/prem.php?id=sonysix&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sport tv1
+http://listatv.cf/prem.php?id=sporttv1&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sport tv2
+http://listatv.cf/prem.php?id=sporttv2&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sport tv3
+http://listatv.cf/prem.php?id=sporttv3&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sport tv4
+http://listatv.cf/prem.php?id=sporttv4&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", sport tv5
+http://listatv.cf/prem.php?id=sporttv5&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", star sports
+http://listatv.cf/prem.php?id=starsports&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", ten1
+http://listatv.cf/prem.php?id=ten1&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", ten sports
+http://listatv.cf/prem.php?id=tensports&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", tsn
+http://listatv.cf/prem.php?id=tsn&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", tsn 2
+http://listatv.cf/prem.php?id=tsn2&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", willow tv
+http://listatv.cf/prem.php?id=willowtv&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", wwe network
+http://listatv.cf/prem.php?id=wwenetwork&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", attheraces
+http://listatv.cf/prem.php?id=attheraces&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 1
+http://listatv.cf/prem.php?id=beinsports1&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 2
+http://listatv.cf/prem.php?id=beinsports2&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 3
+http://listatv.cf/prem.php?id=beinsports3&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 4
+http://listatv.cf/prem.php?id=beinsports4&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 5
+http://listatv.cf/prem.php?id=beinsports5&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 6
+http://listatv.cf/prem.php?id=beinsports6&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 7
+http://listatv.cf/prem.php?id=beinsports7&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 8
+http://listatv.cf/prem.php?id=beinsports8&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 9
+http://listatv.cf/prem.php?id=beinsports9&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 10
+http://listatv.cf/prem.php?id=beinsports10&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 11
+http://listatv.cf/prem.php?id=beinsports11&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 12
+http://listatv.cf/prem.php?id=beinsports12&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 13
+http://listatv.cf/prem.php?id=beinsports13&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 14
+http://listatv.cf/prem.php?id=beinsports14&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports 15
+http://listatv.cf/prem.php?id=beinsports15&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", beins ports 1 france
+http://listatv.cf/prem.php?id=beinsports1france&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", beinsports 2 france
+http://listatv.cf/prem.php?id=beinsports2france&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", beinsports 3 france
+http://listatv.cf/prem.php?id=beinsports3france&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bein sports news
+http://listatv.cf/prem.php?id=beinsportsnews&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", box nation
+http://listatv.cf/prem.php?id=boxnation&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bt sport 1
+http://listatv.cf/prem.php?id=btsport1&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bt sport 2
+http://listatv.cf/prem.php?id=btsport2&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bt sport 3
+http://listatv.cf/prem.php?id=btsport3&tk=january&f=.m3u8
+#EXTINF:-1 tvg-logo="" group-title="sports", bt sport europe
+http://listatv.cf/prem.php?id=btsporteurope&tk=january&f=.m3u8
