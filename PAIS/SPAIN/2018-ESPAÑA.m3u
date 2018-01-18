@@ -272,3 +272,38 @@ http://system.fpiptv.com:8080/live/1974/1974/949.ts
 http://system.fpiptv.com:8080/live/1974/1974/963.ts
 #EXTINF:-1,SPAIN | #O HD
 http://system.fpiptv.com:8080/live/1974/1974/902.ts
+
+
+#EXTINF:-1 group-title="2017", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="2017", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
+
+#EXTINF:-1,TVE 24 horas
+http://185.26.175.200:5000/udp/239.201.1.29:10000
+#EXTINF:-1,AXN
+http://185.26.175.200:5000/udp/239.201.1.73:10000
+#EXTINF:-1,Canal Plus Comedia
+http://185.26.175.200:5000/udp/239.201.1.76:10000
+#EXTINF:-1,Canal Plus Accion
+http://185.26.175.200:5000/udp/239.201.1.75:10000
+#EXTINF:-1,Motorvision TV
+http://185.26.175.200:5000/udp/239.201.1.43:10000
+#EXTINF:-1,Toros
+http://185.26.175.200:5000/udp/239.201.1.31:10000
+#EXTINF:-1,Hot
+http://185.26.175.200:5000/udp/239.201.1.32:10000
+#EXTINF:-1,Canal Plus DCine
+http://185.26.175.200:5000/udp/239.201.1.77:10000
+#EXTINF:-1,BabyFirst
+http://185.26.175.200:5000/udp/239.201.1.40:10000
+#EXTINF:-1,Odisseia
+http://185.26.175.200:5000/udp/239.201.1.22:10000
+#EXTINF:-1,24
+http://185.26.175.200:5000/udp/239.201.1.13:10000
+#EXTINF:-1,TV Foco
+http://185.26.175.200:5000/udp/239.201.1.15:10000
+#EXTINF:-1,Caza y Pesca
+http://185.26.175.200:5000/udp/239.201.1.38:10000
+#EXTINF:-1,Globo
+http://185.26.175.200:5000/udp/239.201.1.12:10000
