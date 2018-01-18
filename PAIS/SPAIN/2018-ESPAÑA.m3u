@@ -123,6 +123,10 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Canal_de_las_Estrellas_2006_logo.PNG" group-title="ESPANHA",LAS ESTRELLAS 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
 
+#EXTINF:-1 group-title="PASTEBIN-1", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="PASTEBIN-1", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
 
 #EXTINF:-1,SPAIN | VIAJAR HD
 http://system.fpiptv.com:8080/live/1974/1974/951.ts
