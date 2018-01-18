@@ -7,6 +7,336 @@ https://github.com/TVCABLEAR/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
 https://github.com/TVCABLEAR/
 
+
+#EXTINF:-1,########## Spain ##########
+http://portal.geniptv.com:8080/live/foula/foula/2532.ts
+#EXTINF:-1,#0 FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6085.ts
+#EXTINF:-1,#0 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1056.ts
+#EXTINF:-1,13 TV ES
+http://portal.geniptv.com:8080/live/foula/foula/6093.ts
+#EXTINF:-1,8TV Madrid ES
+http://portal.geniptv.com:8080/live/foula/foula/6094.ts
+#EXTINF:-1,A&E ES
+http://portal.geniptv.com:8080/live/foula/foula/1028.ts
+#EXTINF:-1,AMC FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6082.ts
+#EXTINF:-1,AMC HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1053.ts
+#EXTINF:-1,AXN FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4414.ts
+#EXTINF:-1,AXN HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1052.ts
+#EXTINF:-1,AXN White ES
+http://portal.geniptv.com:8080/live/foula/foula/1051.ts
+#EXTINF:-1,AXN White FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4413.ts
+#EXTINF:-1,Andalucia TV ES
+http://portal.geniptv.com:8080/live/foula/foula/1039.ts
+#EXTINF:-1,Antena 3 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1084.ts
+#EXTINF:-1,Antenna 3 FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4427.ts
+#EXTINF:-1,Aragon TV ES
+http://portal.geniptv.com:8080/live/foula/foula/6091.ts
+#EXTINF:-1,Baby TV ES
+http://portal.geniptv.com:8080/live/foula/foula/6051.ts
+#EXTINF:-1,Barca TV ES
+http://portal.geniptv.com:8080/live/foula/foula/1038.ts
+#EXTINF:-1,Boing ES
+http://portal.geniptv.com:8080/live/foula/foula/1015.ts
+#EXTINF:-1,MovieStar+ Series FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4410.ts
+#EXTINF:-1,MoviStar+ Accion FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4409.ts
+#EXTINF:-1,MoviStar+ DCine FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4407.ts
+#EXTINF:-1,C+ Dep 2 FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4405.ts
+#EXTINF:-1,C+ Estrellas ES
+http://portal.geniptv.com:8080/live/foula/foula/1046.ts
+#EXTINF:-1,MoviStar Estrenos FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4408.ts
+#EXTINF:-1,C+ Xtra FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4411.ts
+#EXTINF:-1,Calle 13 FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4416.ts
+#EXTINF:-1,Calle 13 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1049.ts
+#EXTINF:-1,Canal Cocina ES
+http://portal.geniptv.com:8080/live/foula/foula/1025.ts
+#EXTINF:-1,Canal Decasa ES
+http://portal.geniptv.com:8080/live/foula/foula/1024.ts
+#EXTINF:-1,Canal Orbe 21 ES
+http://portal.geniptv.com:8080/live/foula/foula/6052.ts
+#EXTINF:-1,Canal Panda ES
+http://portal.geniptv.com:8080/live/foula/foula/1023.ts
+#EXTINF:-1,Canal SUR ES
+http://portal.geniptv.com:8080/live/foula/foula/1057.ts
+#EXTINF:-1,Caza Y Pesca ES
+http://portal.geniptv.com:8080/live/foula/foula/1027.ts
+#EXTINF:-1,Caza Y Pesca FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4417.ts
+#EXTINF:-1,Clan TVE ES
+http://portal.geniptv.com:8080/live/foula/foula/1031.ts
+#EXTINF:-1,Classica ES
+http://portal.geniptv.com:8080/live/foula/foula/6042.ts
+#EXTINF:-1,Comedy Central FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6073.ts
+#EXTINF:-1,Comedy Central HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1048.ts
+#EXTINF:-1,Cosmo FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4412.ts
+#EXTINF:-1,Cosmo HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1047.ts
+#EXTINF:-1,Crimen e Investigacion ES
+http://portal.geniptv.com:8080/live/foula/foula/6058.ts
+#EXTINF:-1,Cuatro ES
+http://portal.geniptv.com:8080/live/foula/foula/1083.ts
+#EXTINF:-1,Cuatro FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4426.ts
+#EXTINF:-1,DKiss TV ES
+http://portal.geniptv.com:8080/live/foula/foula/6040.ts
+#EXTINF:-1,Discovery Channel FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6057.ts
+#EXTINF:-1,Discovery HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1030.ts
+#EXTINF:-1,Disney Channel FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4422.ts
+#EXTINF:-1,Disney Channel HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1017.ts
+#EXTINF:-1,Disney Junior ES
+http://portal.geniptv.com:8080/live/foula/foula/6050.ts
+#EXTINF:-1,Disney XD ES
+http://portal.geniptv.com:8080/live/foula/foula/1016.ts
+#EXTINF:-1,Energy ES
+http://portal.geniptv.com:8080/live/foula/foula/1044.ts
+#EXTINF:-1,Esperanza TV ES
+http://portal.geniptv.com:8080/live/foula/foula/1020.ts
+#EXTINF:-1,EuroNews ES
+http://portal.geniptv.com:8080/live/foula/foula/1018.ts
+#EXTINF:-1,EuroSport 1 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1036.ts
+#EXTINF:-1,Eurosport 1 FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6065.ts
+#EXTINF:-1,Eurosport 2 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/6064.ts
+#EXTINF:-1,Extremadura TV ES
+http://portal.geniptv.com:8080/live/foula/foula/1078.ts
+#EXTINF:-1,FDF ES
+http://portal.geniptv.com:8080/live/foula/foula/1045.ts
+#EXTINF:-1,FOX Life FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6075.ts
+#EXTINF:-1,Fox FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4415.ts
+#EXTINF:-1,Fox HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1055.ts
+#EXTINF:-1,Fox Life HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1054.ts
+#EXTINF:-1,Fox News ES
+http://portal.geniptv.com:8080/live/foula/foula/1074.ts
+#EXTINF:-1,Galicia TV ES
+http://portal.geniptv.com:8080/live/foula/foula/1075.ts
+#EXTINF:-1,Gol TV ES
+http://portal.geniptv.com:8080/live/foula/foula/1040.ts
+#EXTINF:-1,Gol TV HD ES
+http://portal.geniptv.com:8080/live/foula/foula/6066.ts
+#EXTINF:-1,Historia ES
+http://portal.geniptv.com:8080/live/foula/foula/1029.ts
+#EXTINF:-1,Historia FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6055.ts
+#EXTINF:-1,Hollywood ES
+http://portal.geniptv.com:8080/live/foula/foula/1060.ts
+#EXTINF:-1,Hollywood FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6080.ts
+#EXTINF:-1,Iberalia TV ES
+http://portal.geniptv.com:8080/live/foula/foula/6056.ts
+#EXTINF:-1,LA 1 FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4428.ts
+#EXTINF:-1,LA Sexta FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4424.ts
+#EXTINF:-1,LTC ES
+http://portal.geniptv.com:8080/live/foula/foula/6086.ts
+#EXTINF:-1,La 1 ES
+http://portal.geniptv.com:8080/live/foula/foula/1086.ts
+#EXTINF:-1,La Sexta ES
+http://portal.geniptv.com:8080/live/foula/foula/1081.ts
+#EXTINF:-1,La Sexta HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1076.ts
+#EXTINF:-1,LaLiga TV Bar ES
+http://portal.geniptv.com:8080/live/foula/foula/1062.ts
+#EXTINF:-1,LaLigaTV FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6069.ts
+#EXTINF:-1,Lancelot TV ES
+http://portal.geniptv.com:8080/live/foula/foula/1022.ts
+#EXTINF:-1,Levante TV ES
+http://portal.geniptv.com:8080/live/foula/foula/6092.ts
+#EXTINF:-1,MoviStar Formula 1 FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4400.ts
+#EXTINF:-1,MoviStar Golf FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4402.ts
+#EXTINF:-1,MoviStar MotoGP FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4399.ts
+#EXTINF:-1,MoviStar+ Futbol FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4406.ts
+#EXTINF:-1,MTV ES
+http://portal.geniptv.com:8080/live/foula/foula/6046.ts
+#EXTINF:-1,MTV Rocks ES ES
+http://portal.geniptv.com:8080/live/foula/foula/6045.ts
+#EXTINF:-1,Mega HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1012.ts
+#EXTINF:-1,Mezzo Live FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6043.ts
+#EXTINF:-1,MoviStar F1 FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4401.ts
+#EXTINF:-1,MovieStar+ Accion ES
+http://portal.geniptv.com:8080/live/foula/foula/1070.ts
+#EXTINF:-1,MovieStar Comedia ES
+http://portal.geniptv.com:8080/live/foula/foula/1069.ts
+#EXTINF:-1,MovieStar DCine ES
+http://portal.geniptv.com:8080/live/foula/foula/1068.ts
+#EXTINF:-1,MovieStar Deportes 1 ES
+http://portal.geniptv.com:8080/live/foula/foula/1064.ts
+#EXTINF:-1,MovieStar Deportes 2 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1073.ts
+#EXTINF:-1,MovieStar Estrenos ES
+http://portal.geniptv.com:8080/live/foula/foula/1072.ts
+#EXTINF:-1,MovieStar F1 ES
+http://portal.geniptv.com:8080/live/foula/foula/1035.ts
+#EXTINF:-1,MovieStar Futbol ES
+http://portal.geniptv.com:8080/live/foula/foula/1063.ts
+#EXTINF:-1,MovieStar Golf ES
+http://portal.geniptv.com:8080/live/foula/foula/1061.ts
+#EXTINF:-1,MovieStar MotoGP HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1041.ts
+#EXTINF:-1,MovieStar Series HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1067.ts
+#EXTINF:-1,MovieStar Series Xtra ES
+http://portal.geniptv.com:8080/live/foula/foula/1066.ts
+#EXTINF:-1,MovieStar Toros HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1065.ts
+#EXTINF:-1,MovieStar Xtra ES
+http://portal.geniptv.com:8080/live/foula/foula/1071.ts
+#EXTINF:-1,Movistar Deportes 1 FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6071.ts
+#EXTINF:-1,Movistar+ Comedia FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6083.ts
+#EXTINF:-1,Movistar+ Partidazo ES
+http://portal.geniptv.com:8080/live/foula/foula/7084.ts
+#EXTINF:-1,Movistar+ Partidazo FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/7086.ts
+#EXTINF:-1,Movistar+ Partidazo HD ES
+http://portal.geniptv.com:8080/live/foula/foula/7085.ts
+#EXTINF:-1,Movistar+ Series Xtra FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6084.ts
+#EXTINF:-1,Nat Geo ES
+http://portal.geniptv.com:8080/live/foula/foula/1033.ts
+#EXTINF:-1,Nat Geo FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4419.ts
+#EXTINF:-1,Nat Geo Wild FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4418.ts
+#EXTINF:-1,Nat Geo Wild HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1032.ts
+#EXTINF:-1,Neox ES
+http://portal.geniptv.com:8080/live/foula/foula/1079.ts
+#EXTINF:-1,Nick Junior ES
+http://portal.geniptv.com:8080/live/foula/foula/1013.ts
+#EXTINF:-1,Nickelodeon FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6048.ts
+#EXTINF:-1,Nickelodeon HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1014.ts
+#EXTINF:-1,Non Stop People ES
+http://portal.geniptv.com:8080/live/foula/foula/6041.ts
+#EXTINF:-1,Nova ES
+http://portal.geniptv.com:8080/live/foula/foula/1080.ts
+#EXTINF:-1,Odisea HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1034.ts
+#EXTINF:-1,Olympic Channel HD ES
+http://portal.geniptv.com:8080/live/foula/foula/6063.ts
+#EXTINF:-1,Real Madrid TV ES
+http://portal.geniptv.com:8080/live/foula/foula/1037.ts
+#EXTINF:-1,Sundance TV ES
+http://portal.geniptv.com:8080/live/foula/foula/6072.ts
+#EXTINF:-1,SyFy FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4420.ts
+#EXTINF:-1,SyFy HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1050.ts
+#EXTINF:-1,TCM ES
+http://portal.geniptv.com:8080/live/foula/foula/1059.ts
+#EXTINF:-1,TCM FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6081.ts
+#EXTINF:-1,TNT ES
+http://portal.geniptv.com:8080/live/foula/foula/1058.ts
+#EXTINF:-1,TNT FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6074.ts
+#EXTINF:-1,TV3 24H ES
+http://portal.geniptv.com:8080/live/foula/foula/1021.ts
+#EXTINF:-1,TV3 Cat ES
+http://portal.geniptv.com:8080/live/foula/foula/1019.ts
+#EXTINF:-1,TVE LA 2 ES
+http://portal.geniptv.com:8080/live/foula/foula/1085.ts
+#EXTINF:-1,TVE Internacional ES
+http://portal.geniptv.com:8080/live/foula/foula/7427.ts
+#EXTINF:-1,Taquilla 1 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1011.ts
+#EXTINF:-1,Taquilla 10 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1002.ts
+#EXTINF:-1,Taquilla 11 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1001.ts
+#EXTINF:-1,Taquilla 12 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1000.ts
+#EXTINF:-1,Taquilla 13 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/999.ts
+#EXTINF:-1,Taquilla 2 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1010.ts
+#EXTINF:-1,Taquilla 3 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1009.ts
+#EXTINF:-1,Taquilla 4 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1008.ts
+#EXTINF:-1,Taquilla 5 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1007.ts
+#EXTINF:-1,Taquilla 6 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1006.ts
+#EXTINF:-1,Taquilla 7 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1005.ts
+#EXTINF:-1,Taquilla 8 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1004.ts
+#EXTINF:-1,Taquilla 9 HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1003.ts
+#EXTINF:-1,Telecinco ES
+http://portal.geniptv.com:8080/live/foula/foula/1082.ts
+#EXTINF:-1,Telecinco FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4425.ts
+#EXTINF:-1,Telecinco HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1077.ts
+#EXTINF:-1,Toros TV FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/6067.ts
+#EXTINF:-1,VH1 ES
+http://portal.geniptv.com:8080/live/foula/foula/6044.ts
+#EXTINF:-1,Viajar FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4423.ts
+#EXTINF:-1,Viajar HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1026.ts
+#EXTINF:-1,XTRM ES
+http://portal.geniptv.com:8080/live/foula/foula/6076.ts
+#EXTINF:-1,a3series HD ES
+http://portal.geniptv.com:8080/live/foula/foula/6097.ts
+#EXTINF:-1,LaLiga 123 FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/8694.ts
+#EXTINF:-1,beIN LA Liga FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4403.ts
+#EXTINF:-1,beIN Sport FHD ES
+http://portal.geniptv.com:8080/live/foula/foula/4404.ts
+#EXTINF:-1,beINSport HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1043.ts
+#EXTINF:-1,beINSport LaLiga HD ES
+http://portal.geniptv.com:8080/live/foula/foula/1042.ts
+ #EXTINF:-1,########## Portugal ##########
+http://portal.geniptv.com:80
+
+
+
 #EXTINF:-1 group-title="IPTVCANALES.COM", IPTVCANALES.COM
 http://iptvcanales.com/index.php/lista-de-canales/
 #EXTINF:-1 group-title="IPTVCANALES.COM", LA LISTA CADA 12 HS
