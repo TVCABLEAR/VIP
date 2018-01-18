@@ -1,0 +1,71 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 group-title="IPTVCANALES.COM", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="IPTVCANALES.COM", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
+
+
+
+#EXTINF:-1,ENG Light TV
+http://68.255.145.83:8000/play/a00z/index.m3u8
+#EXTINF:-1,ABC ENG
+http://68.255.145.83:8000/play/a00c/index.m3u8
+#EXTINF:-1,ENG Buzzr
+http://68.255.145.83:8000/play/a010/index.m3u8
+#EXTINF:-1,ENG JusticeTV
+http://68.255.145.83:8000/play/a00b/index.m3u8
+#EXTINF:-1,ENG Decades
+http://68.255.145.83:8000/play/a004/index.m3u8
+#EXTINF:-1,ESP Disney Channel HD
+http://68.255.145.83:8000/play/a019/index.m3u8
+#EXTINF:-1,ENG Fox
+http://68.255.145.83:8000/play/a016/index.m3u8
+#EXTINF:-1,ENG Escape
+http://68.255.145.83:8000/play/a00m/index.m3u8
+#EXTINF:-1,ENG Cozi TV
+http://68.255.145.83:8000/play/a00s/index.m3u8
+#EXTINF:-1,ENG CBS
+http://68.255.145.83:8000/play/a003/index.m3u8
+#EXTINF:-1,ENG Disney Channel HD
+http://68.255.145.83:8000/play/a018/index.m3u8
+#EXTINF:-1,ESP Telemundo
+http://68.255.145.83:8000/play/a00t/index.m3u8
+#EXTINF:-1,ESP Azteca
+http://68.255.145.83:8000/play/a011/index.m3u8
+#EXTINF:-1,ENG Access Hollywood
+http://68.255.145.83:8000/play/a00r/index.m3u8
+#EXTINF:-1,ESP ESPN Deportes HD
+http://68.255.145.83:8000/play/a01a/index.m3u8
+#EXTINF:-1,ENG Movies
+http://68.255.145.83:8000/play/a00y/index.m3u8
+#EXTINF:-1,ENG LAFF
+http://68.255.145.83:8000/play/a00e/index.m3u8
+#EXTINF:-1,ENG Lifetime HD
+http://68.255.145.83:8000/play/a017/index.m3u8
+#EXTINF:-1,ENG CCTV-News
+http://68.255.145.83:8000/play/a013/index.m3u8
+#EXTINF:-1,ENG Grit
+http://68.255.145.83:8000/play/a00a/index.m3u8
+#EXTINF:-1,ENG CW50
+http://68.255.145.83:8000/play/a00x/index.m3u8
+#EXTINF:-1,ESP Telexitos
+http://68.255.145.83:8000/play/a00u/index.m3u8
+#EXTINF:-1,ENG Live Well Network Full
+http://68.255.145.83:8000/play/a00d/index.m3u8
+#EXTINF:-1,ENG CCTV
+http://68.255.145.83:8000/play/a012/index.m3u8
+#EXTINF:-1,ESP Unimas
+http://68.255.145.83:8000/play/a00l/index.m3u8
+#EXTINF:-1,ENG JTV
+http://68.255.145.83:8000/play/a014/index.m3u8
+#EXTINF:-1,ENG GetTV
+http://68.255.145.83:8000/play/a009/index.m3u8
+#EXTINF:-1,ESP Univision
+http://68.255.145.83:8000/play/a008/index.m3u8
