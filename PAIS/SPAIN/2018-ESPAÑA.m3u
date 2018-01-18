@@ -7,6 +7,10 @@ https://github.com/TVCABLEAR/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
 https://github.com/TVCABLEAR/
 
+#EXTINF:-1 group-title="PASTEBIN-21", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="PASTEBIN-21", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
 
 #EXTINF:-1,########## Spain ##########
 http://portal.geniptv.com:8080/live/foula/foula/2532.ts
