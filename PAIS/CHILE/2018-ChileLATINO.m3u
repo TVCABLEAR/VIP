@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 group-title="IPTVCANALES.COM", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="IPTVCANALES.COM", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
+
 
 #EXTINF:0 type=”stream” tvg-logo=”https://www.dropbox.com/s/g0dureslje8nxil/JC%20TV.png?dl=1″ aspect-ratio=”16:9″ , JC IPTV Lista Gratuita
 #EXTBG: https://i.ytimg.com/vi/sxZKdznlW5E/maxresdefault.jpg
