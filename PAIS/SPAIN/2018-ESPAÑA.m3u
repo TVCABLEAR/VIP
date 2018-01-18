@@ -66,79 +66,6 @@ http://merlin.magikdata.biz:8000/live/james1/james1/1281.m3u8
 #EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest/scale-to-width-down/208?cb=20130908121353" group-title="ESPANHA",PARAMOUNT CHANNEL 
 http://merlin.magikdata.biz:8000/live/james1/james1/2130.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" group-title="ESPANHA",MOVISTAR FUTBOL 
-http://185.152.66.150:25461/live/deportesfans/fanstvapp/39.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Movistar_F%C3%BAtbol.svg/1200px-Movistar_F%C3%BAtbol.svg.png" group-title="ESPANHA",MOVISTAR FUTBOL HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/362.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c2/MovistarPartidazo.png/revision/latest?cb=20160818140828" group-title="ESPANHA",MOVISTAR PARTIDAZO HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/713.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.beinsportsconnect.es/uploads/comun/img/logos/bein-laliga-md.png" group-title="ESPANHA",BEIN SPORTS LALIGA 
-http://185.152.66.150:25461/live/deportesfans/fanstvapp/41.m3u8
- 
-#EXTINF:-1 tvg-logo="https://static.beinsportsconnect.es/uploads/comun/img/logos/bein-laliga-md.png" group-title="ESPANHA",BEIN SPORTS LALIGA HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/573.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/57cfcd462a7aa087f1c0d76a2ce2ef0d" group-title="ESPANHA",BEIN SPORTS LALIGA MAX 1 HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/702.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/43d9dafabf685a28e53240dce9fd1cd2" group-title="ESPANHA",BEIN SPORTS LALIGA MAX 2 
-http://merlin.magikdata.biz:8000/live/james1/james1/768.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/xfrH1XE.png" group-title="ESPANHA",BEIN SPORTS 
-http://185.152.66.150:25461/live/deportesfans/fanstvapp/49.m3u8
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254" group-title="ESPANHA",MOVISTAR DEPORTES 1 
-http://92.60.237.19:8880/play/Mdeportes1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/6/63/MovistarDeportes2.png/revision/latest?cb=20160818140550" group-title="ESPANHA",MOVISTAR DEPORTES 2 
-http://92.60.237.19:8880/play/Mdeportes2/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg" group-title="ESPANHA",MOVISTAR FORMULA 1 
-http://185.152.66.150:25461/live/deportesfans/fanstvapp/40.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/movistar-formula1.jpg" group-title="ESPANHA",MOVISTAR FORMULA 1 HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/319.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="ESPANHA",MOVISTAR GOLF 
-http://merlin.magikdata.biz:8000/live/james1/james1/361.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/GOLTV_Two.png/200px-GOLTV_Two.png" group-title="ESPANHA",GOL 
-http://merlin.magikdata.biz:8000/live/james1/james1/455.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/GOLTV_Two.png/200px-GOLTV_Two.png" group-title="ESPANHA",GOL HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/981.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.underconsideration.com/brandnew/archives/la_liga_logo.png" group-title="ESPANHA",LALIGA TV 
-http://185.152.66.150:25461/live/deportesfans/fanstvapp/41.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205" group-title="ESPANHA",REAL MADRID TV 
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://corporate.eurosport.com/wp-content/uploads/2015/01/Eurosport1_monogram.jpg" group-title="ESPANHA",EUROSPORT 1 
-http://185.152.66.150:25461/live/deportesfans/fanstvapp/44.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/unT3Jrz.png" group-title="ESPANHA",TELEDEPORTE HD 
-http://merlin.magikdata.biz:8000/live/james1/james1/1427.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/6e52a098eb6f2ec2a09db2745645c139" group-title="ESPANHA",BEIN SPORTS LALIGA MAX 3 
-http://merlin.magikdata.biz:8000/live/james1/james1/2156.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/636fe906acb9a9491367e11d62f9c99d" group-title="ESPANHA",BEIN SPORTS LALIGA MAX 4 
-http://merlin.magikdata.biz:8000/live/james1/james1/2157.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/1852bc5d146484626015cdf371a4d04f" group-title="ESPANHA",BEIN SPORTS LALIGA MAX 5 
-http://merlin.magikdata.biz:8000/live/james1/james1/2158.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/8ba320358a0146d0531e76a5133a69e9" group-title="ESPANHA",BEIN SPORTS LALIGA MAX 6 
-http://merlin.magikdata.biz:8000/live/james1/james1/2159.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/0e3f421abef911dd0636fcc2352938d4" group-title="ESPANHA",BEIN SPORTS LALIGA MAX 7 
-http://merlin.magikdata.biz:8000/live/james1/james1/2160.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.mundoplus.tv/img/0e3f421abef911dd0636fcc2352938d4" group-title="ESPANHA",BEIN SPORTS LALIGA MAX 0
-http://merlin.magikdata.biz:8000/live/james1/james1/2161.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/DM_LOGO_RGB.svg/200px-DM_LOGO_RGB.svg.png" group-title="ESPANHA",DMAX 
 http://merlin.magikdata.biz:8000/live/james1/james1/2129.m3u8
@@ -195,3 +122,153 @@ http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Canal_de_las_Estrellas_2006_logo.PNG" group-title="ESPANHA",LAS ESTRELLAS 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+
+#EXTINF:-1,SPAIN | VIAJAR HD
+http://system.fpiptv.com:8080/live/1974/1974/951.ts
+#EXTINF:-1,SPAIN | VH1
+http://system.fpiptv.com:8080/live/1974/1974/966.ts
+#EXTINF:-1,SPAIN | TV3
+http://system.fpiptv.com:8080/live/1974/1974/967.ts
+#EXTINF:-1,SPAIN | TNT HD
+http://system.fpiptv.com:8080/live/1974/1974/977.ts
+#EXTINF:-1,SPAIN | TELEDEPORTE HD
+http://system.fpiptv.com:8080/live/1974/1974/940.ts
+#EXTINF:-1,SPAIN | TELECINCO HD
+http://system.fpiptv.com:8080/live/1974/1974/891.ts
+#EXTINF:-1,SPAIN | TCM HD
+http://system.fpiptv.com:8080/live/1974/1974/914.ts
+#EXTINF:-1,SPAIN | SYFY HD
+http://system.fpiptv.com:8080/live/1974/1974/919.ts
+#EXTINF:-1,SPAIN | RADIO MONTE-CARLO TV
+http://system.fpiptv.com:8080/live/1974/1974/968.ts
+#EXTINF:-1,SPAIN | RADIO 105
+http://system.fpiptv.com:8080/live/1974/1974/969.ts
+#EXTINF:-1,SPAIN | MOVISTAR DEPORTES
+http://system.fpiptv.com:8080/live/1974/1974/911.ts
+#EXTINF:-1,SPAIN | PANDA
+http://system.fpiptv.com:8080/live/1974/1974/958.ts
+#EXTINF:-1,SPAIN | ODISEA HD
+http://system.fpiptv.com:8080/live/1974/1974/953.ts
+#EXTINF:-1,SPAIN | NRJ12 MUSIC
+http://system.fpiptv.com:8080/live/1974/1974/970.ts
+#EXTINF:-1,SPAIN | NOVA
+http://system.fpiptv.com:8080/live/1974/1974/897.ts
+#EXTINF:-1,SPAIN | NON STOP PEOPLE
+http://system.fpiptv.com:8080/live/1974/1974/901.ts
+#EXTINF:-1,SPAIN | NICKELODEON HD
+http://system.fpiptv.com:8080/live/1974/1974/957.ts
+#EXTINF:-1,SPAIN | NEOX
+http://system.fpiptv.com:8080/live/1974/1974/894.ts
+#EXTINF:-1,SPAIN | NATIONAL GEOGRAPHIC HD
+http://system.fpiptv.com:8080/live/1974/1974/955.ts
+#EXTINF:-1,SPAIN | NAT GEO WILD HD
+http://system.fpiptv.com:8080/live/1974/1974/956.ts
+#EXTINF:-1,SPAIN | MTV MUSIC
+http://system.fpiptv.com:8080/live/1974/1974/972.ts
+#EXTINF:-1,SPAIN | MOVISTAR XTRA HD
+http://system.fpiptv.com:8080/live/1974/1974/909.ts
+#EXTINF:-1,SPAIN | MOVISTAR SERIES Xtra HD
+http://system.fpiptv.com:8080/live/1974/1974/908.ts
+#EXTINF:-1,SPAIN | MOVISTAR SERIES HD
+http://system.fpiptv.com:8080/live/1974/1974/907.ts
+#EXTINF:-1,SPAIN | MOVISTAR F1
+http://system.fpiptv.com:8080/live/1974/1974/944.ts
+#EXTINF:-1,SPAIN | MOVISTAR ESTRENOS HD
+http://system.fpiptv.com:8080/live/1974/1974/906.ts
+#EXTINF:-1,SPAIN | MOVISTAR DCINE HD
+http://system.fpiptv.com:8080/live/1974/1974/905.ts
+#EXTINF:-1,SPAIN | MOVISTAR DCINE ESPANOL
+http://system.fpiptv.com:8080/live/1974/1974/910.ts
+#EXTINF:-1,SPAIN | MOVISTAR COMEDIA HD
+http://system.fpiptv.com:8080/live/1974/1974/904.ts
+#EXTINF:-1,SPAIN | MOVISTAR ACCION HD
+http://system.fpiptv.com:8080/live/1974/1974/903.ts
+#EXTINF:-1,SPAIN | Movistar Moto GP
+http://system.fpiptv.com:8080/live/1974/1974/945.ts
+#EXTINF:-1,SPAIN | Mega
+http://system.fpiptv.com:8080/live/1974/1974/893.ts
+#EXTINF:-1,SPAIN | M6 MUSIC
+http://system.fpiptv.com:8080/live/1974/1974/975.ts
+#EXTINF:-1,SPAIN | M20
+http://system.fpiptv.com:8080/live/1974/1974/976.ts
+#EXTINF:-1,SPAIN | LA SXTA HD
+http://system.fpiptv.com:8080/live/1974/1974/892.ts
+#EXTINF:-1,SPAIN | LA 2
+http://system.fpiptv.com:8080/live/1974/1974/888.ts
+#EXTINF:-1,SPAIN | LA 1 HD
+http://system.fpiptv.com:8080/live/1974/1974/887.ts
+#EXTINF:-1,SPAIN | KISS TV
+http://system.fpiptv.com:8080/live/1974/1974/964.ts
+#EXTINF:-1,SPAIN | Barca TV
+http://system.fpiptv.com:8080/live/1974/1974/954.ts
+#EXTINF:-1,SPAIN | HOLLYWOOD HD
+http://system.fpiptv.com:8080/live/1974/1974/912.ts
+#EXTINF:-1,SPAIN | HISTORIA
+http://system.fpiptv.com:8080/live/1974/1974/952.ts
+#EXTINF:-1,SPAIN | FOX LIFE HD
+http://system.fpiptv.com:8080/live/1974/1974/918.ts
+#EXTINF:-1,SPAIN | FOX HD
+http://system.fpiptv.com:8080/live/1974/1974/917.ts
+#EXTINF:-1,SPAIN | FDF
+http://system.fpiptv.com:8080/live/1974/1974/895.ts
+#EXTINF:-1,SPAIN | ENERGY
+http://system.fpiptv.com:8080/live/1974/1974/898.ts
+#EXTINF:-1,SPAIN | DIVINITY
+http://system.fpiptv.com:8080/live/1974/1974/896.ts
+#EXTINF:-1,SPAIN | DISNEY XD
+http://system.fpiptv.com:8080/live/1974/1974/978.ts
+#EXTINF:-1,SPAIN | DISNEY JUNIOR
+http://system.fpiptv.com:8080/live/1974/1974/960.ts
+#EXTINF:-1,SPAIN | DISNEY CHANNEL HD
+http://system.fpiptv.com:8080/live/1974/1974/959.ts
+#EXTINF:-1,SPAIN | DISCOVERY CI
+http://system.fpiptv.com:8080/live/1974/1974/948.ts
+#EXTINF:-1,SPAIN | DISCOVERY CHANNEL HD
+http://system.fpiptv.com:8080/live/1974/1974/950.ts
+#EXTINF:-1,SPAIN | CUATRO HD
+http://system.fpiptv.com:8080/live/1974/1974/890.ts
+#EXTINF:-1,SPAIN | COSMO HD
+http://system.fpiptv.com:8080/live/1974/1974/922.ts
+#EXTINF:-1,SPAIN | COMEDY CENTRAL HD
+http://system.fpiptv.com:8080/live/1974/1974/921.ts
+#EXTINF:-1,SPAIN | CANAL COCINA
+http://system.fpiptv.com:8080/live/1974/1974/947.ts
+#EXTINF:-1,SPAIN | CANAL  TOROS
+http://system.fpiptv.com:8080/live/1974/1974/946.ts
+#EXTINF:-1,SPAIN | MOVISTAR GOLF
+http://system.fpiptv.com:8080/live/1974/1974/943.ts
+#EXTINF:-1,SPAIN | MOVISTAR FUTBOL HD
+http://system.fpiptv.com:8080/live/1974/1974/924.ts
+#EXTINF:-1,SPAIN | CANAL DEPORTES HD
+http://system.fpiptv.com:8080/live/1974/1974/941.ts
+#EXTINF:-1,SPAIN | CANAL  DEPORTES 2 HD
+http://system.fpiptv.com:8080/live/1974/1974/942.ts
+#EXTINF:-1,SPAIN | CALLE 13 HD
+http://system.fpiptv.com:8080/live/1974/1974/920.ts
+#EXTINF:-1,SPAIN | BOING
+http://system.fpiptv.com:8080/live/1974/1974/961.ts
+#EXTINF:-1,SPAIN | BEIN SPORT ES
+http://system.fpiptv.com:8080/live/1974/1974/931.ts
+#EXTINF:-1,SPAIN | BEIN LA LIGA 1080
+http://system.fpiptv.com:8080/live/1974/1974/926.ts
+#EXTINF:-1,SPAIN | BABY
+http://system.fpiptv.com:8080/live/1974/1974/962.ts
+#EXTINF:-1,SPAIN | AXN WHITE HD
+http://system.fpiptv.com:8080/live/1974/1974/916.ts
+#EXTINF:-1,SPAIN | AXN HD
+http://system.fpiptv.com:8080/live/1974/1974/915.ts
+#EXTINF:-1,SPAIN | ANTENA 3 HD
+http://system.fpiptv.com:8080/live/1974/1974/889.ts
+#EXTINF:-1,SPAIN | ANDALUCIA TV
+http://system.fpiptv.com:8080/live/1974/1974/923.ts
+#EXTINF:-1,SPAIN | AMC HD
+http://system.fpiptv.com:8080/live/1974/1974/913.ts
+#EXTINF:-1,SPAIN | A3SERIES
+http://system.fpiptv.com:8080/live/1974/1974/900.ts
+#EXTINF:-1,SPAIN | A&E
+http://system.fpiptv.com:8080/live/1974/1974/949.ts
+#EXTINF:-1,SPAIN | 40 TV
+http://system.fpiptv.com:8080/live/1974/1974/963.ts
+#EXTINF:-1,SPAIN | #O HD
+http://system.fpiptv.com:8080/live/1974/1974/902.ts
