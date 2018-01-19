@@ -1,0 +1,280 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 group-title="IPTVCANALES.COM", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="IPTVCANALES.COM", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
+
+
+
+#EXTINF:-1,ABC EAST
+http://iptv-area-51.tv:2095/live/adam/adam/3353.ts
+#EXTINF:-1,ABC WEST (D)
+http://iptv-area-51.tv:2095/live/adam/adam/4489.ts
+#EXTINF:-1,FOX EAST
+http://iptv-area-51.tv:2095/live/adam/adam/3090.ts
+#EXTINF:-1,FOX (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/1943.ts
+#EXTINF:-1,CBS EAST
+http://iptv-area-51.tv:2095/live/adam/adam/1518.ts
+#EXTINF:-1,NBC EAST
+http://iptv-area-51.tv:2095/live/adam/adam/3241.ts
+#EXTINF:-1,CW NETWORK (US)
+http://iptv-area-51.tv:2095/live/adam/adam/2265.ts
+#EXTINF:-1,PBS Kids
+http://iptv-area-51.tv:2095/live/adam/adam/2446.ts
+#EXTINF:-1,AMC (US)
+http://iptv-area-51.tv:2095/live/adam/adam/3318.ts
+
+http://iptv-area-51.tv:2095/live/adam/adam/6070.ts
+#EXTINF:-1,SYFY (US)
+http://iptv-area-51.tv:2095/live/adam/adam/4092.ts
+#EXTINF:-1,SYFY (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/3362.ts
+#EXTINF:-1,SUNDANCE TV
+http://iptv-area-51.tv:2095/live/adam/adam/4436.ts
+#EXTINF:-1,TruTV
+http://iptv-area-51.tv:2095/live/adam/adam/3997.ts
+#EXTINF:-1,TNT
+http://iptv-area-51.tv:2095/live/adam/adam/29.ts
+#EXTINF:-1,USA NETWORK
+http://iptv-area-51.tv:2095/live/adam/adam/3892.ts
+#EXTINF:-1,A&E
+http://iptv-area-51.tv:2095/live/adam/adam/1872.ts
+#EXTINF:-1,BRAVO
+http://iptv-area-51.tv:2095/live/adam/adam/6077.ts
+#EXTINF:-1,WE TV (US)
+http://iptv-area-51.tv:2095/live/adam/adam/21.ts
+#EXTINF:-1,TCM
+http://iptv-area-51.tv:2095/live/adam/adam/24.ts
+#EXTINF:-1,TBS
+http://iptv-area-51.tv:2095/live/adam/adam/1878.ts
+#EXTINF:-1,NFL NETWORK
+http://iptv-area-51.tv:2095/live/adam/adam/103.ts
+#EXTINF:-1,ESPN
+http://iptv-area-51.tv:2095/live/adam/adam/3883.ts
+#EXTINF:-1,ESPN 2
+http://iptv-area-51.tv:2095/live/adam/adam/4517.ts
+#EXTINF:-1,HBO 2 East (US)
+http://iptv-area-51.tv:2095/live/adam/adam/232.ts
+#EXTINF:-1,HBO ZONE  (US)
+http://iptv-area-51.tv:2095/live/adam/adam/238.ts
+#EXTINF:-1,Cinemax
+http://iptv-area-51.tv:2095/live/adam/adam/4347.ts
+#EXTINF:-1,SKY MOVIES COMEDY
+http://iptv-area-51.tv:2095/live/adam/adam/3085.ts
+#EXTINF:-1,Sky Movies Drama & Romance
+http://iptv-area-51.tv:2095/live/adam/adam/270.ts
+#EXTINF:-1,SKY MOVIES GREATS
+http://iptv-area-51.tv:2095/live/adam/adam/3746.ts
+#EXTINF:-1,SKY MOVIES SCI-FI & HORROR
+http://iptv-area-51.tv:2095/live/adam/adam/4224.ts
+#EXTINF:-1,SKY MOVIES FAMILY
+http://iptv-area-51.tv:2095/live/adam/adam/4228.ts
+#EXTINF:-1,SKY MOVIES PREMIER
+http://iptv-area-51.tv:2095/live/adam/adam/4225.ts
+#EXTINF:-1,SKY MOVIES SELECT
+http://iptv-area-51.tv:2095/live/adam/adam/4223.ts
+#EXTINF:-1,STARZ EAST
+http://iptv-area-51.tv:2095/live/adam/adam/4218.ts
+#EXTINF:-1,Hallmark Movies
+http://iptv-area-51.tv:2095/live/adam/adam/195.ts
+#EXTINF:-1,Oxygen (US)
+http://iptv-area-51.tv:2095/live/adam/adam/20.ts
+#EXTINF:-1,LIFETIME MOVIE NETWORK (US)
+http://iptv-area-51.tv:2095/live/adam/adam/8.ts
+#EXTINF:-1,LIFETIME
+http://iptv-area-51.tv:2095/live/adam/adam/7.ts
+#EXTINF:-1,E!
+http://iptv-area-51.tv:2095/live/adam/adam/196.ts
+#EXTINF:-1,NAT GEO WILD (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/3364.ts
+#EXTINF:-1,CBS ACTION (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/3471.ts
+#EXTINF:-1,CBS DRAMA (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/3472.ts
+#EXTINF:-1,CBS REALITY (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/3081.ts
+#EXTINF:-1,Hallmark
+http://iptv-area-51.tv:2095/live/adam/adam/4332.ts
+#EXTINF:-1,CARTOON NETWORK (US)
+http://iptv-area-51.tv:2095/live/adam/adam/1519.ts
+#EXTINF:-1,CARTOON NETWORK (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/3875.ts
+#EXTINF:-1,DISNEY CHANNEL (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/3876.ts
+#EXTINF:-1,DISNEY JR (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/3878.ts
+#EXTINF:-1,DISNEY XD (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/218.ts
+#EXTINF:-1,NICKELODEN
+http://iptv-area-51.tv:2095/live/adam/adam/4091.ts
+#EXTINF:-1,NICK Jr
+http://iptv-area-51.tv:2095/live/adam/adam/3726.ts
+#EXTINF:-1,NICK JR (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/2574.ts
+#EXTINF:-1,NICKTOONS (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/2686.ts
+#EXTINF:-1,FOX NEWS CHANNEL
+http://iptv-area-51.tv:2095/live/adam/adam/1661.ts
+#EXTINF:-1,CNN
+http://iptv-area-51.tv:2095/live/adam/adam/3.ts
+#EXTINF:-1,MSNBC
+http://iptv-area-51.tv:2095/live/adam/adam/3278.ts
+#EXTINF:-1,CNBC
+http://iptv-area-51.tv:2095/live/adam/adam/4087.ts
+http://iptv-area-51.tv:2095/live/adam/adam/6174.ts
+#EXTINF:-1,CA | The Movie Network Encore 1 East  local
+http://iptv-area-51.tv:2095/live/adam/adam/6168.ts
+#EXTINF:-1 group-title="(UK) United Kingdom",DISNEY JR | SD (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/1218.ts
+#EXTINF:-1 group-title="(UK) United Kingdom",NICK JR | SD (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/2574.ts
+#EXTINF:-1,A&E | SD
+http://163.172.210.178:8000/live/mMM33bE62ND6hY/ULfo7BodcIpYe3/708.ts
+#EXTINF:-1 group-title="(US) United States",FOOD NETWORK | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/1870.ts
+#EXTINF:-1,A&E | SD
+http://163.172.210.178:8000/live/KaqslQwi3Eisqp/T08qRQRtOHdoVb/708.ts
+#EXTINF:-1,A&E | SD
+http://iptv-area-51.tv:2095/live/adam/adam/1872.ts
+#EXTINF:-1 group-title="(US) United States",CNN | HD (US)
+http://164.132.200.17:8080/live/wserkanndad/cuQZzo4SHR/1832.ts
+#EXTINF:-1,A&E | SD
+http://163.172.210.178:8000/live/5Lvyprs736H7ho/JlRopPjP12owqQ/708.ts
+#EXTINF:-1 group-title="(UK) United Kingdom",NICKTOONS | SD (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/2686.ts
+#EXTINF:-1 group-title="(UK) United Kingdom",CARTOON NETWORK | SD (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/4377.ts
+#EXTINF:-1 group-title="(UK) United Kingdom",CBS ACTION | SD (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/3471.ts
+#EXTINF:-1 group-title="(UK) United Kingdom",CBS DRAMA | SD (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/3472.ts
+#EXTINF:-1 group-title="(UK) United Kingdom",CBS REALITY | SD (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/3081.ts
+#EXTINF:-1 group-title="(UK) United Kingdom",COMEDY CENTRAL | SD (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/1931.ts
+#EXTINF:-1 group-title="(UK) United Kingdom",DISNEY CHANNEL | SD (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/3647.ts
+#EXTINF:-1 group-title="(UK) United Kingdom",DISNEY XD | SD (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/218.ts
+#EXTINF:-1 group-title="(UK) United Kingdom",FOX | SD (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/1943.ts
+#EXTINF:-1 group-title="(UK) United Kingdom",SYFY | SD (UK)
+http://iptv-area-51.tv:2095/live/adam/adam/3362.ts
+#EXTINF:-1 group-title="(US) United States",AMC | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/3318.ts
+#EXTINF:-1 group-title="(US) United States",AMERICAN HEROES CHANNEL D | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/206.ts
+#EXTINF:-1 group-title="(US) United States",ANIMAL PLANET D | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/195.ts
+#EXTINF:-1 group-title="(US) United States",BET EAST D | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/6066.ts
+#EXTINF:-1 group-title="(US) United States",COMEDY CENTRAL EAST D | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/6062.ts
+#EXTINF:-1 group-title="(US) United States",DISNEY CHANNEL D | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/3875.ts
+#EXTINF:-1 group-title="(US) United States",DISNEY JR D | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/3876.ts
+#EXTINF:-1 group-title="(US) United States",DISNEY XD D | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/3878.ts
+#EXTINF:-1 group-title="(US) United States",HBO 2 EAST | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/232.ts
+#EXTINF:-1 group-title="(US) United States",HBO ZONE | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/238.ts
+#EXTINF:-1 group-title="(US) United States",LIFETIME MOVIE NETWORK | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/8.ts
+#EXTINF:-1 group-title="(US) United States",NBC NEWS D | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/3278.ts
+#EXTINF:-1 group-title="(US) United States",NETWORK | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/3892.ts
+#EXTINF:-1 group-title="(US) United States",OXYGEN | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/20.ts
+#EXTINF:-1 group-title="(US) United States",SPIKE EAST D | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/6055.ts
+#EXTINF:-1 group-title="(US) United States",SPIKE WEST D | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/4060.ts
+#EXTINF:-1 group-title="(US) United States",SYFY | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/4092.ts
+#EXTINF:-1 group-title="(US) United States",VELOCITY | SD (US)
+http://iptv-area-51.tv:2095/live/adam/adam/3971.ts
+#EXTINF:-1,MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1, MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1, The Country Network
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/8925.jpg", MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1, NBC News Live
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1, Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1, ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/8925.jpg", MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1, NBC News Live
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1, Bloomberg TV
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1,CBS NEWS
+https://www.cbsnews.com/common/video/cbsn_header_prod.m3u8
+#EXTINF:-1,ABC
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/CNN.png" group-title="USA",CNN
+http://189.216.247.113/Content/HLS/Live/Channel(CNN_HD)/index.m3u8
+#EXTINF:-1 tvg-logo="24/7" group-title="24/7",Fish Tank
+http://wse.planeta-online.tv:1935/live/channel_3/chunklist.m3u8
+#EXTINF:-1 tvg-logo="24/7" group-title="24/7",The Venture Bros.
+http://adultswim-vodlive.cdn.turner.com/the-venture-bros/stream.m3u8
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2017/01/abc-logo.jpg" group-title="USA",ABC (EST)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2017/01/abc-logo.jpg" group-title="USA",ABC (CST)
+http://kamc-apple-live.hls.adaptive.level3.net/stream0/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wY0bIox.png" group-title="USA",Bloomberg TV (Opt-1)
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvQJJD4.png" group-title="USA",MSNBC (Opt-1)
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SvQJJD4.png" group-title="USA",MSNBC HD
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/64/WCCB_CW_logo.png" group-title="USA LOCAL",WCCB News (Charlotte)
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+#EXTINF:-1,BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,FOX
+http://78.26.128.94:8011/udp/225.1.2.1:1234
+#EXTINF:-1,FOX Life
+http://78.26.128.94:8011/udp/225.1.2.6:1234
+#EXTINF:-1,SET
+http://78.26.128.94:8011/udp/225.1.2.2:1234
+#EXTINF:-1,Sony Turbo
+http://78.26.128.94:8011/udp/225.1.2.3:1234
+#EXTINF:-1,Sony SCi Fi
+http://78.26.128.94:8011/udp/225.1.2.15:1234
+#EXTINF:-1,Paramount Channel
+http://91.232.157.222:1235/udp/239.0.1.35:4000
+#EXTINF:-1,FOX
+http://178.219.48.15:9002/play/fox
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="PORTUGAL",TLC (Copyright Ãƒâ€šÃ‚Â© 2017 by TeamBlue)
+http://4.31.30.145:9043
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" group-title="FRANCA",BLOOMBERG (Copyright Ãƒâ€šÃ‚Â© 2017 by TeamBlue)
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ix40Cv6.png" group-title="ESPANHA",BLOOMBERG (Copyright Ãƒâ€šÃ‚Â© 2017 by TeamBlue)
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="UK",TLC (Copyright Ãƒâ€šÃ‚Â© 2017 by TeamBlue)
+http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/v7fRn8r.png" group-title="PORTUGAL",FOX NEWS (Copyright Ãƒâ€šÃ‚Â© 2017 by TeamBlue)
+http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
