@@ -1,0 +1,637 @@
+#EXTM3U url="https://www.dropbox.com/s/v28ajmjzh1pljz1/demomegaplay2.m3u?dl=1"
+#EXTINF:-1 group-title="MEGAPLAY",NBC Sports Network
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/247.ts
+#EXTINF:-1 group-title="MEGAPLAY",Starz (ENG)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/248.ts
+#EXTINF:-1 group-title="MEGAPLAY",Showtime
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/251.ts
+#EXTINF:-1 group-title="MEGAPLAY",HBO Zone
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/253.ts
+#EXTINF:-1 group-title="MEGAPLAY",HBO Signature East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/254.ts
+#EXTINF:-1 group-title="MEGAPLAY",Galicia TV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/255.ts
+#EXTINF:-1 group-title="MEGAPLAY",HBO East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/289.ts
+#EXTINF:-1 group-title="MEGAPLAY",Nick Jr
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/304.ts
+#EXTINF:-1 group-title="MEGAPLAY",Cartoon Network (Panregional)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/305.ts
+#EXTINF:-1 group-title="MEGAPLAY",El TRECE
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/306.ts
+#EXTINF:-1 group-title="MEGAPLAY",FX Movies
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/313.ts
+#EXTINF:-1 group-title="MEGAPLAY",Canal 13
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/322.ts
+#EXTINF:-1 group-title="MEGAPLAY",ETC tv
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/323.ts
+#EXTINF:-1 group-title="MEGAPLAY",Megavision
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/324.ts
+#EXTINF:-1 group-title="MEGAPLAY",Cinecanal (Panregional)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/325.ts
+#EXTINF:-1 group-title="MEGAPLAY",Golden Edge (Panregional)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/326.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Series Oeste
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/327.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Series
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/328.ts
+#EXTINF:-1 group-title="MEGAPLAY",CHV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/329.ts
+#EXTINF:-1 group-title="MEGAPLAY",24HR TVN
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/330.ts
+#EXTINF:-1 group-title="MEGAPLAY",TVN
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/331.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Sports (Cono Sur)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/332.ts
+#EXTINF:-1 group-title="MEGAPLAY",Via X
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/333.ts
+#EXTINF:-1 group-title="MEGAPLAY",Zona Latina
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/334.ts
+#EXTINF:-1 group-title="MEGAPLAY",Bolivision
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/335.ts
+#EXTINF:-1 group-title="MEGAPLAY",RCN Novelas
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/336.ts
+#EXTINF:-1 group-title="MEGAPLAY",ESPN PERU
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/339.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox International (Peru)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/340.ts
+#EXTINF:-1 group-title="MEGAPLAY",Warner (Andino)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/341.ts
+#EXTINF:-1 group-title="MEGAPLAY",HBO Oeste
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/342.ts
+#EXTINF:-1 group-title="MEGAPLAY",TYC Sports
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/343.ts
+#EXTINF:-1 group-title="MEGAPLAY",HBO 2 (Panamericana)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/344.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Action
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/345.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Comedy
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/346.ts
+#EXTINF:-1 group-title="MEGAPLAY",UCV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/347.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Cinema
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/355.ts
+#EXTINF:-1 group-title="MEGAPLAY",13 C
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/356.ts
+#EXTINF:-1 group-title="MEGAPLAY",RED Television
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/357.ts
+#EXTINF:-1 group-title="MEGAPLAY",History Channel (Andino)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/358.ts
+#EXTINF:-1 group-title="MEGAPLAY",ESPN 3
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/359.ts
+#EXTINF:-1 group-title="MEGAPLAY",FX
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/360.ts
+#EXTINF:-1 group-title="MEGAPLAY",ID - Investigation Discovery
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/361.ts
+#EXTINF:-1 group-title="MEGAPLAY",AXN
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/362.ts
+#EXTINF:-1 group-title="MEGAPLAY",Universal
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/363.ts
+#EXTINF:-1 group-title="MEGAPLAY",Discovery H&H
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/364.ts
+#EXTINF:-1 group-title="MEGAPLAY",Disney Junior
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/365.ts
+#EXTINF:-1 group-title="MEGAPLAY",RC telenovelas 
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/366.ts
+
+#EXTINF:-1 group-title="MEGAPLAY",H2
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/369.ts
+#EXTINF:-1 group-title="MEGAPLAY",ESPN 2 (Sur)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/371.ts
+#EXTINF:-1 group-title="MEGAPLAY",CNN Chile
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/372.ts
+#EXTINF:-1 group-title="MEGAPLAY",Telecanal
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/375.ts
+
+#EXTINF:-1 group-title="MEGAPLAY",Nat Geo Wild
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/377.ts
+#EXTINF:-1 group-title="MEGAPLAY",National Geographic
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/378.ts
+#EXTINF:-1 group-title="MEGAPLAY",SyFy
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/379.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Classics
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/380.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Movies
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/381.ts
+#EXTINF:-1 group-title="MEGAPLAY",Sony (Andino)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/382.ts
+#EXTINF:-1 group-title="MEGAPLAY",TBS
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/383.ts
+#EXTINF:-1 group-title="MEGAPLAY",Studio Universal
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/384.ts
+#EXTINF:-1 group-title="MEGAPLAY",Discovery Civilization
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/385.ts
+#EXTINF:-1 group-title="MEGAPLAY",CDF Premium
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/386.ts
+#EXTINF:-1 group-title="MEGAPLAY",Max (Panamericano)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/387.ts
+#EXTINF:-1 group-title="MEGAPLAY",Disney Channel
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/388.ts
+#EXTINF:-1 group-title="MEGAPLAY",Disney XD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/389.ts
+#EXTINF:-1 group-title="MEGAPLAY",Space
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/390.ts
+#EXTINF:-1 group-title="MEGAPLAY",Discovery Turbo
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/391.ts
+#EXTINF:-1 group-title="MEGAPLAY",HTV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/392.ts
+#EXTINF:-1 group-title="MEGAPLAY",TNT
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/393.ts
+#EXTINF:-1 group-title="MEGAPLAY",Tooncast
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/394.ts
+#EXTINF:-1 group-title="MEGAPLAY",TNT Series
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/395.ts
+#EXTINF:-1 group-title="MEGAPLAY",Gol Peru
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/396.ts
+#EXTINF:-1 group-title="MEGAPLAY",GOLTV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/397.ts
+#EXTINF:-1 group-title="MEGAPLAY",Baby TV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/398.ts
+#EXTINF:-1 group-title="MEGAPLAY",BBC World
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/399.ts
+#EXTINF:-1 group-title="MEGAPLAY",Max Prime Oeste
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/400.ts
+#EXTINF:-1 group-title="MEGAPLAY",Max Prime Este
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/401.ts
+#EXTINF:-1 group-title="MEGAPLAY",HBO Plus Este
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/402.ts
+#EXTINF:-1 group-title="MEGAPLAY",HBO Plus Oeste
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/403.ts
+#EXTINF:-1 group-title="MEGAPLAY",HBO Family
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/404.ts
+#EXTINF:-1 group-title="MEGAPLAY",HBO Signature
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/405.ts
+#EXTINF:-1 group-title="MEGAPLAY",NTN 24 Horas
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/406.ts
+#EXTINF:-1 group-title="MEGAPLAY",CNN Espa�ol
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/407.ts
+#EXTINF:-1 group-title="MEGAPLAY",MTV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/408.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Sports 1 HD (Chile)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/409.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Sports 3
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/410.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Sports 1 (Sur)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/411.ts
+#EXTINF:-1 group-title="MEGAPLAY",CDF Basico
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/412.ts
+#EXTINF:-1 group-title="MEGAPLAY",Win Sports
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/413.ts
+#EXTINF:-1 group-title="MEGAPLAY",Discovery Channel (Andino)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/414.ts
+#EXTINF:-1 group-title="MEGAPLAY",Comedy Central
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/415.ts
+#EXTINF:-1 group-title="MEGAPLAY",AMC
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/416.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Family
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/417.ts
+#EXTINF:-1 group-title="MEGAPLAY",VH1 Megahits
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/418.ts
+#EXTINF:-1 group-title="MEGAPLAY",Animal Planet
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/419.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Sports 2 (Sur)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/420.ts
+#EXTINF:-1 group-title="MEGAPLAY",Discovery Kids
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/421.ts
+#EXTINF:-1 group-title="MEGAPLAY",CNN Internacional
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/422.ts
+#EXTINF:-1 group-title="MEGAPLAY",Nickelodeon
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/423.ts
+#EXTINF:-1 group-title="MEGAPLAY",Golden
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/426.ts
+#EXTINF:-1 group-title="MEGAPLAY",I-SAT 
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/430.ts
+#EXTINF:-1 group-title="MEGAPLAY",REC TV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/431.ts
+#EXTINF:-1 group-title="MEGAPLAY",Paramount Channel
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/432.ts
+#EXTINF:-1 group-title="MEGAPLAY",Novelas
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/433.ts
+#EXTINF:-1 group-title="MEGAPLAY",Cinemax
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/434.ts
+#EXTINF:-1 group-title="MEGAPLAY",Bang TV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/436.ts
+#EXTINF:-1 group-title="MEGAPLAY",Claro Sport
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/437.ts
+#EXTINF:-1 group-title="MEGAPLAY",Tru TV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/438.ts
+#EXTINF:-1 group-title="MEGAPLAY",Estrellas HD - MX
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/439.ts
+#EXTINF:-1 group-title="MEGAPLAY",A&E
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/440.ts
+#EXTINF:-1 group-title="MEGAPLAY",Venevision Plus
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/441.ts
+#EXTINF:-1 group-title="MEGAPLAY",Telesur
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/442.ts
+#EXTINF:-1 group-title="MEGAPLAY",CABLENOTICIAS
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/443.ts
+#EXTINF:-1 group-title="MEGAPLAY",Telemundo Internacional
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/444.ts
+#EXTINF:-1 group-title="MEGAPLAY",ESPN+ HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/445.ts
+#EXTINF:-1 group-title="MEGAPLAY",History HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/446.ts
+#EXTINF:-1 group-title="MEGAPLAY",MTV Live HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/447.ts
+#EXTINF:-1 group-title="MEGAPLAY",FOX HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/448.ts
+#EXTINF:-1 group-title="MEGAPLAY",Warner HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/450.ts
+#EXTINF:-1 group-title="MEGAPLAY",iptvtools_122
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/452.ts
+#EXTINF:-1 group-title="MEGAPLAY",Toros
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/453.ts
+#EXTINF:-1 group-title="MEGAPLAY",Canal 21 - ESA
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/457.ts
+#EXTINF:-1 group-title="MEGAPLAY",Bein Sports ES
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/459.ts
+#EXTINF:-1 group-title="MEGAPLAY",Space HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/460.ts
+#EXTINF:-1 group-title="MEGAPLAY",Cinecanal HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/461.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Life
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/462.ts
+#EXTINF:-1 group-title="MEGAPLAY",MTV HITS
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/463.ts
+#EXTINF:-1 group-title="MEGAPLAY",SONY HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/464.ts
+#EXTINF:-1 group-title="MEGAPLAY",AXN HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/465.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Sports 1 HD (Norte)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/466.ts
+#EXTINF:-1 group-title="MEGAPLAY",RCN
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/467.ts
+#EXTINF:-1 group-title="MEGAPLAY",Caracol
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/468.ts
+#EXTINF:-1 group-title="MEGAPLAY",Canal Uno
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/469.ts
+#EXTINF:-1 group-title="MEGAPLAY",VH1 Classic
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/470.ts
+#EXTINF:-1 group-title="MEGAPLAY",NU Music 
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/471.ts
+#EXTINF:-1 group-title="MEGAPLAY",ESPN
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/472.ts
+#EXTINF:-1 group-title="MEGAPLAY",ESPN 2
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/473.ts
+#EXTINF:-1 group-title="MEGAPLAY",TDN Univisi�n 
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/474.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fighting Sports Network
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/475.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Sports 1 (Norte)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/480.ts
+#EXTINF:-1 group-title="MEGAPLAY",Multipremier
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/481.ts
+#EXTINF:-1 group-title="MEGAPLAY",Rock And Pop
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/483.ts
+#EXTINF:-1 group-title="MEGAPLAY",Rinoceronte.fm
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/484.ts
+#EXTINF:-1 group-title="MEGAPLAY",Futuro
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/485.ts
+#EXTINF:-1 group-title="MEGAPLAY",ADN
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/486.ts
+#EXTINF:-1 group-title="MEGAPLAY",SonarFM
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/487.ts
+#EXTINF:-1 group-title="MEGAPLAY",Cooperativa
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/488.ts
+#EXTINF:-1 group-title="MEGAPLAY",Agricultura
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/489.ts
+#EXTINF:-1 group-title="MEGAPLAY",FM Okey
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/490.ts
+#EXTINF:-1 group-title="MEGAPLAY",Universo
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/492.ts
+#EXTINF:-1 group-title="MEGAPLAY",Imagina
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/493.ts
+#EXTINF:-1 group-title="MEGAPLAY",Concierto
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/494.ts
+#EXTINF:-1 group-title="MEGAPLAY",DigitalFM
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/495.ts
+#EXTINF:-1 group-title="MEGAPLAY",Senal Colombia
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/496.ts
+#EXTINF:-1 group-title="MEGAPLAY",Nat Geo Kids
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/497.ts
+#EXTINF:-1 group-title="MEGAPLAY",Glitz
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/498.ts
+#EXTINF:-1 group-title="MEGAPLAY",Movistar Deportes 
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/499.ts
+#EXTINF:-1 group-title="MEGAPLAY",Boomerang
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/500.ts
+#EXTINF:-1 group-title="MEGAPLAY",ABC HD East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/501.ts
+#EXTINF:-1 group-title="MEGAPLAY",NBC HD East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/502.ts
+
+#EXTINF:-1 group-title="MEGAPLAY",Biobio Radio
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/520.ts
+#EXTINF:-1 group-title="MEGAPLAY",Teletrece Radio
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/521.ts
+#EXTINF:-1 group-title="MEGAPLAY",40 Principales
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/522.ts
+#EXTINF:-1 group-title="MEGAPLAY",Disney Radio
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/523.ts
+#EXTINF:-1 group-title="MEGAPLAY",Zero 97.7 FM
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/525.ts
+#EXTINF:-1 group-title="MEGAPLAY",De Pelicula
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/526.ts
+#EXTINF:-1 group-title="MEGAPLAY",TVE
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/527.ts
+#EXTINF:-1 group-title="MEGAPLAY",TCM
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/528.ts
+#EXTINF:-1 group-title="MEGAPLAY",Discovery Familia
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/576.ts
+#EXTINF:-1 group-title="MEGAPLAY",FOX HD East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/577.ts
+#EXTINF:-1 group-title="MEGAPLAY",Discovery Channel HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/579.ts
+#EXTINF:-1 group-title="MEGAPLAY",Discovery Theater HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/580.ts
+#EXTINF:-1 group-title="MEGAPLAY",Discovery World HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/581.ts
+#EXTINF:-1 group-title="MEGAPLAY",Nat Geo HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/582.ts
+#EXTINF:-1 group-title="MEGAPLAY",ID - HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/583.ts
+#EXTINF:-1 group-title="MEGAPLAY",TNT HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/584.ts
+#EXTINF:-1 group-title="MEGAPLAY",Paramount HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/585.ts
+#EXTINF:-1 group-title="MEGAPLAY",Comedy Central HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/586.ts
+#EXTINF:-1 group-title="MEGAPLAY",TNT Series HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/587.ts
+#EXTINF:-1 group-title="MEGAPLAY",ESPN 2 HD (Norte)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/588.ts
+#EXTINF:-1 group-title="MEGAPLAY",CDF HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/700.ts
+#EXTINF:-1 group-title="MEGAPLAY",ESPN 3 HD (Norte)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/708.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Sports 2 HD (Norte)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/709.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Sports 3 HD (Norte)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/710.ts
+#EXTINF:-1 group-title="MEGAPLAY",ESPN HD (Norte)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/711.ts
+#EXTINF:-1 group-title="MEGAPLAY",Nick 2 HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/712.ts
+#EXTINF:-1 group-title="MEGAPLAY",VH1 HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/714.ts
+#EXTINF:-1 group-title="MEGAPLAY",Canal N
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/718.ts
+#EXTINF:-1 group-title="MEGAPLAY",GamaTV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/719.ts
+#EXTINF:-1 group-title="MEGAPLAY",Latina
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/720.ts
+#EXTINF:-1 group-title="MEGAPLAY",Panamericana
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/721.ts
+#EXTINF:-1 group-title="MEGAPLAY",Peru Magico
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/722.ts
+#EXTINF:-1 group-title="MEGAPLAY",Movistar Plus
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/723.ts
+#EXTINF:-1 group-title="MEGAPLAY",ESPN Deportes HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/732.ts
+#EXTINF:-1 group-title="MEGAPLAY",Movie Channel East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/745.ts
+
+#EXTINF:-1 group-title="MEGAPLAY",Telemundo HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/772.ts
+#EXTINF:-1 group-title="MEGAPLAY",ESPN 2 East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/788.ts
+#EXTINF:-1 group-title="MEGAPLAY",Claro Music
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/855.ts
+#EXTINF:-1 group-title="MEGAPLAY",Cinema Dinamita
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/856.ts
+#EXTINF:-1 group-title="MEGAPLAY",+Futbol
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/881.ts
+#EXTINF:-1 group-title="MEGAPLAY",Ecuavisa
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/904.ts
+#EXTINF:-1 group-title="MEGAPLAY",USA HD East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/906.ts
+#EXTINF:-1 group-title="MEGAPLAY",HBO Comedy East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/907.ts
+#EXTINF:-1 group-title="MEGAPLAY",CityTV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/909.ts
+#EXTINF:-1 group-title="MEGAPLAY",Oromar TV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/911.ts
+#EXTINF:-1 group-title="MEGAPLAY",Teleamazonas
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/912.ts
+#EXTINF:-1 group-title="MEGAPLAY",CNT Sports
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/914.ts
+#EXTINF:-1 group-title="MEGAPLAY",ESPN East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/916.ts
+#EXTINF:-1 group-title="MEGAPLAY",CBS HD East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/925.ts
+#EXTINF:-1 group-title="MEGAPLAY",Sun TV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/926.ts
+#EXTINF:-1 group-title="MEGAPLAY",AMC HD East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/928.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Sports 1 US
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/932.ts
+#EXTINF:-1 group-title="MEGAPLAY",MLB Network HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/933.ts
+#EXTINF:-1 group-title="MEGAPLAY",NBA TV
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/939.ts
+#EXTINF:-1 group-title="MEGAPLAY",NFL Network
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/949.ts
+#EXTINF:-1 group-title="MEGAPLAY",Showtime 2 (SAP)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/983.ts
+#EXTINF:-1 group-title="MEGAPLAY",Starz Kids (SAP)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/984.ts
+#EXTINF:-1 group-title="MEGAPLAY",Showtime Case
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/985.ts
+#EXTINF:-1 group-title="MEGAPLAY",Showtime Beyond
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/988.ts
+#EXTINF:-1 group-title="MEGAPLAY",Starz Comedy (SAP)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/989.ts
+#EXTINF:-1 group-title="MEGAPLAY",Comedy Central HD East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1233.ts
+#EXTINF:-1 group-title="MEGAPLAY",Telefe Internacional
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1001.ts
+#EXTINF:-1 group-title="MEGAPLAY",Life Time
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1002.ts
+#EXTINF:-1 group-title="MEGAPLAY",AzCorazon
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1003.ts
+#EXTINF:-1 group-title="MEGAPLAY",Venevision
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1004.ts
+#EXTINF:-1 group-title="MEGAPLAY",El Gourmet
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1005.ts
+#EXTINF:-1 group-title="MEGAPLAY",Golf Channel
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1007.ts
+#EXTINF:-1 group-title="MEGAPLAY",Antena 3
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1008.ts
+#EXTINF:-1 group-title="MEGAPLAY",Cine Latino
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1009.ts
+#EXTINF:-1 group-title="MEGAPLAY",TNP
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1016.ts
+#EXTINF:-1 group-title="MEGAPLAY",Teleantioquia
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1020.ts
+#EXTINF:-1 group-title="MEGAPLAY",Bein Sports � HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1032.ts
+#EXTINF:-1 group-title="MEGAPLAY",TV HOT HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2002.ts
+#EXTINF:-1 group-title="MEGAPLAY",Unimas HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2103.ts
+#EXTINF:-1 group-title="MEGAPLAY",TNT HD East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2104.ts
+#EXTINF:-1 group-title="MEGAPLAY",Ecuavisa Internacional
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2105.ts
+#EXTINF:-1 group-title="MEGAPLAY",Unicable HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2106.ts
+#EXTINF:-1 group-title="MEGAPLAY",Pasiones HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2107.ts
+#EXTINF:-1 group-title="MEGAPLAY",Repretel 6 - CR
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2127.ts
+#EXTINF:-1 group-title="MEGAPLAY",CBS Sports Network
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2175.ts
+#EXTINF:-1 group-title="MEGAPLAY",Directv Eventos 2
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2177.ts
+#EXTINF:-1 group-title="MEGAPLAY",Ultra Cine HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2178.ts
+#EXTINF:-1 group-title="MEGAPLAY",Ultra Docu HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2179.ts
+#EXTINF:-1 group-title="MEGAPLAY",TBS HD East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2220.ts
+#EXTINF:-1 group-title="MEGAPLAY",Golden Premier 2
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2224.ts
+#EXTINF:-1 group-title="MEGAPLAY",Distrito Comedia
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2225.ts
+#EXTINF:-1 group-title="MEGAPLAY",Golden Premier 1
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2226.ts
+#EXTINF:-1 group-title="MEGAPLAY",ZooMoo
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2227.ts
+#EXTINF:-1 group-title="MEGAPLAY",Azteca 13 - MX
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2229.ts
+#EXTINF:-1 group-title="MEGAPLAY",Canal 5 HD - MX
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2230.ts
+#EXTINF:-1 group-title="MEGAPLAY",Tennis Channel HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2233.ts
+#EXTINF:-1 group-title="MEGAPLAY",Discovery Home & Health HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2234.ts
+#EXTINF:-1 group-title="MEGAPLAY",Nick HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2235.ts
+#EXTINF:-1 group-title="MEGAPLAY",Discovery Kids HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2236.ts
+#EXTINF:-1 group-title="MEGAPLAY",Cartoon Network HD East
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2340.ts
+#EXTINF:-1 group-title="MEGAPLAY",Europa Europa
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2366.ts
+#EXTINF:-1 group-title="MEGAPLAY",Eurochannel
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2367.ts
+#EXTINF:-1 group-title="MEGAPLAY",Televen
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1654.ts
+#EXTINF:-1 group-title="MEGAPLAY",RTS
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1655.ts
+#EXTINF:-1 group-title="MEGAPLAY",Meridiano
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1656.ts
+#EXTINF:-1 group-title="MEGAPLAY",Canal 13 HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1672.ts
+#EXTINF:-1 group-title="MEGAPLAY",La Red HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1673.ts
+#EXTINF:-1 group-title="MEGAPLAY",CHV HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1674.ts
+#EXTINF:-1 group-title="MEGAPLAY",TVN HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1675.ts
+#EXTINF:-1 group-title="MEGAPLAY",MEGA HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1676.ts
+#EXTINF:-1 group-title="MEGAPLAY",NBC Universo HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1677.ts
+#EXTINF:-1 group-title="MEGAPLAY",Claro Cinema
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1678.ts
+#EXTINF:-1 group-title="MEGAPLAY",Telecentro - RD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1684.ts
+#EXTINF:-1 group-title="MEGAPLAY",Teleunion - RD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1685.ts
+#EXTINF:-1 group-title="MEGAPLAY",Telesistema - RD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1686.ts
+#EXTINF:-1 group-title="MEGAPLAY",Bein Sports USA HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1716.ts
+#EXTINF:-1 group-title="MEGAPLAY",Gol TV HD (Norte)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1719.ts
+
+#EXTINF:-1 group-title="MEGAPLAY",Telemundo
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1721.ts
+#EXTINF:-1 group-title="MEGAPLAY",TVN Internacional
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1730.ts
+#EXTINF:-1 group-title="MEGAPLAY",NatGeo Mundo
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1731.ts
+#EXTINF:-1 group-title="MEGAPLAY",Teleuniverso - RD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1732.ts
+#EXTINF:-1 group-title="MEGAPLAY",Digital 15 - RD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1733.ts
+#EXTINF:-1 group-title="MEGAPLAY",Univision Deportes HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1735.ts
+#EXTINF:-1 group-title="MEGAPLAY",Fox Deportes HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1736.ts
+#EXTINF:-1 group-title="MEGAPLAY",History en Espa�ol
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1737.ts
+#EXTINF:-1 group-title="MEGAPLAY",Discovery en Espa�ol
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1738.ts
+#EXTINF:-1 group-title="MEGAPLAY",Univision HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1945.ts
+#EXTINF:-1 group-title="MEGAPLAY",Canal TRO
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1659.ts
+#EXTINF:-1 group-title="MEGAPLAY",ABC (Kansai)
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/3512.ts
+#EXTINF:-1 group-title="MEGAPLAY",RT en Espa�ol
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/3515.ts
+#EXTINF:-1 group-title="MEGAPLAY",DW Espa�ol
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/3518.ts
+#EXTINF:-1 group-title="MEGAPLAY",Megaplay_103
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/3103.ts
+#EXTINF:-1 group-title="MEGAPLAY",Megaplay_280
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/3280.ts
+#EXTINF:-1 group-title="MEGAPLAY",Directv Eventos 1
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/452.ts
+#EXTINF:-1 group-title="MEGAPLAY",Telemetro HD - PA
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/4565.ts
+#EXTINF:-1 group-title="MEGAPLAY",TVN-2 HD - PA
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/4566.ts
+#EXTINF:-1 group-title="MEGAPLAY",NHK Premium
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/4567.ts
+#EXTINF:-1 group-title="MEGAPLAY",DW News
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/5719.ts
+#EXTINF:-1 group-title="MEGAPLAY",RCN HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/5722.ts
+#EXTINF:-1 group-title="MEGAPLAY",Caracol HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/5775.ts
+#EXTINF:-1 group-title="MEGAPLAY",CNT Sports HD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/5776.ts
+#EXTINF:-1 group-title="MEGAPLAY",Concert Channel
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1679.ts
+#EXTINF:-1 group-title="MEGAPLAY",Teletica - CR
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1682.ts
+#EXTINF:-1 group-title="MEGAPLAY",Antena Latina - RD
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1683.ts
+#EXTINF:-1 group-title="MEGAPLAY",ATB
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/900.ts
+#EXTINF:-1 group-title="MEGAPLAY",TC Television
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/901.ts
+#EXTINF:-1 group-title="MEGAPLAY",Telecaribe
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1657.ts
+#EXTINF:-1 group-title="MEGAPLAY",Telecafe
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1658.ts
+#EXTINF:-1 group-title="MEGAPLAY",Globovision
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1006.ts
+#EXTINF:-1 group-title="MEGAPLAY",CDO Premium
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1017.ts
+#EXTINF:-1 group-title="MEGAPLAY",CDO Basico
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1018.ts
+#EXTINF:-1 group-title="MEGAPLAY",Telepacifico
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1019.ts
+#EXTINF:-1 group-title="MEGAPLAY",Canal 13 - NIC
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1660.ts
+#EXTINF:-1 group-title="MEGAPLAY",CDN-SportsMax
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1734.ts
+#EXTINF:-1 group-title="MEGAPLAY",Ecuador tv
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/905.ts
+#EXTINF:-1 group-title="MEGAPLAY",Epoca
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/1021.ts
+#EXTINF:-1 group-title="MEGAPLAY",EL 11
+http://cdn.megaplay.xyz/live/Megaplay/Vacations/2126.ts
+
+
+
+
+
+
+
+
+
