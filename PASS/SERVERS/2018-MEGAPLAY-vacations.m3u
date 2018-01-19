@@ -7,9 +7,13 @@ https://www.dropbox.com/s/v28ajmjzh1pljz1/demomegaplay2.m3u?dl=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
 https://github.com/TVCABLEAR/
 
-#EXTINF:-1 group-title="IPTVCANALES.COM", IPTVCANALES.COM
-http://iptvcanales.com/index.php/lista-de-canales/
-#EXTINF:-1 group-title="IPTVCANALES.COM", LA LISTA CADA 12 HS
+
+
+#EXTINF:-1 group-title="MEGAPLAY", MEGAPLAY
+https://www.youtube.com/watch?v=s9RGlWCNUeU
+#EXTINF:-1 group-title="MEGAPLAY", CDN.MEGAPLAY
+http://cdn.megaplay.xyz/live/
+#EXTINF:-1 group-title="MEGAPLAY", IPTVCANALES.COM
 http://iptvcanales.com/index.php/lista-de-canales/
 
 
