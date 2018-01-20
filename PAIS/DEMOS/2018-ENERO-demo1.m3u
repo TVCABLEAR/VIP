@@ -1,0 +1,1884 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+
+#EXTINF:-1 group-title="7", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="7", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
+
+
+
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446705" tvg-id="0d2ff83a8cf6f796f66f82f00c154245",TF1
+http://138.199.64.196:9981/stream/channelid/989343501?ticket=fabd63faa80a76aaa2de3219fe9b21df02b59e18&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446706" tvg-id="ecf691f873e8a397590b95ffc852003c",France 2
+http://138.199.64.196:9981/stream/channelid/2022831852?ticket=6eb31df8ed9acb8e5f3bb87c21aa2e761d86e40c&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446707" tvg-id="d5ff5da5bbc0ed5b0639c09eb0b111c6",France 3
+http://138.199.64.196:9981/stream/channelid/626917333?ticket=8a7f85cf133ed0d04354871d587643021fe472a4&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446708" tvg-id="af4d058e409a457bf1317ec3afb03deb",Canal+
+http://138.199.64.196:9981/stream/channelid/235228591?ticket=1099f45af4b324404a54c30f4788e4316ec56c77&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446709" tvg-id="c554209abc7a3f0c6fd453e38b094715",France 5
+http://138.199.64.196:9981/stream/channelid/438326469?ticket=3dd058e648f9dd055a7cc90365bbd4e18d2dfabe&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446710" tvg-id="0c5e240048a32b24806b618038e1b876",M6
+http://138.199.64.196:9981/stream/channelid/2383372?ticket=61a57ab804cf14de2db4f540bfcb2060689ea0de&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446711" tvg-id="f6790d8dc1f392744851b487a81ee4a0",Arte
+http://138.199.64.196:9981/stream/channelid/218986998?ticket=e7b9ae69c77bfb114693fd92b2d82c9c1d4d5f5b&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446728" tvg-id="1fbeba7fe495f7142d6bb6678d968724",C8
+http://138.199.64.196:9981/stream/channelid/2142944799?ticket=9cae3bfc23345c9cec45d42be543b7d2772a56a6&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446723" tvg-id="1544b71e745873523e9675076c5d191c",W9
+http://138.199.64.196:9981/stream/channelid/515326997?ticket=60539912d4b1461dc73a146bf02a61fbee27a908&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446725" tvg-id="5f4b2231f3cd084a65e661677560919d",TMC
+http://138.199.64.196:9981/stream/channelid/824331103?ticket=a4da3f1e791b5434cafd1880bcf64451545d2684&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446720" tvg-id="3a0b1f84eb424dd45d2cf26eb7f46111",NT 1
+http://138.199.64.196:9981/stream/channelid/69143354?ticket=6410ab09fda88dd18aa3159c93f9742862e9405c&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446719" tvg-id="25bfbb378f956bbb965708170857589a",NRJ 12
+http://138.199.64.196:9981/stream/channelid/935051045?ticket=f667a098d1f1c31198e0ca7c186981d137164e2d&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446713" tvg-id="5089b0e6c3b4d38ee24ceb44e107a98e",La Chaîne parlementaire
+http://138.199.64.196:9981/stream/channelid/1722845520?ticket=c53752326ff7a32fd41aad9eea72b81877dc1b06&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446727" tvg-id="24a2fefd46a80c27ef6e5b7ae85de25b",France 4
+http://138.199.64.196:9981/stream/channelid/2113839652?ticket=fa75e4d8348631505d1ae4dee17c7a73a1b945b5&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446721" tvg-id="d6ecbd080f9581f630ede674df91a078",BFM TV
+http://138.199.64.196:9981/stream/channelid/146664662?ticket=2649da3a834ffecb24c9260555cae997fb4d16e3&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446722" tvg-id="e599ed8d51e5e9ecbb61884aeac904d8",CNEWS
+http://138.199.64.196:9981/stream/channelid/233675237?ticket=bdfeb467bfdaf7af0754e03b837d187e12d682d0&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446714" tvg-id="0e4872e652cd6102b1077d66c00bd1d1",CSTAR
+http://138.199.64.196:9981/stream/channelid/1718765582?ticket=f3eea797fb47b41c83103316485991fe53972e4e&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446717" tvg-id="8ac460ae97ad5a3ce04324a16e204fb6",Gulli
+http://138.199.64.196:9981/stream/channelid/778093706?ticket=1abb7dc98fa47e1e71d517f6f8f1fa5d724af971&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446743" tvg-id="3e5aa87bac6411ef843de7977ae574ac",France Ô
+http://138.199.64.196:9981/stream/channelid/2074630718?ticket=321a3fc2878202e29771313d42a0a9517faa90f9&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446726" tvg-id="924b053298ecddd5577c4bfd8b68507e",HD1
+http://138.199.64.196:9981/stream/channelid/839207826?ticket=cd88d06e7be1f30659cd6b3392049e33422c0c97&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446738" tvg-id="8ceae14afce222d08c441d4ececb637b",6ter
+http://138.199.64.196:9981/stream/channelid/1256319628?ticket=48f6ba61d15cabe2527dc88531c1150ce0560ad5&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446716" tvg-id="5b83281cf516150a23e4a62232422800",Numéro 23
+http://138.199.64.196:9981/stream/channelid/472417115?ticket=cb0a406545c80a6a33c05d6bb0e703f964db2cc6&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446715" tvg-id="701d9b7f66101efe6f53214c33f68620",RMC Découverte
+http://138.199.64.196:9981/stream/channelid/2140872048?ticket=e8c93790fcb9a5e34e2a1d76ec8ab8a7d1954a96&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446718" tvg-id="8e403931f291c05b9b2bba7710669a49",Chérie 25
+http://138.199.64.196:9981/stream/channelid/825835662?ticket=835d733118492734a7c3845a706fcc53d3501b9c&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446724" tvg-id="272a732f6313bf6468ed67b76e9d5ea0",LCI
+http://138.199.64.196:9981/stream/channelid/796076583?ticket=aea0710789a96e2c786ff16eb6ef1b1d8b9e0021&profile=pass
+#EXTINF:-1 logo="http://138.199.64.196:9981/imagecache/446729" tvg-id="8b0d881973073ba5da40a417171ef45f",Franceinfo
+http://138.199.64.196:9981/stream/channelid/428346763?ticket=946fd4d888c1f1a0d0e9542c0e8904f52492a0f8&profile=pass
+
+
+
+
+
+#EXTINF:-1 group-title="6", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="6", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
+
+
+
+#EXTINF:-1 tvg-id="d228ecbfae682dd314a9b01b0ef60133",21
+http://112.187.35.239:9981/stream/channelid/1072441554?ticket=1E849694F5121F2B08D7A25BD7CE96FF8AF1579B&profile=htsp
+#EXTINF:-1 tvg-id="c7d789dfcb148ad9e6772d315382ae20",22
+http://112.187.35.239:9981/stream/channelid/1602869191?ticket=2B3C893C6EBFEBA999D1881B0A6401B63B2183FB&profile=htsp
+#EXTINF:-1 tvg-id="ea4478e24be1798873b1e5c6d10f7311",24
+http://112.187.35.239:9981/stream/channelid/1652049130?ticket=F498A7E59BA871564C63B96B43CA96533649C0D8&profile=htsp
+#EXTINF:-1 tvg-id="35afaf13f0dac0eed71312f503b9bf1a",31
+http://112.187.35.239:9981/stream/channelid/330280757?ticket=DB0AF88370AA89C8A9F5D8BD26984834157B6CFD&profile=htsp
+#EXTINF:-1 tvg-id="32a7669154c1b9b276d8b9d07a08e573",CJ오쇼핑 플러스
+http://112.187.35.239:9981/stream/channelid/291940146?ticket=0964DFE07066F7293613CB8C079A800045A743C7&profile=htsp
+#EXTINF:-1 tvg-id="fa95338b2efecafa99ec8dcfa89b4bec",EBS i
+http://112.187.35.239:9981/stream/channelid/187930106?ticket=15DEE4C4669DA9FDFE24C56C5E3356C77B975203&profile=htsp
+#EXTINF:-1 tvg-id="7d87c637d4e522308c8cb66248a6c23b",MTN
+http://112.187.35.239:9981/stream/channelid/935757693?ticket=3F0F8A2150411ACCA67D393BD229D4757A425C3E&profile=htsp
+#EXTINF:-1 tvg-id="51339dac39ffccca393001336d6d023d",올래 모음 - 지상파
+http://112.187.35.239:9981/stream/channelid/748499793?ticket=A9380B79ECC78270A3324D8BD9811C5F8C7E23A2&profile=htsp
+#EXTINF:-1 tvg-id="8a5f21baa80559f1a137c23a845a5fcf",올레 모음 - 스포츠
+http://112.187.35.239:9981/stream/channelid/975265674?ticket=A45CAA2E290054F4E114228236C490F3C21B9EA6&profile=htsp
+#EXTINF:-1 tvg-id="64a8ad77877d196d48e5ecf0bf17dc05",올레 모음 - 영화
+http://112.187.35.239:9981/stream/channelid/2007869540?ticket=348A3F53F32E7CF44E25E6CB577347F2084A7983&profile=htsp
+#EXTINF:-1 tvg-id="ec88548e5f2072ca8165c248f179a57d",올레 순위 - ???
+http://112.187.35.239:9981/stream/channelid/240421100?ticket=4E650F69687B1BF505FD2B1E2D50F38355EE9AC3&profile=htsp
+#EXTINF:-1 tvg-id="680576b5478c0ff013db54106d1f42c2",올레 순위 - 예능
+http://112.187.35.239:9981/stream/channelid/896927080?ticket=5B77DB0F1F41C84FBE8A0D9BE67AC9A5195550F4&profile=htsp
+#EXTINF:-1 tvg-id="6c6b9e8b51e33449cae97984f13b68e3",올레 순위 - 종합
+http://112.187.35.239:9981/stream/channelid/194931564?ticket=E25D77008B1C143EC571D717F3414C2F67807A5F&profile=htsp
+#EXTINF:-1 tvg-id="dec64df920f173d63241fddd0e3033b1",올레 스포츠 미리보기
+http://112.187.35.239:9981/stream/channelid/2035140318?ticket=D9479F7F183F945D1022519CCF058C8D907CE530&profile=htsp
+#EXTINF:-1 tvg-id="c18aa10ff52bc86740fe31310114bba1",햇터방송
+http://112.187.35.239:9981/stream/channelid/262245057?ticket=D5758090A33E9E1A7A540BA527DE50BCE253226E&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201609/logo_mbcevery1.png" tvg-id="58397cb1d150920e6987df5d6e630241",MBC Every1
+http://112.187.35.239:9981/stream/channelid/830224728?ticket=755EE86EB084A816072A4C4274B148CBD33BC157&profile=htsp
+#EXTINF:-1 tvg-id="036a9082766ea11a4dbd5b4e08c77ee7",CJ오쇼핑
+http://112.187.35.239:9981/stream/channelid/43018755?ticket=05F92F4ABD6107683CC1786FA2CFDF6549929F6B&profile=htsp
+#EXTINF:-1 tvg-id="236ab7dbe82c001bc18568c664a36b80",NS홈쇼핑
+http://112.187.35.239:9981/stream/channelid/1538746915?ticket=3527E8587DE0C72F0AC6A17DCA5069748CFEE6D0&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201511/logo_kbs_1.png" tvg-id="09f7dd3fb477db090785b857ee083e84",KBS2
+http://112.187.35.239:9981/stream/channelid/1071511305?ticket=EE99AB3B3F98C13B78091421AB4B82D1689BBB63&profile=htsp
+#EXTINF:-1 tvg-id="b76a971d392b708bf53fe7e7a492f4a3",GS SHOP
+http://112.187.35.239:9981/stream/channelid/496462519?ticket=DE3F76B1759A3CA7E51142103B3BDD1ECC3EF4D4&profile=htsp
+#EXTINF:-1 tvg-id="eb8588bb5b0fcbdace7610a0cb2c8188",현대홈쇼핑
+http://112.187.35.239:9981/stream/channelid/998802923?ticket=059C8358CED26686132C234AF937E51DB8768C82&profile=htsp
+#EXTINF:-1 tvg-id="b521b0d14309fefbbefb31f85c79e31d",현대홈쇼핑
+http://112.187.35.239:9981/stream/channelid/1370497461?ticket=3716C0B01838B895BFC212BCC59136B074B50063&profile=htsp
+#EXTINF:-1 tvg-id="fc9d7632694dc16cc53fb4f701104935",롯데홈쇼핑
+http://112.187.35.239:9981/stream/channelid/846634492?ticket=7EAC8B64741F7389B1BA2FCC053DD7981EE1ACDF&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201511/logo_ebs.png" tvg-id="739c0592780ab6a33ca49ad83c784c07",EBS
+http://112.187.35.239:9981/stream/channelid/302357619?ticket=EF5CCE72F22B2466206C9E0F0D787D0F8F8CBAC0&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201511/logo_jtbc.png" tvg-id="0132175f0d179f8f6f73dbd007c46177",JTBC
+http://112.187.35.239:9981/stream/channelid/1595355649?ticket=F3FB6C96D518CD647E05D82A2A616A3F842261DC&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201511/logo_mbn.png" tvg-id="5a8ff12219db144cacc6ea819033f5a2",MBN
+http://112.187.35.239:9981/stream/channelid/586256218?ticket=CFE4CB0A6BA72D4A2A5C57E17AB01B1BEC53B3C3&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201511/logo_tvn.png" tvg-id="490825235a0cd2625dd84e2684c7c84a",tvN
+http://112.187.35.239:9981/stream/channelid/589629513?ticket=801B4D016464AE02D887C1DDA59E72985601EE88&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201511/logo_channela.png" tvg-id="b55ca8c3f75ad69545dac43c9eed3513",채널A
+http://112.187.35.239:9981/stream/channelid/1135107253?ticket=DFEE757C5F6DE542C7E51C3A2CC818C322F49591&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201511/logo_tvchosun.png" tvg-id="7d94b0db4eafd143e60474ae4d168751",TV조선
+http://112.187.35.239:9981/stream/channelid/1538299005?ticket=D5C4BCB0D9D6A1FE529BD950A5C9F226B0A60E84&profile=htsp
+#EXTINF:-1 tvg-id="95d862215eafa9adb8d08d1ed8e4c179",K쇼핑
+http://112.187.35.239:9981/stream/channelid/560126101?ticket=7226E36CB32BB15D6B106F5F22F77D8444C8F784&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201503/channel_logo_573.gif" tvg-id="69d4eac5abe0691a2adc83f555fd1f0b",연합뉴스TV
+http://112.187.35.239:9981/stream/channelid/1173017705?ticket=5204CC4DAA891B5B767E5587BF91805452338718&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201511/logo_ytn.png" tvg-id="09d0d194c8270b7a4c830cfbb3df8279",YTN
+http://112.187.35.239:9981/stream/channelid/349294601?ticket=CA5D5C77B843F4E6A5B70FA77BF51D082382C8CC&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_27.gif" tvg-id="5c6e359b7b9135c5ad66312904ad261c",Mnet
+http://112.187.35.239:9981/stream/channelid/456486492?ticket=DC22C547C4F5A32AC40840BC1587E430709715E9&profile=htsp
+#EXTINF:-1 tvg-id="11cd3d96bb5d3665d191b38158eb0b06",신세계쇼핑
+http://112.187.35.239:9981/stream/channelid/373148945?ticket=9C1D73585843A2A580A4C13C5BCEEEC07AFF5DAD&profile=htsp
+#EXTINF:-1 tvg-id="e8161528b20a2616d2e4822f4096f959",쇼핑엔T
+http://112.187.35.239:9981/stream/channelid/672470760?ticket=8413797AF6E696B70AD864C56DD9EF7060E304A8&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201410/channel_logo_15.gif.gif" tvg-id="fa84b2b8c16a513710dc131d4ebfbc6e",올리브
+http://112.187.35.239:9981/stream/channelid/951223546?ticket=6E25DA86F7F76922D72780F0A478BD9501E5D567&profile=htsp
+#EXTINF:-1 tvg-id="7b7fbf4eaec8b75d850966d82dc8aa21",GS MY SHOP
+http://112.187.35.239:9981/stream/channelid/1321172859?ticket=0EC89E753E1C5BB6321261D2528AA838E6A41DD3&profile=htsp
+#EXTINF:-1 tvg-id="a731adf53af86155bdafe4c3a55b3229",B Shopping
+http://112.187.35.239:9981/stream/channelid/1974284711?ticket=003532CE5D39667215D0A8CD02817183C8F06C5C&profile=htsp
+#EXTINF:-1 tvg-id="46dd01b7173a53cd4ec12bf1b4d403ba",NS Shop+
+http://112.187.35.239:9981/stream/channelid/922869062?ticket=49BA443871832D6260C1F9C24B144600DFF10539&profile=htsp
+#EXTINF:-1 tvg-id="1363de1247d975bffc99f12276824c47",롯데원티비
+http://112.187.35.239:9981/stream/channelid/316564243?ticket=3AB09D1CEE9A7B4C18B3936926701D19BAAA51BD&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201510/channel_logo_106.jpg" tvg-id="518bdbd86c2349be45170d38de3df80c",O tvN
+http://112.187.35.239:9981/stream/channelid/1490783057?ticket=98643AAACC4792205BF90BB1FED70EC16956C100&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201511/logo_spotv.PNG" tvg-id="e881003b540106f6f209c245abebadc0",SPOTV
+http://112.187.35.239:9981/stream/channelid/989889000?ticket=873F01515711EE9E3233DDA2A5BEC48597DF9800&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201603/logo_skysports_3.png" tvg-id="7c6d4016866a8149f91e63aa10663ccb",SkySports
+http://112.187.35.239:9981/stream/channelid/373321084?ticket=2F4DE949F9C1CB6D2E8BF1CFEABEA40A7B572B5D&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201312/1388464329273.png" tvg-id="e6cab088403bec55e0b21f368442e34c",SBS Sports
+http://112.187.35.239:9981/stream/channelid/145804006?ticket=1FBDC44362DD8EF8B066FC3FCBE0DFAD02B99FBC&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201604/logo_kbsnsports.png" tvg-id="bb7945a2baa20de8654339bd222a3762",KBS N Sports
+http://112.187.35.239:9981/stream/channelid/574978491?ticket=86893E319A700D402F8698F432E58DDC1E980AA3&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201603/logo_mbcsportsplus.png" tvg-id="f773e0698e67267580c2a17a9e33014a",MBC SPORT+
+http://112.187.35.239:9981/stream/channelid/1776317431?ticket=68F83F72C005176C791D50C64A7175E838C71863&profile=htsp
+#EXTINF:-1 tvg-id="7dea08d188d1f8304c1ee3b3121ccc3a",KTV
+http://112.187.35.239:9981/stream/channelid/1359538813?ticket=B4D2D2C0121D832B1EB980BB9F16C64E7A382B6E&profile=htsp
+#EXTINF:-1 tvg-id="5e3892994459ec40f850779a5d1245ac",CNTV
+http://112.187.35.239:9981/stream/channelid/429013086?ticket=0570A77E151D2A350A50FD7EC64274F2F2C65737&profile=htsp
+#EXTINF:-1 tvg-id="4dea93eab134e358d60e6171ff2bc11e",FUN TV
+http://112.187.35.239:9981/stream/channelid/1788078669?ticket=FC57D3C7A452037967400F303DBECA0470709297&profile=htsp
+#EXTINF:-1 tvg-id="e734f2105586b94f2a356d6a59d06b9a",GTV
+http://112.187.35.239:9981/stream/channelid/284308711?ticket=1234EE8FDE72A5034EDEB14F30B07BAB90814341&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_388.gif" tvg-id="4fd7fb54c8b6395d877e4e415237b4f9",XTM
+http://112.187.35.239:9981/stream/channelid/1425790799?ticket=4B1DBEFDE19F2CD5C512B0A0A6630EE853A25AF6&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201605/logo_onstyle.png" tvg-id="70e6a3cf4eaa6176ca0796e8a023f8cd",온스타일
+http://112.187.35.239:9981/stream/channelid/1336141424?ticket=5332B40B6532AFDBBF88377E783884899EEC7B7C&profile=htsp
+#EXTINF:-1 tvg-id="02ff1b0344dea620037d4338a7241dba",채널차이나
+http://112.187.35.239:9981/stream/channelid/52166402?ticket=48FF0FF135CD21DB795497A5E0602CA88325654E&profile=htsp
+#EXTINF:-1 tvg-id="441bcc6fa031e118954a516f497ac0fc",HD OBS W
+http://112.187.35.239:9981/stream/channelid/1875647300?ticket=E9C1AC3C505358CA1D39E750E9EA25EDF473FB97&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201603/logo_skyent_2.png" tvg-id="b0fc406fcbb83d5ef67c43fd319b3e32",SkyENT
+http://112.187.35.239:9981/stream/channelid/1866529968?ticket=5CEC26C9D7BF0DD705EFDBB0E94DE532E7E9F78E&profile=htsp
+#EXTINF:-1 tvg-id="dd6c76c0ec96633b1aec7590deac9322",예술 TV아르떼
+http://112.187.35.239:9981/stream/channelid/1081502941?ticket=8149010A1956B70E3A7F2FBECD4C211822DF08B4&profile=htsp
+#EXTINF:-1 tvg-id="0ff6041e555e061e56d08b5a6f5c253c",tag TV
+http://112.187.35.239:9981/stream/channelid/503641615?ticket=ED5D372D2B9DA4986383CB0987E12241A46438D4&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_777.gif" tvg-id="c5a84b7a035ba3fe03761020acf8ea27",EBS2
+http://112.187.35.239:9981/stream/channelid/2051778757?ticket=2E9DF5994B092D48D0BD72A17810D7D362A53765&profile=htsp
+#EXTINF:-1 tvg-id="de31cd010fc2885b01d198e9413b8610",MBC MUSIC
+http://112.187.35.239:9981/stream/channelid/30224862?ticket=3B6B748979D52271BED1C6BA9D4D0A41469721C2&profile=htsp
+#EXTINF:-1 tvg-id="04922039e5ee83835f53b12cbacf0a1f",AsiaN
+http://112.187.35.239:9981/stream/channelid/958435844?ticket=7867621871179F51C74F149EA0B5351DD8B8D3A0&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201410/channel_logo_915.jpg" tvg-id="7eb8f54e92083cdf73bdf9e68e59fadd",히어로액션
+http://112.187.35.239:9981/stream/channelid/1324726398?ticket=976F3C28ADC9CD68FF306B462F69B694C3DDFCC4&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201511/logo_telenovela.png" tvg-id="6e2ffc40a41075ca2abd648b1decce09",텔레노벨라
+http://112.187.35.239:9981/stream/channelid/1090269038?ticket=961CCD4AA0FBF417879FFE3517E795A440B5BC51&profile=htsp
+#EXTINF:-1 tvg-id="75c7800a0421ef0cabba2ea5316f3160",FTV
+http://112.187.35.239:9981/stream/channelid/176211829?ticket=34AFF0943AB1279C3D5A065BA6A099C76CCD929E&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201605/logo_BadukTV_1.png" tvg-id="b9479be860b39a1c2c4d786fb9241404",바둑TV
+http://112.187.35.239:9981/stream/channelid/1755006905?ticket=D850D3340A1927EAD2F71CADAD57AA213EF0ECE7&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201605/logo_OGN.png" tvg-id="c92c96f23e8f950e89b0f135b142d7fe",OGN
+http://112.187.35.239:9981/stream/channelid/1922444489?ticket=B647015487DFB97DB0FDDF7B86E0F2C0A40120B3&profile=htsp
+#EXTINF:-1 tvg-id="52f400553d08c3bd0608a6d0956a5c8e",SPOTV Games
+http://112.187.35.239:9981/stream/channelid/1426125906?ticket=8BF53299F4FA23CC3098E7823B6FE6B59EC3595D&profile=htsp
+#EXTINF:-1 tvg-id="29bdc11a7395db791a6775fab98d7a33",CMC가족오락TV
+http://112.187.35.239:9981/stream/channelid/448904489?ticket=0C2A1EAE4FAF7ED5080014FA31D0E0E468B420C7&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201504/channel_logo_923.gif" tvg-id="44e14dad02b8325b7e745e9dee7e64d0",놀티비
+http://112.187.35.239:9981/stream/channelid/760078660?ticket=D030C0CE1E54F9C6D288D5A58B0FBC77B23804CE&profile=htsp
+#EXTINF:-1 tvg-id="861653c92a235106945aed6b2b80d2d3",폴라리스TV
+http://112.187.35.239:9981/stream/channelid/1230182022?ticket=703369E99A449D71EDCE178913302CC8B07C41E0&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201511/logo_disney.png" tvg-id="fc167f851a0140609a0159bd9a36f9c0",Disney Channel
+http://112.187.35.239:9981/stream/channelid/92215036?ticket=5345CDA2C45CAFA682855EA419D003101C0C167A&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201508/channel_logo_740_1.jpg" tvg-id="0e5c78441ec487b3adb0b9e7e6a0bec4",애니박스
+http://112.187.35.239:9981/stream/channelid/1148738574?ticket=B011B9CE493B682CDE0F5D5B3E9A87BE71C13752&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_ap.gif" tvg-id="75cf35d4ec720a0ff22b8769ebfc3769",애니플러스
+http://112.187.35.239:9981/stream/channelid/1412812661?ticket=7C8BECF4218D0F5551B9EF47DD21E238FF1D4024&profile=htsp
+#EXTINF:-1 tvg-id="4b3c9c3b31c58d2a2f6902626df78e30",부메랑
+http://112.187.35.239:9981/stream/channelid/1000094795?ticket=18EFC1FADBD3C5F93F5F8931829FFE68549D005A&profile=htsp
+#EXTINF:-1 tvg-id="c4f6e0a46abdd83ea57b35c2ed3c1ef6",JEI 재능TV
+http://112.187.35.239:9981/stream/channelid/618723012?ticket=10D9F8C98041194757A1761DEEFDDE02CABB87C5&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_777.gif" tvg-id="233609288be2c75227784f254cebe96b",EBS u
+http://112.187.35.239:9981/stream/channelid/671692323?ticket=C365826AA9F05F2CC18C8392DC82DADDA41A0DC2&profile=htsp
+#EXTINF:-1 tvg-id="928d9c88add08d7df505423609525dc2",키즈원
+http://112.187.35.239:9981/stream/channelid/144477586?ticket=1767BBA1D8DC3D3BC04E051B65F2736A2C007A99&profile=htsp
+#EXTINF:-1 tvg-id="a64bd2530a37959e2b50b2bae6d81af3",KIDS-TV
+http://112.187.35.239:9981/stream/channelid/1406290854?ticket=D67D72B380D55DEFBFF271EA691645404054E5B0&profile=htsp
+#EXTINF:-1 tvg-id="28c6f1e5d68f86cdc505690522c31b67",KIDS-TV
+http://112.187.35.239:9981/stream/channelid/1710343720?ticket=3A95F6C36112E2BB671E50CB3DE6D50D5E36B8D2&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201511/logo_disneyjunior.png" tvg-id="c29dc4c5bcc7fc624d5265093461648e",디즈니주니어
+http://112.187.35.239:9981/stream/channelid/1170513346?ticket=1E126FB9DC5F517B762E9E1BEA5D3288F17A56DB&profile=htsp
+#EXTINF:-1 tvg-id="3f0d22859e452ba96dd4cc2ddcd421e6",JEI EnglishTV
+http://112.187.35.239:9981/stream/channelid/86117695?ticket=DD72103C9B458E48FA7E1E0B3514A52755DE9203&profile=htsp
+#EXTINF:-1 tvg-id="24b452d9e1ba73ddfca4d10c1f6fad5b",정철영어 TV
+http://112.187.35.239:9981/stream/channelid/1498592292?ticket=661F0ED4E62A24E3B066867F1EE21741F0775309&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_777.gif" tvg-id="491cc85033beef2199c16ef5150ce649",EBS English
+http://112.187.35.239:9981/stream/channelid/1355291721?ticket=D054B287A67BE70856B42BD4348FCB05B17DA7D6&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_114.gif" tvg-id="45275d5ff0cd34f1cc08e32a4d720792",EBS PLUS2
+http://112.187.35.239:9981/stream/channelid/1599940421?ticket=5154F10AB65F93E6CB831B8E09FFF2D9D25882C7&profile=htsp
+#EXTINF:-1 tvg-id="de75d47657b9bdf133b88142a7285176",edu TV
+http://112.187.35.239:9981/stream/channelid/1993635294?ticket=B525EC0F94B449DBFB3B07C805C9A3F64FA276E4&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201603/logo_9colors.png" tvg-id="342baec97a7b7e579036a6d0e16e449f",9colors
+http://112.187.35.239:9981/stream/channelid/1236151092?ticket=F44DF6D78F292433074D31C645BE4267F950F871&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_764.gif" tvg-id="b4c548c1c92faef74fe188defadeff73",MBC NET
+http://112.187.35.239:9981/stream/channelid/1095288244?ticket=00BD335FD025C2E4C7CCD91F2660A90D600DD6C2&profile=htsp
+#EXTINF:-1 tvg-id="c85a43d4c34cf477f99f47f863dfdee2",환경TV
+http://112.187.35.239:9981/stream/channelid/1413700296?ticket=6E03005D5BD8C67A6FEC5B1648F8D32C83DCDCC3&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201603/logo_skyhealing_2.png" tvg-id="60314cca19d327e57e63699df90a8b61",Sky힐링
+http://112.187.35.239:9981/stream/channelid/1246507360?ticket=60C0FC6A398F1D416C6E35472EDCE6DFAAAC5707&profile=htsp
+#EXTINF:-1 tvg-id="5b90e5537905cd9610c70b049ddf12dc",BBC Earth
+http://112.187.35.239:9981/stream/channelid/1407553627?ticket=7CA8DDC507684B15979E40C806213954A2598E7E&profile=htsp
+#EXTINF:-1 tvg-id="6ae76ee8123fa1619c8683e0aed22148",Sky UHD
+http://112.187.35.239:9981/stream/channelid/1752098666?ticket=87D0C0254BAEF29B8472BB54A3236CCB7D7975B2&profile=htsp
+#EXTINF:-1 tvg-id="a1fac7fc29b4b6e1cbb9dad489ea56da",Sky UHD
+http://112.187.35.239:9981/stream/channelid/2093480609?ticket=5B3724B6A4DF5517A3F8E5C087054FC4D0754827&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201604/logo_ytnscience.png" tvg-id="e7ef703f57790651598f43a780e522c5",YTN 사이언스
+http://112.187.35.239:9981/stream/channelid/1064366055?ticket=B1C490C6E9BB0A6ECB0FE1CD4613B94466C9E853&profile=htsp
+#EXTINF:-1 tvg-id="adc05bba318c7c9482d36f63b6bf0eb7",채널뷰
+http://112.187.35.239:9981/stream/channelid/979091629?ticket=FF2DC763680E4CBFA132976292491326A1B551BB&profile=htsp
+#EXTINF:-1 tvg-id="570549570478df2d42d2b7dbb8ca7af0",이데일리TV
+http://112.187.35.239:9981/stream/channelid/1464403287?ticket=8D452080775ACDA83683559F2568A76B5BAE441F&profile=htsp
+#EXTINF:-1 tvg-id="f4e12bd9e695c312876ad53e2f01ff4b",서울경제TV
+http://112.187.35.239:9981/stream/channelid/1496048116?ticket=EF7002312C87BBCB6087E6ED25BC04F113B8C87B&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_359.gif" tvg-id="c5a4a5490215315a4e8510e25325d6cd",토마토TV
+http://112.187.35.239:9981/stream/channelid/1235592389?ticket=FDEF9A2266EAB505BE8BFD61DFDAF6A5073FCFC2&profile=htsp
+#EXTINF:-1 tvg-id="3ad0322e0c3dab9556cfa5d96d105659",부동산TV
+http://112.187.35.239:9981/stream/channelid/775082042?ticket=912D7BC4FD6C2107C9F84A5899705F4DC168745C&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channelimage/201308/channel_logo_117.gif" tvg-id="34b396a526111dea1ee0248d0d3ec63c",CNN International
+http://112.187.35.239:9981/stream/channelid/630633268?ticket=7ACA2A34A68CFF7930BC4C4FB6262EB2A51828DA&profile=htsp
+#EXTINF:-1 tvg-id="a011c8a3e3942e64d01ee6ada2b5d65b",BBC WN
+http://112.187.35.239:9981/stream/channelid/600314272?ticket=7792E1FDB72F8C1175740E2B8999640611F74178&profile=htsp
+#EXTINF:-1 tvg-id="b2e2518ac7cf93d334df6dfbfb0a320a",Euro News
+http://112.187.35.239:9981/stream/channelid/173138610?ticket=FFC1CC92C4AD9C4E609B4F68A8BCF7B7413C8BA1&profile=htsp
+#EXTINF:-1 tvg-id="76914dd0d5931e91e27d33a10bad55fc",Fox News
+http://112.187.35.239:9981/stream/channelid/1347260790?ticket=EC5E18D4E29852BF71CEF44BF6FE33C278E1BFD5&profile=htsp
+#EXTINF:-1 tvg-id="1b18f4e80a9e1596eb6fe17b85933b76",TV5MONDE
+http://112.187.35.239:9981/stream/channelid/1760827419?ticket=949FDA8AC987455BB689877F21CE188D72D6E2E5&profile=htsp
+#EXTINF:-1 tvg-id="de3b823168d47bd0807b641517d7f4db",법률방송
+http://112.187.35.239:9981/stream/channelid/830618590?ticket=1DF867F73D814032A152AEE0E462E586696D903F&profile=htsp
+#EXTINF:-1 tvg-id="6f334b7688e5104e71170b42d36e37d6",tbsTV
+http://112.187.35.239:9981/stream/channelid/1984639855?ticket=69986FAAD9965C23668FB8DB56C465977BA5BEB2&profile=htsp
+#EXTINF:-1 tvg-id="beb03688c49803405e1d8820440ec343",육아방송
+http://112.187.35.239:9981/stream/channelid/137801918?ticket=FC1FD0A39480DCB1DC143878FD322BECA058F14E&profile=htsp
+#EXTINF:-1 tvg-id="9556eefc656d24a4cda9aa946ce133c4",복지TV
+http://112.187.35.239:9981/stream/channelid/2095994517?ticket=3A5E8D51212D812F5C6B2CD4AA240E87A0B5D1FA&profile=htsp
+#EXTINF:-1 tvg-id="de5031531f286b7b83d5ba9ac3290824",쿠키건강TV
+http://112.187.35.239:9981/stream/channelid/1395740894?ticket=D77AB90D68BF4C390363B13570631F24A380F9A2&profile=htsp
+#EXTINF:-1 tvg-id="5322876106da84c85bfee4cf9fd036f1",BBS불교방송
+http://112.187.35.239:9981/stream/channelid/1636246099?ticket=959BCD0834E2D63ABE854415720134F3F7D11396&profile=htsp
+#EXTINF:-1 tvg-id="d55be2af50e1288d364091c9c61e17fd",BTN불교TV
+http://112.187.35.239:9981/stream/channelid/803363797?ticket=CFD4F5F13286DA22F11B948547146D91A8D08E9B&profile=htsp
+#EXTINF:-1 tvg-id="62c4d8fe4fd8c94890bb7a757df11005",Good TV
+http://112.187.35.239:9981/stream/channelid/2128135266?ticket=5F3DA257ECA3D992B10F593AB1E7CA9B25F48573&profile=htsp
+#EXTINF:-1 tvg-id="a3e816c4d670fe4e3bafc3115e2a9a23",C channel
+http://112.187.35.239:9981/stream/channelid/1142352035?ticket=BED5C41FA8746A1B060543788E11F2B276A86697&profile=htsp
+#EXTINF:-1 tvg-id="daf0a8d8f3c9c81d44648e126d1f2cd5",CTS기독교TV
+http://112.187.35.239:9981/stream/channelid/1487466714?ticket=CFCF5700F5A45F11454546E87DA1E53124878B07&profile=htsp
+#EXTINF:-1 tvg-id="1c4db0171c906faf939d35057a80aadf",CGNTV
+http://112.187.35.239:9981/stream/channelid/397430044?ticket=990956723306EC1C52183686FBC3A5441CB59C96&profile=htsp
+#EXTINF:-1 tvg-id="54bbb6007ecf00bcf9ded7db95ef0dc3",CBS
+http://112.187.35.239:9981/stream/channelid/11975508?ticket=92E874BB527E0E48A8562C87B0F7B3376A7C0131&profile=htsp
+#EXTINF:-1 tvg-id="b9aaba90255f2241ffd0a108df85e999",채널i
+http://112.187.35.239:9981/stream/channelid/280668857?ticket=5AA15E4734398CF975A2D3A5334B03CC90014785&profile=htsp
+#EXTINF:-1 tvg-id="d7261aabd04ec4fae52d443059886c88",TRENDY
+http://112.187.35.239:9981/stream/channelid/723134167?ticket=2A8D251450A03DFFB268AFF696BE1FBB1EC9D00F&profile=htsp
+#EXTINF:-1 tvg-id="6f63b684999193262bd27ae5b68944b8",한국직업방송
+http://112.187.35.239:9981/stream/channelid/79061871?ticket=BBBFABF85B9C3E925C4E6BBF8A238B3EA2AC7371&profile=htsp
+#EXTINF:-1 tvg-id="7202a980a0b858f7bca11351a67a6729",리얼TV
+http://112.187.35.239:9981/stream/channelid/11076210?ticket=27349B3B3B26872CB4A036A52BC3E468B5CB7321&profile=htsp
+#EXTINF:-1 tvg-id="d0da874fd95f4e0c81e5ea4d5ec3b1f2",소상공인방송
+http://112.187.35.239:9981/stream/channelid/1334303440?ticket=6F1435B94908F2714D31D1002DF9C6F4D8357A7E&profile=htsp
+#EXTINF:-1 tvg-id="cb627be40f5ab9c86079b798598a6768",DW-TV Asia+
+http://112.187.35.239:9981/stream/channelid/1685807819?ticket=E546B4C00EE69B42549178C8C5F26CBF1CA069E6&profile=htsp
+#EXTINF:-1 tvg-id="cc78106a276f40f667f46e631c37d1fb",Australia Plus
+http://112.187.35.239:9981/stream/channelid/1779464396?ticket=A1D6B7D9CD6901B8195FD433A065B6E65F2A5284&profile=htsp
+#EXTINF:-1 tvg-id="12b73c549e4ad4da40289aea20934194",한국승마방송
+http://112.187.35.239:9981/stream/channelid/1413265170?ticket=D48EA86F5D7DB0ACA02B4ED91CF31EA4C3642B77&profile=htsp
+#EXTINF:-1 tvg-id="d64a7da011bf46057656e40f7b67142e",STB상생방송
+http://112.187.35.239:9981/stream/channelid/545082070?ticket=EA9235075F17E0D1118FFB0A9418AD5E4EA5FDA1&profile=htsp
+#EXTINF:-1 tvg-id="f7216634727ffdcdc06bcaa851a2d1c8",CMTV
+http://112.187.35.239:9981/stream/channelid/879108599?ticket=0EBE9CD00C1D4E5BE5E992B43ECAC809FB4EA74F&profile=htsp
+#EXTINF:-1 tvg-id="f1970db24620a7d305d505de9d0d365e",이벤트TV
+http://112.187.35.239:9981/stream/channelid/839751665?ticket=A95D819B1C7BD046F6A81346A34FC5567EB47814&profile=htsp
+#EXTINF:-1 tvg-id="aeb753104f4bd36c59598ecde2d635e1",bookTV
+http://112.187.35.239:9981/stream/channelid/273921966?ticket=EDCC7EE24ED2328541A4BA13526E80B97667FF56&profile=htsp
+#EXTINF:-1 tvg-id="9b5c4b37e0585068a129e76521508d18",소비자TV
+http://112.187.35.239:9981/stream/channelid/927685787?ticket=EBF74CC96B041F426C2B6400D6D0B26682D37108&profile=htsp
+#EXTINF:-1 tvg-id="5da10cdda2c431a14dd6c611ff33be47",실버아이TV
+http://112.187.35.239:9981/stream/channelid/1561108829?ticket=01C92EAE6569B4FD4D53D14BD382C68A4D0598A7&profile=htsp
+#EXTINF:-1 tvg-id="e5e99018e56901e540e3301d2357da18",STN
+http://112.187.35.239:9981/stream/channelid/412150245?ticket=C8BC173BDBD6B956682760992AE17CB02724E97A&profile=htsp
+#EXTINF:-1 tvg-id="0db67ad70d52d14fd221a9d67317b273",채널A 플러스
+http://112.187.35.239:9981/stream/channelid/1467659789?ticket=54DC205771632D81A81D7AEA719BAC68D2AB690F&profile=htsp
+#EXTINF:-1 tvg-id="a964de52efed0fa8a9c4840b4feb24a8",헝그리앱TV
+http://112.187.35.239:9981/stream/channelid/1390306473?ticket=7E1D5102B1BD61925E1F039FC0E85224DC7516C5&profile=htsp
+#EXTINF:-1 tvg-id="11da9a8ec60fa16342286b4e32adec0e",캠퍼스TV
+http://112.187.35.239:9981/stream/channelid/245029393?ticket=F1E909162667C5A395A2CDC1DEB065BF71A7E31C&profile=htsp
+#EXTINF:-1 tvg-id="0285de6107cc20ba9519ab2f8590cdb1",리빙TV
+http://112.187.35.239:9981/stream/channelid/1641972994?ticket=E034FF4BAB369C1C545F312346F7E92419E42BBB&profile=htsp
+#EXTINF:-1 tvg-id="44513a447fc49575e6d037e4cad362e2",사회안전방송
+http://112.187.35.239:9981/stream/channelid/1144672580?ticket=FE37C4C833A35FBB812E1C1027882E68803C3FAB&profile=htsp
+#EXTINF:-1 tvg-id="080a5c5c2bba7b0b8e54af06a352147f",JJC지방자치TV
+http://112.187.35.239:9981/stream/channelid/1549535752?ticket=3A9E2DEC53FF9C4D96FA0164DD5AC62FB1576754&profile=htsp
+#EXTINF:-1 tvg-id="52eea133c8072a90c7f0adde6ef6541f",CCTV4
+http://112.187.35.239:9981/stream/channelid/866250322?ticket=B737332AAC359ABE12E99E324BD05E61D2A1BB5C&profile=htsp
+#EXTINF:-1 logo="http://static.skylife.co.kr/upload/channel/201603/logo_kbsnlife.png" tvg-id="c2786c44a9fa1f17d2c729ef8de19767",KBSN Life
+http://112.187.35.239:9981/stream/channelid/1147959490?ticket=3DE6AC15C1F82FCBC473ECDDF1468DBCE0D981B3&profile=htsp
+#EXTINF:-1 tvg-id="bebaaabd9eef2707e84f57c9799c05df",생활체육TV
+http://112.187.35.239:9981/stream/channelid/1034599102?ticket=7D56AFAE36584AD1A127A913C9B2A66C22C5A983&profile=htsp
+#EXTINF:-1 tvg-id="1fee8c3b3c180a3229525fb9bf30788a",다문화티브이
+http://112.187.35.239:9981/stream/channelid/999091743?ticket=A66A59CB54094145838CA5C88D0AC7005AEFB3C8&profile=htsp
+#EXTINF:-1 tvg-id="756f9923920c7f565fd4b17fe9fd3a30",WBS원음방송
+http://112.187.35.239:9981/stream/channelid/597258101?ticket=94F863A879B3E537027D90EA50FB5734AB388A4A&profile=htsp
+#EXTINF:-1 tvg-id="c4474bfa35423c6ebf1e5442e82d6b79",WBS원음방송
+http://112.187.35.239:9981/stream/channelid/2051753924?ticket=FFFF75A963E67347BFC2E3B6C886E094A622A57D&profile=htsp
+#EXTINF:-1 tvg-id="75c0be5fb2703c3d6bfb77de961c25b2",내외경제TV
+http://112.187.35.239:9981/stream/channelid/1606336629?ticket=DA4D7ACD5E98A2C5BBEA81722DE504D4E198807C&profile=htsp
+
+
+
+#EXTINF:-1 group-title="5", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="5", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
+
+
+
+#EXTINF:-1 logo="http://i.imgur.com/oOnpFes.png" tvg-id="cab41266d8fc8d28c51a6b6a7c9be14b",MBC Every1
+http://121.140.230.189:9981/stream/channelid/1712501962?ticket=A440749826D6D9ABA93CD3C243DB200CE73FE0A4&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="035685800d674ab8b08a24dc0afac4b6",SBS
+http://121.140.230.189:9981/stream/channelid/8738307?ticket=7F382FBD6F9D8131AB22D8DD8A4CDE09B208961F&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="1dc171cf1258c15bf3949ffd35c7a8c7",SBS
+http://121.140.230.189:9981/stream/channelid/1332855069?ticket=05F9928E8C8582D53EAC7A9368080123D2247C61&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/K2ztoDT.png" tvg-id="6619bce56807c6cf17aa4142c18d8244",SBS
+http://121.140.230.189:9981/stream/channelid/1706826086?ticket=2EE2A6A4F1A30A427455338738086972D311525F&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="a0f138b358cf9121dccad7530f027a30",KBS2
+http://121.140.230.189:9981/stream/channelid/859369888?ticket=B7C3937132CF22C2EE64B38CF3205728A6C5A471&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="ab799fd1bd6361fa84ca6ff997afa81a",KBS2
+http://121.140.230.189:9981/stream/channelid/1369405867?ticket=A41032BA373F79AAB9B0C130F1FD1CBA0031DFFA&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/XgibZbD.png" tvg-id="dfa772f9d0dbac1f4058f3a6df9c5140",KBS2
+http://121.140.230.189:9981/stream/channelid/2037557215?ticket=EF432BD344F62BB6CBDE997F60FC116B25DA3BE8&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="7282cfa1cb2c905b703c27a510b83b4e",KBS1
+http://121.140.230.189:9981/stream/channelid/567247474?ticket=C813F4138F4B1EC574CA207B11B33F8305BBF40A&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="0735a8b0499d92b84f6bdee5af3871b3",KBS1
+http://121.140.230.189:9981/stream/channelid/816329991?ticket=DA216FF032FDCF9BBCD8FAAF5D98C7EDA8977FCB&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/e31o5gw.png" tvg-id="aa276b37ef254a28cde4aa34b28f004a",KBS1
+http://121.140.230.189:9981/stream/channelid/929769386?ticket=58F4B7D5D301AB12B71FF0363F3ADAC2F8F973D1&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="bf67e3adece5a5e7dd3b7a073952a9c9",MBC
+http://121.140.230.189:9981/stream/channelid/769877951?ticket=64CFABF05C6C0F6941E476FE11E2B86961411359&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="107378541544d93025c0727dd7875e94",MBC
+http://121.140.230.189:9981/stream/channelid/1417179920?ticket=FA9A78B888CECA58F5B8382DA322203439B68994&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/duig32i.png" tvg-id="0395dade6eb5410c06d674ede41aab31",MBC
+http://121.140.230.189:9981/stream/channelid/1591383299?ticket=1CE857405365B917873CD4431AD9E956D390D2B3&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/YOYosLG.png" tvg-id="e05e6ab2f13380e8c6ad6532a20af66c",JTBC
+http://121.140.230.189:9981/stream/channelid/845831904?ticket=F403D2C2B9BA65565E2A9AE0AB97396B147E3BEE&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/YOYosLG.png" tvg-id="417737d334c9641d789600dbab5e8c84",JTBC
+http://121.140.230.189:9981/stream/channelid/1396143937?ticket=AEF0D0E36B6B845FE3BB4126AB6F1B353363F300&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/YOYosLG.png" tvg-id="e9f89b7f7a77c1268a08ba0cba5d277c",JTBC
+http://121.140.230.189:9981/stream/channelid/2140928233?ticket=8CBA29F9A8D3DF43C20E28AF4A16DC4F3AD46E87&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/p0mvIJN.png" tvg-id="b25312c7b4035e4f6fc4aa595f2d5b9e",MBN
+http://121.140.230.189:9981/stream/channelid/1192383410?ticket=BB1573E26D6EE660E4469078406A95C17DC7B0C3&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/p0mvIJN.png" tvg-id="a8d3ba49e6fca2fe2802f4138f7e72b3",MBN
+http://121.140.230.189:9981/stream/channelid/1236980648?ticket=2F6F292C14202768B1509FAA06FC9E0359D2D884&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/OJ9A8fZ.png" tvg-id="c435c00573d10ab6f903537d2952a1c6",tvN
+http://121.140.230.189:9981/stream/channelid/96482756?ticket=B8F363001567E80651DF78DED0444770F6F2031C&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/OJ9A8fZ.png" tvg-id="b898f66975389b8aae09079a2c2cab9c",tvN
+http://121.140.230.189:9981/stream/channelid/1777768632?ticket=25FEA3CB9B259B8742BCD4491B8D598BB92B8C53&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/xti35f5.png" tvg-id="fec26097192e1dc5b67b68b958adf744",채널A
+http://121.140.230.189:9981/stream/channelid/392217342?ticket=09B378A2B362517BFE345BB4F5D8F7F6B09DB067&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/xti35f5.png" tvg-id="98beb8d7655b402a4e1a27654fc55eae",채널A
+http://121.140.230.189:9981/stream/channelid/1471725208?ticket=793C6D48BD7296EB9553B85D2311C11672FEBDEE&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/ShJ5joR.png" tvg-id="9524128173bc673154a171e03327ebde",TV조선
+http://121.140.230.189:9981/stream/channelid/17966229?ticket=8527C588C47823D16F058AA0DE17577F3BADD084&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/ShJ5joR.png" tvg-id="5292fb74f933036c06ad0c75edd2a0b3",TV조선
+http://121.140.230.189:9981/stream/channelid/1962644050?ticket=AC4F5CCBB041F64B8E0F333A0ADBD9987C63A261&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/IXh6dwo.png" tvg-id="f0aef30872d160a90ac6519b84a3ca11",OCN
+http://121.140.230.189:9981/stream/channelid/150187760?ticket=E6A512ABAF22E4A3DEBB727159902BF6409A5D32&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/KlTCP8V.png" tvg-id="f136182fe8c676656a738883e75648ac",연합뉴스TV
+http://121.140.230.189:9981/stream/channelid/790116081?ticket=068276ED9F36678EAFDFDC823890AA6D83F8B2A4&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/ByeeX5e.png" tvg-id="c2ca2d50bcd318e4d153d2ad7afef179",YTN
+http://121.140.230.189:9981/stream/channelid/1345178306?ticket=D3FF0DE0D087DFD65201181623B816396C3C91EC&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/putHm2b.png" tvg-id="b02b08a3265a27c2fe0dd15a407dd2ba",Mnet
+http://121.140.230.189:9981/stream/channelid/587738032?ticket=4E73808FC2D0E03C7ABE4739AC9581C88BC1B8D3&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/cIpIf6b.png" tvg-id="e08efe5b64f4624d0eee9497f3e10dda",SPOTV
+http://121.140.230.189:9981/stream/channelid/1543409376?ticket=1B64DA0E8C671F71FEC877BA01739874A9779340&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/GNicmGY.png" tvg-id="36c5c973ae2f334edb508571748cc5fc",SPOTV2
+http://121.140.230.189:9981/stream/channelid/1942603062?ticket=AE4DF5166CB2D5DE7B056D172227B6F1BA611D95&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/QHV9bdA.png" tvg-id="c8bcf0e627471b7ebcfaa5b2d4a118e4",SkySports
+http://121.140.230.189:9981/stream/channelid/1727053000?ticket=C05CE9121085AF566A24F76CC012D4DE36D489F9&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/j1vHAu6.png" tvg-id="78838fbb7b9d561fd6b8ebc666223ab3",SBS Sports
+http://121.140.230.189:9981/stream/channelid/999261048?ticket=27EF06E22806F65745C9CF3DD2C7A65F416C44B8&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/xspD7UE.png" tvg-id="e20f7e1cd96c0904cdd74d13dadae815",KBS N Sports
+http://121.140.230.189:9981/stream/channelid/478023650?ticket=40A1430FF195BFDEACCD7F2896315034582213B2&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/Su21uj3.png" tvg-id="e4e946ce443a59e8b8793e9bf430de53",MBC SPORT+
+http://121.140.230.189:9981/stream/channelid/1313270244?ticket=CDA50BDD6DB5EB8808E788E01D901A05EE331B54&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/hGwA39y.png" tvg-id="bfd00a5a6c06a1372594650ad776b7f5",XTM
+http://121.140.230.189:9981/stream/channelid/1510658239?ticket=61461CA48621554F273440624B5711851E447071&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/9brMDfR.png" tvg-id="bfaf063844cabe05e30569bdce86f605",온스타일
+http://121.140.230.189:9981/stream/channelid/939962303?ticket=805AA8180001930939CB7E0DA806B986AE1EE9DC&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/RIrBF4D.png" tvg-id="d348b24c52fefa36dc5dabd1578d705e",EBS2
+http://121.140.230.189:9981/stream/channelid/1286752467?ticket=4A3B2CFE2D65A996224039900A5852EBE0933FAE&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/6g56RDx.png" tvg-id="c9685287b34e6c924dfe885cedcd39a5",MBC MUSIC
+http://121.140.230.189:9981/stream/channelid/122841289?ticket=9E1ABBA6AD94882C5721A8DC331F953723E9018C&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/5IMfa6N.png" tvg-id="a5ad80aaf18e57a7d771f06458ba59f1",SPOTV Games
+http://121.140.230.189:9981/stream/channelid/713076133?ticket=737451D2EB22073C2F1198659725CC97982326A5&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/lxDOgY8.png" tvg-id="5624b87164f39c8abcc75059d8b89671",MBC NET
+http://121.140.230.189:9981/stream/channelid/1907893334?ticket=A666ACD5F063C18CEDC70C789D2AB348AC6323B2&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/lxDOgY8.png" tvg-id="d50a85f6716bc1b5f20b860047b69203",MBC NET
+http://121.140.230.189:9981/stream/channelid/1988430549?ticket=2E18D54806939DFC9A79C189931124B6F02E7C33&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/SJZjuqO.png" tvg-id="81bf2760e79f721434499b82520dd63e",BBC Earth
+http://121.140.230.189:9981/stream/channelid/1613217665?ticket=4BC239C75452E9CEB3461FC81FDA21240D65DC9F&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/BNxE2zT.png" tvg-id="2783ed0d8bb56706ac4d258b9d3a8310",Sky UHD
+http://121.140.230.189:9981/stream/channelid/233669415?ticket=AB5D9494AC0D613833C9BB1F2E2069600B5B901F&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/BNxE2zT.png" tvg-id="8037eb15b044ecbc8c73763c9e6fd2f6",Sky UHD
+http://121.140.230.189:9981/stream/channelid/367736704?ticket=150921D7B019692E38FED7D1A5931DC578196C14&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/RxsYny9.png" tvg-id="9d74e257532b0652dc31d56f492b18cc",CNN International
+http://121.140.230.189:9981/stream/channelid/1474458781?ticket=1058FBB563C3D00A7FA5C9A6485739FBFF25D3BB&profile=pass
+#EXTINF:-1 logo="http://i.imgur.com/9rGThzD.png" tvg-id="c2a9261301b40cf78a2ee2051d1cd1ec",Fox News
+http://121.140.230.189:9981/stream/channelid/321300930?ticket=91EFEB4B91B3E23B24CBE4E70FD07A73617DEC60&profile=pass
+
+
+
+
+
+#EXTINF:-1 group-title="4", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="4", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
+
+
+
+
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/199" tvg-id="a4cde9dd823a4f0d7b13460d0cf5d3ac",1
+http://46.229.87.15:9981/stream/channelid/1575603620?ticket=671CCC5CA029C4AD0D207E423B50D5EB58FCF164&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/229" tvg-id="638b268082c693abafb5a58e8ee74561",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2526051?ticket=A39E7D6396FFC5F08BEBFDDEAB517505D0B2F393&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/90" tvg-id="72b55d80c9f5b1648cebdf828ac50795",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/6141298?ticket=3047E79ECC255DB2D3A5F63E61E8693031DE9746&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/15" tvg-id="3d6af2804ff3f577e1c63dae4681d68e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/15886909?ticket=9A24BFCE8363AD5F5CBD527B0A9F1F9BD00BD010&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/8" tvg-id="e22f27013a2cd828e608a5625933fe6f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/19345378?ticket=21C0C78F346F47EEEC06CA15D6C5D88EE15BCBB3&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/53" tvg-id="6f5229011e201a548bc7313fd86530f7",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/19485295?ticket=E9F60557F63ED2E3AF740DAAC1BEDA209366FF59&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/102" tvg-id="28ea3001a025a195e5694aef99cf3f2c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/19982888?ticket=D229B4C41DFDB061F9945FCE7AF9D0989358BD63&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/20" tvg-id="fd434501d4ebd2a4aa91a18cc56bb109",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/21316605?ticket=377739A5F47DB9209CDD078FA872409C74F2654A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/17" tvg-id="3c136d81f2c03350a0ef7cca326c8275",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/23925564?ticket=3AFACD5D4899A71D4B8CB9AF683F1930277E4393&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/112" tvg-id="2599a88117ff5064b41ea135f7d48718",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/27826469?ticket=B179AADFD7A8E53231015366ABD62D7C2A8F45BE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/98" tvg-id="b171e201c1287a57e5c24d25dc6dfd7e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/31617457?ticket=FC1BA2CE7662F42F65B69EC06D7AF9480B987C5D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/48" tvg-id="8c3f9b02743043120d097f1452f6fd7e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/43728780?ticket=CEB9746A87ECE89A55AB5213CFD2B3A07153ED3D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/103" tvg-id="d83da30213dad15a74edded70222c245",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/44252632?ticket=9AAC59B9C0F29ECE8E3475BDC8881B9F98942F1A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/158" tvg-id="147bbd024b7a6fc25286f351e65c6a00",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/45972244?ticket=37AADADEED2B1EB140AAD070619BFF4895866D18&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/47" tvg-id="10f0f402f8a2e420f7a79959ded87dd0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/49606672?ticket=F9E9F632B55E9C7A37A7BA213C96A83583151F1F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/163" tvg-id="b8d7300393a9937f8ced11f8a7916e0a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/53532600?ticket=8C31EA5F424AD9732B9B01096127EE5D93F51560&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/114" tvg-id="42004383717ead35f8d7794b68dc602f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/54722626?ticket=BA21152D811D78EAAB5DFEFCA005BA8C19977AA6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/26" tvg-id="dcd37e03772a056e4cc7608a3b18dcb0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/58643420?ticket=57CC1250BB1BB8E5A2B8808786F0889866F9F91B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/82" tvg-id="227aa983d1f4a0c8fa85d1c44c67096f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/61438498?ticket=39937FF4AED56339EB7D723BF7EE22085EFD636A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/111" tvg-id="6b7bb483a3541147d2ccf7037039e36a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/62159723?ticket=49319CD64C901AF4C639D8A428B6C3CE7A8936AB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/83" tvg-id="2bcac083442d8ec5341583c75c3af485",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/62966315?ticket=A58569D9B0D180E0F8F629030D4D17376B090366&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/61" tvg-id="b369c283fc812c7a9e58007948bef1f4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/63072691?ticket=6F5DA5DDA20827AF503AA0964087432B6506E082&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/186" tvg-id="feacf9830c1d60d456e7bd332cb87512",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/66694398?ticket=55448E235B4467BD9A2DC549FE3F979BED0FD6F0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/13" tvg-id="1ec60084691604ca77f2049e70377bca",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/67159582?ticket=4A6B9E5E5480ACBFF961A86CC96E2EDDAC3F96CB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/166" tvg-id="48160e841e97f2d9883a32347d378012",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/68032072?ticket=D4D9FCAD4D882BAEFCE73D803984742D16824596&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/259" tvg-id="c65b2584e0ecb316787086307d062ee0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/69557190?ticket=41339C3C25CF6B9B52BF4DD2802396C00DAE2087&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/78" tvg-id="ed7d30846932bb0134ab56e485a57b18",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/70286829?ticket=F38A62B90B40B597DB1CDF1F44E3E4880C1650CC&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/8" tvg-id="4a865984b1d647a775ef89a5c93d5141",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/72975946?ticket=E77DA2E6A21F0AD0F0E16712F8DDF6BB6A2C7973&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/264" tvg-id="ed48630407eaad0a759a260d2e9222a1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/73615597?ticket=4DFF9EAFDAC05B4043DEB77497AF67FA048449BC&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/74" tvg-id="f647df8438bad9f9437c0ffde74919e5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/81741814?ticket=CB6CB5BBE237193D524D5F6AD0C5133AA9BAA2E6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/81" tvg-id="d7b22305e87e01194eb5b7c7e8fb7314",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/86225623?ticket=F1D1EC18331AF43EB98F4B03564C18BFEBA80D2C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/17" tvg-id="734b2a85ef64f62fc99c89677258a8cf",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/86657907?ticket=3C1607DC9C6FEB12EC0111E06C0DC90B6B2C4C07&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/96" tvg-id="471e40059faed050348e4ca1000e3151",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/88088135?ticket=D7C828E07ADE8E5A12168C6B3290AFBB521D73A8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/18" tvg-id="95fa8b0559dfd52aa5f8ed5d3e5ba47a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/93059733?ticket=0338F7E668125BC9FB52C858E3B8B7BACCF99DE6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/217" tvg-id="68af9b0590c4e52ddb6865147f00254e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/94089064?ticket=F1C20BA598E64DC1CD087AC46535C41F53FDEF04&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/57" tvg-id="ac6f24860b52eb125a5c363598680510",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/103051180?ticket=C41BC0ABA0CDCB1AD00F316ADFAA432808B794E9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/114" tvg-id="ef703e06d01a347b6f57799dece30be8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/104755439?ticket=E0BF402B965BC0849B7677A060B846FC34AC7B3A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/190" tvg-id="e1d86f0653266af7c10e1b4e7ec36c3a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/107993313?ticket=CB7128791527681860F0DD42D544E4EA8BFA9988&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/234" tvg-id="cf72798672d76855ffa41abc74acae40",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/108622543?ticket=B9E84B2C2C6C7E23C9F26970C838D0C1F5071F2A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/138" tvg-id="0d197e867ca75740cbc9f0b43766cd62",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/108927245?ticket=63FF9196D4E0040D92658D8EAB21B0649079B619&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/235" tvg-id="264590863ac30852af809bc209a78554",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/110118182?ticket=B747DE122AA5ACF71BD745C9D9EAA281F65E694C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/9" tvg-id="bb8b07870bbb2ed3a0cc4153638eac97",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/117935035?ticket=E6C06C3BEC9859F61BCFC175BCB371B50B51090A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/143" tvg-id="02e60787d892671d3e6eba7d8809210b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/117958146?ticket=FB71E42ABEC37673EB30597B3FD15F31FE3A4A2B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/19" tvg-id="89ee4807850077486735fa8a0f429120",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/122220169?ticket=0DFA5BC2CDCEEF2FF520B5A601EB3EA0D0660BB9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/182" tvg-id="dab7aa87a49e593970e34b183d9a27b3",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/128628698?ticket=0A9A1D48FA2B4E8E4AB83D069D4D471E18DE2402&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/102" tvg-id="37ee5388aa271711d2c231e3c8f1ea54",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/139718199?ticket=D22369BCF24F0192C873447C2076D09D9257F6E0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/55" tvg-id="c9be9988d8cdc57f8ee66a48e3ca06ba",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/144293577?ticket=6E6CBBAB20CA436256350D6FFB4CB93B5CE255FC&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/42" tvg-id="1cb5d188f70545a7b1e9ad466728baa4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/147961116?ticket=1B5E153B66A03C942A692E37103309FD0037DABC&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/237" tvg-id="740b2e898f101f9e9d0e32b80996c460",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/154012532?ticket=D4DBC37128DF972BB0D642CA2E38621D20305B88&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/152" tvg-id="10ee85897dc31489db6f2f0000981145",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/159772176?ticket=B7F6F713DE1608F54A9E007D4F59A34B81F9ACB7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/207" tvg-id="97fcc489c9dbe410adc0d1b6d795e5e9",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/163904663?ticket=2D5AE6E115AED62E0BF836F4869556A505FCA3A8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/109" tvg-id="1c75d689b1af5285cec9c6dcb639add1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/165049628?ticket=779A7C99FCC1ABE2C060DD2A825CB86140B46DA7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/4" tvg-id="8f08f009c80b7237986835309ec80f4c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/166725775?ticket=16D0A0BF3381C45DB464D6CC12F82EEE44DBDAC5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/52" tvg-id="320d0f0a2f161a4a5be12ef413be9e68",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/168758578?ticket=0F926746B8E3A610CF40AC18FD2E55E9482A95EE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/78" tvg-id="aa62748ad4f6c54293d621c7a4d56959",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/175399594?ticket=B8BA088FF3C29CC25EE2BE961DE56725FC5EAA7B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/167" tvg-id="0029b58abf247252f4332378be86e663",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/179644672?ticket=4B530C552BCAD386EC32CE1C68FE6E0F5FB95860&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/56" tvg-id="7a5f018b49d56bbf764fa14cb49de2ec",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/184639354?ticket=629C513A0C4BD3ED1654DE1BEA58B22D045E7CA3&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/39" tvg-id="6163050b8cd0c6967676329ae5ac33c6",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/184902497?ticket=0980D17734210B10DB47101955CEA2CD644689EE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/160" tvg-id="2cf48b0bcf5339c43160eff8b6f01a29",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/193721388?ticket=D5E073916AA54868F92C8BC066E25754922F7377&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/150" tvg-id="0dc18c8b3751c4f166c08ccbfa000551",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/193773837?ticket=8579A2516B98610C1D80463221D88F563AC823DF&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/238" tvg-id="2e069c8bbc295ce8d7ca5b13dac69282",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/194774574?ticket=E0565F96105D701E2E1203F3C7029152592CB6C4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/174" tvg-id="9e5ddd0b72ef848cb8039371face318e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/199056798?ticket=215B8FEA0212264360A387EC93E562BAE66B1FF8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/16" tvg-id="bec4e08beae8f29a52973eef44011b11",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/199279806?ticket=9DCD6D4A5694E40D5E0904ED5AD27B7ED57C299D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/75" tvg-id="e3fe0e0cc2b4078eaadb7e95ecaa8a8f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/202309347?ticket=54E5180BA56BC6964C36F422D614F934DD6F5738&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/197" tvg-id="5695de0d01fbf6016519cd59944c257e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/232691030?ticket=6D50CD55537AD71B4AA71E362BFF41E9BE606F8E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/246" tvg-id="0890e50d32746ef8f9c5fde5c1321e6b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/233148424?ticket=BD7FCC5609BDF58F657C24A08DCD55D4F9916F6B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/31" tvg-id="18ee310ea55c154f2848fcd04d30b7e2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/238153240?ticket=47FF1E7E1CDBF2628567780C44FA6EF185B4D053&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/46" tvg-id="2390350e11267272c148bc78a6243daf",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/238391331?ticket=8243451D0016393823F8AD75EA527050C4992761&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/44" tvg-id="ef97a78e4af16d7837e8512357f5e9e2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/245864431?ticket=0EBBDE8E5C5977D7924ED077C573912334E47785&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/95" tvg-id="d24e200f22c3706adec3e678baba16bc",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/253775570?ticket=DEA9427F2FAF6EF0DD61B4C52A2A8DFACEA0FC18&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/140" tvg-id="eba12c0f78b6d6b741dd9243637618be",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/254583275?ticket=CF2D4E083DCB231C5FA69D5E74CB882F73531DAB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/59" tvg-id="f9fa628f88aa58aa9e8d6009fe3eb2a6",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/258145017?ticket=0AD0735AA50D13A1C3312EAE000EDC1AB78CB080&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/282" tvg-id="d6e0e58f8df67cbf442e6ae6343bcd4f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/266723542?ticket=F635B4D4DB225A80B927CCA73B2001060254BCEC&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/89" tvg-id="7ce40e10505ee221eb2f20c36747f705",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/269411452?ticket=9F606624EA59C0DC583DF8408937249831EE39A6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/5" tvg-id="4b085290c16592dae912f16a3917af10",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/273811531?ticket=03CA51034AE0A9D95AA47784F354816BD9D5DAC6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/250" tvg-id="9b577e104b80399e09b9b8bc476bf045",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/276715419?ticket=EDEE7AB33D38FF296A25D09EEBDFFCD434AC39C1&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/31" tvg-id="0e1b9b1076d91ac020ea2be63ecc4fcd",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/278600462?ticket=C5D3258D75F56519C4BCFC70F9A56128F80CEDD6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/8" tvg-id="c687a410c3f3487e0810974a711a3a6e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/279218118?ticket=3EDDEAE66018F3C86DC9BBB2BACC9A021FCB2A8F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/35" tvg-id="e58fb2102e76e1b20482bbad984c9039",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/280137701?ticket=8CC0D09342FA28FD2A6F56D6B05641ACA091FBA0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/171" tvg-id="62760311c7c7a2dc1adcf1e408611157",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/285439586?ticket=71FC02327E8202148F6EA0CC24FB2E1AB322D8FB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/8" tvg-id="721f14917b6e1050154853f68816e16b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/286531442?ticket=BCB365B4BACC11CED9D49BAFF2923CD46BE6A01D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/120" tvg-id="682034916a96fad4088dbea1841f9557",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/288628840?ticket=A7D710E7CC7A38D0E401AFE97EB77640787458E2&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/55" tvg-id="ee853411c4bbcbb8498acd9f55df00d0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/288654830?ticket=FE7B7F04DD6660F90945B142B787D717E87609C6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/149" tvg-id="a3b634113ae918ee3a7deb0b21c46150",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/288667299?ticket=6F01AB112FE1A4E1CEF9D42EA4D27A88C6CE92E1&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/128" tvg-id="50fdc3110652724e0464bbd6d0c799db",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/298057040?ticket=16FBEF2DB58C67FC3EA07FCE76B6B52D498FA5F7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/97" tvg-id="3e7cf491c06e145225675f6629d36ad0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/301235262?ticket=24AB613B8EF731AAC1E4BD6F32112126C1412E20&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/17" tvg-id="adb21d921b64ef575e30e4160513022f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/303936173?ticket=2FECF1330C55A596E27F56A0A92131D3515FE929&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/45" tvg-id="07e6679278179d6481155cd6c8546e13",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/308798983?ticket=86AA6C177C31FBAB20A40093DE26559435A0297B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/120" tvg-id="94227e92dc67429b62206934d315783b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/310256276?ticket=6458BD690BA689E4D1E857E0B42F8EEDCFC45378&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/60" tvg-id="fc85c0923815f13564788640535cbed1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/314607100?ticket=B4729051F6336F9A5B2EA4E25D7EB4F549389DAD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/117" tvg-id="20890413114001637edda44d3d3547eb",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/319064352?ticket=BBAABA45B0B7853E2F475FC1D4CCE72F51FB04BB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/92" tvg-id="baf25d93dc734c5a819af5d23410d333",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/324924090?ticket=D05BF1F15AFF756A340FF20B4EC0BB0DB7E9B791&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/119" tvg-id="92e96793e17bb37462d672a88d3cb068",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/325577106?ticket=04C7E2068B750EEAF31DC113B62DFED7B8CC25AA&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/49" tvg-id="a168bf13dd06b1f67af288e527a81059",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/331311265?ticket=BE82BCF5552E70F8A35AE3F1FA17EDCF87EC5331&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/241" tvg-id="b66bd113029b3387fca3e4214699d928",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/332491702?ticket=16B85EBE5872E48110E22BBB65EE2E20009AF2DD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/13" tvg-id="96c81c146c55272cf9f331110dbedcc3",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/337430678?ticket=FAF03B614122FCF7A05F53FDFBD7DD5F0660678E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/70" tvg-id="12478394e7f99e67780b93d6fb2e01f5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/344147730?ticket=8E7BB3D7598389C90A91C5D13E340B10E09EE316&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/100" tvg-id="50a9dd1446e3e4e5b5aed609382a9afb",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/350071120?ticket=F476025B6E49E3F62D1FEAC728906253B9EF49EB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/28" tvg-id="ce8716159539bc3848a7104db8ba432a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/353798094?ticket=36A9B08138A2F68670C58F82646583209DB45F44&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/125" tvg-id="a7126d959ed78c7c8a09f410f2445bbc",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/359469735?ticket=BE38792A8ABF860F9049F25BFB44C1EA1886011A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/16" tvg-id="5942801569441e63edb97c3b6e234fb4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/360727129?ticket=DC0E20307319958B07F106FBB921BDAA99C89F8C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/135" tvg-id="5c3cc615206d93ee49f24559f3b9db33",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/365313116?ticket=33C43A9959DEBAD04AC93AF02476D5D346297894&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/213" tvg-id="75431c1622f947f46ea5afaf6d7a8aaf",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/370951029?ticket=12A466D0BB71068A0EF67FEEF2C99BAE974875A7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/148" tvg-id="4d9ecb969f4ebc4f7f77115f172b07a5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/382443085?ticket=875BF5544E1B9896D00C4B0E30838A4B4BB4F665&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/122" tvg-id="8042e516952b1768fd44a1b61a66db57",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/384123520?ticket=3AF968771CB0744D0E03B99496C09F0F8B6A8CEA&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/78" tvg-id="8264ef167eb143ee059297414f43a75c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/384787586?ticket=037802DD1E2FA7A68E92A153C783BC88EA39B460&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/154" tvg-id="e6843f1762dd3c6ffc876e0f6df50e75",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/390038758?ticket=B50CE0DD24C61733FF6DC4DE93959C503F6D6F8E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/35" tvg-id="a2576d1789af1755a04658bb5aaf2095",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/393041826?ticket=E358C8F55571B2D0FE1FCC035BAE23518568D7C4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/172" tvg-id="5e9474178a687d50cfb11e9f21b60932",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/393516126?ticket=FB0FCBBF4F7769E319CBADF44C6A73A4BD64190D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/119" tvg-id="4a6b9e1794ba1e4e0582d615797fc9e8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/396258122?ticket=15A8E405BC74C72F443B8B4D068E3BB40C522CDC&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/89" tvg-id="3011ae976663a076c6a6340fef7da1f1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/397283632?ticket=8FCFC0E73221DA32759502AA13882C288E10B481&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/156" tvg-id="4a0231186d5cc2d265a429237647efa4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/405865034?ticket=FC7B176A694BEE1B569CD1931FF25655612201B5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/181" tvg-id="f165379846de1157b657c91f95ba8286",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/406283761?ticket=025B5F97F0600A3734BAA1911DB892F164D39728&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/100" tvg-id="873f5318b0289c06b3503c6343ff5456",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/408108935?ticket=C11876DBB0EE435FCCAF70F35DB836E6CBEF56D7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/271" tvg-id="84b18998f4492df0d571e9d4752818de",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/411677060?ticket=AB4CF87A92928A1EE277DAD78A85E1AF2F7A24D5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/3" tvg-id="19359198735eea1d4fcbf41cc25096d0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/412169497?ticket=9D0475099A4A95F122B46DACF8D5AEE172023B16&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/85" tvg-id="d13ce91875388755ec8fea101ea32bbb",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/417938641?ticket=89C85A3E3C8B5A6456B819E504CDB62FF7E66C9A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/72" tvg-id="5936f118c4d47f5ebecb4014192d21b1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/418461273?ticket=B03DFF97464387C7E7611492F995781982D97069&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/239" tvg-id="9b3a059957b411b111cec944f3ccb58c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/419773083?ticket=B7F1E43B38C8B6ADF993C793D72BD41C62967E3F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/16" tvg-id="f3261599bf77c2e31a67c66182c8da9d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/420816627?ticket=05D82148D361B5C3A15394CA8270E8F54563EF63&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/275" tvg-id="2bec6c99e64aea666602ae40b73d3318",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/426568747?ticket=316CBA6AAA8ED7510FC30F8CF8344D326D7BC52E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/159" tvg-id="4d337399f0412a01a2604312b0586474",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/426980173?ticket=A2C2A4814A807B98C91023057B7219981CAC53C7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/63" tvg-id="ac678c19d7550b0c5c5aeaad927c270d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/428631980?ticket=FC2DE5324B55A51C4080CB6119573119AE4267E8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/56" tvg-id="81299b9927ddcdf84be12861e603c84c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/429599105?ticket=337C04D7445A3F1B120F3D454397E10566626B62&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/252" tvg-id="572ebd1963a387f4fd60fbd9d6e81483",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/431828567?ticket=A02032DA7A3D10C6604C980D6FCD95D1314986D7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/269" tvg-id="65b3d519cd581c1829283eb0282ee585",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/433435493?ticket=E24DBFB96EE4BC6B79113062E58AD79FFE39C2BC&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/202" tvg-id="a7cfda19fe60275c8bde2c1e817ea452",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/433770407?ticket=26AF6B6429AF21A7BFAE28A0760D864054DF957A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/5" tvg-id="7be4e4199b3e45db595008db4a593656",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/434431099?ticket=1DE90F4EEE578EE375569901A6BA5B3F5BA56972&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/270" tvg-id="add81b9acf59c004773a9c71bad00956",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/438032557?ticket=167F5C4664A45C58EAA88DF09B210DD2E4762247&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/172" tvg-id="b59a2b1bdddc538347097079702e1d10",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/455842485?ticket=C57EB4173AF0119B48472D39DCA15B5AABB216C0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/121" tvg-id="ccf94e1b574f66a526be5339ffeb4ec4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/458160588?ticket=17E9BFEF6D143BDA6912668F4E098970CA9569D9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/83" tvg-id="6a3f971bc970c9362a165684375e4cec",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/462897002?ticket=85E19BB8906ADCEABF0CD0140113E1653CCD0971&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/256" tvg-id="0e1feb9bbdf66ccdb2524cd6caa523c2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/468393742?ticket=EFED56A940BDB7162D3AEA5B0672897600F48DE3&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/167" tvg-id="68631a9c3882478a4340a79d7aa06547",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/471491432?ticket=71FD49B0E485E687BE3EE30F166D3963DA6ED27E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/203" tvg-id="19e8351c81e38693a9bd0a8aef8f24c2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/473294873?ticket=EA1E4F8D91EDF2C114041511BE91CABD9068E2A3&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/268" tvg-id="755ec81c99155d7f94c2f1dbb2c6869f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/482893429?ticket=B5CDB1BDFF66C146E783FAA4897C6B7B7F9FF1BE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/131" tvg-id="7dd64a1dc114360fc06a9e958c0a8ede",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/491443837?ticket=C80532ACE0A7C4BBF30921353E40CDA2BB7254CB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/263" tvg-id="1ffa581d5386c0f1e775eda119582c85",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/492370463?ticket=94AAB6912C0471AABF5086D0447ADF2970D7A132&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/73" tvg-id="93065c9d320ffb460eac63394c70995d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/492570259?ticket=1598DBDF24CE955B0F8B4E9239E8A5CD04EA2610&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/194" tvg-id="b790651dc8e78fdeefa2b2f55d59ff44",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/493195447?ticket=D9EDF25D35EC81610FFB3C7A27AA52BF3A226405&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/286" tvg-id="354e839dc1b8f9da897e7424838a950c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/495144501?ticket=AAE1051EAE7920C2D77BECD5843D44E76B324BC8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/83" tvg-id="bbf29d9dd43c52681cdedb62fae7e3ee",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/496890555?ticket=2254974715577217063FC392AEEFD024D41EBABB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/102" tvg-id="5495bd9d04f56d1413f068949bb4cd97",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/498963796?ticket=94BC39C0449441B105274F48E4FBC80386583E88&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/178" tvg-id="c7c9161e55464d18828ae70cfa32f55e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/504809927?ticket=50F67E7F7AEFFB6D079455F47BE4B927B3C8D1EF&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/51" tvg-id="1f92399e340ce9d72364a9940e2fe15f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/507089439?ticket=0AEC91FD10D2372BDFEFB8B11038790472676737&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/170" tvg-id="763a411e291a8e08bc152d39c0350379",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/507591286?ticket=E7C9F5D45961B1D95193EE6A1FA1C9466DE71799&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/44" tvg-id="161f571e7d5a5669a71710087f4f8fdc",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/509026070?ticket=044D4BB597100710F0AED8489D4ABC4CDC7E22F2&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/37" tvg-id="713b931ec79b43abc98ceb2747455378",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/512965489?ticket=05B1307700E244D394DC82F9BE30CAD2808DCE97&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/71" tvg-id="3f01499f45d8432604b9c32317e234f6",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/524878143?ticket=5E8A60B5BC92E73EAF243E26785EEC6BCAF1F8C9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/116" tvg-id="d9695e9fb0fd5500ca0e00287aafc21c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/526281177?ticket=B94B0F8C48692666BE88B84D878DB924C47FF6D2&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/254" tvg-id="07e9e51fd0dbbd0e40d17e824076a38c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/535161095?ticket=A163D5D3112BBB4E6B3D9CDF586DBBF263765568&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/73" tvg-id="8e40f81f549b8a9bb2f9d6f8b01de3fc",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/536363150?ticket=A0A7D5DAAC9D8F5D12BF49B039BFC67D48DC935B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/107" tvg-id="b4ac0a20ec979777e301e087378e2a83",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/537570484?ticket=FA0B28C235AA0FA45B19F215E9872C6C6BF26CB8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/60" tvg-id="c5551ba07f8a7bd7ae3e07ca6b3c0fff",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/538662341?ticket=873C4A8657FA72D4478AA0984A576AD4F743C0C3&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/91" tvg-id="81b845a01e8afe9121e446d4e4c1a2a4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/541440129?ticket=2DC39DA9F3C60FEAE177964FC0437BE010E7BAB5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/41" tvg-id="305249209768d3c92e6022702b4f8140",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/541676080?ticket=F820548428F151A09191CC917A6359220D5769F7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/16" tvg-id="989da920ebe8f5fc729a69fc8961e88d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/547986840?ticket=203AA24579E32C69851B7E8407112CEAFC934653&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/6" tvg-id="788a1221552406ab8850fe38090e95e8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/554863224?ticket=AB18FDBDD133961800158FC6F4E2BF7786F1A3ED&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/14" tvg-id="db4128a1674f881b4b70262bf51bdfa1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/556286427?ticket=A75EEDC505A8EF80464D178322C5EB6B3FFBFD92&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/17" tvg-id="09cb3e212c4267fba83f8dfc9b230038",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/557763337?ticket=943BE3E303D3F9868D844721E9B94C575CE325AE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/38" tvg-id="4b780f2201ed1a8f3cd89be550696fab",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/571439179?ticket=67E9A2515728EA3D28893041133FC671FDDF53E8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/68" tvg-id="69b616222e28f8d0270b402498147e52",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/571913833?ticket=B018D9FAAA6980571E04D031D2DB78EC03A16596&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/9" tvg-id="87a535a260b198de32bce7c48183c44c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/573941127?ticket=391A9F12D21469CF3AB3FA8A1F6CAC9CC67FA567&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/1" tvg-id="f9fb5ba237b0b082e475e86e0d741be4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/576453625?ticket=C34F53CB7F4517C8CBC962893C090466C9D0F00C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/45" tvg-id="2a1e6c227f8748d9d231ed61533247bc",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/577510954?ticket=D468693162EF49939EEDDC68D94E42B01A40DE18&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/11" tvg-id="70568222766c907a4b1ebe554d6b4f51",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/578967152?ticket=A0E17012649CEDEAC0DB4BCE193DAEF6DCAE8F7B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/189" tvg-id="9696b3a22e4814ff33faf2ab6ed06617",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/582194838?ticket=743C23F951D293E5A0F87B890F93F412AD202F78&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/16" tvg-id="8dea22a323b59ebb9cbd7c0e56247f9d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/589490829?ticket=4D40017255BA3779C10563505036C93634ABB1D9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/14" tvg-id="31176da3051f18f001f3078f479dc6d3",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/594351921?ticket=1E9350ACE4353174DE93DC8DECECADAC6001F7AD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/95" tvg-id="a863cd23ed80a855a0b00feb0ec1d190",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/600662952?ticket=F5A943B80CC56E1C242C75112DE2E612657C153E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/173" tvg-id="6f47e0235216c48215f5aa8c1cd22656",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/601900911?ticket=25114CA5036856CA9FC126E1C5301B936C3CCCC0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/110" tvg-id="8dd40424ffda8024252b210acc5ed55d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/604296333?ticket=82602CC1BD71EC247E308BA89DC4D7CBB799FC9F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/38" tvg-id="4ad6cf242c9d93a949d2aa51da6abb3d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/617600586?ticket=8CDC198EE2E3FCE2D2D3662A15784B5F6CF2B1C0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/142" tvg-id="22777ca543883ba3ca9d81d0651c2ab6",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/628913954?ticket=17BCE292DE8AA4CAA0DAB03352BA4D643F2A78E6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/80" tvg-id="b72daaa5ce925785d9b28253d2121726",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/631909815?ticket=C929358198C183217E0C03C6CDBBA28FD087EC3C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/58" tvg-id="b929cf25981add655b62948269936310",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/634333625?ticket=FCAEE4D2EAB47B523B8060448812F8F1D972BD38&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/266" tvg-id="8014f725997c2a8f52e769241a51b6c0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/636949632?ticket=A99966564019A870E09D6A4CEC50DA1F73EF7D6B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/63" tvg-id="774b28a6f0eeb5e4ded24f3ae1c8dd24",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/640174967?ticket=2F24A1A712404604D431705F0D4A39BA978EF8D9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/7" tvg-id="c2205e26ad7c6ece5b434ff35dc62f20",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/643702978?ticket=6D491804E085A79FA14B062FC82EB1D3C0290B00&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/143" tvg-id="7326a8264b49d0c69b50194cd3451b24",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/648554099?ticket=9A76694E90CA573D5A0C6A93EA6C2BD98B55AAE1&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/113" tvg-id="d32fa92608edf1414b2953df07b14da9",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/648622035?ticket=969361B0324BF045F7BD0628F4C528CDB49CF761&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/126" tvg-id="c8e8ea26ca7c73342b6585e313fbae3d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/652929224?ticket=8724A749F4FC2D5E0EE36300F40F455762B051F0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/139" tvg-id="91b50fa7cfaa02cfa730e9dbce0c00ee",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/655340945?ticket=4D222A30B536DAE84AA6CA3A7EC120D7C37AF321&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/13" tvg-id="8a9a3aa74a070e4ef6d966fa8755dac7",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/658152074?ticket=62A5E2D3093D022F7546F8366922C291264B9F38&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/86" tvg-id="51d95927781857dbe9299bc3af98b910",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/660199761?ticket=88FD703FEB505BED3B2D84D224B0E6C88CEE1F26&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/50" tvg-id="4ebab127a70c9a2974e1c541acac0150",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/665958990?ticket=B219738A4DF5259AE6CE868B19B45CB1E476539F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/64" tvg-id="c9fccb27858b7b3bab5fc2e5ac69c4b6",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/667679945?ticket=5F864FC59F9F209DB3BB95C9022B2F73595554F4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/55" tvg-id="9c650fa8402d6ef00c7b554013c1b707",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/672097692?ticket=FD5CB0537FC245A19C7E2BFFE0802E94773E7128&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/94" tvg-id="16ee65a8039d9646d18d4c32a7e5eb8a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/677768726?ticket=FADE2868BCC6B68E5B962E10271B6B1A8F2EFF5D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/94" tvg-id="2a78d628a022d7c2a1177e685bd01f1e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/685144106?ticket=7B0A6E9EBC63B92820EBB782EBD5ADEF6136F6D0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/162" tvg-id="db2cd7a83a7111f7f5f7ce0f19a4a91d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/685190363?ticket=E6DA805A228CBA029802721C5004649634280C97&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/87" tvg-id="bc92dfa8e0d65ad07030bde2acfcff5a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/685740732?ticket=184DB1065218B60CCD44D995AC727553D6492DDB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/144" tvg-id="a0fa59a93cbdd0b8d8db45b16319d09c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/693762720?ticket=D3383565E4E367ABD1DD775F9EF249CEA1DC6C74&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/63" tvg-id="be075fa96e46a88c437db555dd5f8d76",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/694093758?ticket=CAB78FCA3A57B47ABFD7E682C64C6B5F793C3364&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/145" tvg-id="d26e642909baedda8add9442709a3442",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/694447826?ticket=9C86FF5CBD97168D5B2F650D86D8F6160C178EA4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/11" tvg-id="d87780a9dfad03fbb07b621d23ce8c13",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/696285144?ticket=E51527977877C759FCE41325F39B5ECC4CB0ADA8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/41" tvg-id="824398a955b3acc02fb6a7a2d36da45a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/697844610?ticket=097914AB4C80EB20A6F37B5C0848655B94C60FDC&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/66" tvg-id="02193d2a63147021d8a4481b826a0cda",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/708647170?ticket=D077592DE73D05EAB5AA7FA4F0065760F2A54C96&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/5" tvg-id="38c8ddaaada5292792fd3f20b5c179f1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/719177784?ticket=156897E35908C512840E87EB059BCBCA76334323&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/14" tvg-id="e8de06ab6958f8a1518f8d6f1e68d464",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/721870568?ticket=CACC7376C5668BA086F867747F71B5F629454AA2&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/184" tvg-id="23a2172b63513f2c247e6355e7a49e18",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/722969123?ticket=F2CAAEECD2C2A02C4C9A083CF729C8CC904508E5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/206" tvg-id="ea0951ab200f96fe44303c82f106983f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/726731242?ticket=4709456168F211F6B02C58B54BCC80A6506642AA&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/98" tvg-id="7588682bc996ae7190d14280780be7f5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/728270965?ticket=E6922411DF97F7C85B7023F6F133BE9101538E42&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/261" tvg-id="f2b4b5ab27719c3ff728144cca47b822",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/733328626?ticket=84356F830BDC29FABA1FCC0140F6E0F371680F36&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/27" tvg-id="15694b2cb5df21533d06512c18b5a1c8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/743139605?ticket=20DDF2E9EA0B2EDEA68798D474427095735C165E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/9" tvg-id="1c37d6accdd90d5c736348ca14803336",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/752236316?ticket=618E19941463610012C80ED9ADD35DC9EA46E5DF&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/8" tvg-id="c874eeaca32ca9d16f395dbb9e1e1a72",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/753824968?ticket=1742337DD4FD58AA1378BB1F99A5D520DCC84A1F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/147" tvg-id="781b64ad401a14248d7835d1e7caff87",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/761535352?ticket=D3E010CC508EF24C14939CAC7FADF09A5F4B4215&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/4" tvg-id="faf56b2d63138aa0c3a2e1f6472cdcd5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/762050042?ticket=4C43BCA8EE132A46B0FE4D3F349683A2DA65A61F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/92" tvg-id="9f3d90ad95ce0bd53c703cdea3ac678b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/764427679?ticket=7885D6FFC6A4635F85FE2E6F78D63BC7A7CD9288&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/101" tvg-id="9de1d72d992d2d6de0f01fc003c95eb9",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/769122717?ticket=7FB332CD926F8960D7DF938DD3858006A79C143D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/211" tvg-id="d4594f2eb4a1c5f1dae71c97b07573dc",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/776952276?ticket=08DF2FD64A0B0E40A33264226B238BDC21612364&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/10" tvg-id="055152aeb5b3e892ce2a9c1294a127ba",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/777146629?ticket=BDB8422CADA5D0685984FAA74428E4108EE0ABD0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/157" tvg-id="e23b87aec59409786bdc7936cd9cd155",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/780614626?ticket=AD1A05755629B00CBE5FFE951712F2BAEFFF8F34&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/48" tvg-id="66bd99aefe9cfa9de16603ab1d5b477d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/781827430?ticket=4EE8D4BDFB52508365F96971C899494F4E3C96AD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/13" tvg-id="cc1e442f0c5bb776c14744c21914c3a5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/792993484?ticket=B85A217031FE683321CB3B5A8396547309B33608&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/231" tvg-id="80344daf9d8c8dfecff1aebcd934f271",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/793588864?ticket=2258EBD60536DF1E8E625EDD294D62FA46784BCA&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/53" tvg-id="5012ed2fcaaac775c48d5eef927f3483",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/804065872?ticket=1E04419524A6EE2846FBEE1CDD91723F28161289&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/44" tvg-id="e9773630b16fcf3d3cc2de61b3cd4af1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/808876009?ticket=D6C62AA57B3B394CE1E795A9420E28F84BD86BC6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/71" tvg-id="74e33cb080a65b992ee9aa610754e638",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/809296756?ticket=B00BEDD6FE5E73DC0ACC0C2CBC9F47CAF351306D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/191" tvg-id="c0e645b034a1f5c28092d4cacbcf6342",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/809887424?ticket=470218D9E70DDE3A955BC4F4ABC54D2626DE814B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/67" tvg-id="ef2353b011abc99b4f73c71fbd086ae2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/810755055?ticket=38B34FE7C16762BF62F302C711FD3EC615F43410&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/96" tvg-id="c646a4b05793821084004be6060f4e3e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/816072390?ticket=23D333C20033F828675FEBE0E0B6D2B58EFCF792&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/86" tvg-id="764dc3b0e5de92f5bd066d731f173586",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/818105718?ticket=4667E1CDF7BB6E7068A7655B2F6BB0679CAE49C0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/196" tvg-id="4469eab0e1350c277152d35cbca06830",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/820668740?ticket=8915BFB7083F2F4A91AC99EBAD3AA10AA648F52F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/151" tvg-id="135c1d31b22880af515426461a06755b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/824007699?ticket=A057A9190C28EAD3F30865FF51AF2848D9651075&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/50" tvg-id="14415fb1405bbf190a887a1f27d36356",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/828326164?ticket=82EA693B1FAD62B9E70619DD6E5F4ACFCE0C3BE7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/118" tvg-id="fb37a7b1cc015f6fa14f9323f3cf2407",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/833042427?ticket=086B6ACABE749863BD73D5257C4342F40525A42D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/106" tvg-id="94d3b5b1c086896cb012b9a5f870a06f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/833999764?ticket=72170E21E4EA4F15C1042B09D69296F607EF1BD3&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/215" tvg-id="053200b2c53857048c7869edf9f65149",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/838873605?ticket=A90D1BC0CB8F0073A95C2CA1C0AE065C07B17C1E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/113" tvg-id="facd113244b18be43a4e233e40e87d78",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/840027642?ticket=8E7714E3054CB5D85D37A7B27DD4E84A007E9416&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/154" tvg-id="0d3b5fb2ac5d5c3332e633372ea6021d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/845101837?ticket=B80D100F5F97034024A45C2065B3AB8C0F2F71F8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/169" tvg-id="810264b220721bc54784db0062bb24a8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/845415041?ticket=ABC538109F9532171EDE68D1337C9F0886F68552&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/281" tvg-id="9aa9af322db3ec18b5ad7cb966d25b66",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/850373018?ticket=E1855CDAFE3B49A32D9F01058031DA596570734B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/30" tvg-id="80302133170849ec82cbdf4037b8ed65",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/857813120?ticket=892C2846989BAB5E3D7B4C18447484C161005544&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/185" tvg-id="146e4933a589443faf57c039f1d64cdb",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/860450324?ticket=F440C9B04CD31B151D1CA9FA34CBFECDFDDFEB5D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/285" tvg-id="57118c3368367c42948babfe57ef8465",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/864817495?ticket=D17C577A8B9014FE2BF26FAEB136EAABCCAF7000&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/20" tvg-id="2979d233048e545d3befa57a18575901",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/869431593?ticket=EF372A5C8B1F4FDBAF374013374DA23F04A48861&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/21" tvg-id="95f689b40fe50124db14470d51cd898e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/881456789?ticket=C6495F63D02E92F9CEBE4A45806EE47217E38A75&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/49" tvg-id="b00ed6b4c5b257a61022398d8ad4f414",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/886443696?ticket=BEB695AA20E9749C30D06018F0C4B3BAD66FCBB7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/22" tvg-id="438b0435e2a5f5b7c5a30d9650278693",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/889490243?ticket=1081962575F390700A5D866EC2FED496B92033CD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/272" tvg-id="ad1a4fb538bb0fe1cdf281043edb8302",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/894376621?ticket=11A036FB386CD2D988C08441D145FB84AD9BAB52&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/142" tvg-id="79bd80b5530525b0c8a94eb0f310c0cf",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/897629561?ticket=3DA51030D7967A398C1B4232DFF54D60A6C1F0FC&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/208" tvg-id="62598d3570d1b2f51aa693d9c37a3e23",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/898455906?ticket=16ACA13E722EAC5A0FE6A29B74F8A25BF90F5977&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/37" tvg-id="9d36dd35f9f0bbdb765bf27435a36546",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/903689885?ticket=8334B2845B5B328884BED61C117FD85ACDA28E88&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/267" tvg-id="d75e52361680d6b78b2a25bd980bd02b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/911367895?ticket=D352485D09DA168B79B9A9C62FEDC5E8A9C68FB9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/2" tvg-id="d67086b6899ef5acfdb18432ea2698f4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/914780374?ticket=9CEBD592D504E8572E11000497F786C1707A6298&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/279" tvg-id="67959f3610fd992a8c2c805a5cf6ec0b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/916428135?ticket=E41CCB12293D14AEE5321027C5577314BB509624&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/204" tvg-id="f4cad3b632f45a3c5b7cf85ed88cc8fe",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/919849716?ticket=5DD10CC5E470783799B5894187A548BDE849A9D8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/27" tvg-id="67ff033748b1be5b7d97c38f7400d8c4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/923008871?ticket=2F802E42A9F92352FC4CC7E652E45AB209898454&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/69" tvg-id="0be729b7b2d5854c067b082b36c5e43b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/925493003?ticket=FAB3B1A5F5D63EE00CE21065F64C809307B26E42&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/62" tvg-id="2b4432b750a5265a3c45cb687153dcf0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/926041131?ticket=71FBFCDACC0A7A0D6D47946BE4982C9B68EB9C24&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/100" tvg-id="c15d3f37e3ffec551a48961e8fa99e1c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/926899649?ticket=4435C3C5D7DD5889AEC3AE91AD2A68E9BDB27FE8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/158" tvg-id="c58f49b7c3d114bb4e97143baadffde8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/927567813?ticket=EADA1A8848D84B671AEB402921FF8A9C6AD472A6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/125" tvg-id="095f8cb759be5a4cb16626891c7a508b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/931946249?ticket=E3C7B77CC980E8C8DE619164AA4EAA3202A7BB2E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/15" tvg-id="8dd897b7d8d6f4da1a1111dadb61aad9",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/932698253?ticket=35A9294D417C029916BE36CA520D46061A473087&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/64" tvg-id="367c9cb72594ddd05b621c2f29d45212",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/933002294?ticket=D2F0C6FB8ECBF592772C2D43C2AE712AD1CEEF7F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/23" tvg-id="3108bcb7eba713a7aba9898a8033e846",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/935069745?ticket=5B2DAF27555DE90AE91946675D5BD6AD2C316DAA&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/169" tvg-id="14a21338729b7e8831c8b888f9985ae0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/940810772?ticket=E4768583D743D2AD1404C8EC5600E333B523322F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/4" tvg-id="0c2290b89514b132a47f440b704c75b1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/948969996?ticket=DF8DCDC51D468E48BE0F908002C7ABBD9B92FEF8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/50" tvg-id="f0d7bb38f0c2834b21c25ac38a32494d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/951834608?ticket=59DAA10632AE1CECFD0EE87896B78D2A2CD948F9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/66" tvg-id="234820391e321e59898f6f553d129873",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/958416931?ticket=770E01D35ABDA0C56449CAB3AD711C2C468A6146&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/12" tvg-id="9ce85ab9cdfb3a33df1ae2f495c0ef3a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/962259100?ticket=64DFAB08FA0824B04A6C8E2C85F58FD3C903C526&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/18" tvg-id="ed2a8ab9467934c1516ac83954bfd721",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/965356269?ticket=2E21850F59C2162D38DC3C94E00906FD6B46FB1F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/39" tvg-id="46308b3953aa489a2797c8e698c102f3",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/965423174?ticket=D03D4F2A41861A9CF874BB6686E88741B7234956&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/108" tvg-id="9348f0393123d7dc477b98a0721e8382",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/972048531?ticket=7EE5D75750EA7BDDFAFE81FBF52E9F7A2CBD368B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/72" tvg-id="05fbf4b96d5ca8c06ef2c52ff2da32ca",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/972356357?ticket=4C62A39AFA029446F8D0B2443C0F708C3983F1C3&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/260" tvg-id="d5e40dba8676db8cd9a1d3b5ff7d0464",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/973989077?ticket=AB1502C9FEE4DD600D4596EFF200E12E2D46B29A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/26" tvg-id="55d70ebab662e66135ac15128226f846",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/974051157?ticket=FA63BAC0FA3EAAD0ADEAFB45E4670984EEF49200&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/126" tvg-id="9b345f3a23d46cdc919bba8d0ab909f5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/979317915?ticket=6CA256F341A9812CCBF45D7BB32048347F653302&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/41" tvg-id="46777d3a336674f7a0509262161563ed",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/981301062?ticket=B6EEC1C893638B59F84B813E9A69D84A847E7B48&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/34" tvg-id="cd7eb2bab05cc065f8a05e27b36facea",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/984776397?ticket=7624FB503D264C5079E1A4F7FCE2C05068255E55&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/161" tvg-id="e733d83b8167181c7de12bd23077b326",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1004024807?ticket=DDDF2756C3B6DA7D8D2A9AB9A8F2036F972C8E53&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/12" tvg-id="7e2cf13bb8f3ba1937bda798f39ef59c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1005661310?ticket=0772B8CA36D0E7804E0809E843C83B9586B53752&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/155" tvg-id="6cd35abcf0f029bbee56e6c669541aa0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1012585324?ticket=1F58F0F61BB6371014507DCC27FF972A06201C9B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/77" tvg-id="4663753ce1e922056d40cfb24295f5af",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1014326086?ticket=AB97AF5EDD891BF9E4DE34F8CE8B37D827FE875A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/74" tvg-id="72e27dbc02e0df4bca224a54eeae6156",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1014882930?ticket=578EBE487C6069B5487717CB11D23C71F51DD1FF&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/232" tvg-id="6bd980bcc1392af36b6b69f633cae1f5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1015077227?ticket=842AE8BAB9CE7FED8E5529D4237F1030E9BAC630&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/84" tvg-id="38c588bcb5ebf7d423c46acd53c6ef3c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1015596344?ticket=9B1FBEFD82FEB96B5AB732A1E8DC15DF1498A3BA&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/21" tvg-id="d7c5fe3c86ae613a74071dedbe6433da",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1023329751?ticket=9DDC586BC12290A590C0630429F5138528FA47FB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/20" tvg-id="cc2a823dee4c2ef7e9060ee86ac19924",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1031940812?ticket=F8205D99248D5C9A9FC5C97C5F609085B049A426&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/84" tvg-id="afc4a33d42d25eeff621a71258c635ae",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1034142895?ticket=EFA6FC72DBC5FA4C1F4B31BD418AC6F3F7A95107&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/141" tvg-id="7a2de23d4b524db1c2d0fbcf2a945c10",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1038232954?ticket=DE015DA9E50CF678E86A93A3F81B75F9367264A4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/60" tvg-id="7aa60cbec559d577ebf1531ae07f9586",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1041016442?ticket=8D6811C73A3FDD2F4D58375BCD4F7E1CF6724ADE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/128" tvg-id="74111cbeb74a726a85a8d2f3c3ad9da5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1042026868?ticket=0D8E64F7743153A7850E10D482360AA09B40329B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/30" tvg-id="922a2abe3c5a21df2f8bb2a4b5e8a78b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1042950802?ticket=3534D723F0B99DDB9713047EDA060A56672CF357&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/82" tvg-id="5dbf45be18f9d0e43c259c16267c49bc",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1044758365?ticket=35DFE5D9F3CB60281950B53C8132FB44ECF7EC68&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/19" tvg-id="456f4dbe41a49c934ad6a38302ad644c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1045262149?ticket=45074833A739F52760576D49AD754F7C5D4A6B92&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/221" tvg-id="35486dbeaa34b5be9aef0df36aa1cb45",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1047349301?ticket=682F4C7BBCCFB557BD50F48F0F99ACE4647603FE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/216" tvg-id="ba72783e8790a32c452314fe5552c800",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1048081082?ticket=EF5E0231E1CE4D242087D3622FBBDA7F9A43BB0B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/58" tvg-id="4eef7fbe5eebdb4a591f56fb302e2839",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1048571726?ticket=874E6E4505BCE21B2978BA279744403B4478DF75&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/115" tvg-id="2eec963e10ee131956830c4715baa53e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1050078254?ticket=EEB30D1D7DC57A0178F8A55597F0F278274923EE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/103" tvg-id="2affffbe82d272967e1d665218c05009",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1056964394?ticket=4CCAE7F01C7CB0945F2DE3C5674898564265169F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/150" tvg-id="22f0623f77530f8f6c29528d845635d4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1063448610?ticket=AA182E9EC70333CF6963F102E63BC42773CC87F6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/168" tvg-id="60a08cbf5c61d675bddf960f664dbe2a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1066180704?ticket=347DA659A00ECD14B8FD78566832E07A318E1748&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/29" tvg-id="8590d13f5e56cd5eab0ce74651ecf43b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1070698629?ticket=E787CE75F26EF473D6AAC0EE6ED854DB4EDA7BD3&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/47" tvg-id="7eb3424061857a355fe515af4036582e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1078113150?ticket=4CDEC3DF48053D3934F4B0D24CAE0FD54E194AFD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/76" tvg-id="be404440826f7c0973f1dceb15e93d1c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1078214846?ticket=F1D7A6C4BD8C7081F4CB2EF07EDE1CAB96860B4C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/57" tvg-id="2ba34b40869d3700cd2b3906b334e755",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1078698795?ticket=C009E8331D9C53256AE98DC9E32C0A65381F18DD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/65" tvg-id="4c18844098e6aaba2c4e0154996f9267",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1082398796?ticket=8FB7D6B08778BCD08FDC77FCB2A5228FD05676A9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/59" tvg-id="8d32b740d28a3eb0be1f460689d5e1db",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1085747853?ticket=036BF557C37EFD1A36F77401C18D9031B22CC9DD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/139" tvg-id="1430f4c01d89bb42d4ed67b83ca1c554",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1089744916?ticket=A3D2ABB9C0973F38463D5CB05E14EB65BA9ED0BF&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/18" tvg-id="368d12411ddff395a4ba20af31402403",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1091734838?ticket=38CFB7C5E216A1055AFC753522235F9F882EACCB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/153" tvg-id="f7af65c1f11bc7f56d6d241651554eb1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1097183223?ticket=EDAAC7EA7C5E44FDBDCCC14B198B62AAA989641C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/9" tvg-id="988988c1ef1b792574c2b7f26bd4c790",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1099467160?ticket=77D9137F922289AE7106F09CF15494E2C76C87A7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/201" tvg-id="ef82adc12c107c7e04fd9579e20cd229",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1101890287?ticket=4821C114DA136D1580B0272990D817A76E5EBEAB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/40" tvg-id="0c2ae7c10316fc682aedbd03c5a92329",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1105668620?ticket=14B939397D0B366651B13D82D50B9839AB5D6EAD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/14" tvg-id="50c80a421ab979a5db424c7fc10070e2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1108002896?ticket=8E7DCC98C32F693CC2EC2E01F0C3EA6DDACDCDF8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/262" tvg-id="d1fb0ac2c2ee47e11174271fcd7b3be1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1108016081?ticket=CF2587AB8E46146D5D8C81CB0E235E963B892AB2&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/10" tvg-id="0cd64fc23f2e4485b1f3548383030959",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1112528396?ticket=E325F580D8F1C7BA61BF05F8324E0950A27E798C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/111" tvg-id="184c5c42a3f105bb5499c4871d12faa3",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1113345048?ticket=8B7B3693B032C1C06B76E50DEF70C7AE4CDF6BB2&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/6" tvg-id="89259cc2df986621ef185701d7a33a48",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1117529481?ticket=3FB6EC1E73D9F9333497574A6C84E96DB5DA9D15&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/2" tvg-id="0caca8c2c803c471401c12a669396ccd",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1118350348?ticket=9A4277892761259CB0B5A6E5AC46DCA046B21311&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/23" tvg-id="b846c042806ab9505a3ae26497bb7096",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1119897272?ticket=86EEF15CAD4B0A61FBF4BE47F875471590AFBD40&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/91" tvg-id="1c0e1b43fb78a020741e559bc92816f1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1125846556?ticket=22D2C2B223400C52C881318E50643253B6B665D8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/124" tvg-id="a9e52dc3f33989e7786f7698c0dad2c4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1127081385?ticket=6B687C92BFDB7A0180027DC3BF532603CA3AAD88&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/12" tvg-id="5dd93ac3876f749553d94a682a468b99",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1127930205?ticket=164818574D1F1D0D7F0285DB4132BE5D5DEAAC3B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/4" tvg-id="985eb6439ed098ff9b0b937841a6c28c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1136025240?ticket=24E5F56AC8B3D736A188E077F7AAEAA717DDC745&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/230" tvg-id="b3d2cd43198e2ac724de035e373e7a9c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1137562291?ticket=28D742ADF01FE09670C7910B0E6D320182984B33&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/248" tvg-id="f688e543b118c0da2d36679d8a7fbac8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1139116278?ticket=7C38A46B2C02463E58DC407C285F39E80766C662&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/11" tvg-id="31745dc40f828f37625affb7e73ca94a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1146975281?ticket=6BAF0E8A1A75664C1B3599A10D5D4B28CF642C0B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/107" tvg-id="78357bc47a3f5c9fbff7ca4023af067a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1148925304?ticket=24809F03A912A0E49A7FA534961E7006CF0BA7A5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/20" tvg-id="78c7aec42ede035122738d4347d12cc2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1152305016?ticket=9584C1241FB46E1A5FC8AE80FE7E545AEDC952D3&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/1" tvg-id="c69cb6449c8f734c15605e4945593e45",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1152818374?ticket=B506A10F56DA376730412F5671EF474598F2EA5E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/123" tvg-id="db4ad244119612ba4253d7128b311659",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1154632411?ticket=3EBCEB263DA86272418C1DA835EAF5C5F2476118&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/54" tvg-id="7e7adac4cc901238e4ddaacd80b84c9a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1155168894?ticket=D2462A69C897042303BC0A6D8FABC02E074584D5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/224" tvg-id="74b6e3c42e11c6fd46f1b38445e7c4af",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1155774068?ticket=E3416E55B01BD4E6AE3421D5F3B7EDAC8C2E1F08&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/19" tvg-id="44a302c549834cd123b35b8d7bccc754",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1157800772?ticket=5C9B5A40C45C98D6610C3951844642B7DE5EC323&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/19" tvg-id="256d1d4540dc26eee1f9c5ad8f1c21e0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1159556389?ticket=1E3D5ED384B4F8B7A46096802DBB109A2AB9F429&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/104" tvg-id="9e06d4c5473d9e962a396c35cee03340",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1171523230?ticket=5721D4513268DD7DD9C2ED433144C40C17050118&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/1" tvg-id="fd48d5464cb3ce63041f2790dba056e7",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1188382973?ticket=DC233A494958A87AF9663F715B5B022B18658431&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/283" tvg-id="26d7fec62d65660557eb12939932d058",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1191106342?ticket=699E1503E68488414C5752C222294DA1BD8C01F4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/80" tvg-id="749b20c7c669cf4826841fc8103316e8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1193319284?ticket=E4737BA45A6381B037248047880D64390E94D287&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/280" tvg-id="ff842847b1b1e69984c64a8b73d9b738",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1193837823?ticket=35F3E3A158832F136427C59834EB6E823D7D3C2A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/228" tvg-id="b7f747479ba006af62b7f2c542ffa261",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1195898807?ticket=3A235C8403CC815643F75DDC6B28610E1FE564A5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/15" tvg-id="736bb34790b3569d2975b8a1614d1bbc",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1202940787?ticket=7478CD49571DAF01AEE0ED904807A71C77ADD1C5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/152" tvg-id="b979d8c7205d8abaad931f9bd9021e7e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1205369273?ticket=A34F2AA2CFB5D26EB4FADEC31A0FE0DCC51E1AFD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/62" tvg-id="e0d0f7c7c48941dbd1c7c89acea1cdf0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1207423200?ticket=61F3C8DE8580679DA4CEC29F2D0519DBF0B44473&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/43" tvg-id="5f071fc83c36174e766b2370a6546648",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1209993055?ticket=615FBE600C477C10E48D81D5300C63CADD95CDC6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/219" tvg-id="0e613948cda59649b4ef81620844f68d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1211719950?ticket=D612E3BE075F772D02CC8EDAA6AE3E4103BB0283&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/157" tvg-id="81a240c89017e3aa876ec4ecab0054b5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1212195457?ticket=DD3C4D1CE87EF3CFB3618D1F9B525DED72269C76&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/81" tvg-id="f7f841c8f795a0d60d4edf5afcce475f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1212283127?ticket=66F5F9B179C2A922BA4EC12D6A8CF48A84136DB6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/9" tvg-id="6e7f9d4833eb67908d2298ca125efa52",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1218281326?ticket=65E5B9E5FE197097A483A55C9B43C8E9C761045A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/43" tvg-id="164bad48e0c15bff7190fc73ee94ef16",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1219316502?ticket=3B4497DBFE0FB422F840F056D53E0F0A894A1728&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/38" tvg-id="5eda0e49587844ce7373ce182491b93d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1225710174?ticket=A8E3750C9579C9DD6528D40DED71207E321651E0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/166" tvg-id="4724524956033efd3fea8d93a6bfba36",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1230120007?ticket=B5F32AC60F59433E2A39AAB965582CDEC35A097F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/87" tvg-id="f66961c9e02210c8cdfd659b0c84c105",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1231120886?ticket=988F60032BD68DDF8E5A79976F47818158293783&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/57" tvg-id="8440b1490dc18ed47d08938224dd73d9",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1236353156?ticket=AAFE35BDC99C3FEB001055DD8B216BDE6C5361B5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/13" tvg-id="5896bb49f19efae21f15f55f756c2074",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1237030488?ticket=F647E633BD0C39F280AEFE145909768527D39979&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/37" tvg-id="1d47ea49caec4630d32b037b8c370962",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1240090397?ticket=FC18BA5D13A091D97DE38442AFCF54D3AF435982&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/233" tvg-id="d5e849cae1d39f2783d963442edda9a7",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1246357717?ticket=0103CAA48C370A641953593D7A8EF42AAC4B38E9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/93" tvg-id="b8cc8d4aa5344c592508958f28740604",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1250806968?ticket=A2140C6880403CF1FC50AF081651EAA884D0475E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/212" tvg-id="a1b890cac2ae65105d4107de03c1d12a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1250998433?ticket=F2A99FFE34FF163CCE040B560FEF533A84E5F107&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/67" tvg-id="0a541fcbb34adf855dc55f8e7c301a31",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1260344330?ticket=278967E1DC3987F8867544EBEEC4D6683EF20D5C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/251" tvg-id="564d654b4d384d172b238cc21c899b3a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1264930134?ticket=0D0C3847EDF6A13898478AF948E704192F360612&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/76" tvg-id="d3ce76cb1c7752dc2af27b5a5b36c5d6",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1266077395?ticket=9E5D0BFD77C5AEBB31F5D805C53211E5593DBDC8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/79" tvg-id="be5da64b5ec2aca0dd6f1864daf58dfb",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1269194174?ticket=99976C677B8C81085BE27A887EBB5D4F6B3376A8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/24" tvg-id="f4a8a6cbb4a6aa216edb07b990f35670",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1269213428?ticket=815E4C495050E3F779BA27FC8296180DD2ACEA81&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/129" tvg-id="c729bd4be52ff1d96b36f0bce42e56b9",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1270688199?ticket=9F27754B551DB967BD9ED23A6757040BBB7DEE7A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/72" tvg-id="1995cfcb48313acc71aa448b75f9d968",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1271895321?ticket=331C443A2CE98BDF2A59644DA971ACBEFBC5C97A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/168" tvg-id="f510e24b147505e66a6bced05360c5d6",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1273106677?ticket=C360CA20178C7C848CA20FDC33792B8A28297297&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/225" tvg-id="3a623d4cf245544a1a69c76506c74382",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1279091258?ticket=F3F7C7A388F130C8A73BD27B6DCEDB7BF140BCC6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/90" tvg-id="85b2884cc39acbca0879c2c0a86e296c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1284027013?ticket=C4ECFF2D69971A6C272D0C17779614FA98B27AE2&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/47" tvg-id="ec7fa64c643c1fa23badaf1c7ce2602b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1285980140?ticket=5F923A834A48D92295AD2814AA46DE00BC97892D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/58" tvg-id="719eadcc560382b402e73d97b9c85046",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1286446705?ticket=E1867BE14A3100BBC7F932D82889305DB7A0156D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/15" tvg-id="de22d24c11d0b9e95b1e73d3b87f5865",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1288839902?ticket=569181495CD685B25AACA4946AC10E6FDCF8F5A0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/105" tvg-id="b2d008cd0ea0a44584d2d651930afe30",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1292423346?ticket=BEDA30AEF5C94EC4E7DE13E779388BF1A0A85884&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/193" tvg-id="8d7b0d4d60148c0c8fdda19d1f9cc472",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1292729229?ticket=34F57CA34D05F10D7EFDE673BA72677B658FF37F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/36" tvg-id="6c183dcd818192de41980ddde44bf349",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1295849580?ticket=7061F2D0AA06497AEAD4F8E8BFC2E3BDA54B6D90&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/12" tvg-id="e69c554dc513781b562be4b24202b4e9",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1297456358?ticket=48F91AD47B155BFA8F0C94F99D191DEB37CA8B56&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/30" tvg-id="57b45bcd5b99ec2ddc9b4e1c9f1cd692",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1297855575?ticket=B694E5093BF33D757FEA0C15C8DAF37B57CE5347&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/278" tvg-id="ae4269cdddf541e0f7f9bdb5d95c33cf",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1298743982?ticket=22D37D046584440385F34CCDAD9582B34D0037F0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/69" tvg-id="c082ee4d05dd16fe9d503943a30def08",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1307476672?ticket=448E15B3E6A7F2D1267F88740E4832F07921B6B1&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/14" tvg-id="01edc6ce82c40ee0fec3a99b8a7f7f2a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1321659649?ticket=AFB6A28B7C633745EECA25AF132DF3DD86459D30&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/87" tvg-id="d44edd4e1c4d9f6519fa833380b2372d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1323126484?ticket=06AE511D68E91005960BAC2F262734726629BEC4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/93" tvg-id="3ca65d4ff510a402d8f2824f986c60a6",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1331537468?ticket=E4EDBE6C0072585F82E41C01062497170D79720A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/40" tvg-id="3b11a54f308733b9f3bf3bc76f040533",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1336217915?ticket=EC77B70A2506A09BBBC89094144A54ED9D20D5BC&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/155" tvg-id="0da7f4cf02ffc94b798fe4f827aa4804",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1341433613?ticket=2852C64D5BBDF7119B6699B1730ACE89A2157635&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/109" tvg-id="f71967d0594a12444b9343cc4402503e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1348934135?ticket=0569A008517C7B9C8591EDBDF4FDC4E6927A9B42&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/26" tvg-id="82478850014b79306ff43cb2dea0f2bb",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1351108482?ticket=CA4AC85B045BF75ADB0B0A097FC5C6D52E5C995A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/10" tvg-id="149d98d03138f77d5636f235d050e24e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1352178964?ticket=603E4AE42BEF2030325D32C2711C47DC2CCC9D6D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/81" tvg-id="df8ba8508bbfa3cd0d3b794f6d6b2e51",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1353223135?ticket=990110EC2C11579119AE70E2856B76A48471B8AE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/118" tvg-id="485312d1b1d9a12cb86ecc863ea7b855",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1360155464?ticket=70230D3CDF227D438BD1329008FA01A26687C8F4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/6" tvg-id="602a4651686100294d32cd1a44767113",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1363552864?ticket=1F5E2536305D0C721CAB9CD9CBA382456CE6ED9D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/160" tvg-id="52d095d184aaa7b33261802f1bf4a270",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1368772690?ticket=C12BD3E2BCCA847987323515B57CCD179DA2A3FD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/28" tvg-id="57d5ac51fefb2377f96bf949f85c0b2f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1370281303?ticket=644154DE0BD58DCDAD49F9E027C352466AF0C29E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/88" tvg-id="ff63c4d1af082140e4c9b4c1b4cff4f2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1371825151?ticket=4E0EE1375DDA189A4661F05CC25E5AD920E08DC9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/32" tvg-id="6357ced1e35670c879525440948bfe08",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1372477283?ticket=49F4B39F3F01642C61B93BB20C8A774B076C8900&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/39" tvg-id="abbc265214916fec051c75b854f087e6",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1378270379?ticket=4BB41646731F098719FBBBFD950C7A452F29EAAE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/127" tvg-id="00f929d2fcef14ba610805702aea26ed",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1378482432?ticket=CCE30FB6A73259CB32F7237DE02F5886E0191C25&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/31" tvg-id="b2624e5268f7ff929070fb16751b6be9",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1380868786?ticket=6A05CF7902BB0B577E4D528FDBE3C35364532558&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/200" tvg-id="698b52d2aa7a16f1212170a688969753",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1381141353?ticket=1C68848FC599C7A51ED28CBD8F003AD0E6E314D9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/18" tvg-id="2ac258d2d3f68d6c9df843e20525c17f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1381548586?ticket=4F2673642C5CBEE2574796AF0C4D3E038D464920&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/17" tvg-id="ff6180d23a6b8b29d21a68051d1d56bc",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1384145407?ticket=395859D0EDFED84A97B03032D0E392C5116A586D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/96" tvg-id="0da0a7524f63079529d564e32c4a2a5a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1386717197?ticket=A7EF674E7207EBB1C1F7D77A864CC863B58ED49B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/19" tvg-id="990bf5522718b2be1fb18538575df799",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1391791001?ticket=F4C0EF03439548882E361941C936029E7FD286C6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/71" tvg-id="756c3ed31f3ac696f1130332596b7c3e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1396599925?ticket=081A4128E6CE869DA2D13282D2FF2868F51E8259&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/98" tvg-id="3393405359ae5036d9bcaaa397f4903c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1396740915?ticket=849F482FE06F8A59DBCF997ECA7FA4E6D11C9A72&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/11" tvg-id="219351d31ba3032d1a5975671ebc9a1f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1397855009?ticket=C434F40EF4EC07DC8715DA2DF0A57DE7A301D3B0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/43" tvg-id="164d57d30ef7559be62ee22ead049035",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1398230294?ticket=EF4FBA03F248ACFE83D15BBE44710AB82C95FEBA&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/265" tvg-id="91ad6553dace3cfb7a589c7883197d1a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1399172497?ticket=6077A1A9423D9F367C73DC4C2BEC89F70587AA31&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/6" tvg-id="3b97d353abda83dbc9471d4e6484a7d3",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1406375739?ticket=36DE2A3BC4376BDA8454331325535FED8FE1723D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/205" tvg-id="2e2d0cd4dc1ea454ca03c11fd399cf6a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1410084142?ticket=66EADF3FC7336B7835B0AD420B461894C347107A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/22" tvg-id="82b373544865d388c6b42306c04111b5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1416868738?ticket=2C3B8876F632D0147CEF01AD58903427555492A4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/14" tvg-id="1addd8d4da98c6264f489663b9aa39b7",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1423498522?ticket=8721DC998E5C616F994EB16E5B5BB0776CEC77F7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/12" tvg-id="49d7dad4fdde736f68809a331319daa7",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1423628105?ticket=B64E74D1F5D20E8D387BBD729CA1C0B9C9BC42C0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/210" tvg-id="dd57e2d4cc0724d11a2f1bbd40a8bb0b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1424119773?ticket=6E505A98563B2B67112D4978C377695471F0FEBB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/15" tvg-id="4e04eb54ea7dbd961afc8f54bf6b7789",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1424688206?ticket=48323701D81B47C79A85EDFE209D84248C65060F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/77" tvg-id="e1e914d5f1cb27d0d9ed510c93c9a75d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1427433953?ticket=12F1DADD2037B80C009E6BCF6F591A1AB4D024F1&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/97" tvg-id="c7f55055ffbdfb70439261392e9093a2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1431369159?ticket=9A35A58F9C676D5FC5C845F41E37527FA9BF9397&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/7" tvg-id="9aaa53553b8dfbbd250e9b3a0664f750",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1431546522?ticket=1D88BF0103FC30EF23405E3D8FE5B261B23E5E4F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/18" tvg-id="e24fa8d5f99f70e28a4100b74e2283aa",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1437093858?ticket=8FBBE81F1EFD1511D174FB7217C9B0870D8C2B20&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/45" tvg-id="30b13956d72e2a546fe8bd8efe93c837",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1446621488?ticket=F7B093C14697836D83F37355FF2174DD9FD8C8EB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/146" tvg-id="48986656ce147e822385837109395406",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1449564232?ticket=52E3E371C4758C57553ABC79CCEA82AFB0E5AFBD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/5" tvg-id="af4f7bd6af13e2f26621ee9bbf4d8dc3",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1450921903?ticket=0CE4346BB4B1A9D84BEF1F88E2E620BC52A1167F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/106" tvg-id="0a7e28d73d0b7ea80974d4e95f470532",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1462271498?ticket=FC1E7839E9C4D814D576120E68CE3275F38E14E7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/249" tvg-id="58ff28d72e00c6e4e03f4df8772ae27c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1462304600?ticket=306685F992CE66592CB2771292C845A9115DC144&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/29" tvg-id="0dc64bd7c40a7b939c12ce700b1d8883",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1464583693?ticket=03D8A69D8C27B17D7950BC55CCEB65B006C961AD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/94" tvg-id="4672725710e7d9a5e8a094f483cc5d65",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1467118150?ticket=0D70D1B27D85FFE98F8E30FB74D2F15380623BF1&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/56" tvg-id="d3f8cb57095b5f69eff32d319a4821a4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1472985299?ticket=4867B20E5E439CEE78703489C46EF303AAFE2AD4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/253" tvg-id="983af257411f1c96e4124166ac59ca6d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1475492504?ticket=5F7AF26934145616A070678DCCE803B5C0AB2831&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/65" tvg-id="c5d81158e909f72dc5bcef12107358a4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1477564613?ticket=7278A55A045006F3686A901B818951D7AC68E629&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/222" tvg-id="68ac42588ce9e6c65f77ac95faa51143",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1480764520?ticket=704AB19E43E0B19C899C49CA992D5F4EF39A3778&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/245" tvg-id="e8e48858e725a56cdc106c362c1e09af",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1485366504?ticket=3EACA99C3F7401A194C939919064E3019ECD3D3B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/140" tvg-id="dc4b95d8daddf7b7c3d73ff57e4e2977",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1486179292?ticket=D12F263372C5039CFB28B266D11D7870A1F3B246&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/28" tvg-id="5d08a25843513396e2481801d54f2311",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1487013981?ticket=453D6D0240F4B3CF53FDFEC0CB344E89EC18F22F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/177" tvg-id="1f3700d9c0e83cbac7c467788fa22431",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1493186335?ticket=52763B371D22342D9A74AD84E40604AA413B8C39&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/11" tvg-id="f9880cd99b7cd2bbc7c85c1a762a434e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1493993721?ticket=F784F5B281F7B88DD4847442D036C86557CEF550&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/76" tvg-id="50a7225927312b63d904e0601138a523",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1495443280?ticket=D2CF5A39B9C5B53962DF403565DD036CEA1A1B66&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/61" tvg-id="63aa23d9ce10fb90460f9aa10f99175d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1495509603?ticket=D1812F9CD187E588161AB45A7764430235A5189F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/22" tvg-id="da8634d98526534256976d37dd101dae",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1496614618?ticket=72B05C48493CE25B294A7A557CC0E2AE307EAF7C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/115" tvg-id="40344dd95b5b5c48aba7606190a45923",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1498231872?ticket=E3FC5F7FC362E0ECCFDFA648152CA5ED171830B4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/34" tvg-id="2edd4fd9a3ea05b82220f9d390d1fc1d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1498406190?ticket=90A3F4B7AD15E20EE2367FBF3E99B28718E4043F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/148" tvg-id="d85c7cd902551ca07c87b3b57733f223",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1501322456?ticket=0CE7F00F64BB7B7767C7EFC7E439D868879E6098&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/21" tvg-id="7c6ead597ae9d54883bc7b2c4a206614",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1504538236?ticket=37671C2B48FA0B2AEF4DA4B3AC649B7D2A71505F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/61" tvg-id="f8eebd5945c032aa6aab2eac1aa2bd3c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1505619704?ticket=11A05394E9646C3840C3EBD6194C39B60FB15555&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/145" tvg-id="5e55705a71be09dd6a801fea0f4eb792",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1517311326?ticket=C3935308907200F1C85C2404CD332991D68798FC&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/273" tvg-id="5d93555b2f864c875e67cf8a605e7ef9",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1532334941?ticket=619B0A3BB9351F21467F578761A9BE9A2D34BCDF&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/104" tvg-id="43807b5b73ed5645e9f0d6c35d9a8a7d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1534820419?ticket=10F27A4043F8CF9BAFA583EBC728E72F6BF0CB81&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/64" tvg-id="cb7eb25b1170aefd3ecdffe03de5e4a2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1538424523?ticket=004D54676F927C1E7D870F5A591BCFE2F6F464BA&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/12" tvg-id="fea3e6dbd6412f69dd03dee16675aa75",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1541841918?ticket=D4AEAAF51AED7E89CBC4845A3179C92E93720F72&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/7" tvg-id="81452f5c95a700423b0357fd8fe42f9f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1546601857?ticket=98460D0C788592F97A9334913A2E7C0225A06DC3&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/19" tvg-id="198d3b5caf73a27760b0d1ae8492daa0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1547406617?ticket=E720653367B07293010D57DFD2DD250C97626F67&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/110" tvg-id="b8a7835c8b774252d22fe2fda963ad14",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1552132024?ticket=BF4F06598F99CACAE45DD3AE9B3A095B6828F097&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/74" tvg-id="9fecb35cc6c66b00dafc66507460d40d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1555295391?ticket=45660826A9BB82AD09336E9CCDF6B88E2F5FD910&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/93" tvg-id="929502dde97c2bf989df52b3819ea140",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1560450450?ticket=9BCEC0EF6C1D2D2C13E3F20079B961DBEFD371E5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/6" tvg-id="579e02dd92f2eca0e69fe88b68dd33e7",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1560452695?ticket=25449F4CF4D5AEECE9C4D8157F17C0D2A13B56AE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/149" tvg-id="95ee11ddc924ef2a40fe111aa3dd0237",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1561456277?ticket=C487AC31CA91B0EF1EC0C8E62ED170AE61CBF8EE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/24" tvg-id="5120145dad5885972415c44258686b4d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1561600081?ticket=EEEA782815667D1D3CE06D42CCA3048DFEAFAE9F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/132" tvg-id="a7d8215d5e0442c0948749372de43c6c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1562499239?ticket=DDD0482BE5E6A4BFD42255DE580AAD1C3F31FC7C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/162" tvg-id="43e765dd4d5527fc9c9cc4dbec126615",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1566959427?ticket=F53D31F5012A67BAB3B77F3E37AD9064310AFC1C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/3" tvg-id="c49a675d53468dc2ff6a002a1dd2583e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1567070916?ticket=BD33A5B09593AAE884251FB09BE45347C690D9D3&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/21" tvg-id="2dd97dddc41697421ef2bfeedc09c18a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1568528685?ticket=162C4C17F2581BFE443CAF1127F4F27D76AB2C38&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/13" tvg-id="75f57d5d8e29093a7e6bf791d7e2ebe3",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1568535925?ticket=0A0F37FE6B217B04A3020B78DA6C48BA9E830DB0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/179" tvg-id="b8579cddeb9d774084e8f50dc164e8c3",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1570527160?ticket=F0CEA6AE0D0D578DCEB0C50F5AFF5B70DFAAF512&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/1" tvg-id="f9c0c55d775a90b8255d75f17be4c50f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1573241081?ticket=4BE8287E14427F4CE272AB7E5F0A6CC387E5FF1E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/25" tvg-id="be1df3dd33f8ca97f48ea79f589de35c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1576213950?ticket=BEDC36433FC8FE502C0BBDCA9116E3A132910005&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/5" tvg-id="d8680d5e247a753a76f93b3ec7d4714f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1577937112?ticket=73F1EA89619490A59DC1162DBF8CA80A1A0C5A42&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/144" tvg-id="742b2ede1007e798e929f7a859bcb03a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1580084084?ticket=8A64E1648EC6639A72198D8EF8B68E6817215310&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/147" tvg-id="416c4ede5633e2ee3a7d3e85fb3acdb2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1582197825?ticket=7E39D330A18FB66D3031475C9ADF77A6711B466B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/104" tvg-id="d19997de41d7024a85b40a7371c0175a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1586993617?ticket=A203D37F73FED47524054B76AD6B0B18F552647B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/276" tvg-id="8fc8a5de7f1ae804431f86662b741fb4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1587923087?ticket=2E2199B1B12B6C8E6FA05BF4DBBBECF29C551FCC&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/42" tvg-id="098ad35e51a98562bb62566a7c5755d8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1590921737?ticket=2EC98BA5C14008FF2B4187C68E4A961AB19FF979&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/161" tvg-id="a44ae3debd30655e0f4a5c82651050c8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1591954084?ticket=DA3925BB715EB1E27ADEB32BC2085903887A8182&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/34" tvg-id="e17fea5e876a6f1322a378e651fd0206",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1592426465?ticket=5F4498679E1C66889E71B923E711EC08DF17BD98&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/198" tvg-id="e1410d5f8ca1a1d10eb0e0a68afb618c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1594704353?ticket=90BC1C5025D5352580304FCEE13FA49E4FDF5CC5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/180" tvg-id="8695175f90d7418b6cf6b1f449c2c2fe",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1595381126?ticket=C40BB6558E1E026E62D7E0BF90A19351C98712F8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/70" tvg-id="905266dff44eeb320b282a4f023154d4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1600541328?ticket=62094703DAE6489BF56CE4EDF89BB9B4160BC750&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/25" tvg-id="fb4890df43aa465b9c462b33960ce3c7",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1603291387?ticket=A6702145848F3B0CB97D29D3483A0E6D510BACF9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/163" tvg-id="24690ce0af55ac1a1a7b996028ab3468",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1611426084?ticket=0A7E3B5642D53CA997943847A324CC835B7EA20B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/117" tvg-id="ec1316e04c388d03e93fb514e9acf9a4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1612059628?ticket=B2D7E3A8424D0842F17F6086AFF347242C87D9AB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/274" tvg-id="6f8776e0bd87d24fe6d06a6f4c4f278f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1618380655?ticket=D2A7A1276415543F3B97736B515440F536340716&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/85" tvg-id="cb4ac4e07954ebda78ee9c5ce6d33a0b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1623476939?ticket=DE4EA3FC65162EFF35E2D87DFDAD6BDBA264FB12&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/122" tvg-id="e66d04e167f3ab4b66ed052f713981cf",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1627680230?ticket=A952DCD8CE48DA41B99353F7FD18507457E7473A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/91" tvg-id="98635ce1b570880db4cf19b6711680ba",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1633444760?ticket=3C164DF889F394ED3456FDAA2BCBA28755F8B3E5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/6" tvg-id="af7063619364b033fbb80670a99edbc2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1633906863?ticket=B8DDAC5BCCDA02FF223AD4D109AD8736619D7185&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/27" tvg-id="a0936ae1333265d1bcf9da5de6ca4f3b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1634374560?ticket=2432D4C00E6DE701826E4EF7756D2260F167EE5F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/53" tvg-id="fdfe5fe219a79f44be4f5e7e1a01a86d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1650458365?ticket=382851FDC25471223FFA2AB47BC3F36FFD9B33FA&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/214" tvg-id="afc80563d6170822d5eae4b348f39220",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1661323439?ticket=0B3B535631BCBF8372F2F1E1CAAE52BCE92A8B0C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/151" tvg-id="7d5f22e3b6ca4c9e376da6ec9adcae9b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1663197053?ticket=4C522ECBFA952F8C3A3E364D2E4AAAB3D59B4011&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/175" tvg-id="e9a43ae38e316a13d2abb1378a3849ef",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1664787689?ticket=3509F3F209BAC5CB189E86BC64AEC15E10D132C2&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/48" tvg-id="d3246b63b81541de667d443793dcb027",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1667966163?ticket=1BAF24C11B563177A7D4BF88AE8A03FC07A6F4B5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/24" tvg-id="f88586632ef9778cc5e9d42753538762",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1669760504?ticket=238AF99951357F77E3565CC9055F4855EC0734CF&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/79" tvg-id="8d2293e34609a7b763f8f26c68f9dd18",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1670587021?ticket=BA5F093E056247FEFA58AE548E28D705D53A3996&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/2" tvg-id="a2d196e30109e5350819691d4bd0e5d8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1670828450?ticket=170BA3D2A0B286DE082C5BA9B82D8DFF536EAB28&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/130" tvg-id="f5c802e44dc1f49d676028280ba6e59e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1677904117?ticket=562F9A245440352095E171902859979AA40BD0B4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/105" tvg-id="729812e4803ac753d6af0659cdbb8681",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1678940274?ticket=A7729656BC038CC4418A7734DADA667D9C7812A4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/20" tvg-id="93a928e49f109c8445fbe7a6d6fbe63b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1680386451?ticket=871D53DB7DB03A37E11DF4901AE0FFEDF2FF4FD6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/1" tvg-id="0d4662647e02f04fefdebf20a3d13862",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1684162061?ticket=178D0D754BF1B2B4672D4C545A78FB9F3126280F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/187" tvg-id="12be67e4dcc9bdd8e88b28c07a8f7cf3",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1684520466?ticket=31BF8EABA10FF6ADC62741F83124C5EB90F31132&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/75" tvg-id="741a04e54247c1938e878194ce5a71f2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1694767732?ticket=1E057EB2D07587CD26C19557D5E14F6AA70E21D2&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/33" tvg-id="5ea36f65b9a7289887cae440e8d1ecee",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1701815134?ticket=FE68BF9DCD45193199B5C94F118AC33E1EDB3CB9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/59" tvg-id="f70ec0e502925b6d86b46442cd1bfc40",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1707085559?ticket=8EEB790AE009AB9676FE2DE194E0D0E65749E06F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/1" tvg-id="3614d7e5205c26e271d634dc1df60ca0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1708594230?ticket=76338579D6208143BA3855E3803B92B539062A7E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/32" tvg-id="f15701e604f794bc9a3273704de3d8d8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1711364081?ticket=D07E3B06AC3FF9C1E8FEDC22863D57885CFADB01&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/9" tvg-id="d3f73be681fb504f8efb7a5e095619bb",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1715206099?ticket=3196DF9B88ABFD16E4500E4276EE3EC473A87A3B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/17" tvg-id="aa5d7be64efcbc39a72ed746aa49a473",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1719360938?ticket=960D1A03CE5CF3784C88F8CA653AFDA0116FDC03&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/49" tvg-id="dc5483e687a548498183bb7435ac5e8c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1719882972?ticket=5C692A1FA3F57A926EC06C8203390CBF61A6DF10&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/112" tvg-id="9c3fa7664f21288c0139c524eae3eada",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1722236828?ticket=3A73F6CFBC849364957F1A0D08B1628A07D1BC8D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/141" tvg-id="3c6bad662b0cdbbdaacabdbe24edcde5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1722641212?ticket=43522FE083E6D8CA99058B31AFE3348F1F85D742&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/85" tvg-id="a451f6e6fbfb81ea5773c6b55f05949e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1727418788?ticket=5ABAECD144830BC5D08BAEEA1640EF082125B011&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/46" tvg-id="9e466767e4aa98e695a90947dbac997a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1734821534?ticket=34CE2C30692920970F750EA6AB4CF17BFDB39EDA&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/243" tvg-id="78ab93e72e712d87b78d6f0f6003cf74",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1737730936?ticket=985292DB3FB531EC7968936BFBAAB807179E32CB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/4" tvg-id="1be7b6e7df89e02a36dc5ceb99558044",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1740039963?ticket=450F20EFC634A703482E99556223F151C43B0550&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/183" tvg-id="a28702685eb49d0c0d089fac2bf51d9a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1744996258?ticket=3262C2DEED4A9D4AE680A9D2D0F1BC1A0FE175EE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/136" tvg-id="85fc5568729920dd5e83929145fe15fc",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1750465669?ticket=702D9BD03E11E2F4D850338ACEDB12EA4759798D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/68" tvg-id="32db5968c1728f31c85aa77a73863ed8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1750719282?ticket=947048385EBDFC4FFF1F5CD852A83F99722CA548&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/66" tvg-id="64735be8adba6613a44fc7a75dba605d",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1750823780?ticket=E08267977665B774B22A861411282F42E8937F95&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/21" tvg-id="ee9ed968ea22b5a6c13c238e169d12f2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1759092462?ticket=BEDAB902C5F68B9A5E8B6C67D942BC3786BA13A6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/244" tvg-id="b1f2e568e47226edbf7659c7839098c1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1759900337?ticket=951A8E0D0A735F435D7E5CF8A57AA923ADF457A6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/257" tvg-id="a2de7869428f246d94923f4fca985fac",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1769528994?ticket=1D15F4871C1FB3D1C5610E780A15A98753DE62E5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/18" tvg-id="b80a93e96e3b4c424737e415dfaea421",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1771244216?ticket=557D6DFE1CAB3B10C808CDEB685CFD25F29E9589&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/32" tvg-id="541804eaf105468d65d96f839041bbe5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1778653268?ticket=A195CF3B4EFD5D56A4004814DB6596DBBA2E810E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/10" tvg-id="5e6a0feac2ff65dc82951f627270bf3e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1779395166?ticket=99FBFD60A657A788B91806E93F37954229D44C6D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/69" tvg-id="bda141ea21cc05e036ec79396e9aa4de",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1782686141?ticket=58CA407C371CAFDCC4BA31D4F6D6A25A756E1695&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/2" tvg-id="ecbf90eb1245d9f1c3e8e56b847710d7",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1804648428?ticket=5C9E274AE6E7D8112D70350527D019FA277A332D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/7" tvg-id="9600b9eb204c14259ef199c8edb07876",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1807286422?ticket=3C52D8CC8302691AD93B28FB2DF42B8ECD6939E4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/164" tvg-id="7bebc46b3b272a446895d254e60b39f3",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1808067451?ticket=8A4FDCCB6ED3E125B2A1C441B80A4CA1B985D805&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/10" tvg-id="473aceebf7c5348a7426222f3f58968f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1808677447?ticket=A70ED0085393320D0CFF0FB059AAA42804CC882E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/164" tvg-id="61dbd56bbc23f525f27df6223926f4ac",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1809177441?ticket=46145251887D24F28E597B0B43FF6714B06822D7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/33" tvg-id="e2a0ef6bd19d9fe3d2f8c2ebae6dc3c5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1810866402?ticket=048D7A0E68626DD32F2D86231BEA3178D3050440&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/103" tvg-id="f9de196c1c13ea7a2b0a5821d4fec5bd",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1813634809?ticket=6991D697626E48A6F90732CE5DD176A79C176E52&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/29" tvg-id="d88536ece7a7e6f16423980cdf5b76ef",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1815512536?ticket=8257AC56F43391E25C1BCB5CABABF4715AEE29A3&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/7" tvg-id="17fa5eecf93788ee82a67cbeaf1289bc",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1818163735?ticket=5E453AEC56C42F29E229FAF952D4FFE620C10327&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/124" tvg-id="4e25de6c3ea2804ca974fc66c62bd144",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1826497870?ticket=E49B5A54FF4207C17636F1BCDA79345766A1EF48&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/165" tvg-id="6183ff6ca0806d37250c402c00261651",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1828684641?ticket=479BC700D90CD69C4F5432EAE239D083660E5ED6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/90" tvg-id="1ee111ed7841cb2f93ddd09ba07c7966",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1829888286?ticket=F756E49EE8BB3E59948AD6DFAAB600D73A88EA83&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/192" tvg-id="739227edcaca0aefc7591aab380442a0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1831309939?ticket=36A05FCA95FE9E1D22958790B1E822C8778C8B3F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/15" tvg-id="77ba5b6d1e6f816dc9ed5dd07d578e36",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1834728055?ticket=B5313BCE7F9A0276CC9B74C2D2D2BE30503C188E&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/84" tvg-id="5e246e6d7227916886042319eb30e548",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1835934814?ticket=1C78D889A7B718DC0D87057A70184DCF920529B1&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/11" tvg-id="a4df876d0a169fa988be7b262b2b5ecf",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1837621156?ticket=FD815BD739C2C3A0391878012954F999470BDDB9&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/99" tvg-id="fd408f6e8a34e980c2f9bd7265e66a46",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1854882045?ticket=4629833D72B8B346AABF21364E619B717297489B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/220" tvg-id="b7c2daeecea0d48f4acd9ccc4b06e018",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1859830455?ticket=867532BDACF96EEA2B1368B55A8AD4EAA2CC6BFE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/86" tvg-id="8a35c86f52ae1d6054be4310e5792e80",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1875391882?ticket=D38290C9C0D810CF0C5F02C7434235179D53A18A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/95" tvg-id="c492f46f8ff542f4fd64394276547144",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1878299332?ticket=7633CE5FA0A2205AA086AAE39B53BE9BDA0AE706&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/123" tvg-id="d16e02f0e07319b52a2393a7f0f4bdf0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1879207633?ticket=0FA3AC8F872A5066ECAA046F47ACA4A06F0B482A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/88" tvg-id="9e562bf076f2d6671ce195391b261108",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1881888414?ticket=189A55EC2ADC4E9BEF0440387BC34BE5966B9299&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/79" tvg-id="a13b5870255accad9768a8428b6552c5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1884830625?ticket=C122BD40A3CA4030E19562DC65649C1752818255&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/227" tvg-id="df79777002460484fc63161a168f62b5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1886878175?ticket=C4292B1837BE189A091382121E799878E3F0B627&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/51" tvg-id="0a8f82f07ed0ba8151fcf600c1b42c01",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1887604490?ticket=4A5465641F553A71389E96640F95EE88179CDC13&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/255" tvg-id="7d83b370af49b18a9b72b73eb6ff264c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1890812797?ticket=CDE5B98A8CAF65CE9C3E95BC65292E3BE825DBF5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/33" tvg-id="6615b8f00b04a15d40455893bf90aa09",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1891112294?ticket=07D95C0AA36AD03CD404875FA87FCB49137C0A73&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/99" tvg-id="43c7fa708fd9b90eb8d0c5816776101f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1895483203?ticket=82AB89B7AFC6CD3A50C27EEF3DBBC90C29356ACC&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/226" tvg-id="065804f1741eb2f367d00dbc737ec7ff",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1896110086?ticket=D824568398CB7DAFA5B649C2D30E4E68BCEE879D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/40" tvg-id="b2628071288e0478a79015e3a64ad238",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1904239282?ticket=EC8AB630A4D5D650F4E86DCB02043C8C16BB0110&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/54" tvg-id="30a288f1db2ab51fc20e7f3ed7d4feb9",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1904779824?ticket=92937A61D33EBC0D39D5EE7B3B51B7FF692CE48B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/23" tvg-id="a275aef1bb5c4e241133176a37d3a3d4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1907258786?ticket=9AE9CE45DF122436056D9E993981F7927EEB2304&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/171" tvg-id="2f73bff1cdfd9c09727de311c29fbc7f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1908372271?ticket=C4275415DA019F0AEF4074A7D47AF1609FF93BE1&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/116" tvg-id="189dd9f17467ee6ad2984da55ff0bfcb",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1910086936?ticket=AAF6CEC9EEC5BF0CBC3C92EC7F7995BAB2AAFB7B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/2" tvg-id="7d811072f2c3c0efd37eff14aae4bf26",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1913684349?ticket=27F4E65C9DBAFFB175EE606056A19DB8692C8EB8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/3" tvg-id="71df3172e2a690b098dc149c4546d551",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1915871089?ticket=3A8F059BEDE8ACDA85887711D498438620A0B384&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/77" tvg-id="526c6872dc70b3ab5372eaa90c68c155",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1919446098?ticket=964E8B6D1C6DE76313CA5ACE948910CFD3A8A335&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/82" tvg-id="8e7cf172d657478f9c6e67704baad6c4",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1928428686?ticket=A1DE88E3A016F3986BD208C5B7FA1D73490DC472&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/36" tvg-id="04ad0373e3fcf50db799391eb0acc920",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1929620740?ticket=F08764FE8CE3A6AC725AF4B24214855751ECFE0F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/68" tvg-id="07dda773f3175fed8d5a8dd70f991f51",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1940380935?ticket=DEEE91C40E63E8FC73D4A6749210DCCD50E56EB1&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/35" tvg-id="2cc8d3f34e5a2e6fa9daf3e986fdc47b",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1943259180?ticket=0A01D471441134616FF0BA3496D11A14B14DE2E5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/51" tvg-id="c3fcd5730cd21849b961b5c047447dee",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1943403715?ticket=C08CA94BFF8568D24D30EBB803B6BE35FEA6BD17&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/195" tvg-id="593edef3ff6247aab237b02694b5876a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1943944793?ticket=F4F40CB9722E54BBAC176E6334257C906F395FAA&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/133" tvg-id="80e224f4c5726cb71ed4c6aa4f8cc2b5",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1948574336?ticket=2D49A506DF2E1F4A000B4066C3230BF9C5EB94E4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/3" tvg-id="6b298e74331d8065fd22eaffd92fca8e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1955473771?ticket=9BEFB6D5ECC2E9AD9D624B94CC2CFF832FB3B1DD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/5" tvg-id="1099e4746ae92e86a35884a04d19823f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1961138448?ticket=E8FDE301182FC19B8A1E1D9DDFB6A8D080FF8270&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/258" tvg-id="f1f442f511eb963c99ba94d8b6b7eb06",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1967322353?ticket=0C1052C6B3DCF8A27C0CC09D6F4CBD1B4495FF8D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/127" tvg-id="e91f8bf577ff9366d997596f77c034aa",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1972051945?ticket=75E56066BB6E6EA47DF62E4122235E65001B3A45&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/92" tvg-id="44089275674d29f5b4da4fa9628a9b54",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1972504644?ticket=61FB0529994F23E200211F2CA2421C5CDD4B624F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/21" tvg-id="8482a9f5604cec4dc3f25065fe8671cf",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1974043268?ticket=2C3A6C475829ED21E0AC1CD2628897289C7083C1&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/165" tvg-id="614acaf57c6780fff830000409180001",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1976191585?ticket=EC4F96D30494F47D7C13A80852DA6EFFAAB5E439&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/20" tvg-id="751930761e18b6823d6ccf21037f7e93",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1982863733?ticket=087A6DE559E57FC96D95193B06D7A34176654831&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/156" tvg-id="dcd9497697d9b7fb9734192ed0a94370",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1984551388?ticket=282830A740B6F90463D034B77136E13CCE71ADFA&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/89" tvg-id="3eda7676de1394bdaeb89d6428b0e97f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1987500606?ticket=DAEF36C71AC4BAFDD0D07BDC416C6B6A264500B3&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/3" tvg-id="f8f885762cca26621e21d7287ebad38a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1988491512?ticket=C78BFFFA955A3ED4DDA1C48B0D124CBE9318EBF2&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/3" tvg-id="7f24cdf69cd3a29bfdb16e8ae902ab41",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1993155711?ticket=2EA0145D3861AFB6C57491DF5EDDBF5A8E3F616D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/121" tvg-id="6ffb0af7df0659e828c2ab3ec6716f14",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/1997208431?ticket=CF54F833D2A0024B45279A7EDC3D16CE5D34ABAC&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/80" tvg-id="cee041777c6d9ebba13d62fdf751b4c8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2000806094?ticket=696F83372F4CBF4224F76E2FA019DD89D084E408&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/4" tvg-id="e9414bf7336b364bf6ea91589eafbfc6",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2001420777?ticket=18C3B148E83BF1C2116354A0CEAD051D6AD92EE5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/137" tvg-id="50b979f766a23b4e8fd3e07d14ce51af",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2004466000?ticket=A3895016EBB8480FE928B21D70177DD0530D484D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/52" tvg-id="efa1807751e55f483984d6fd98ec5b7c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2004918767?ticket=E90AEA24DE81DF5CB7B91967B69C305993CA7FB5&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/65" tvg-id="fe329d779056441466080939ad51df08",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2006790910?ticket=1735F6CC325F092E7AB461576205DB9B11BAE1CE&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/242" tvg-id="4efaa4f79e10a8805ba6985774caf463",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2007300686?ticket=2A419A9CC4FF0776EE91F5E13078183AB5E72AF4&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/88" tvg-id="1939e8f7db073a7c085359d628b2f9b1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2011707673?ticket=26921C6BBF3E436F6D7F4E3A91C49AA0679FA9A7&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/42" tvg-id="c5def977f80e545eb58847851adc20d9",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2012864197?ticket=450BCCDCED1E002A6273D9DBF5851167794D8940&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/153" tvg-id="a37c5b788ad38f9e1922271852954fb0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2019261603?ticket=00FB6236891BFE1AAEAE5C414CE9078485D12DB6&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/75" tvg-id="6dbd0f79b6d515cda5d3e03a2448c338",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2031074669?ticket=D4C54B1171505E8DD6BB8FE1F4F18C487747E761&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/10" tvg-id="a40e1cf90dce0968964a94b811c7e929",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2031881892?ticket=BA7DAF3C4DD1609EBEA840C7AD73FE429414AA5B&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/284" tvg-id="b4544af9da6d51045d63ea2d43476ba9",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2034914484?ticket=AA3ACF1C465425B0A570B36E634F88766E9D7B81&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/108" tvg-id="8f237779c255a3e1195b2a99714ead1f",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2037851023?ticket=E2088AD3D8304394529BC7B2381FA8A0607F8178&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/52" tvg-id="70d1bef9bfa36bc48e71c9893fd1435c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2042548592?ticket=E917DEDB450F0287958E232AFC90EF2B6B1D92DA&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/97" tvg-id="24784ffa594dbd8dff5d088e2ec960a2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2052028452?ticket=4BA51F4F4F59A368BAB689B53F6B74FA296A4284&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/247" tvg-id="cd48f3fa5d63956dab40d95850eab396",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2062764237?ticket=9BFCC9691C31B22E286120B4FCF264EA3B413A7A&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/67" tvg-id="0b31f4fa561a3dfa8292becf28c3710c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2062823691?ticket=3EE75F63D28790265E7193867CCCB8FC82F27D03&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/25" tvg-id="639b6efb4cc8afde68ac9be956b01583",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2070846307?ticket=98C43C674337F2AF9AF3AD26986B85DC2952B841&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/176" tvg-id="cfff197c4fea0f56080b212b8ffd8a4c",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2082078671?ticket=DFD2013FAEB25041FD9616F7B1C6740DCE4507FD&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/134" tvg-id="38325dfca220fcdcaef91d6f6837dcc1",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2086482488?ticket=A095A895B0698A0723EB88BC7274D8C168A8DE53&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/54" tvg-id="9fe971fcd2c2c0049071bed309bd13ac",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2087840159?ticket=89DFC3DCA3F19146EE6E376209F76866A1FB339F&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/36" tvg-id="94bd9b7c6e4de38bd9812dc558758258",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2090581396?ticket=174011992382BEF24AD8AF476411BBA24ED5C645&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/101" tvg-id="b58cdbfc76d0d137913587beda888205",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2094763189?ticket=89E5BF83934B4EB9FD542E1DB20040BBB5048DDB&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/99" tvg-id="4dfee47c210602ca9e68965d38bd7084",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2095382093?ticket=64559DD717106C9B64C713AFB8E4A0F35D832070&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/16" tvg-id="a6895d7d70b4688f2ff325604b022b6e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2103282086?ticket=D0E220B3DA60F12E4BFD3B8E9EE56F759131A6F0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/188" tvg-id="689a5dfdf0e66a28ca4f275da63386da",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2103286376?ticket=9619B63F276AC8DD5FC3E7B62399C75714696D9C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/277" tvg-id="c507be7d74d4d7edb52d791a48ab6774",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2109605829?ticket=71620A380C6A2FB8EC3BC9D56D794509C2C0B720&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/236" tvg-id="9403f47d6498a055ae4f9400c003ccfe",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2113143700?ticket=2A3AFCACA992AFE07E21874834746550ED44091C&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/70" tvg-id="afd341fe89763904edab9b4ecb4dee42",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2118243247?ticket=9D89B468201DDFB4E00328A4115B447A5AC9553D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/159" tvg-id="be54aa7ee10542fd72a82c985c385bf0",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2125092030?ticket=D2778AAEE18017C606CBFF1661B741FD0BFD5581&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/101" tvg-id="bf92adfe911a1cd847f3983258eff0c8",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2125304511?ticket=B53683782F8A66F2DD6173BDF9E529124DA10E3D&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/73" tvg-id="96b9b17e03393c94f74292de58d699f3",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2125576598?ticket=77A374971435F78AFA0F58AA9903F7F4185909F8&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/46" tvg-id="9b1cd8feb6b645b1f511a71f95545a27",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2128092315?ticket=0EB35F656FA7093CAEE1C05E065192EBE0686F19&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/218" tvg-id="87ebe6fe77bb4548d94e00e0b008ba17",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2129062791?ticket=7D749E52B92D3474B9AB3B8504D2F4C47E2E8AF0&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/62" tvg-id="6755f87e253ccf48dc2c10305554f65a",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2130204007?ticket=B5FECD946D5AD523E18C5467126AAA833C69CE77&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/223" tvg-id="f63a0e7fcbb72f203d543d7d18060bf2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2131639030?ticket=A25C6C8F159868E5E82C667F1483AFE7AA67A706&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/170" tvg-id="d84e2cff0aa00dbbfc383eb3bf83cda2",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2133610200?ticket=FBDF5BFEB108A5B271972F76B6F7A065B5CC9D11&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/240" tvg-id="56dd6f7fd3ce616f939cc6eb70463e8e",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2138037590?ticket=9093D24B09D7554F5D26C1F300189143D681C256&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/2" tvg-id="c2d570ff758498c44f30c7202b811e47",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2138101186?ticket=C7145B1FAFE1A125FCDE36B07C44D423A2ED9CDF&profile=pass
+#EXTINF:-1 logo="http://46.229.87.15:9981/imagecache/209" tvg-id="3519ac7fb70e927b0085934457b77429",{name-not-set}
+http://46.229.87.15:9981/stream/channelid/2141985077?ticket=D8F20DD5E77C7C9E3D5513401149CD1D6324EEFA&profile=pass
+
+
+
+
+#EXTINF:-1 group-title="3", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="3", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
+
+
+#EXTINF:-1,TF1
+http://89.94.95.130:9981/stream/channelid/2027610651?ticket=C8CF2AF448FEA5E4FE79325A1892070E4A99D26F&profile=pass
+#EXTINF:-1,France 2
+http://89.94.95.130:9981/stream/channelid/2077444697?ticket=20ED5E1CC03F3BE2225A26DC7F2C8391E72350A9&profile=pass
+#EXTINF:-1,F3 Pays de la Loire
+http://89.94.95.130:9981/stream/channelid/1867942721?ticket=9768D9962E8D4413BA9973046CDD5B55AEF30252&profile=pass
+#EXTINF:-1,France 5
+http://89.94.95.130:9981/stream/channelid/1506707728?ticket=697B0AECB491FCE004D0AED7E09AC3AD73F861D3&profile=pass
+#EXTINF:-1,M6
+http://89.94.95.130:9981/stream/channelid/971210019?ticket=89B9E22958B16BD33C8042550CBBD3DA4A1D5B58&profile=pass
+#EXTINF:-1,Arte
+http://89.94.95.130:9981/stream/channelid/88457019?ticket=B989E60A52B531F98D31977C8B65A3E46117DB31&profile=pass
+#EXTINF:-1,C8
+http://89.94.95.130:9981/stream/channelid/1081478914?ticket=8F2DAE9793891AA76ECCE51B80577471F2A60117&profile=pass
+#EXTINF:-1,W9
+http://89.94.95.130:9981/stream/channelid/563939505?ticket=E300831246B39C760FE8285F40F9EA1A7E384FA1&profile=pass
+#EXTINF:-1,TMC
+http://89.94.95.130:9981/stream/channelid/93091728?ticket=9215CCD474A9E0625B91A44604394FA23F53CDD9&profile=pass
+#EXTINF:-1,NT1
+http://89.94.95.130:9981/stream/channelid/32685123?ticket=B8C1F04B889238C26DB0F76FC330B9FF9ADF009C&profile=pass
+#EXTINF:-1,NRJ12
+http://89.94.95.130:9981/stream/channelid/999524045?ticket=99219378AB7D42084695393CCF4833CBD2A8DF9F&profile=pass
+#EXTINF:-1,LCP
+http://89.94.95.130:9981/stream/channelid/252914922?ticket=8D1F87F6C03CFE4890A7FAB14519458E0558AFEA&profile=pass
+#EXTINF:-1,France 4
+http://89.94.95.130:9981/stream/channelid/598111375?ticket=699D4C135A1A984DE926EF3DD00BEE5D408B9A73&profile=pass
+#EXTINF:-1,BFM TV
+http://89.94.95.130:9981/stream/channelid/1053428623?ticket=4D49326BC84A7D1886594EB865DFC698D285E7BB&profile=pass
+#EXTINF:-1,CNEWS
+http://89.94.95.130:9981/stream/channelid/543208048?ticket=65D98377CC8AE18E58FEDF42466A2F12AA8BB315&profile=pass
+#EXTINF:-1,CSTAR
+http://89.94.95.130:9981/stream/channelid/602563058?ticket=E6DAAC31560A9EC9A49CE453AD4E6D23FE74FBFC&profile=pass
+#EXTINF:-1,Gulli
+http://89.94.95.130:9981/stream/channelid/1032943632?ticket=BB4DFF8BBFAF069483C261E98A9313DEEC19F3CB&profile=pass
+#EXTINF:-1,France Ô
+http://89.94.95.130:9981/stream/channelid/485364604?ticket=7D67752C24DD1E453ED1A2FDC5C85C2F88EFC0B7&profile=pass
+#EXTINF:-1,HD1
+http://89.94.95.130:9981/stream/channelid/610142287?ticket=B95270DBE96964A6FE9A58A9343C331240CE9574&profile=pass
+#EXTINF:-1,L'Equipe 21
+http://89.94.95.130:9981/stream/channelid/834345158?ticket=86403CF5A30A71F40F4F976318A007E979AC5EF1&profile=pass
+#EXTINF:-1,6ter
+http://89.94.95.130:9981/stream/channelid/1101575101?ticket=D492332533AB17E2F6A2E9395BA1F54DF151AD8F&profile=pass
+#EXTINF:-1,NUMERO 23
+http://89.94.95.130:9981/stream/channelid/993196732?ticket=929F67FD6DB7B1CD6D74C762C7C487F51340D966&profile=pass
+#EXTINF:-1,RMC Découverte
+http://89.94.95.130:9981/stream/channelid/1826747001?ticket=526B4375B84701C0157AB948087282A7DB8AC934&profile=pass
+#EXTINF:-1,Chérie 25
+http://89.94.95.130:9981/stream/channelid/994731356?ticket=91A043AAF3C12A1B67AF816FE4EC8F743667C7CB&profile=pass
+#EXTINF:-1,LCI
+http://89.94.95.130:9981/stream/channelid/1457450146?ticket=F23A919D20C6D111A1C760EEFBF960B67DACC476&profile=pass
+#EXTINF:-1,franceinfo:
+http://89.94.95.130:9981/stream/channelid/309324950?ticket=D5AC963C79D5EB7CD9FF626A8F4C69F8E59E77C7&profile=pass
+#EXTINF:-1,franceinfo:
+http://89.94.95.130:9981/stream/channelid/1417134627?ticket=A2F9AE703078728AE27776E7EC98063D0B59BD6E&profile=pass
+#EXTINF:-1,Angers Tele
+http://89.94.95.130:9981/stream/channelid/1128879683?ticket=45325116BBB9611887960216C72165DF89134EB6&profile=pass
+#EXTINF:-1,Telenantes
+http://89.94.95.130:9981/stream/channelid/1605022276?ticket=B599B24044B741C95C9D60860449C340E84226A9&profile=pass
+#EXTINF:-1,Le Mans TV Sarthe
+http://89.94.95.130:9981/stream/channelid/1776004198?ticket=ED01D4480721315D077AD4E057062A75C3922E5D&profile=pass
+
+
+#EXTINF:-1 group-title="2", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="2", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
+
+#EXTINF:-1 logo="/storage/pvr/data/icons/bbcnews.png" tvg-id="1b80ac875678dc1dae865f0f1a3d575b",BBC News
+http://212.171.15.96:9981/stream/channelid/128745499?ticket=C863D08A03CED4B9AFB622439319F29E3D456D47&profile=pass
+#EXTINF:-1 logo="/storage/pvr/data/icons/cbbc.jpg" tvg-id="ee2770df964945192eda27018420acf3",CBBC HD
+http://212.171.15.96:9981/stream/channelid/1601185774?ticket=590FAAB3FC9B78A67A9295F0D24491EDB4D3F9BB&profile=pass
+#EXTINF:-1 logo="/storage/pvr/data/icons/channel4.png" tvg-id="521e2a35db672408673d47925350c66b",Channel 4
+http://212.171.15.96:9981/stream/channelid/891952722?ticket=B8F6E230CD295C24260996656741117657DF2DBD&profile=pass
+#EXTINF:-1 logo="/storage/pvr/data/icons/channel5.png" tvg-id="b499e2854b0518c67f44eb917dd62dd7",Channel 5
+http://212.171.15.96:9981/stream/channelid/98736564?ticket=CA7242768B0F83F45F143207DB40582F8DFC5F42&profile=pass
+#EXTINF:-1 logo="/storage/pvr/data/icons/itv1.png" tvg-id="7ba864d269efbc93c50d7b91c2c34aee",ITV1 London
+http://212.171.15.96:9981/stream/channelid/1382328443?ticket=F2DD55ADD4B9AF8B769E8A96231EA445EFEC8A60&profile=pass
+#EXTINF:-1 logo="/storage/pvr/data/icons/bbc1.png" tvg-id="717e5f25b3289a52ed4a2a642408570b",BBC 1 HD
+http://212.171.15.96:9981/stream/channelid/627015281?ticket=1FEDD1D75D6403A356735CF988AB78E9DE558F3D&profile=pass
+#EXTINF:-1 logo="/storage/pvr/data/icons/bbc2.png" tvg-id="bad82eb8323518645726242a181bdbe1",BBC Two HD
+http://212.171.15.96:9981/stream/channelid/942594234?ticket=01A567345A085A5C1844F9553065F1C5E7DCB7FE&profile=pass
+
+
+#EXTINF:-1 group-title="1", IPTVCANALES.COM
+http://iptvcanales.com/index.php/lista-de-canales/
+#EXTINF:-1 group-title="1", LA LISTA CADA 12 HS
+http://iptvcanales.com/index.php/lista-de-canales/
+
+
+#EXTINF:-1 tvg-id="71bcbbd35becd144b9c21835a2494d87",ONE
+http://61.245.135.209:9981/stream/channelid/1404812401?ticket=6D827780E1E98DDF123EFE75B9F9F24212C1A5DF&profile=pass
+#EXTINF:-1 tvg-id="911d6aa5625f0d60cb86c2f52ebd95ca",ABC
+http://61.245.135.209:9981/stream/channelid/627711377?ticket=AF5B1B3C8920C489DCA3080EEB67C337D5D276DD&profile=pass
+#EXTINF:-1 tvg-id="40e73becb1c826aa3e156859c8472583",SBS ONE
+http://61.245.135.209:9981/stream/channelid/1815865152?ticket=670A6064970C96071CF78249B44F8E372D9ACEC4&profile=pass
+#EXTINF:-1 tvg-id="ffe626266b47a4a3b05f706b05fab32e",7 Perth
+http://61.245.135.209:9981/stream/channelid/640083711?ticket=B792F4D2246F0CF097E76E49A2D57FD3CE4AC3E8&profile=pass
+#EXTINF:-1 tvg-id="78430c50ca853006756e5e62c6321d25",Channel 9 Perth
+http://61.245.135.209:9981/stream/channelid/1342980984?ticket=79599C4F80D6A8D70D4AA6D0909D0993F33AF316&profile=pass
+#EXTINF:-1 tvg-id="29d8e71c5c113bbcc9e73fdaa078703a",TEN DIGITAL
+http://61.245.135.209:9981/stream/channelid/484956201?ticket=E5C0A3C2CDB031DC8F6BDA8610A544F06CBA5EC9&profile=pass
+#EXTINF:-1 tvg-id="99bd07b60c784c11c0a7caf5d8b1316e",ELEVEN
+http://61.245.135.209:9981/stream/channelid/906476953?ticket=1479A2CDA05F528926E797E457DCBC472D705523&profile=pass
+#EXTINF:-1 tvg-id="c81ec91d73d4e675bf5d742dc1852c04",ONE
+http://61.245.135.209:9981/stream/channelid/499719880?ticket=741DBE00267E797707FC9DC1181745446F0864DD&profile=pass
+#EXTINF:-1 tvg-id="b93812c5945e04d90caf7d4417da74ae",TEN HD
+http://61.245.135.209:9981/stream/channelid/1158822073?ticket=00C72F939E40565B6C3366C9DB2A1EF3E5DD5E1B&profile=pass
+#EXTINF:-1 tvg-id="2d817c61e6d7fa4118a8d1b2c757c5be",TVSN
+http://61.245.135.209:9981/stream/channelid/1635549485?ticket=E337C90A3C908E93DD8D493958530AC443340EFF&profile=pass
+#EXTINF:-1 tvg-id="f3b68c3a4b08f887ec2c19c93ece2842",SpreeTV
+http://61.245.135.209:9981/stream/channelid/982300403?ticket=DE48927D53D3B83CD953D69731F2BBA35D8A2F14&profile=pass
+#EXTINF:-1 tvg-id="d95b0a22e0ee9c24f268ca0cc4059358",ABC HD
+http://61.245.135.209:9981/stream/channelid/571104217?ticket=54791EB81F58242B16CBFCC7DF204960777E882F&profile=pass
+#EXTINF:-1 tvg-id="a54b3bf33108dd869f08a12856ec2196",ABC
+http://61.245.135.209:9981/stream/channelid/1933265829?ticket=5FDB5FFA27E3A0A78B01758BEA413580072EC774&profile=pass
+#EXTINF:-1 tvg-id="3abf742ff01aec2d78ec73bdc1e83baa",ABCComedy/Kids
+http://61.245.135.209:9981/stream/channelid/796180282?ticket=1F72EB876642CC59029C5B58A86D16BCBDA45B17&profile=pass
+#EXTINF:-1 tvg-id="8d958314ba3fa6675c52f3cff0a02f08",ABC ME
+http://61.245.135.209:9981/stream/channelid/344167821?ticket=1A4B85F438D0625695F32C756776B9C28D9BC183&profile=pass
+#EXTINF:-1 tvg-id="ebf2ea618181edad61ea255acc298429",ABC NEWS
+http://61.245.135.209:9981/stream/channelid/1642787563?ticket=B32A76FD4915CB0DC2B650A075D0F2EF7DE8B4C2&profile=pass
+#EXTINF:-1 tvg-id="3a4154e786f6c673093a279092fd41fe",SBS ONE HD
+http://61.245.135.209:9981/stream/channelid/1733574970?ticket=B765F3E4F016EB91F25996EF8B8820E29C1A4156&profile=pass
+#EXTINF:-1 tvg-id="f5ed0431f96aff127776b1a10c25a35e",SBS VICELAND HD
+http://61.245.135.209:9981/stream/channelid/822406645?ticket=83EF3AF1A427B157511EC000E60981DCF5A1CB43&profile=pass
+#EXTINF:-1 tvg-id="fc931e132cd94796201a83499b9d19a0",SBS VICELAND
+http://61.245.135.209:9981/stream/channelid/320771068?ticket=0917DCE08599135225ED26C4E848261EE6F41C2A&profile=pass
+#EXTINF:-1 tvg-id="d507d42f948ee5584272d329762320fa",Food Network
+http://61.245.135.209:9981/stream/channelid/802424789?ticket=EED39A22FBA3A676290EED500CEA89F6D796EEE4&profile=pass
+#EXTINF:-1 tvg-id="2c33c1b85ad4f4cee974ca011dfcd973",NITV
+http://61.245.135.209:9981/stream/channelid/952185644?ticket=D1D5173B19C1261885931EEFD952C8C9F3BB2328&profile=pass
+#EXTINF:-1 tvg-id="9e23b5fd609248cb01e5536ec8a5cc5c",SBS Arabic24
+http://61.245.135.209:9981/stream/channelid/2109023134?ticket=DE2E230D86DD61A42E5EF1D7CF3A02DF3F2B1BA2&profile=pass
+#EXTINF:-1 tvg-id="12ced1f2b0a8aaa382296a33f0d7b6e6",SBS Radio 1
+http://61.245.135.209:9981/stream/channelid/1926352402?ticket=EA3BA910BFC7B5CDEF5873D68F97F75A61805941&profile=pass
+#EXTINF:-1 tvg-id="60e77b2f2e94f4bd900a40736796fc84",SBS Radio 2
+http://61.245.135.209:9981/stream/channelid/796649312?ticket=9655E38906CB28A5FE518F691559DF24B93D9286&profile=pass
+#EXTINF:-1 tvg-id="5bf058e7a1e74181abe6be0b20fb2c70",SBS Radio 3
+http://61.245.135.209:9981/stream/channelid/1733881947?ticket=6D1A8A99B31C77979C7D77168213202E6B2AB2BB&profile=pass
+#EXTINF:-1 tvg-id="c5c78d4db38fc85a91975792d4a3b4a0",West TV
+http://61.245.135.209:9981/stream/channelid/1301137349?ticket=034BB4E0D5604F2FCE0EE3B6AE20060EE8559062&profile=pass
+#EXTINF:-1 tvg-id="e69c637cddea6f1ba5295b34224c2b0b",7HD Perth
+http://61.245.135.209:9981/stream/channelid/2086903014?ticket=3DB8AC796FBD0837CB41D90FC8B8D529AC043853&profile=pass
+#EXTINF:-1 tvg-id="a149879ba9561a4792c957136ec0f21f",7 Perth
+http://61.245.135.209:9981/stream/channelid/461851041?ticket=A21F167ECB3757E3DC2DEAB24CD8F3F938DE847F&profile=pass
+#EXTINF:-1 tvg-id="f5bd24cb49ee9779ddae0d4a999849bf",7TWO Perth
+http://61.245.135.209:9981/stream/channelid/1260699125?ticket=5F20EF4C2C1E7D627D7C188CADD63E99938F37B7&profile=pass
+#EXTINF:-1 tvg-id="03ead9ebe8c984704bc1c645437e7068",7mate Perth
+http://61.245.135.209:9981/stream/channelid/1809443331?ticket=D35E2030E1ECCBBD715E53C7E3021338F864FCBB&profile=pass
+#EXTINF:-1 tvg-id="da7424827a6bb7c7c14c64cdbb5ec0f4",7flix Perth
+http://61.245.135.209:9981/stream/channelid/35943642?ticket=4B53505B3CFD9CED26BE12E18426772F56464ACE&profile=pass
+#EXTINF:-1 tvg-id="c92bbd594a999151075570c25312ac8c",RACING.COM
+http://61.245.135.209:9981/stream/channelid/1505569737?ticket=0218AEFBE55306A751C59BEDA190C886B24B1DBD&profile=pass
+#EXTINF:-1 tvg-id="f74cc3cd24a6a0d1db5241f4c03e420e",9HD Perth
+http://61.245.135.209:9981/stream/channelid/1304644855?ticket=ED12B50AD157BF2E4241E0E0177899B04A9E5D7B&profile=pass
+#EXTINF:-1 tvg-id="a939f0ef5b6926ab5485621c5361becb",Channel 9 Perth
+http://61.245.135.209:9981/stream/channelid/1878014377?ticket=3DD4E820478BB325C55E81E702F465E96BD6ED26&profile=pass
+#EXTINF:-1 tvg-id="051aadaaf0d4b88382ba305f05daf984",9Gem
+http://61.245.135.209:9981/stream/channelid/715987461?ticket=A256ED50C1708A28B3C6D4F883DAAB95D54E58D3&profile=pass
+#EXTINF:-1 tvg-id="b965225f69d0d8f5c95dd57bd213d56b",9Go!
+http://61.245.135.209:9981/stream/channelid/1596089785?ticket=852C4E586086ED66A45C420B122C107931DC800C&profile=pass
+#EXTINF:-1 tvg-id="d9c312374e5738486e81af9407d6b82b",9Life
+http://61.245.135.209:9981/stream/channelid/923976665?ticket=0297BEDDC480C0B7A361CD0534AEC54B256096F4&profile=pass
+#EXTINF:-1 tvg-id="d03f6c3341bacccbf1f04bae7f8ab332",Extra
+http://61.245.135.209:9981/stream/channelid/862732240?ticket=795F0F68715556C937FA140D5EB6FE29D3F1244B&profile=pass
+#EXTINF:-1 tvg-id="9e2886e76e5c2b307096133f5420e857",9Go!
+http://61.245.135.209:9981/stream/channelid/1736845470?ticket=92B9E27956D68527335A26C4C9651D9D12204659&profile=pass
+#EXTINF:-1 tvg-id="6dde39d663ac12fce38ece8182f8f2e4",Double J
+http://61.245.135.209:9981/stream/channelid/1446633069?ticket=C3ED824D2166DFC75B642767C6D9D0857F823B85&profile=pass
+#EXTINF:-1 tvg-id="23fa1ce3811ab5bbaf1cc04c2373b9aa",ABC Jazz
+http://61.245.135.209:9981/stream/channelid/1662843427?ticket=5A0C15F3CA433A01D3C25A100571C2A589D70B4C&profile=pass
