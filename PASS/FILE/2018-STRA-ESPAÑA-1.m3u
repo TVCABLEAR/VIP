@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+#EXTINF: -1 ,Lista Astra
+
+
+#EXTINF:-1 , LTC 
+http://185.22.78.83:8110/play/a005
+
+#EXTINF:-1, FOX NEWS 
+http://185.22.78.83:8110/play/a003
+
+# EXTINF:-1, GOL 
+http://185.22.78.83:8110/play/a00b
+
+#EXTINF:-1, DIVINITY 
+http://185.22.78.83:8110/play/a002
+
+#EXTINF:-1, M.FORMULA1 
+http: //185.22.78.83:8110/play/a00c
+
+#EXTINF:-1, MTV ESPAÑA 
+http://185.22.78.83:8110/play/a00a
+
+#EXTINF:-1, EUROSPORT 1 
+http://185.22.78.83:8110/play/a009
+
+#EXTINF:-1, ENERGY 
+http://185.22.78.83:8110/play/a007
+
+#EXTINF:-1, BABY TV 
+http://185.22.78.83:8110/play/a004
+
+#EXTINF:-1, BOING 
+http://185.22.78.83:8110/play/a006
