@@ -1,0 +1,78 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/4be39464c8ddc97373823fcf0f159fc7o.png",TV PERÚ HD (Lima - Perú)
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/9652fbae6ebf779d1a9fe748f92d8280o.png",TV PERÚ (Lima - Perú)
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1 group-title="PERU", Capital 27
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0010&mode=12&iconimage=http://www.radiosargentina.com.ar/png/ES--PERU.png
+
+#EXTINF:-1,SUR:America TV | Peru
+http://ar.watcha.live/ch3/hi.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/a0f2fa19f488ca73c17a99e3ff1ae189o.png",TV PERÚ 7.3 (Lima - Perú)
+http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/fa031ebffec61c74455052ea74e0522do.png",CULTURA 24 TV (Lima - Perú)
+http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/0a40fdeee09be9b404d42f9165e4629do.png",IPE TV (Lima - Perú)
+http://cdnh4.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/4ba025221a67b4905d453e2fa7a6e169o.png",PANAMERICANA TV (Lima - Perú)
+http://cdnh15.iblups.com/hls/ptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/6b546a9512090351bcfcaa18fcfd08deo.png",WILLAX TV (Lima - Perú)
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8?wowzasessionid=996342462
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/792cfa56879cf348c7f5f4cb2dfb6a0bo.png",CAPITAL TV (Lima - Perú)
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/878dafe7e0ef2237dd049e63c5ca4c18o.png",RPP NOTICIAS (Lima - Perú)
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/76b73b7fab340aa350ca047e8b49c95fo.png",TOP LATINO TV (Lima - Perú)
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/904d992e6f3663f46362b37070cfe9fbo.png",BHTV Perú (Villa EL Salvador - Lima - Perú)
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/fe4d7f6757b05c4604bba0ff531be533o.png",RBC Perú (La Victoria - Lima - Perú)
+http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/ec6da0878335e06b7582dcb1809b99e7o.png",CENTRAL TV (Chosica - Lima - Perú)
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/6ececc3c17533e536e179d8d223be9aeo.png",MEGA TV (Arequipa - Perú)
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-jBuxEptQC8M/VmXb3drzoCI/AAAAAAAACsU/BSytzZRJJB8/s1600/unotv.png",UNO TV (Tacna - Perú)
+http://216.245.198.126:1935/unotv/myStream/chunklist_w760646820.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/4090186888498a359d2d787682237b39o.png",VIA TELEVISIÓN (Tarapoto - Perú)
+http://wse8.player.tv.br:1935/viatv/viatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/c128e1ceff1978e879793882909364b8o.png",ANTARES TV (Tarapoto - Perú)
+http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/7cbfbc3c99035843f48c03594b93f71do.png",SOL TV  (Trujillo - Perú)
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/993c22d8db58716b0e65e9db6b2efd68o.png",TV COSMOS (Trujillo - Perú)
+http://wowzaserver.net:1935/ucvsatelital/ucvsatelital/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/28f13138cbaed59f465655d2a11c0388o.png",PACÍFICO TV Perú
+http://cdn2.ujjina.com:1935/iptvpacifico/livepacificotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fotos.subefotos.com/0b07e17b912be7224ce9942c69162822o.png",PAX CATÓLICO Perú
+http://d2s2gdjgdcyicj.cloudfront.net/paxtv/smil:PC.smil/chunklist_b1735000.m3u8
