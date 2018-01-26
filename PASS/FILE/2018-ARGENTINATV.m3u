@@ -1,6 +1,9 @@
 #EXTM3U
 
-
+#EXTINF:-1, INFO CLIMA 79
+http://painel.serveron.com.br:1935/8168/8168/playlist.m3u8
+#EXTINF:-1, SANTIAGO DEL ESTERO
+https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
 #EXTINF:-1,C5N
 http://ar.watcha.live/ch1/hi.m3u8
 #EXTINF:-1,A24
@@ -37,6 +40,8 @@ http://ar.watcha.live/ch17/hi.m3u8
 http://us.watcha.live/ch18/hi.m3u8
 #EXTINF:-1,QM Noticias
 http://us.watcha.live/ch19/hi.m3u8
+#EXTINF:-1,QM Musica
+mms://200.42.92.6:1755/qmusica
 #EXTINF:-1,France 24
 http://us.watcha.live/ch20/hi.m3u8
 #EXTINF:-1,21 no carga
