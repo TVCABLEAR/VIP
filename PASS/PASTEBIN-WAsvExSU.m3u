@@ -1,0 +1,553 @@
+#EXTM3U
+
+#EXTINF:0,ECUADOR 7
+http://api.new.livestream.com/accounts/22196143/events/6576568/live.m3u8
+#EXTINF:0,ECOTEL TV HD
+http://192.95.25.203:554/canal1/radiostation.stream/playlist.m3u8
+#EXTINF:0,TELEAMAZONAS
+https://secure-playlist.livestream.com/streams/1359588_4428723_lsivlz1wav4jf56guwl_1/media/1359588_4428723_lsivlz1wav4jf56guwl_1@446000p.m3u8?dw=14400&token=1517006814_cf72c05c33ec83044147bb4664e4a1fc2e1fba55&ts=1516831200
+#EXTINF:0,ECUADOR UCSG
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:0,CANAL 10 ECUADOR
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:0,CANAL 10P
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:0,VITO TVO
+https://player-api.new.livestream.com/accounts/8069167/events/8027445/broadcasts/169222645.secure.m3u8?dw=14400&hdnea=st%3D1516835746~exp%3D1516837546~acl%3D%2Fi%2F8069167_8027445_lsingsgbpsx5lpg4tht_1%40407977%2F%2A~hmac%3De3a77202b7f35eaa3eb44685de06f8187247c203e8c58170568ef2b0c1fc2eb0
+#EXTINF:0,OROMAR
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+#EXTINF:0,RTS
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
+#EXTINF:0,CANELA TV
+http://servicioamerica.com:1935/8200/8200/chunklist.m3u8
+#EXTINF:0,CANELA TV1
+http://servicioamerica.com:1935/8200/8200/chunklist_w1403035025.m3u8
+#EXTINF:0,CHILEVISION
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+#EXTINF:0,RCN HD
+http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:0,EL NUEVE ARG
+http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_w1375341464_b946000.m3u8
+#EXTINF:0,LOS MEJORES DIBUJOS
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:0,CNN CHILE
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:0,CANAL DE LAS ESTRELLA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:0,CANAL 5 MILENIO
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
+#EXTINF:0,A3S ESPAÑA
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0,COSMO TV
+http://qqtv.nl:80/live/amanpreet/amanpreet/12428.m3u8
+#EXTINF:0,AMC ESPAÑA
+http://iptv.ndasat.com:88/live/322551666151906/322551666151906/2756.m3u8
+#EXTINF:0,TNT ESPAÑA
+http://qqtv.nl:80/live/amanpreet/amanpreet/12378.m3u8
+#EXTINF:0,TNT HD
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX19xFaTi7lygETB89vInWG31JDbjFtLNiJLQxvdYPMSTFDj2LrMWac7F%2FD614TVwb4h%2BIQCFc3iWOA%3D%3D
+#EXTINF:0,FOX ACTION
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX18vyOb1u0cmS3p9tJ5G4e24lRIe8Q7PqKO8FKpvLwWoowRl52Y7Iu3JPaQJBi%2FQs1w8o6hhSiVaNg%3D%3D
+#EXTINF:0,UNIVERSAL CHANNEL
+http://www.iptvmexico.xyz/ch/148.m3u8
+#EXTINF:0,WARNER TV 1
+http://www.iptvmexico.xyz/ch/21.m3u8
+#EXTINF:0,FOX LIFE
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/567/index.m3u8
+#EXTINF:0,MOVISTAR ACCION
+http://iptv.ndasat.com:88/live/322551666151906/322551666151906/159.m3u8
+#EXTINF:0,MOVISTAR COMEDIA
+http://iptv.ndasat.com:88/live/322551666151906/322551666151906/155.m3u8
+#EXTINF:0,SPACE
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2FD100vUUCBS3eyn17jPhkM%2FkI9pUlNwhMq%2Fa2Cs3Kpjt%2FD8MwXzQcMDME1CykVQ%2Fo4hteOYOHYOw%3D%3D
+#EXTINF:0,CINECANAL
+http://www.iptvmexico.xyz/ch/110.m3u8
+#EXTINF:0,GOLDEN EDGE
+http://www.iptvmexico.xyz/ch/179.m3u8
+#EXTINF:0,MOVISTAR XTRA
+http://qqtv.nl:80/live/amanpreet/amanpreet/12400.m3u8
+#EXTINF:0,AXN ESPAÑA
+http://iptv.ndasat.com:88/live/322551666151906/322551666151906/1601.m3u8
+#EXTINF:0,AXN WHITE
+http://qqtv.nl:80/live/amanpreet/amanpreet/12448.m3u8
+#EXTINF:0,DE PELICULA
+http://www.iptvmexico.xyz/ch/365.m3u8
+#EXTINF:0,TCM ESPAÑA
+http://qqtv.nl:80/live/amanpreet/amanpreet/12382.m3u8
+#EXTINF:0,UNIVISION TDN
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2FLmvBkpDHm2hjCO4Xn%2F%2B5YTc6Iwpz2MU5spf7EvO29BAHQNBhybHSUvy7NTULeDn%2FKocKFu%2FRs9A%3D%3D
+#EXTINF:0,FOX
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2BgZTEHwFYE8i8k735nKbLXtt2hPT%2BYK%2FgHNCD%2Fbe%2FrD5nYHVffn9DnNsT%2By0YeCvAG%2BKOQhBa27g%3D%3D
+#EXTINF:0,FOX R
+http://www.iptvmexico.xyz/ch/57.m3u8
+#EXTINF:0,MUNDO MAS
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+#EXTINF:0,DISCOVERY CIVILITAZION
+http://www.iptvmexico.xyz/ch/287.m3u8
+#EXTINF:0,CARACOL HD
+http://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:0,PARAMOUNT CHANNEL
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2BD9T6suQ%2FwNE47LoLlb6DAzwLHi5fhYEHJtnKlyHmWfoi9hQfejnf2AkRhfi3evTsabL77WjXl1Q%3D%3D
+#EXTINF:0,DISCOVERY SCI
+http://www.iptvmexico.xyz/ch/288.m3u8
+#EXTINF:0,H & H DISCOVERY
+http://www.iptvmexico.xyz/ch/292.m3u8
+#EXTINF:0,ANIMAX
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:0,HBO
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX18q2DQdfIEp8isMDFRri7oDrdbsIxvLGsN%2BW1BeT6PFvSOfFB0rYWVyr2Am9Jhl0Z7cDyoWFRAMTA%3D
+#EXTINF:0,DIRECTV
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX18Q2Qz%2Fn4AMq9Ucq%2BPJzAkGsRfSxrh2lYBy2zpsBMh4bSGsdPoXVugHa1YWMWIDmhIUe%2FjK%2FOqGqQ%3D%3D
+#EXTINF:0,FOX SPORTS
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX18k8u9vSrdEAKsOcp7XQnZ6cUaoepvdztqiJfcZ%2FC8XqUp87LUuRpDF1HTJaQuA0lIYr5vDwZl9Pg%3D%3D
+#EXTINF:0,GOLDEN HD
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX19JI5PGAVZKe1E5%2Bd%2FdZhJX%2FFtIbbI7hzsF0X5hCcaGGBpFPyCBzrWLCs0hxMS3vri%2FaL4nKgItXw%3D%3D
+#EXTINF:0,GOL PERU
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2FvtOhpwCrfRHecuLaSPDSZoY0tf%2BSHQj2NTjO65AwFVVe%2BkZRohHkBQZPebpK0vsbnFgzl23M1TA%3D%3D
+#EXTINF:0,VENUS
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX18Jb9sGqx5VMvD1mSqwn0Nj8FrZq0TKcl9qfKk7umUiZaW4MIIGUt63nQVdWx4q92cJKvGuVWbNVA%3D%3D
+#EXTINF:0,NAT GEO
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX18rb%2B4mmfibfyQq%2Fw5HBac8w1%2F3luddcBEfEkNvP6FUtco1p9DowbMwvJ09ECNzcfg0syzDBuwcVQ%3D%3D
+#EXTINF:0,ESPN
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2BdPNvAv5arAn7FNlTBji%2B7cNvtwjLTj8eeGaZvg57a123rl9H3RjsECTQJvEIALvUqxbzI%2FZuvwQ%3D%3D
+#EXTINF:0,ESPN 2
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2Fh16fd0G3dyl5MR24eNMUYRpGauwoT7Hq9JCN2rCdKTBoIXfoKLw360pDYTjTmNACGGzr8JJLoOQ%3D%3D
+#EXTINF:0,ESPN 3
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX18plzfi%2Bm76eaMyrw8KmbZKN6jxm%2Fo2n4VLzp29n2VBxjsTRq8ApC2dphVD06NZNIMRd8yJSLjw0g%3D%3D
+#EXTINF:0,TELEFE HD
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX19AIZyk%2BP5mZzKSg%2BNhZ2Pk4WyUMbXYnJDK%2FhnR6ipO%2BOQUEs6XeGq3
+#EXTINF:0,NICK HD
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2FBQVRE71TUZjobpEvvEi3tWZgEHdPPp8Ci6uzoT6u%2Ba0RfenurvW1GLGD%2FakqhfgR0Lv6vPVqSGQ%3D%3D
+#EXTINF:0,DISNEY CHANNEL
+http://www.iptvmexico.xyz/ch/41.m3u8
+#EXTINF:0,MTV
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX18EaAyk8s8BQRcz3QVEBNLBmkBckbv5gm877MfrvW0Gj%2BUlaK3Za7uVJz7IoY%2BgiDkx3YllQ6SKIQ%3D%3D
+#EXTINF:0,GALAVISION
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX18bTO3qnJyMVR3bTQp0ysJ1arv%2BTzrO9jjYF7s5izcJwym8msz3lAOPSHQJVy6kJkMl4taqOBwVBg%3D%3D
+#EXTINF:0,FOX SPORT 2
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX19NdskbeuixXlOU%2FRK0sEFfKlzJ21SYVK1KYcFggreG6PQnjtiNhDeAB0aRzK9KPSf7u2d1TzuB%2Bg%3D%3D
+#EXTINF:0,FOX SPORT 3
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2FCXIukc%2BWe6TsSMul6spz8Jqg79qTa%2FhABl5mAsUWmnuc9jiAqRtcjN1lzZomkNgpv%2F6BqC1kFuw%3D%3D
+#EXTINF:0,CARTOON NETWORK HD
+http://185.152.66.150:25461/live/infantiles/fanstvapp/67.m3u8 
+#EXTINF:0,ATV PERU
+http://dqsz3cincv704.cloudfront.net/pe/smil:atv_mas.smil/chunklist_b882768.m3u8
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-p.m3u8
+#EXTINF:0,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,LATINA HD
+http://165.227.41.52/loadbalance/91349693444168992319/chunks.m3u8?pxAuth=izZccTqw2kkGypFOLwaoC3g4vUBkxyEv
+#EXTINF:0,ATV HD
+http://dqsz3cincv704.cloudfront.net/pe/smil:canal_atv.smil/chunklist_b1155072.m3u8
+#EXTINF:0,TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:0,LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8
+#EXTINF:0,FOX SPORT
+http://188.166.29.103/loadbalance/85576818975311249237/chunks.m3u8?pxAuth=dMvwYZ816tHf6LDSxiQTTQkDRiYwhkjG
+#EXTINF:0,LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:0,DISCOVERY KIDS HD
+http://185.152.66.150:25461/live/infantiles/fanstvapp/62.m3u8
+#EXTINF:0,TOONCAST
+http://185.152.66.150:25461/live/infantiles/fanstvapp/53.m3u8
+#EXTINF:0,BOOMERANG HD
+http://185.152.66.150:25461/live/infantiles/fanstvapp/64.m3u8
+#EXTINF:0,STUDIO UNIVERSAL
+http://185.152.66.150:25461/live/peliculas-series/fanstvapp/19.m3u8
+#EXTINF:0,STUDIO UNIVERSAL1
+http://www.iptvmexico.xyz/ch/233.m3u8
+#EXTINF:0,SYFY
+http://www.iptvmexico.xyz/ch/211.m3u8
+#EXTINF:0,NATGEO WILD
+http://iptv.ndasat.com:88/live/322551666151906/322551666151906/2755.m3u8
+#EXTINF:0,FX1
+http://www.iptvmexico.xyz/ch/115.m3u8
+#EXTINF:0,FOX SERIES
+http://www.iptvmexico.xyz/ch/216.m3u8
+#EXTINF:0,COMEDY CENTRAL
+http://iptv.ndasat.com:88/live/322551666151906/322551666151906/1593.m3u8
+#EXTINF:0,HISTORY HD
+http://185.152.66.150:25461/live/culturales/fanstvapp/74.m3u8
+#EXTINF:0,DISCOVERY CHANNEL HD
+http://185.152.66.150:25461/live/culturales/fanstvapp/71.m3u8
+#EXTINF:0,ID HD
+http://185.152.66.150:25461/live/culturales/fanstvapp/72.m3u8
+#EXTINF:0,CLARO SPORTS
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+#EXTINF:0,ESPN HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+#EXTINF:0,EL NUEVE ARGENTINA
+http://dwgoed11hdvfh.cloudfront.net/c9/smil:live.smil/chunklist_w2072550462_b946000.m3u8
+#EXTINF:0,MTV LIVE HD
+http://wowza2.mysoltv.com:1992/Latino_MTV_LIVE/tracks-v1a1/index.m3u8
+#EXTINF:0,TELEMUSICA
+http://186.155.200.118:1935/live/telemusica/chunklist_w2063497897.m3u8
+#EXTINF:0,MUSIC CHOICE POP
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:0,MUSIC CHOICE DANCE
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:0,CANAL 26 ARGENTINA
+http://200.115.193.177/live/26hd-720/chunklist_w1618273483.m3u8
+#EXTINF:0,ANIMAL PLANET
+http://185.152.66.150:25461/live/culturales/fanstvapp/75.m3u8
+#EXTINF:0,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/msctphd-720/chunklist_w1261153139.m3u8
+#EXTINF:0,ROCK TV
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8?wowzasessionid=1753827699
+#EXTINF:0,TOP LATINO
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:0,POWER TV HD
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/chunklist_w1178534630.m3u8
+#EXTINF:0,MUSIC CHOICE LATINO
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:0,DISCOVERY TURBO HD
+http://185.152.66.150:25461/live/culturales/fanstvapp/69.m3u8
+#EXTINF:0,BANDAMAX
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
+#EXTINF:0,RCN HD
+http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:0,PANAMERICANA PERU
+http://cdnh15.iblups.com/hls/ptv.m3u8
+#EXTINF:0,TELEFE ARGENTINA
+http://coninfo.net:1935/13max/live/chunklist.m3u8
+#EXTINF:0,TV PERU
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0,CLASICOS ACS
+http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
+#EXTINF:0,CNN CHILE
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
+#EXTINF:0,TELEMUNDO 
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:0,NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0,AZTECA PLUS
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,AZTECA 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:0,VMAS TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:0,PLANETA HD
+http://84.43.207.130/planetahd/planetahd.m3u8
+#EXTINF:0,POP LATINO
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:0,TROPICALES
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:0,ENLACE JUVENIL
+http://acaooyalahd2-lh.akamaihd.net:80/i/TBN08_delivery@186246/index_1728_av-p.m3u8
+#EXTINF:0,SKY SPORT HD
+http://185.231.160.35:5000//786/1/index.m3u8
+#EXTINF:0,SKY SPORT BUNDESLIGA
+http://185.231.160.35:5000//773/2/index.m3u8
+#EXTINF:0,ESPN (OP)
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+#EXTINF:0,ESPN 2 (OP)
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+#EXTINF:0,ESPN 3 (OP)
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+#EXTINF:0,CLARO SPORTS
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+#EXTINF:0,CHELSEA
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/index_2528_av-p.m3u8
+#EXTINF:0,BEIN SPORT HD 1
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/38.ts
+#EXTINF:0,BEIN SPORT HD 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/39.ts
+#EXTINF:0,BEIN SPORT HD 3
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/40.ts
+#EXTINF:0,BEIN SPORT HD 4
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/41.ts
+#EXTINF:0,BEIN SPORT HD 5
+http://163.172.210.207:8000/live/freeworldwideiptv.com/SportsChannels/42.ts
+#EXTINF:0,BEIN SPORT HD 6
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1040.m3u8
+#EXTINF:0,BEIN SPORT HD 7
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1041.m3u8
+#EXTINF:0,BEIN SPORT HD 8
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1042.m3u8
+#EXTINF:0,BEIN SPORT HD 9
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1043.m3u8
+#EXTINF:0,BEIN SPORT HD 10
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/1044.m3u8
+#EXTINF:0,SKY SPORTS MIX
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12779.m3u8
+#EXTINF:0,SKY SPORTS ACTION
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/583.m3u8
+#EXTINF:0,SKY SPORTS PREMIER LEAGE
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/581.m3u8
+#EXTINF:0,SKY SPORTS FOOTBALL
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/32743.m3u8
+#EXTINF:0,BT SPORT 1 HD
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/11375.m3u8
+#EXTINF:0,BT SPORT ESPN
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/12123.m3u8
+#EXTINF:0,FOX SPORT 2
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5539.m3u8
+#EXTINF:0,FOX SPORT 3
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5540.m3u8
+#EXTINF:0,FOX SPORT 4
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5541.m3u8
+#EXTINF:0,FOX SPORT 5
+http://xc1.asmhosting.solutions:80/live/555555555/555555555/5542.m3u8
+#EXTINF:0,PLAYBOY
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/atrabajar/J04/channel.php/live/playboy/playlist.m3u8
+#EXTINF:0,HUSTLER
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/atrabajar/J04/channel.php/live/hustler/playlist.m3u8
+#EXTINF:0,REDLIGTH
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/atrabajar/J04/channel.php/live/redlight/playlist.m3u8
+#EXTINF:0,LIFETIME
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/atrabajar/J02/152.m3u8
+#EXTINF:0,TELEMUNDO LATINO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:0,Peliculas En Español En Vivo (24/7) | Peliculas De Accion #4
+https://r3---sn-uxajvoxu-btxs.googlevideo.com/videoplayback?pcm2cms=yes&mt=1515280031&dur=39911.456&lmt=1512452869026222&ratebypass=yes&gcr=ec&requiressl=yes&initcwndbps=325000&mime=video%2Fmp4&key=yt6&mn=sn-uxajvoxu-btxs&itag=22&sparams=dur%2Cei%2Cgcr%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cexpire&signature=14A759A1A6B476485484D8457EBA9F5B53ACAA86.4335F03485FC68CF2CDE35E2E384C699AE370A0B&ip=186.3.198.55&source=youtube&ei=91ZRWobJFYv0qgXRxKGQCw&ms=au&ipbits=0&mv=m&pl=20&id=o-AKT7J1VB8K22mIVeO0x6gzT-eTrdtI4l3YjuwdNeWWxE&mm=31&expire=1515301719
+#EXTINF:0,LA ERA DE HIELO
+http://cecegeek@goo.gl/MkZTcH
+#EXTINF:0,FROZEN ADVENTURE
+https://archive.org/download/OlFroAvSRREGIO/OlFroAvSRREGIO.mkv
+#EXTINF:0,LA ERA DE HIELO III EL ORIGEN DE LOS DINOSAURIOS
+http://cecegeek@goo.gl/3heZnV
+#EXTINF:0, La Era De Hielo V : Choque De Mundos
+http://cecegeek@goo.gl/XvjtB6
+#EXTINF:0, George De La Selva
+http://cecegeek@goo.gl/GiHBk5
+#EXTINF:0,La Bella Y La Bestia
+http://cecegeek@goo.gl/65yzGX
+#EXTINF:0,VOLVER AL FUTURO 3
+https://ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
+#EXTINF:0,VOLVER AL FUTURO 1
+https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93-ES-720.mp4?disco
+#EXTINF:0,VIERNES 13 CAPITULO FINAL
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20-%20The%20Final%20Chapter%20%281984%29/Friday%20The%2013th%20-%20The%20Final%20Chapter%20%281984%29%20%281%29.mkv
+#EXTINF:0,VIERNES 13 PARTE VIII JASON TOMA MANHATTAN 
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VIII%20-%20Jason%20Takes%20Manhattan%20%281989%29/Friday%20The%2013th%20Part%20Viii%20-%20Jason%20Takes%20Manhattan%20%281989%29%20%281%29.mkv
+#EXTINF:0,VIERNES 13 PARTE VII LA SANGRE NUEVA
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VII%20-%20The%20New%20Blood%20%281988%29/Friday%20The%2013th%20Part%20Vii%20-%20The%20New%20Blood%20%281988%29%20%281%29.mkv
+#EXTINF:0,VIERNES 13 CAPITULO VI JASON VIVE  
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VI%20-%20Jason%20Lives%20%281986%29/Friday%20The%2013th%20Part%20Vi%20-%20Jason%20Lives%20%281986%29%20%281%29.mkv
+#EXTINF:0,VIERNES 13 PARTE V UN NUEVO COMIENZO 
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20-%20A%20New%20Beginning%20%281985%29/Friday%20The%2013th%20-%20A%20New%20Beginning%20%281985%29%20%281%29.mkv
+#EXTINF:0,VIERNES 13 PARTE III 
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%203%20%281982%29/Friday%20the%2013th%20Part%203%20%281982%29%20%281%29.mkv
+#EXTINF:0,VIERNES 13 PARTE II 
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%202%20%281981%29/Friday%20The%2013th%20Part%202%20%281981%29%20%281%29.mkv
+#EXTINF:0,VIERNES 13 
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20%281980%29/Friday%20The%2013th%20%281980%29%20%281%29.mkv
+#EXTINF:0,UN VUELO DE LOCURA
+http://discontrol@media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4?disco
+#EXTINF:0,UN PERDEDOR SIN SUERTE
+http://media-es-am.crackle.com/1/b/_0/qkpyk_480p_1mbps.mp4?disco
+#EXTINF:0,TRISTE SAN VALENTIN
+http://discontrol@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4?disco
+#EXTINF:0,SCOOBY DOO
+http://69.30.196.250/scooby-doo/tracks-v1a1/index.m3u8
+#EXTINF:0,SALVAJES
+https://archive.org/download/SalSRREGIO/SalSRREGIO.mkv
+#EXTINF:0,SACRIFICIO
+http://discontrol@media-es-am.crackle.com/1/s/f0/9ikyk_480p_1mbps.mp4?disco
+#EXTINF:0,ROBOCOP
+http://media-es-am.crackle.com/1/t/n0/wohyk_480p_1mbps.mp4?disco
+#EXTINF:0,PREMONICIONES
+http://discontrol@media-es-am.crackle.com/1/l/h0/klmyk_480p_1mbps.mp4?disco
+#EXTINF:0,PERFUME
+http://discontrol@media-es-am.crackle.com/1/0/n0/seoyk_480p_1mbps.mp4?disco
+#EXTINF:0,PELIGRO EN BANGKOK
+http://discontrol@media-es-am.crackle.com/1/o/n0/cdoyk_480p_1mbps.mp4?disco
+#EXTINF:0,NO TE PROCUPES BEBE
+https://ia801508.us.archive.org/17/items/srregio852001236/d0-n-7-w-0-rr-y-b-4-8-yd-0s.mp4
+#EXTINF:0,NIÑA MALA
+http://discontrol@media-es-am.crackle.com/1/f/x0/4enyk_480p_1mbps.mp4
+#EXTINF:0,MAMA
+http://axstvdoble.mine.nu/peliculas%20agui/%28M%29/Mama%20%282013%29/Mama%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF:0,LUNA DE MIEL EN FAMILIA
+http://cecegeek@goo.gl/zWzJ9v
+#EXTINF:0,HERMANOS GRIMM
+http://discontrol@media-es-am.crackle.com/1/c/r0/9qhyk_480p_1mbps.mp4?
+#EXTINF:0,LIGA DE LA JUSTICIA
+http://69.30.196.250/liga-da-justica/tracks-v1a1/index.m3u8
+#EXTINF:0,LA VIDA PERFECTA
+http://discontrol@media-es-am.crackle.com/1/q/v0/apoyk_480p_1mbps.mp4?disco
+#EXTINF:0,LA PANTERA ROSA
+http://media-es-am.crackle.com/1/t/f0/cjkyk_480p_1mbps.mp4?disco
+#EXTINF:0,LA NOCHE DEL DEMONIO
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20%282010%29%20Dual/Insidious%20%282010%29%20720p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF:0,LA MUJER MARAVILLA
+https://archive.org/download/MARAVILA_201708/MARAVILA.flv
+#EXTINF:0,IMPACTO MORTAL
+http://discontrol@media-es-am.crackle.com/1/v/f0/h7gyk_480p_1mbps.mp4?disco
+#EXTINF:0,ILUSIONISTA
+http://discontrol@media-es-am.crackle.com/1/o/j0/zghyk_480p_1mbps.mp4?disco
+#EXTINF:0,CHUCKY 2
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!854&authkey=!AMqj_KRCJnKhYTw&ithint=video%2cmp4
+#EXTINF:0,LA NOVIA DE CHUCKY
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
+#EXTINF:0,HIJO DE CHUCKY 
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!843&authkey=!AI3_Mz6ivD6r9oM&ithint=video%2cmp4
+#EXTINF:0,CHUCKY 3
+https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!841&authkey=!AKlwdk4JdAep8kc&ithint=video%2cmp4
+#EXTINF:0,SILENT HILL REVELATION
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20Revelation%20%282012%29%20Dual/Silent%20Hill%20Revelation%20%282012%29%20Dual%20%281%29.mkv
+#EXTINF:0,SILENT HILL
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20%282006%29%20Dual/Silent%20Hill%20%282006%29%20Dual%20%281%29.mkv
+#EXTINF:0,CHUCKY
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Seed%20of%20Chucky%20%282004%29%20Dual/Seed%20of%20Chucky%20%282004%29%20Dual%20%281%29.mkv
+#EXTINF:0,SCREAM 4
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%204%20%282011%29%20Dual/Scream%204%20%282011%29%20Dual%20%281%29.mkv
+#EXTINF:0,SCREAM 3
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%203%20%282000%29%20Dual/Scream%203%20%282000%29%20Dual%20%281%29.mkv
+#EXTINF:0,SCREAM 2
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%202%20%281997%29%20Dual/Scream%202%20%281997%29%20Dual%20%281%29.mkv
+#EXTINF:0,SCREAM
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Scream%20%281996%29%20Ingl%c3%a9s/Scream%20%281996%29%20Ingl%c3%a9s%20%281%29.mkv
+#EXTINF:0,SAW VII
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20VII%20%282010%29%20m720p%20Ingles/Saw%20Vii%20%282010%29%20M720p%20Ingles-3%20%281%29.mkv
+#EXTINF:0,SAW VI
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20VI%20%282009%29%20Ingles/Saw%20VI%20%282009%29%20Ingles%20%281%29.mkv
+#EXTINF:0,SAW V
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20V%20%282008%29%20Ingles/Saw%20V%20%282008%29%20Ingles%20%281%29.mkv
+#EXTINF:0,SAW IV
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20IV%20%282007%29%20Ingles/Saw%20IV%20%282007%29%20Ingles%20%281%29.mkv
+#EXTINF:0,SAW III
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20III%20%282006%29%20Ingles/Saw%20III%20%282006%29%20Ingles%20%281%29.mkv
+#EXTINF:0,SAW II
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20II%20%282005%29%20Ingles/Saw%20II%20%282005%29%20Ingles%20%281%29.mkv
+#EXTINF:0,SAW
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Saw%20%282004%29%20Ingles/Saw%20%282004%29%20Ingles%20%281%29.mkv
+#EXTINF:0,LA QUIJA
+http://axstvdoble.mine.nu/peliculas%20agui/%28O%29/Ouija%202014%20Dual/Ouija%202014%20Dual%20%281%29.mkv
+#EXTINF:0,IT (ESO)
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/IT%20%5bEso%5d%20%281990%29%20Dual/It%20%5beso%5d%20%281990%29%20%20Dual.mkv
+#EXTINF:0,INSIDIUS 3
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%203%20%282015%29%20Dual/Insidious.chapter.3.2015.1080p.bdrip.dual.latino.ingl%c3%a9s-1%20%281%29.mkv
+#EXTINF:0,INSIDIUS 2
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/Insidious%20Chapter%202%20%282013%29%20Dual/Insidious%20Chapter%202%20%282013%29%201080p%20Bdrip%20Dual-1%20%281%29.mkv
+#EXTINF:0,COURSE OF CHUCKY
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Curse%20of%20Chucky%20%282013%29%20UNRATED/Curse%20Of%20Chucky%20%282013%29%20Unrated%20%281%29.mkv
+#EXTINF:0,THE NIGHTMARE ON ELM STREET 5
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29/A%20Nightmare%20On%20Elm%20Street%205%20-%20The%20Dream%20Child%20%281989%29.mkv
+#EXTINF:0,THE NIGHTMARE ON ELM STREET 4
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%204%20-%20The%20Dream%20Master%20%281988%29/A%20Nightmare%20On%20Elm%20Street%204%20-%20The%20Dream%20Master%20%281988%29.mkv
+#EXTINF:0,THE NIGHTMARE ON ELM STREET 2
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%202%20-%20Freddy%27s%20Revenge%20%281985%29/A%20Nightmare%20On%20Elm%20Street%202%20-%20Freddy%27s%20Revenge%20%281985%29.mkv
+#EXTINF:0,THE NIGHTMARE ON ELM STREET
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Nightmare%20on%20Elm%20Street%20%282010%29/A%20Nightmare%20On%20Elm%20Street%20%282010%29.mkv
+#EXTINF:0,A CHRISTMAS HORROR STORY
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles/A%20Christmas%20Horror%20Story%20%282015%29%20Ingles%20%281%29.mkv
+#EXTINF:0,A 31
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/31%20%282016%29%20Ingl%c3%a9s/31%20%282016%29%20Ingl%c3%a9s.mkv
+#EXTINF:0,28 WEEKS LATER
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/28%20Weeks%20Later%20%282007%29/28%20Weeks%20Later%20%282007%29%20%281%29.mkv
+#EXTINF:0,13 SINS
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/13%20Sins%20%282014%29%20Ingl%c3%a9s/13%20Sins%20%282014%29%20Ingl%c3%a9s%20%281%29.mkv
+#EXTINF:0,CLOVERFIELD
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/10%20Cloverfield%20Lane%20%282016%29/10%20Cloverfield%20Lane%20%282016%29.mkv
+#EXTINF:0,HOSTEL 3
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20III%20%282011%29/Hostel-part%20III%282011%29dual.mkv
+#EXTINF:0,HOSTEL 2
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20II%20%282007%29/Hostel-part%20II%20%282007%29%20Dual.mkv
+#EXTINF:0,HOSTEL
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel%20%282005%29/Hostel%20%282005%29%20Dual.mkv
+#EXTINF:0,HORAS DE OSCURIDAD
+http://discontrol@media-es-am.crackle.com/1/g/x0/8enyk_480p_1mbps.mp4?disco
+#EXTINF:0,HARRY POTTER Y LA PIEDRA FILOSOFAL
+http://cecegeek@goo.gl/UWWRe5
+#EXTINF:0,THE ROCKMAN
+http://cecegeek@goo.gl/NKgGxD
+#EXTINF:0,HALLOWEEN
+http://discontrol@media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4?disco
+#EXTINF:0,FIESTA DE BODAS
+http://discontrol@media-es-am.crackle.com/1/m/h0/lcjyk_480p_1mbps.mp4?disco
+#EXTINF:0,ESQUIZOFRENIA
+http://discontrol@media-es-am.crackle.com/1/8/r0/zmoyk_480p_1mbps.mp4?disco
+#EXTINF:0,ESPIA POR ACCIDENTE
+http://discontrol@media-es-am.crackle.com/1/_/d0/5jmyk_480p_1mbps.mp4?disco
+#EXTINF:0,EL SEÑOR DE LA GUERRA
+http://media-es-am.crackle.com/1/t/j0/lhhyk_480p_1mbps.mp4?disco
+#EXTINF:0,EL ORFANATO
+http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20orfanato%20%282007%29%20720p%20Audio%20Espa%c3%b1ol/El%20Orfanato%20%282007%29%20720p%20Audio%20Espa%c3%b1ol.mkv
+#EXTINF:0,EL GRAN ROBO
+http://discontrol@media-es-am.crackle.com/1/d/d0/dspyk_480p_1mbps.mp4?disco
+#EXTINF:0,EL DIA DEL APOCALIPSIS
+http://discontrol@media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4?disco
+#EXTINF:0,DULCE VENGANZA 2
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20On%20Your%20Grave%202%20%282013%29%20%20Ingl%c3%a9s/I%20Spit%20On%20Your%20Grave%202%20%282013%29%20Unrated%20Ingl%c3%a9s%20ripeada%20%281%29.mkv
+#EXTINF:0,DULCE VENGANZA
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20On%20Your%20Grave%20%282010%29%20Dual/I%20Spit%20On%20Your%20Grave%20%282010%29Dual%20ripeada.mkv
+#EXTINF:0,DESTINO FINAL 5
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%205%20%282011%29/Final%20Destination%205%20%282011%29.mkv
+#EXTINF:0,DESTINO FINAL 4
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%204%20%282009%29/Final%20Destination%204%20%282009%29.mkv
+#EXTINF:0,DESTINO FINAL 2
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%202%20%282003%29/Final%20Destination%202%20%282003%29.mkv
+#EXTINF:0,DESTINO FINAL
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%20%282000%29/Final%20Destination%20%282000%29.mkv
+#EXTINF:0,CHUCKY 2
+http://cecegeek@goo.gl/xnNiv2
+#EXTINF:0,CARRIE
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/Carrie%20%281976%29%20%281%29.mkv
+#EXTINF:0,ANNABELLE
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/Annabelle.2014/Annabelle.2014%20%281%29.mkv
+#EXTINF:0,ZOMBIOLOGY
+https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
+#EXTINF:0,YU-GI-OH
+http://69.30.196.250/yu-gi-oh/tracks-v1a1/index.m3u8
+#EXTINF:0,WOLVERINE X MEN
+http://69.30.196.250/wolverine-X-Men/tracks-v1a1/index.m3u8
+#EXTINF:0,VALERIAM Y LA CIUDAD DE LOS MIL PLANETAS
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+#EXTINF:0,THUNDERCATS 
+http://69.30.196.250/Thundercats-2011/tracks-v1a1/index.m3u8
+#EXTINF:0,THUNDERCATS CLASICO
+http://69.30.196.250/thundercasts-classico/tracks-v1a1/index.m3u8
+#EXTINF:0,STRIPTEASE
+http://ow.ly/R9AG30eXNAI
+#EXTINF:0,SOUTH PARK
+http://69.30.196.250/south-park/tracks-v1a1/index.m3u8
+#EXTINF:0,SNOOPY & CHARLIE BROWN
+http://69.30.196.250/charlie-brown-e-snoopy/tracks-v1a1/index.m3u8
+#EXTINF:0,SAMURAI JACK 
+http://69.30.196.250/samurai-jack/tracks-v1a1/index.m3u8
+#EXTINF:0,POKEMON INDIGO
+http://69.30.196.250/pokemon/tracks-v1a1/index.m3u8
+#EXTINF:0,PAJARO LOCO 
+http://69.30.196.250/Pica-Pau/tracks-v1a1/index.m3u8
+#EXTINF:0,PHINEAS Y FER 
+https://archive.org/download/Phi.Fe.Mi.MarSRREGIO/Phi.Fe.Mi.MarSRREGIO.mkv
+#EXTINF:0,PEQUEÑO VAMPIRO
+https://archive.org/download/PeVaSRREGIO/PeVaSRREGIO.mkv
+#EXTINF:0,PANDEMIA
+https://archive.org/download/p4n.SRREGIO/p4n.SRREGIO.mkv
+#EXTINF:0,LA NOCHE DE LA BRUJA
+https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
+#EXTINF:0,LA MORGUE
+https://archive.org/download/85312467985216SRREGIO/85312467985216.mkv
+#EXTINF:0,WOLVES AT THE DOOR
+http://bit.ly/WolvesattheDoor
+#EXTINF:0,SANTA CLAUS
+https://ia601500.us.archive.org/30/items/tecnotv_20171201_2320/Santa%20Claus%201959.mp4
+#EXTINF:0,NAVIDAD DEL CHAVO
+https://ia601509.us.archive.org/8/items/Chavo8Navidad/chavo%208%20navidad.mp4
+#EXTINF:0,CUENTO DE NAVIDAD
+https://ia801501.us.archive.org/18/items/tecnotv_20171201/Un%20cuento%20de%20navidad.mp4
+#EXTINF:0,PATINAJE A LA GLORIA
+https://archive.org/download/PATINAJESRREGIO.NET/PATINAJEALAGLORIASRREGIO.NET.mkv
+#EXTINF:0,HUYE
+https://ia601500.us.archive.org/27/items/Cheverefans0012017/cheverefans%200012017.mp4?null=
+#EXTINF:0,ALIEN COVENANT
+http://ow.ly/SgXZ30eXN93?CONEXION?null=
+#EXTINF:0,CEMENTERIO DE MASCOTAS
+https://archive.org/download/06052017AQC06052017/06052017_AQC.avi
+#EXTINF:0,LA SEPTIMA PROFECIA
+https://ia801903.us.archive.org/5/items/LaSeptimaProfeciaXVIDMP3Spanish/La%20Septima%20Profecia%20-%20%5BXVID-MP3%20Spanish%5D.mp4
+#EXTINF:0,EL MENSAJE DE LAS OSCURIDAD
+http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?
+#EXTINF:0,30 DIAS DE NOCHE
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/30%20Days%20of%20Night%20%282007%29/30%20Days%20Of%20Night%20%282007%29%20%281%29.mkv
+#EXTINF:0,DULCE VENGANZA 3
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20on%20%20Your%20Grave%203%20%282015%29%20Ingl%c3%a9s/I.spit.on.your.grave.3.2015%20ingl%c3%a9s%20ripeada%20%281%29.mkv
+#EXTINF:0,LA MASACRE EN TEXAS
+https://ia800602.us.archive.org/22/items/col.mas.tex/La%20Masacre%20de%20Texas%201%20%281974%29.mp4
+#EXTINF:0,LA MASACRE EN TEXAS 2
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas720133d.mp4
+#EXTINF:-1,mas alla del cielo
