@@ -1,0 +1,2005 @@
+#EXTM3U
+
+
+#EXTINF:-1,Zona Films TECNO TV 
+http://tecnotv.xyz/tvmex/films
+#EXTINF:-1,Mega Movies TECNO TV
+http://tecnotv.xyz/tvmex/movies
+
+#EXTINF:-1,MEGA EXTREMO TECNO TV
+http://tecnotv.xyz/tvmex/extremo
+
+#EXTINF:-1,LATINO KIDS TECNO TV
+http://tecnotv.xyz/tvmex/kids
+
+#EXTINF:-1,Cine Tv TECNO TV
+http://tecnotv.xyz/tvmex/cine
+
+#EXTINF:-1,Katy TV CINE TECNO TV
+http://tecnotv.xyz/tvmex/katy
+
+#EXTINF:-1,Cine Star TECNO TV
+http://tecnotv.xyz/tvmex/star
+
+#EXTINF:-1,Cine Hogar TECNO TV
+http://tecnotv.xyz/tvmex/hogar
+
+#EXTINF:-1,Cine Calidad TECNO TV
+http://tecnotv.xyz/tvmex/calidad
+
+#EXTINF:-1,Umag TV 
+http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
+
+#EXTINF:-1,Tele Red Television
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+#EXTINF:-1,CANAL 4 COSTA RICA
+http://d19a4fd3xmc403.cloudfront.net/cr/canal4/smil:v2.smil/chunklist_b1098304_sles.m3u8
+
+#EXTINF:-1,CANAL 2 COSTA RICA
+http://d2f1bbn9v49he.cloudfront.net/cr/canal2/smil:v2.smil/chunklist_b698304_sles.m3u8
+
+
+#EXTINF:-1,CANAL 11 COSTA RICA
+http://d2p1i9loz7pbh0.cloudfront.net/cr/canal11/smil:v2.smil/chunklist_b698304_sles.m3u8
+
+#EXTINF:-1,CANAL 36 COSTA RICA
+http://servicioamerica.com:1935/8022/8022/playlist.m3u8
+
+#EXTINF:-1,TICAVISION COSTA RICA
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1,SUPER 5 TV COSTA RICA
+http://k4.usastreams.com/superC/superC_1/playlist.m3u8
+
+#EXTINF:-1,TELE UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+
+#EXTINF:-1,Telemetro
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-360p/chunks.m3u8
+
+#EXTINF:-1,RPC TV
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/playlist.m3u8
+
+#EXTINF:-1,CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+
+#EXTINF:-1,CNC COLOMBIA QINDO
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
+
+#EXTINF:-1,PYC TELEVISIÓN
+http://video.usatelk.com:1935/canal15/canal15/playlist.m3u8
+
+#EXTINF:-1,Zoom TV
+http://184.173.179.163:1935/8022/8022/chunklist_w205828107.m3u8
+
+#EXTINF:-1,CANAL 14 CALI
+http://181.143.238.252/live/livestream/index.m3u8
+
+#EXTINF:-1, Intercable
+http://201.217.3.212/TV/intercable/playlist.m3u8
+
+#EXTINF:-1,CANAL 1
+http://live10.cdnmedia.tv/canalunolive/smil:live.smil/chunklist_b500000.m3u8?encoded=00d72b5df8db95dee0a60
+
+#EXTINF:-1,SEÑAL COLOMBIA
+http://live10.cdnmedia.tv/rtvcscolombialive/smil:live.smil/master.m3u8
+
+#EXTINF:-1,MUNDO +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1,ACS NETWORK TV
+http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
+
+#EXTINF:-1,TVCOTUI
+http://ss1.domint.net:2204/tvc_str/tvcotui/playlist.m3u8
+
+#EXTINF:-1,ORBIT TV
+http://ss6.domint.net:2082/202_str/orbittv/chunklist_w29206476.m3u8
+
+#EXTINF:-1,XTREMOVISION 
+http://extremo01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1,CIBER VISION 3 NAGUA
+http://ss6.domint.net:2078/ctv_str/cibervision/chunklist_w1913971982.m3u8
+
+#EXTINF:-1,ONDA TV STO DGO
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w440868265.m3u8
+
+#EXTINF:-1,Ready TV Canal 6
+http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
+
+#EXTINF:-1,CANCIONERO TV 
+http://89.140.99.41/hls/1080.m3u8
+
+
+#EXTINF:-1,CIBER VISION 3 NAGUA
+http://ss6.domint.net:2078/ctv_str/cibervision/chunklist_w1913971982.m3u8
+
+#EXTINF:-1,TELEMILENIO SANTIAGO CHILE
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+
+#EXTINF:-1,Tele Red Television
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+#EXTINF:-1,AME 47
+http://domiradio.srfms.com:1935/domiradio/livestream/playlist.m3u8
+
+#EXTINF:-1,TELECENTRO 
+http://api.new.livestream.com/accounts/736348/events/5567040/live.m3u8
+
+#EXTINF:-1,ESTETV
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
+
+#EXTINF:-1,TELEVER       
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+
+
+#EXTINF:-1,VISION 3000
+http://qs1.distream.net:2102/v3_str/v3000/chunklist_w2110664108.m3u8
+
+
+#EXTINF:-1,Heavy Metal TV HD
+http://70.166.99.93:1935/hmtv/myStream/playlist.m3u8
+
+#EXTINF:-1,Canal De Las Estrellas
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+
+
+#EXTINF:-1,canal de las estrellas
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8
+
+#EXTINF:-1,tvg-logo="http://i2.esmas.com/las-estrellas/favicons/152x152.png" group-title="MEXICO", Las Estrellas Latinoamerica 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+
+#EXTINF:-1,canal de las estrellas OP2
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?tecnotv.info?.m3u
+
+#EXTINF:-1,canal de las estrellas OP3
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
+
+#EXTINF:-1,CANAL 2 OBREGON
+http://216.227.135.186:1935/gpacifico3/smil:obregon.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,IMAGEN TELEVISION
+http://38.123.68.120:25461/live/sjir7qaXvc/GcmNQayJHt/36.m3u8
+
+#EXTINF:-1,FORO TV2 720
+http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?/MartinRTNEWS.m3u8
+
+#EXTINF:-1,FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+
+#EXTINF:-1,FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?tecnotv.info?iptv.m3u8
+
+
+#EXTINF:-1,FORO TV HD
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,IMAGEN TELEVISION
+http://hls.ssh101.com/live/imagentv/index.m3u8
+
+#EXTINF:-1,FORO TV
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+
+#EXTINF:-1,CANAL 4 MONCLOVA
+http://192.163.250.253:1935/live/canal4/playlist.m3u8
+
+
+
+#EXTINF:-1,EFEKTO TV
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_4_av-p.m3u8
+
+#EXTINF:-1,Canal 5 HD 
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Canal 5 HD 
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
+
+
+#EXTINF:-1,CANAL 5 HD
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
+
+#EXTINF:-1,CANAL 5 HD
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(05)/index.m3u8
+
+#EXTINF:-1,CANAL 5
+http://s1.iptvmanagerpro.com/stream_14_8fe2ffe2e14a03e27c652da52638cd6d_1511567381.m3u8
+
+
+#EXTINF:-1,CANAL 5
+http://s1.iptvmanagerpro.com/seg/595/dc18020a38f5379a4daf5f1bf19be44b/14
+
+
+#EXTINF:-1,CANAL 5 OP1
+http://s1.iptvmanagerpro.com/stream_14_209fd7dd03ce2baa7a3d410fdafb313d_1506814579.m3u8
+
+#EXTINF:-1,CANAL 5 OP2
+http://s1.iptvmanagerpro.com/stream_14_17bfad47594010115e343ce90d47aa1e_1510877436.m3u8
+
+
+
+#EXTINF:-1,CANAL 6 SALTILLO
+http://192.163.250.253:1935/live/canal6/playlist.m3u8
+
+
+#EXTINF:-1,GALA TV EN VIVO
+http://s2.iptvmanagerpro.com/stream_72_8f7cd64fb5da49b62fd3f657941dd61f_1506814579.m3u8
+
+#EXTINF:-1,AZTECA 13 HD TELE VALL
+http://142.0.43.4:25461/live/televall/televall-12/8.m3u8
+
+#EXTINF:-1,AZTECA 13 HD
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1,AZTECA 13
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+
+#EXTINF:-1,Azteca Trece HD 
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+
+#EXTINF:-1,Azteca Trece SD
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1,Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+
+#EXTINF:-1,Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Azteca 13
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+#EXTINF:-1,Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_a-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+
+#EXTINF:-1,AZTECA 13
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+
+#EXTINF:-1,AZTECA 13 OP 1
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,AZTECA 13 OP 2
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,AZTECA 13 OP 1
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,AZTECA 13 OP 2
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_3_av-p.m3u8?sd=10&rebase=on
+
+
+
+#EXTINF:-1,AZTECA 7 TELE VALL
+http://142.0.43.4:25461/live/televall/televall-12/115.m3u8
+
+
+
+
+#EXTINF:-1,AZ CORAZON
+https://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master2500k.m3u8
+
+#EXTINF:-1,AZ CORAZON OP2
+https://vivoplay-i.akamaihd.net/hls/live/255340/canal10/master2500k.m3u8
+
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,AZ CLICK
+https://vivoplay-i.akamaihd.net/hls/live/255339/canal10/master2500k.m3u8
+
+
+#EXTINF:-1,A+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
+
+#EXTINF:-1,A+ SD
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
+
+
+#EXTINF:-1,AZ+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
+
+
+#EXTINF:-1,AZ+
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,AZ*CORAZON
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZCORAZON_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,AZ MUNDO
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(AZMUNDO_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1,OCHO TV JALISCO
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+
+#EXTINF:-1,OCHO TV JALISCO
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+
+#EXTINF:-1,GALLA TV CANAL 9 TELE VALL
+http://142.0.43.4:25461/live/televall/televall-12/37.m3u8
+
+#EXTINF:-1,GALLA TV YUCATAN
+http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
+
+
+#EXTINF:-1,CANAL 10 CHETUMAL
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+
+#EXTINF:-1,Canal ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+
+#EXTINF:-1,CANAL 11
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w2131787481_b1300000_slesp.m3u8
+
+#EXTINF:-1,CANAL 11
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8
+
+#EXTINF:-1,CANAL 11 MEXICO
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w1339977921_b1300000_slesp.m3u8
+
+#EXTINF:-1,CANAL ONCE
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_w88942915_b1300000_slesp.m3u8
+
+
+#EXTINF:-1,CANAL ONCE HD
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_1_av-p.m3u8
+
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,ADN 40
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+
+#EXTINF:-1,ADN 40 OP2
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+
+#EXTINF:-1,ADN 40 OP3
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/master.m3u8
+
+
+#EXTINF:-1,TV MEXIQUENSE 34
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?
+
+#EXTINF:-1,TV MEXIQUENSE 34
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/chunklist.m3u8
+
+
+#EXTINF:-1,CAPITAL 21 OP 1
+http://api.new.livestream.com/accounts/21495989/events/6343363/live.m3u8?
+
+#EXTINF:-1,CAPITAL 21 CDMX
+http://api.new.livestream.com/accounts/21495989/events/6343363/live.m3u8
+
+#EXTINF:-1,TV CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+
+#EXTINF:-1,TELE MAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u8
+
+#EXTINF:-1,TELECAFE COL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+
+#EXTINF:-1,MILENIO TV 
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF:-1,MVS Noticias
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+
+#EXTINF:-1,APLRENDE TV MEX
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+
+
+#EXTINF:-1,Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+
+#EXTINF:-1,MULTIMEDIOS MONTERREY
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1,MULTIMEDIOS MONTERREY
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8?
+
+#EXTINF:-1,MULTIMEDIOS MONTERREY HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1,DW ESP
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_5_av-p.m3u8
+
+
+#EXTINF:-1,DW LATINOAMERICA
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+
+#EXTINF:-1,RTG ACAPULCO
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+
+
+
+#EXTINF:-1,EFEKTO TV HD MEXICO
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+
+#EXTINF:-1,UNIVISION HD
+http://system.fpiptv.com:8080/live/hamilcanu111/hamilcanu222/494.m3u8
+
+#EXTINF:-1,TV Más
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?tecnotv.info?iptv.m3u8?hermoso.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,TV Más
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+
+#EXTINF:-1,TV MAS
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:-1,TOREON MEXICO
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1,TELEMAR CAMPECHE
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+
+#EXTINF:-1,COSMOVISION
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,COSMOVISION
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?JoCaRoIPTV.m3u8
+
+
+
+#EXTINF:-1,COSMOVISION COL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+
+#EXTINF:-1,COSMOVISION COL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_2.m3u8
+
+#EXTINF:-1,CANAL TRO
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1,TELE VIDA COL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+
+#EXTINF:-1,TV AGRO COL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
+
+#EXTINF:-1,EL TIEMPO TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+
+#EXTINF:-1,TVP LATINA
+http://216.227.135.186:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+
+#EXTINF:-1,ESPERANZA TV
+http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/index_392_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,Ve plus TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+
+
+#EXTINF:-1,Ve Plus
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+
+#EXTINF:-1,TV UNO
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,TV UNO
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+
+
+#EXTINF:-1,TV LATINO LTT HD
+http://cdnlive.medcom.com.pa/medcom-livestream/tm-live/tm-live/streamout-720p/chunks.m3u8
+
+
+#EXTINF:-1,Hola TV HD
+https://vivoplay-i.akamaihd.net/hls/live/255334/canal6/master2500k.m3u8
+
+#EXTINF:-1,COLOSAL TV
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/live.m3u8
+
+
+#EXTINF:-1,PIGUINO TV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+
+#EXTINF:-1,CANAL 4 ARG
+rtmp://streaming.wirenetserver.com.ar/canal4/live_1
+
+
+#EXTINF:-1,TELEMAX ARG
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+
+#EXTINF:-1, TV Venezuela
+https://vivoplay-i.akamaihd.net/hls/live/255338/canal10/master2500k.m3u8
+
+
+#EXTINF:-1,TV PERU
+http://cdnh15.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1,CANA U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+
+#EXTINF:-1,Latin Angels HD
+https://vivoplay-i.akamaihd.net/hls/live/255330/canal1/master2500k.m3u8
+
+#EXTINF:-1,ChapinTv 3
+http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_3.smil/playlist.m3u8
+
+
+#EXTINF:-1,TELEPIN HD
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,OROMAR TV
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1,OROMAR TV
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1,LATINA ARG HD
+http://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream4.m3u8?JoCaRoIPTV.m3u8
+
+#EXTINF:-1,TELEMAX ARG
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1,ATRESERIES HD ESP
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,Atreseries ESPAÑA
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+
+#EXTINF:-1,LA SEXTA 
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+
+#EXTINF:-1,LA SEXTA ESP
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1,NOVA 
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+
+#EXTINF:-1,NOVA TV ESP
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,MEGA HD ESP
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+
+#EXTINF:-1,MEGA HD ESP
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+#EXTINF:-1,8 TV ESP
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+
+
+#EXTINF:-1,TC HD COLOMBIA
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+
+
+#EXTINF:-1,TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+#EXTINF:-1,WILLAX TV PERU
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
+
+#EXTINF:-1,WILLAX TV PERU
+http://m.mediastream.pe/vv_willax/livestream/.m3u8
+
+#EXTINF:-1,WILLAX TV PERU
+http://m.mediastream.pe/vv_willax/livestream/.m3u8?iptvgratis?chile.m3u8
+
+
+#EXTINF:-1,TV COSMOS PERU
+http://wowzaserver.net:1935/tvcosmos15/tvcosmos15/chunklist_w911600877.m3u8
+
+#EXTINF:-1,33 Antena 3 series ESPAÑA
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,TELE MADRID
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+#EXTINF:-1,ANTENA 3 ESP
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1,34 Antena ESPAÑA
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,TELETRAK TV
+http://edge1.cl.grupoz.cl/teletrak/smil:live.smil/playlist.m3u8
+
+
+#EXTINF:-1,CANAL WOW
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+
+
+#EXTINF:-1,NEOX HD ESP
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1,NEOX ESP
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1,NEOX HD ESP
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?www.tecnotv.info?sd=10&
+
+#EXTINF:-1,GARAGE TV AUTOS
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+#EXTINF:-1,EL GARAGE TV AUTOS
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+
+#EXTINF:-1,NEX TV 
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+
+#EXTINF:-1,NEX TV op2
+http://d2ojguqgd62rcn.cloudfront.net/pe/smil:nx.smil/chunklist_w326316579_b1300000.m3u8
+
+#EXTINF:-1,FRECUENCIA LATINA OP1
+https://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream3.m3u8
+
+#EXTINF:-1,FRECUENCIA LATINA OP2
+https://cialivesec-hls.secure.footprint.net/hls-live/streams/ciaremux-live/events/_definst_/live/stream3Num41.ts
+
+#EXTINF:-1,FRECUENCIA LATINA OP3
+https://cialivesec-hls.secure.footprint.net/hls-live/ciaremux-live/_definst_/live/stream3.m3u8
+
+#EXTINF:-1,TC HD ECUADOR
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+#EXTINF:-1,RCN HD
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?www.tecnotv.info
+
+#EXTINF:-1,CANAL RPP
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoRPPWC/_definst_/live.m3u8
+
+#EXTINF:-1,CILENCE TV
+http://109.236.85.100:8081/sipTV/live/playlist.m3u8?www.tecnotv.info
+
+
+#EXTINF:-1,GREEN TV MEX
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+
+#EXTINF:-1,SUN CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+
+#EXTINF:-1,SUN CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8?tecnotv.info?iptv.m3u8?
+
+
+#EXTINF:-1,SUN CHANNEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8
+
+#EXTINF:-1,SUN CHANNEL OP 2
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
+
+#EXTINF:-1,TRENDY CHANEL
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?tecnotv.info?iptv.m3u8
+
+
+#EXTINF:-1,TEC TV
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+
+#EXTINF:-1,ARTE 1
+http://iptv.sv1.tv:25461/live/00004/00004/871.ts
+
+#EXTINF:-1,MEGA ESPAÑA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+#EXTINF:-1,TRAVEL HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+
+#EXTINF:-1,ANTENA3 ESPAÑA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+
+#EXTINF:-1,CANAL VASCO ESP
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1,IPE españa
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1,ESPAÑA
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, Mexico Travel
+http://live10.cdnmedia.tv/mtchlive/mtch.smil/.m3u8
+
+#EXTINF:-1,TV PERU MAGIC
+http://158.69.228.66:25461/live/robert/123456/1052.m3u8?token=QkcKWEJZE1hEAFdRBwIBUlQAXQIMVVNRUVIDB1MABVYOUVQNAwhTBFVATxUVEBYEVltnWVFEXARRVAAZRxdAVks6C10TCxNXV1tSBERIRhVeW10SD1ZKFxEIVhdfQAQGAFBAFRNUSRYDEA1WCjsABEFfW1UXXAhADQ0eFwoMbFdcCANXVRMLQFZATxUPFxRDDRR7UVcKA0MIEltaC0JgHXhLQl1UEXJMMExBG0QGDRVFV0xVF1xEBlhTEBlHAVxGVxEQQBMLEy8+QE8VAxwQBFlFUV9bRFwXDFJHDUdOEVpKOhBcQkVDBwcPBkVEXkZRFRoaXVQeOVYOD1xQBhZaXFcWQAMTBBNORA8MWQ8QCxNoRlFUF1xEA1RXCxcY
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Peliculas",JESUS DE NAZARETH 1
+
+http://209.126.108.87/biblicas/Jesus%20of%20Nazareth%20Special%20Edition%20Disc%20X1%201977.mkv
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Peliculas",JESUS DE NAZARETH 2
+
+http://209.126.108.87/biblicas/Jesus%20of%20Nazareth%20Special%20Edition%20Disc%20X2%201977.mkv
+
+#EXTINF:0 tvg-id="" tvg-name="" group-title="Peliculas",JESUS DE NAZARETH 3
+
+http://209.126.108.87/biblicas/Jesus%20Of%20Nazareth%20Special%20Edition%20Disc%20X3%20%201977.mkv
+
+
+#EXTINF:-1,JESUS DE NAZARETH 4
+http://209.126.108.87/biblicas/Jesus%20Of%20Nazareth%20Special%20Edition%20Disc%20X4%20%201977.mkv
+
+#EXTINF:-1,TELE MAGICA
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELEAMIGA)/index.m3u8
+
+#EXTINF:-1,RTS
+http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8
+
+#EXTINF:-1,TC MI CANAL
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+
+#EXTINF:-1,TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+
+#EXTINF:-1,TV PERÚ HD (Lima
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+
+#EXTINF:-1,IPE
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1,Perú
+http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
+
+#EXTINF:-1,BHTV PERU
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,CINE ON DEMAND
+http://stmv2.euroti.com.br:1935/mandruva/mandruva/live.m3u8?wowzasessionid=412620615
+
+#EXTINF:-1,CINE + FILMS
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+
+#EXTINF:-1,CINE +
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1,PELICULAS ONLINE
+https://hls-ord-3a.vaughnsoft.net/ord/live/live_katyhd/chunklist.m3u8
+
+
+#EXTINF:-1,RPC
+http://cdnlive.medcom.com.pa/medcom-livestream/rpc-live/rpc-live/streamout-360p/chunks.m3u8
+
+
+#EXTINF:-1,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1,Nextv | SD
+http://198.1.117.5:1935/live/livestream/master.m3u8
+
+#EXTINF:-1,SATAR CHANEL
+http://cdn-usa1-streaming.ani-box.com:1935/live/bs11.stream/playlist.m3u8
+
+
+#EXTINF:-1,SOL TV
+http://wowzaserver.net:1935/vivo21/vivo21/chunklist_w755294508.m3u8
+
+#EXTINF:-1,TICAVISION
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+
+#EXTINF:-1,CINEMA DINAMITA
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMA_DINAMITA)/Stream(01)/index.m3u8
+
+#EXTINF:-1,EUROCHANNEL HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(EUROCHANNEL)/index.m3u8
+
+
+#EXTINF:-1,EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1,SOUNDDANCE TV
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SUNDANCE_HD)/index.m3u8
+
+#EXTINF:-1,CANAL_CLARO_HD 720
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CANAL_CLARO_HD)/Stream(02)/index.m3u8
+
+#EXTINF:-1,CANAL_CLARO_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CANAL_CLARO_HD)/index.m3u8
+
+#EXTINF:-1,CANAL CLARO HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CANAL_CLARO)/index.m3u8
+
+#EXTINF:-1,DHE
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DHE_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1,CLARO CINEMA
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_CINEMA)/index.m3u8
+
+#EXTINF:-1,CLARO CINEMA
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_CINEMA)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1 , PELICULAS CLASSICAS 24/7
+https://clutch.vaughnsoft.net/ord/vl/lcreme_classichd.m3u8
+
+#EXTINF:-1 , PELICULAS 2017 24/7
+https://clutch.vaughnsoft.net/ord/vl/lcremeplushd.m3u8
+
+
+#EXTINF:-1 , PELICULAS HD 24/7
+https://clutch.vaughnsoft.net/ord/vl/mega_movieshd.m3u8
+
+
+#EXTINF:-1 , PELICULAS VITATO TV OPC.2 24/7
+https://clutch.vaughnsoft.net/ord/vl/vitatotv.m3u8
+
+
+
+#EXTINF:-1,*********TV PREMIUM*******
+
+#EXTINF:-1,TNT LATINO TELE VALL
+http://142.0.43.4:25461/live/televall1/televall-01/158.m3u8
+
+
+
+
+#EXTINF:-1,TNT STREAMING
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+
+
+
+
+#EXTINF:-1,TNT INGLES HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(05)/index.m3u8
+
+
+#EXTINF:-1,TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+
+
+#EXTINF:-1,TNT SERIES TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/160.m3u8
+
+
+
+
+
+
+#EXTINF:-1,THE FILMZONE TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/138.m3u8
+
+#EXTINF:-1,THE FILMZONE PLANETFOOLS
+http://207.244.78.99/stream_79_sk_st.m3u8
+
+
+#EXTINF:-1,FXM TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/138.m3u8
+
+#EXTINF:-1,FXM IPTV MEXICO
+http://www.iptvmexico.xyz/ch/220.m3u8
+
+
+
+
+
+#EXTINF:-1,MAX UP 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_UP_HD)/Stream(01)/index.m3u8
+
+
+
+
+#EXTINF:-1,UNIVERSAL TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/84.m3u8
+
+#EXTINF:-1,UNIVERSAL CHANNEL IPTV MEXICO HD
+http://www.iptvmexico.xyz/ch/344.m3u8
+
+#EXTINF:-1,UNIVERSAL CHANNEL IPTV MEXICO
+http://www.iptvmexico.xyz/ch/148.m3u8
+
+#EXTINF:-1,UNIVERSAL CHANNEL IPTV MEXICO HD
+http://www.iptvmexico.xyz/ch/344.m3u8
+
+#EXTINF:-1,STUDIO UNIVERSAL TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/137.m3u8
+
+
+
+#EXTINF:-1,STUDIO UNIVERSAL HD PLANETFOOLS
+http://23.237.22.2/LIVE/H01/CANAL492/PROFILE03.m3u8?authorization=knife.handshake
+
+#EXTINF:-1,STUDIO UNIVERSAL IPTV MEXICO
+http://www.iptvmexico.xyz/ch/148.m3u8
+
+
+
+#EXTINF:-1,STUDIO UNIVERSAL HD PLANETFOOLS
+http://smartiptvspain1.mine.nu:8000/live/Santiago99/Santiago99/55288.m3u8
+
+
+#EXTINF:-1,CINE DINAMITA IPTV MEXICO
+http://www.iptvmexico.xyz/ch/2048.m3u8
+
+#EXTINF:-1,CINE LATINO IPTV MEXICO
+http://www.iptvmexico.xyz/ch/850.m3u8
+
+
+#EXTINF:-1,CINEMAX TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/145.m3u8
+
+
+
+
+#EXTINF:-1,CINECANAL TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/126.m3u8
+
+#EXTINF:-1,CINECANAL
+http://www.iptvmexico.xyz/ch/111.m3u8
+
+#EXTINF:-1,CINEMA PLUS HLS LIVE CANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(05)/index.m3u8
+
+
+#EXTINF:-1,MULTI PREMIER TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/179.m3u8
+
+#EXTINF:-1,MULTI PREMIER IPTV MEXICO
+http://www.iptvmexico.xyz/ch/2046.m3u8
+
+#EXTINF:-1,GOLDEN EDGE TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/139.m3u8
+
+
+
+
+#EXTINF:-1,GOLDEN PLUS HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,GOLDEN PLUS IPTV MEXICO
+http://www.iptvmexico.xyz/ch/231.m3u8
+
+
+#EXTINF:-1,GOLDEN 1 HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+
+
+#EXTINF:-1,GOLDEN PLUS IZZI
+http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+
+
+#EXTINF:-1,Golden 1 HD IZZI
+http://live.izzitv.mx/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
+
+#EXTINF:-1,GOLDEN PLANETFOOLS
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,AXN TELE VALL
+http://142.0.43.4:25461/live/televall1/televall-01/149.m3u8
+
+
+
+#EXTINF:-1,TBS TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/130.m3u8
+
+
+
+#EXTINF:1,WARNER BROTHER TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/124.m3u8
+
+
+#EXTINF:1,WARNER BROTHER IPTV MEXICO
+http://www.iptvmexico.xyz/ch/327.m3u8
+
+#EXTINF:1,WARNER BROTHER HD IPTV MEXICO
+http://www.iptvmexico.xyz/ch/21.m3u8
+
+
+
+
+#EXTINF:-1,SONY TELE VALL
+http://142.0.43.4:25461/live/televall1/televall-01/155.m3u8
+
+#EXTINF:-1,AMC IZZI OK
+http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+
+
+#EXTINF:-1,AMC IZZI
+http://live.izzitv.mx/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
+
+#EXTINF:-1,AMC  HLS LIVE CHANNEL STREAM
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,AMC TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/174.m3u8
+
+#EXTINF:-1,AMC HLS LIVE CHANEL
+http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,AMC IPTV MEXICO
+http://www.iptvmexico.xyz/ch/232.m3u8
+
+#EXTINF:-1,AMC HD TECNO TV
+http://tecnotv.xyz/tvmex/amc
+
+#EXTINF:-1,AMC IPTV MEXICO
+http://www.iptvmexico.xyz/ch/232.m3u8
+
+
+
+
+#EXTINF:-1,MULTI CINEMA TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/180.m3u8
+
+
+
+#EXTINF:-1,SPACE TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/159.m3u8
+
+#EXTINF:-1,SPACE INGLES IZZI
+http://live.izzitv.mx/Content/HLS/Live/Channel(SPACE)/index.m3u8
+
+#EXTINF:-1,SPACE HD INGLES
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+
+#EXTINF:-1,SPACE HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+
+#EXTINF:-1,SPACE HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
+
+#EXTINF:-1,SPACE HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+
+
+#EXTINF:-1,SPACE TECNO TV
+http://tecnotv.xyz/tvmex/space
+
+
+
+#EXTINF:-1,TCM TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/157.m3u8
+
+#EXTINF:-1,TCM PLANETFOOLS
+http://s5.fullpremiumvip.com:25461/live/Elizabeth/1234/84.m3u8?token=HhMMBBJfFwlAAwZTBVdWUQRWVwcJDVQAUgAGAlUNUAAGAABTAwBUBgQUHxJARUAHA1g5Xl0XWQsHFRZGEVAXZgxVRl9DBgQKWgIRHBFFWw8HF1wHFRcTWlcbDhFQA1wAUxNIRwRPQVYQWFJcbFVXFAtWAxUDWxZfXxUWXAxqAVwIUAoBQw0XA0AaEVlAQRBYQHYHVVVQFVpAUFtdQmZLeEsRAABBdBtlTBQfElFYRhADQQMVAxdVAgMbGBEBWhBXEUMdR1sVeGtAGhFVS0VXDBFcCVkbD0FeAEwMEU4XDEo6QwEWFUVQUg9TQRIJEwJAThcLVkFqAFxdV1FQFlwKVxYTXkdQFRkRD1ldWUdeQD0SXAIVAxdRBgUNFk4=
+
+
+
+#EXTINF:-1,FX TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/123.m3u8
+
+
+#EXTINF:-1,FX IPTV MEXICO
+http://www.iptvmexico.xyz/ch/324.m3u8
+
+#EXTINF:-1,FX IPTV MEXICO
+http://www.iptvmexico.xyz/ch/115.m3u8
+
+
+
+#EXTINF:-1,FX IPTV MEXICO
+http://www.iptvmexico.xyz/ch/324.m3u8
+
+#EXTINF:-1,FOX LATINO TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/105.m3u8
+
+
+#EXTINF:-1,FOX LATINO IPTV MEXICO
+http://www.iptvmexico.xyz/ch/438.m3u8
+
+
+
+#EXTINF:-1,FOX LIFE TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/129.m3u8
+
+
+
+
+#EXTINF:-1,FOX ACTION TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/92.m3u8
+
+
+#EXTINF:-1,FOX ACTION IPTV MEXICO
+http://www.iptvmexico.xyz/ch/217.m3u8
+
+#EXTINF:-1,FOX CINEMA TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/127.m3u8
+
+#EXTINF:-1,FOX SERIES TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/114.m3u8
+
+
+
+
+#EXTINF:-1,FOX SERIES IPTV MEXICO
+http://www.iptvmexico.xyz/ch/216.m3u8
+
+
+#EXTINF:-1,FOX MOVIES 
+http://142.0.43.4:25461/live/televall1/televall-01/118.m3u8
+
+
+
+ 
+
+#EXTINF:-1,FOX MOVIES IPTV MEXICO
+http://www.iptvmexico.xyz/ch/305.m3u8
+
+
+#EXTINF:-1,FOX FAMILY IPTV MEXICO
+http://www.iptvmexico.xyz/ch/229.m3u8
+
+
+#EXTINF:-1,FOX COMEDY
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_COMEDY_HD)/Stream(01)/index.m3u8
+
+
+#EXTINF:-1,FOX CLASSICS TELEVALL
+http://142.0.43.4:25461/live/televall1/televall-01/122.m3u8
+
+
+
+#EXTINF:-1,HBO TELE VALL
+http://142.0.43.4:25461/live/televall1/televall-01/193.m3u8
+
+#EXTINF:-1,HBO2 TELE VALL
+http://142.0.43.4:25461/live/televall1/televall-01/195.m3u8
+
+#EXTINF:-1,HBO PLUS SD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS)/index.m3u8
+
+
+#EXTINF:-1,HBO FAMILY
+http://158.69.228.66:25461/live/aron1/aron1/182.m3u8?token=QkcKWEJZE1hEUVVUXl0AAlYPCFUHAF8DAlBUU1wBUFIOUFFaVQRSA1FATxUVEBYEVltnWVFEXARZUx4XEBFWQWYMBhsLEwZXX1VWFUpGEAhaUxoKBUpERQgFEA9HUQMAC1NAFRNUSRYDEA1WCjsABEFfW1UXXAhADQ0eFwoMbFdcCANXVRMLQFZATxUPFxRDDRR7UVcKA0MIEltaC0JgHXhLQl1UEXJMMExBG0QGDRVFV0xVF1xEBFRYBxdJQFBcTAsWS0gTC0ArOkEbRAEcFVJYS1laCEQPQwwBQF1AHxFQFj1LVEJFEAMDDlIURl5DBxQUElgHHmoCDlxbAAFHWlYLERsLEwBASkAOWAgNEA5FaUhZUURcF1lYCgdHHw==
+
+
+
+
+#EXTINF:-1,HBO SIGNATURE
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
+
+#EXTINF:-1,EXTREMA TV IPTV MEXICO
+http://www.iptvmexico.xyz/ch/2023.m3u8
+
+#EXTINF:-1,CLARO CINEMA IPTV MEXICO
+http://www.iptvmexico.xyz/ch/2049.m3u8
+
+#EXTINF:-1,CINE DINAMITA
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINEMA_DINAMITA)/Stream(01)/index.m3u8
+
+#EXTINF:-1,DE PELICULA PLUS IPTV MEXICO
+http://www.iptvmexico.xyz/ch/365.m3u8
+
+#EXTINF:-1,DE PELICULA PLUS TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/91.m3u8
+
+
+#EXTINF:-1,DE PELICULA PLUS IPTV MEXICO
+http://www.iptvmexico.xyz/ch/365.m3u8
+
+
+
+#EXTINF:-1,CLARO CINEMA HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_CINEMA)/index.m3u8
+
+#EXTINF:-1,AZTECA CINEMA TEVE VALL
+http://142.0.43.4:25461/live/televall1/televall-01/62.m3u8
+
+#EXTINF:-1,SUNDANCE HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SUNDANCE_HD)/index.m3u8
+
+
+#EXTINF:-1,PARAMOUNT HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(PARAMOUNT_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,SYFY TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/113.m3u8
+
+#EXTINF:-1,SYFY PLANETFOOLS ESP
+http://178.162.199.155:8088/live/syfyverdirectotv/playlist.m3u8?id=96121&wowzasessionid=27243157&pk=3522814c3291b0130e8fb35cf048db4323ccb0f244327ea539116d088a33c093
+
+#EXTINF:-1,SYFY IPTV MEXICO
+http://www.iptvmexico.xyz/ch/211.m3u8
+
+
+#EXTINF:-1,TRUTV TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/152.m3u8
+
+
+#EXTINF:-8,LIFETIME TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/135.m3u8
+
+
+
+#EXTINF:-1,COMEDY CENTRAL TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/101.m3u8
+
+#EXTINF:-1,COMEDY CENTRAL IPTV MEXICO
+http://www.iptvmexico.xyz/ch/284.m3u8
+
+
+
+#EXTINF:-1,DISTRITO COMEDIA HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(01)/index.m3u8
+
+#EXTINF:-1,DISTRITO COMEDIA HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(05)/index.m3u8
+
+
+#EXTINF:-1,DISTRITO COMEDIA HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(05)/index.m3u8
+
+#EXTINF:-1,DISTRITO COMEDIA IPTV MEXICO
+http://www.iptvmexico.xyz/ch/181.m3u8
+
+
+
+#EXTINF:-1,DISTRITO COMEDIA HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(05)/index.m3u8
+
+#EXTINF:-1,DISTRITO COMEDIA TECNO TV
+http://tecnotv.xyz/tvmex/distritocomedia
+
+
+#EXTINF:-1,DISTRITO COMEDIA IZZI HLS LIVE CHANNEL
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+
+#EXTINF:-1,DISTRITO COMEDIA IZZI HLS LIVE CHANNEL
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8?JoCaRoIPTV.m3u8
+
+
+#EXTINF:-1,DISTRITO COMEDIA IZZI HLS LIVE CHANNEL
+http://live.izzitv.mx/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/index.m3u8
+
+
+#EXTINF:-1,DISTRITO COMEDIA HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(DISTRITO_COMEDIA)/Stream(05)/index.m3u8
+
+
+
+#EXTINF:-1,A&E TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/125.m3u8
+
+#EXTINF:-1,A&E SJIR
+http://38.123.68.120:25461/live/sjir7qaXvc/GcmNQayJHt/31.m3u8
+
+#EXTINF:-1,A&E SK ST
+http://207.244.78.99/stream_48_sk_st.m3u8
+
+
+
+
+#EXTINF:-1,Discovery H&H TELE VALL
+http://142.0.43.4:25461/live/televall1/televall-01/117.m3u8
+
+#EXTINF:-1,Discovery H&H IPTVMEXICO
+http://www.iptvmexico.xyz/ch/292.m3u8
+
+
+
+#EXTINF:-1,TLC TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/128.m3u8
+
+
+
+
+
+#EXTINF:1,WOBI IPTVMEXICO
+http://www.iptvmexico.xyz/ch/903.m3u8
+
+
+#EXTINF:-1,Más Chic  TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/189.m3u8
+
+#EXTINF:-1,Hola TV TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/153.m3u8
+
+
+#EXTINF:-1,GLITZ HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GLITZ)/Stream(01)/index.m3u8
+
+#EXTINF:-1,TELE NOVELAS TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/58.m3u8
+
+
+
+
+
+
+#EXTINF:-1,ISAT TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/161.m3u8
+
+
+#EXTINF:-1,TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
+#EXTINF:-1,OYE TV
+http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/oyetv-live/streamout-360p/chunks.m3u8
+
+
+#EXTINF:-1,UNICALE PLANETFOOLS
+http://189.216.247.113/Content/HLS/Live/Channel(UNICABLE_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,UNIVISION IZZI HLS LIVE CHANNEL
+http://live.izzitv.mx/Content/HLS/Live/Channel(UNICABLE_HD)/index.m3u8
+
+#EXTINF:-1,EL GOURMET TV VALL HD
+http://142.0.43.4:25461/live/televall1/televall-01/43.m3u8
+
+#EXTINF:-1,EL GOURMET TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/151.m3u8
+
+#EXTINF:-1,FOOD NETWORK TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/93.m3u8
+
+#EXTINF:-1,*********CARICATURAS*************
+
+
+#EXTINF:-1,Cartoon Network
+http://www.iptvmexico.xyz/ch/36.m3u8
+ 
+
+#EXTINF:-1,CARTOON NETWORK TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/140.m3u8
+
+
+#EXTINF:-1,DISCOVERY KIDS HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/Stream(02)/index.m3u8
+
+
+#EXTINF:-1,Baby TV TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/187.m3u8
+
+
+#EXTINF:-1,DISNEY XD TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/68.m3u8
+
+
+#EXTINF:-1,DISNEY CHANEL TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/133.m3u8
+
+
+#EXTINF:-1,DISNEY CHANEL PLANETFOOLS
+http://207.244.78.99/stream_20_sk_st.m3u8
+
+#EXTINF:-1,DISCOVERY KIDS TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/132.m3u8
+
+#EXTINF:-1,DISCOVERY KIDS TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/83.m3u8
+
+
+#EXTINF:-1,DISNEY JR. TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/96.m3u8
+
+#EXTINF:-1,NICKTOONS
+http://142.0.43.4:25461/live/televall1/televall-01/67.m3u8
+
+#EXTINF:-1,Nick HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/Stream(05)/index.m3u8
+
+
+#EXTINF:-1,Nick HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Nick HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/Stream(03)/index.m3u8
+
+
+#EXTINF:-1,NICK_2 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NICK_2_HD)/Stream(03)/index.m3u8
+
+
+
+#EXTINF:-1,NICK JR. TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/96.m3u8
+
+#EXTINF:-1,NICK JR. 
+http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/Stream(04)/index.m3u8
+
+
+#EXTINF:-1,NICK JR. HLS LIVE CHANNEL
+http://200.78.215.85:8010/play/a08b
+
+
+
+
+
+#EXTINF:-1,BOOMERANG TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/94.m3u8
+
+
+
+
+#EXTINF:-1,BOOMERANG IPTV MEXICO
+http://www.iptvmexico.xyz/ch/224.m3u8
+
+
+
+#EXTINF:-1,TIIN TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/61.m3u8
+
+
+#EXTINF:-1,TIIN IPTV MEXICO
+http://www.iptvmexico.xyz/208.m3u8
+
+#EXTINF:-1,TOONCAST
+http://142.0.43.4:25461/live/televall1/televall-01/59.m3u8
+
+
+#EXTINF:-1,LOS MEJORES DIBUJOS
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1,PEQUE Tv
+http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
+
+
+#EXTINF:-1,ANIMAX
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+
+#EXTINF:-1,BOING ESP
+https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
+
+#EXTINF:-1,ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8monclovacaliente.m3u8
+
+#EXTINF:-1,ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?JoCaRoIPTV.m3u8
+
+
+
+#EXTINF:-1,LOS MEJORES DIBUJOS
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1,ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?JoCaRoIPTV.m3u8
+
+
+#EXTINF:-1,ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+
+#EXTINF:-1,ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1,ANIME TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8monclovacaliente.m3u8
+
+
+#EXTINF:-1,ACS Network
+http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/chunks.m3u8
+
+
+#EXTINF:-1,INFANTILES:ACS Network
+http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/chunks.m3u8
+
+
+#EXTINF:-1,INFANTILES:PEQUE Tv
+http://panel.cdnstreamserver.com/live/peque-pequetv.m3u8
+
+
+#EXTINF:-1,CHICOS IPE HD
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+
+#EXTINF:-1,CHICOS IPE
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+
+
+
+#EXTINF:-1,IPE españa
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+
+
+#EXTINF:-1,CHICOS IPE
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8?iptvgratis?chile.m3u8
+
+
+#EXTINF:-1,LOCOMOTION
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+#EXTINF:-1,LOCOMOTION IPTVMEXICO
+http://www.iptvmexico.xyz/ch/2022.m3u8
+
+#EXTINF:-1,LOCOMOTION HD
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+
+
+#EXTINF:-1,CHAVO ANIMADO 24/7
+http://3.sendvid.com/y00xutjl.mp4/
+
+
+#EXTINF:-1,CHAVO ANIMADO 24/7
+http://3.sendvid.com/y00xutjl.mp4/
+
+
+#EXTINF:-1,CHAVO ANIMADO 24/7
+http://tecnotv.xyz/tv3/chavo1717
+
+
+
+#EXTINF:-1,********DOCUMENTALES**************
+
+#EXTINF:-1,HISTORY TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/147.m3u8
+
+
+
+
+#EXTINF:-1,DISCOVERY CHANEL  IPTV MEXICO
+http://www.iptvmexico.xyz/ch/40.m3u8
+
+#EXTINF:-1,DISCOVERY CHANEL TELE VALL
+http://142.0.43.4:25461/live/televall1/televall-01/136.m3u8
+
+
+#EXTINF:-1,DISCOVERY CHANEL IPTV MEXICO
+http://www.iptvmexico.xyz/ch/40.m3u8
+
+#EXTINF:-1,DISCOVERY_WORLD_HD TELE VALL
+http://142.0.43.4:25461/live/televall/televall-12/85.m3u8
+
+#EXTINF:-1,DISCOVERY_WORLD IPTV MEXICO
+http://www.iptvmexico.xyz/ch/226.m3u8
+
+#EXTINF:-1 ,Nat Geo WILD HLS LIVE
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,Discovery Civilization TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/89.m3u8
+
+#EXTINF:-1,Discovery Civilization IPTV MEXICO
+http://www.iptvmexico.xyz/ch/287.m3u8
+
+
+
+#EXTINF:-1,DISCOVERY WORLD HD PLANETFOOLS
+http://142.54.181.42:25461/live/Grupovaaall2712/iscar962712protegido/122.m3u8?token=ShEMAkVZRAIUW1AAAFsABV0KUFAGBFVRAVBdCFIJDQIFCl1RBlBRCA5AHRAVTUADWV5rWgdHClALUBQTE0pRQ25aAEEME1QJFE4TRg9UV0QCAxgREwxUQwNACQBTDQwTHREBG0JUFFZXDm5WA09bBV0RDl0WCVxNGw1WbgJcWVBfV0ZZFAFEFBQLQkJEAxAlWVFYVhUMQwhWDBhiSHgaEVVWRCAYZ0gaGkBTWxJLUxJdEQ4RUlcBUhtOGlIJTFpFQ0pGWRR8PhoaQFRKElxcFVFcWhFZR11STFoaHURQR25DVhcXRFQHVVMQEwhECRBKGl5VSzwGXw9XB1tFD1ZaQhMJRlYUHURVWQxYRglLbRZRVxYJQVQBVQ1VGkw=
+
+#EXTINF:-1,Discovery Science TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/88.m3u8
+
+
+#EXTINF:-1,ID TELE VALL
+http://142.0.43.4:25461/live/televall1/televall-01/95.m3u8
+
+
+#EXTINF:-1,INVESTIGACION DISCOVERY IPTV MEXICO
+http://www.iptvmexico.xyz/2051.m3u8
+
+#EXTINF:-1,INVESTIGACION DISCOVERY IPTV MEXICO
+http://www.iptvmexico.xyz/ch/291.m3u8
+
+
+
+#EXTINF:-1,Discovery Civilization PLANETFOOLS
+http://142.54.181.42:25461/live/Grupovaaall2712/iscar962712protegido/101.m3u8?token=ShEMAkVZRAIUUgICUwsGVwgCAAJRB1QADVUKBwdcUAYBB1RUBQEADFBAHRAVTUADWV5rWgdHClAJUxQTE0pRQ25aAEEME1QJFE4TRg9UV0QCAxgREwxUQwNAAQNXARYdE1YcF1NDCFlaPVVXEFBRAxoJWkYPCRxDVgxnVQNUVV9VEV5BBhNKGl8RQRBcG3EHWl9RRQoWWQ5XQmsfJxcUVVQTJ01gH0QUFABYRhRYRgMaCRYFU1wSTRsBV0QITUZIEwlGLm4TShpTGkVXCEpbCVYRDhEOVkVZG04aWBVmRlRCRxYGV1wDShRYEwJEFRALWUtrUAwLXgRaFlFeCEoWCxMGRk8UXAlWXxZeQDlJWwIaCRYCUlMCWBsf
+
+#EXTINF:-1,Discovery Turbo TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/86.m3u8
+
+
+
+#EXTINF:-1,DISCOVERY THEATER TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/87.m3u8
+
+#EXTINF:-1,DISCOVERY THEATER IPTV MEXICO
+http://www.iptvmexico.xyz/ch/290.m3u8
+
+
+
+
+#EXTINF:-1,DISCOVERY CIVILIZATION TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/89.m3u8
+
+
+#EXTINF:-1,DISCOVERY SCIENCE TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/88.m3u8
+
+
+#EXTINF:-1,DISCOVERY WORLD HLS LIVE CHANNEL
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_WORLD_HD)/index.m3u8
+
+#EXTINF:-1,DISCOVERY WORLD TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/85.m3u8
+
+#EXTINF:-1,ANIMAL PLANET TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/90.m3u8
+
+
+
+
+#EXTINF:-1,NATGEO WILD TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/42.m3u8
+
+#EXTINF:-1,NATGEO WILD  
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(02)/index.m3u8
+
+#EXTINF:-1,NATGEO WILD TECNO TV
+http://tecnotv.xyz/tvmex/natgeowild
+
+#EXTINF:-1,NATGEO WILD PLANETFOOFLS
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,NATGEO WILD
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+
+#EXTINF:-1,NATGEO WILD TV VALL
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+
+
+#EXTINF:-1,NATGEO WILD IZZI
+http://live.izzitv.mx/Content/HLS/Live/Channel(NAT_GEO_WILD)/index.m3u8
+
+
+#EXTINF:-1,NATGEO WILD HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
+
+
+#EXTINF:-1,NATGEO WILD HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/Stream(05)/index.m3u8
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC LATINO TV VALL
+http://142.0.43.4:25461/live/televall1/televall-01/172.m3u8
+
+
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://142.0.43.4:25461/live/televall/televall-12/41.m3u8
+
+
+#EXTINF:-1,Travel HD
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+
+
+
+#EXTINF:-1,Garage TV AUTOS
+http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8
+
+
+
+
+#EXTINF:-1,******DEPORTES********
+
+
+#EXTINF:-1,TDN TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/80.m3u8
+
+#EXTINF:-1,TDN
+http://www.iptvmexico.xyz/2019.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/deportes/6.png" group-title="Deportes", UNIVISION TDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
+
+#EXTINF:-1,ESPN 1 HLS LIVE CHANNELS
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,ESPN TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/48.m3u8
+
+#EXTINF:-1,ESPN 1 HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+
+#EXTINF:-1,ESPN HD TECNO TV
+http://tecnotv.xyz/tvmex/amc
+
+#EXTINF:-1,ESPN HD IZZI
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+
+
+#EXTINF:-1,ESPN HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,ESPN HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+
+
+#EXTINF:-1,ESPN 1 HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(05)/index.m3u8
+
+
+#EXTINF:-1,ESPN 1 HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/index.m3u8
+
+
+
+#EXTINF:-1,ESPN 2 HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,ESPN2 HD IZZI HLS LIVE CHANNEL
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+
+#EXTINF:-1,ESPN2 HD HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(05)/index.m3u8
+
+#EXTINF:-1,ESPN2 HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,ESPN 2 HLS LIVE CHANNEL
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(01)/index.m3u8
+
+
+
+#EXTINF:-1,ESPN 2 IZZI HLS LIVE CHANNEL
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+
+
+
+#EXTINF:-1,ESPN 2 OK
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+
+
+
+#EXTINF:-1,ESPN2 IZZI HLS LIVE CHANNEL
+http://live.izzitv.mx/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+
+
+#EXTINF:-1,ESPN3 TECNO TV
+http://tecnotv.xyz/tvmex/espn3
+
+#EXTINF:-1,FOX SPORTS 1 TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/98.m3u8
+
+
+#EXTINF:-1,FOX SPORTS 1 PALNETFOOLS
+http://207.244.78.99/stream_102_sk_st.m3u8
+
+#EXTINF:-1,FOX SPORTS 2 TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/99.m3u8
+
+#EXTINF:-1,FOX SPORTS 2 
+http://207.244.78.99/stream_77_sk_st.m3u8
+
+
+
+
+#EXTINF:-1,FOX SPORTS 2 STREAM SK ST
+http://207.244.78.99/stream_77_sk_st.m3u8
+
+#EXTINF:-1,FOX SPORTS 3 HLS LIVE CHANNEL
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS TV VALL
+http://173.208.203.178:25461/live/Grupovaaall2712/iscar962712roxtv/237.m3u8?token=ShEMAkVZRAIUUVACBAsLVA0AVwcBUAUEXQEIAAVcDAQHAFJXAgVSXQJAHRAVTUADWV5rWgdHClMKVRQTE0pRQ25aAEEME1QJFE4TRg9UV0QCAxgREwxUQwNADQRQDRYdE1YcF1NDCFlaPVVXEFBRAxoJWkYPCRxDVgxnVQNUVV9VEV5BBhNKGl8RQRBcG3EHWl9RRQoWWQ5XQmsfJxcUVVQTJ01gH0QUFABYRhRYRgMaCRYHW1UFQxVAW14TV0BDSBFeQXtpRBQUB0lGA1dBD1ddFglBCAMUAUAUEw9Ka0NUQBARU1ALXURACxBWGx5EVVJMbAAKXg9cAUxYCVdHEwsRUUEaEwtXWAtFXRRmQg9cEQ4RWl0IVBsf
+
+#EXTINF:-1,GOLTV
+http://173.208.203.178:25461/live/Grupovaaall2712/iscar962712roxtv/244.m3u8?token=ShEMAkVZRAIUWgdRV11TU1kEBwZbVgMCCVJeAwQBA1ACV1UCUgZVWwdAHRAVTUADWV5rWgdHClMNVhQTE0pRQ25aAEEME1QJFE4TRg9UV0QCAxgREwxUQwNACgZVAQ0THREBG0JUFFZXDm5WA09bBV0RDl0WCVxNGw1WbgJcWVBfV0ZZFAFEFBQLQkJEAxAlWVFYVhUMQwhWDBhiSHgaEVVWRCAYZ0gaGkBTWxJLUxJdEQ4RUFYFVRtOGlIJTFpFQ0pGWRR8PhoaQFRKElxcFVFcWhFZR11STFoaHURQR25DVhcXRFQHVVMQEwhECRBKGl5VSzwGXw9XB1tFD1ZaQhMJRlYUHURVWQxYRglLbRZRVxYJQVwIVQFARQ==
+
+#EXTINF:-1,DIRECT TV SPORTS
+http://latinowebtv.ml/live_3.m3u8?token=U2FsdGVkX1%2FbEWE%2F6F4kMg1GlMh7pnfIIottVMyKWGS8RZF7EARQDECYfPVEDAqFID5JaEp38rRiMZfOsjc6yw%3D%3D
+
+#EXTINF:-1,MOVISTAR FUTBOL
+http://xxedge44.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8?token=OjmxIBKv9iF9oCcOQ1uFvg&expires=1515128151
+
+#EXTINF:-1,CLARO SPORTS OK
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+
+#EXTINF:-1,CLARO SPORTS OK
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+
+
+#EXTINF:-1,CLARO SPORTS HD
+http://bit.ly/ClaroPelixmax
+
+#EXTINF:-1,CLARO SPORTS HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_SPORTS_LATAM_HD)/index.m3u8
+
+#EXTINF:-1,CLARO SPORTS HD
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+
+#EXTINF:-1,CLARO SPORTS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CLARO_SPORTS_LATAM_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,OLYMPIC CHANNEL
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+
+
+
+
+#EXTINF:-1,WIN SPORTS HD 
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8
+
+
+#EXTINF:-1,TYC SPORTS PLANETFOOLS
+http://peta155.pedromo.me/live/tycsports/index.m3u8?token=KrjHReW1CR8GFXXJHsawTQ&expires=1515211538
+
+#EXTINF:-1,TYC SPORTS PLANETFOOLS
+http://peta155.pedromo.me/live/tycsports/index.m3u8?token=zmXHJCSLwyJFsTwfPT1CIg&expires=1515211492
+
+
+#EXTINF:-1,CDF DEPORTES EN VIVO
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+
+
+
+#EXTINF:-1,SPORTS 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
+
+
+#EXTINF:-1,DEPORTES:PXSports HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
+
+
+#EXTINF:-1,Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Todo Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:-1,Telecaribe Deportes HD 2
+https://w4.cdn.anvato.net/live/ephemeral/8JN6lx09T0YgECY5CbJZ6zuYEzVblvPG/telecaribedeporteshd2/1864k/index.m3u8
+
+#EXTINF:-1,DEPORTES:Telecaribe Deportes HD 2
+https://w4.cdn.anvato.net/live/ephemeral/8JN6lx09T0YgECY5CbJZ6zuYEzVblvPG/telecaribedeporteshd2/1864k/index.m3u8
+
+
+
+#EXTINF:-1,COS CABLEONDA SPORT
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+
+
+
+#EXTINF:-1,DEPOR TV
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
+
+
+#EXTINF:-1,NFL
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8?JoCaRoIPTV.m3u8
+
+
+#EXTINF:-1,NFL NOW
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1,GOLF_CHANNEL_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLF_CHANNEL_HD)/index.m3u8
+
+#EXTINF:-1,DXTV DEPORTES TV VALL
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w915026139_b800000_slesp.m3u8
+
+#EXTINF:-1,DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1,DXTV DEPORTES ARG
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w1822467358_b800000_slesp.m3u8
+
+#EXTINF:-1,DEPORTV ARGENTINA
+http://186.33.227.200/DXTV/smil:DXTV.smil/chunklist_w222748973_b800000_slesp.m3u8
+
+
+
+#EXTINF:-1,DEPORTV
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
+
+
+#EXTINF:-1,PXSports HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TEST/tu1_1.m3u8
+
+#EXTINF:-1,CDO HD
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+
+
+#EXTINF:-1,CDO DEPORTES
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
+
+
+#EXTINF:-1,Olimpic Channel HD
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8
+
+#EXTINF:-1,Olimpic Channel SD
+https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_6_3514000.m3u8
+
+#EXTINF:-1,CableOnda Sports
+http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
+
+#EXTINF:-1,CableOnda Sports FC
+http://cdnlive.medcom.com.pa/medcom-livestream/cosfc-live/cosfc-live/streamout-480p/chunks.m3u8
+
+#EXTINF:-1,REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1,BETIS TV
+http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
+
+#EXTINF:-1,SEVILLA FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0300_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,CHELSEA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+
+
+#EXTINF:-1,MLB LATINO
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+
+#EXTINF:-1,MEJOR LIGE BASSE BALL
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+#EXTINF:-1,MEJOR LIGE BASSE BALL OP2
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+
+
+#EXTINF:-1,REDBULL INGLES
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+
+
+
+#EXTINF:-1,F1 LATINOAMERICA IZZI
+http://live.izzitv.mx/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+
+
+
+#EXTM3U
+#EXTINF:-1,*******MUSICA*******
+
+#EXTINF:-1,BANDAMAX TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/44.m3u8
+
+#EXTINF:-1,BANDAMAX
+http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/Stream(05)/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://ragnaroktv.com/logostv/musica/7.png" group-title="Musica", Cantinazo TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+
+
+#EXTINF:-1,RITMOSON 
+http://142.0.43.4:25461/live/televall/televall-12/175.m3u8
+
+
+#EXTINF:-1,TELEHIT PLUS TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/146.m3u8
+
+#EXTINF:-1,TELEHIT PLUS TV VALL HD
+http://142.0.43.4:25461/live/televall/televall-12/47.m3u8
+
+#EXTINF:-1,TELEHIT PLUS
+http://189.216.247.113/Content/HLS/Live/Channel(TELEHIT)/Stream(05)/index.m3u8
+
+
+
+
+
+#EXTINF:-1,CANTINAZO HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+
+#EXTINF:-1,CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+
+
+
+#EXTINF:-1,MTV LATINO TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/144.m3u8
+
+#EXTINF:-1,MTV HITS TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/108.m3u8
+
+#EXTINF:-1,MTV LIVE TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/143.m3u8
+
+#EXTINF:-1,VH1 TV VALL
+http://142.0.43.4:25461/live/televall/televall-12/142.m3u8
+
+#EXTINF:-1,VH1 CLASSIC
+http://142.0.43.4:25461/live/televall/televall-12/60.m3u8
+
+#EXTINF:-1,TELE RITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF:0,-Adultos-
+
+#EXTINF:-1,TELE RITMO,Venus 
+http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+#EXTINF:-1, BRAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
