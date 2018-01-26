@@ -1,0 +1,56 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id=”EcuadorTV-int” tvg-logo=”ecuadortv.png” group-title=”Variedades – Latinos”,Canal 7 Ecuador TV
+rtmp://38.96.148.216:1935/live/myStream1?c43
+
+#EXTINF:-1 tvg-id=”EcuadorTV-int” tvg-logo=”ecuadortv.png” group-title=”Variedades – Latinos”,Ecuador TV Internacional
+http://38.96.148.216:1935/live/internacional/chunklist_w449343516.m3u8
+
+#EXTINF:-1 tvg-id=”OromarTV” tvg-logo=”oromartv.png” group-title=”Variedades – Latinos”,Oromar TV Ecuador
+rtmp://stream.gcorpvision.com:19356/live/oromartv
+
+#EXTINF:-1 tvg-id=”Teleamazonas” tvg-logo=”teleamazonas.png” group-title=”Variedades – Latinos”,Teleamazonas Ecuador
+rtmp://146.185.16.60/live playpath=teleamazonaspop?id=73168&pk=85d6d76de90d8106abbb362d38f91c3e1c67e13bbed6aa8eae3d62d8ac866de5 swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/teleamazonaspop/1/600/400
+Conn=S:OK –live
+
+
+
+
+#EXTINF:-1 tvg-id=”TC Ecuador” tvg-logo=”tcecuador.png” group-title=”Variedades – Latinos”,TC Ecuador
+http://50.97.142.130:1935/hls2/amlst:10001_ios_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id=”Ecuavisa” tvg-logo=”ecuavisa.png” group-title=”Variedades – Latinos”,Ecuavisa Ecuador
+rtmp://62.210.83.152:1935/liverepeat playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=ecuatv1&vw=600&vh=400
+
+#EXTINF:-1 tvg-id=”CañarTV” tvg-logo=”cañartv.png” group-title=”Variedades – Latinos”,Cañar TV Ecuador
+rtmp://ecuastreamhd.com:1935/canartv/canartv
+
+#EXTINF:-1 tvg-id=”TVS Ecuador” tvg-logo=”tvs-ecuador.png” group-title=”Variedades – Latinos”,TVS Ecuador
+http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-id=”CanalUno” tvg-logo=”canaluno.png” group-title=”Variedades – Latinos”,Canal UNO Ecuador
+rtmp://62.210.83.154:1935/liverepeat playpath=ecuatv2 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embednews.php?c=ecuatv2&vw=600&vh=400
+
+#EXTINF:-1 tvg-id=”TVN Ecuador” tvg-logo=”tvnecuador.png” group-title=”Variedades – Latinos”,Television Nacional de Ecuador
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 tvg-id=”CanelaTV” tvg-logo=”canelatv.jpg” group-title=”Variedades – Latinos”,Canela TV Ecuador
+http://38.96.148.216:1935/live/canelatv/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id=”UCSG TV” tvg-logo=”ucsgtv.jpg” group-title=”Variedades – Latinos”,UCSG TV Ecuador
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+
+#EXTINF:-1 tvg-id=”Ecotel” tvg-logo=”ecotel.jpg” group-title=”Variedades – Latinos”,Ecotel Ecuador
+rtmp://enhd.co:1935/ecoteltv/ecoteltv
+
+#EXTINF:-1 tvg-id=”Digital TV” tvg-logo=”digitaltv.jpg” group-title=”Variedades – Latinos”,Digital TV Canal 28 Macas Ecuador
+http://enhd.co:1935/9208/9208/playlist.m3u8
+
+#EXTINF:-1 tvg-id=”Uponavisión” tvg-logo=”upanovision.jpg” group-title=”Variedades – Latinos”,Upanovision Macas Ecuador
+rtmp://31.204.128.140/live//master19
+
+#EXTINF:-1 tvg-id=”CN Plus” tvg-logo=”cnplus.jpg” group-title=”Variedades – Latinos”,CN Plus Ecuador
+http://iphone-streaming.ustream.tv/uhls/9026145/streams/liv
