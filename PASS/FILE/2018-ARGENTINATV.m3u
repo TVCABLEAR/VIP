@@ -1,9 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1, INFO CLIMA 79
+#EXTINF:-1, INFO CLIMA 79 Alicante
 http://painel.serveron.com.br:1935/8168/8168/playlist.m3u8
+#EXTINF:-1, INFO CLIMA 79 Catamarca
+http://painel.serveron.com.br:1935/8096/8096/playlist.m3u8
+#EXTINF:-1, INFO CLIMA 79 San Martin
+http://142.4.208.146:1935/cn247/cn247/playlist.m3u8
+#EXTINF:-1, INFO CLIMA 79 SALTA
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1, INFO CLIMA 79 SAN JUAN
+http://painel.serveron.com.br:1935/8090/8090/playlist.m3u8
+#EXTINF:-1, INFO CLIMA 79 TUCUMAN
+https://57ae34bc31d8d.streamlock.net/8116/8116/playlist.m3u8
 #EXTINF:-1, SANTIAGO DEL ESTERO
 https://5975e06a1f292.streamlock.net:4443/envivo/castv/playlist.m3u8
+#EXTINF:-1, EL CALAFATE SANTA CRUZ
+http://video1.veemesoft.com.ar:1935/8292/8292/playlist.m3u8
+#EXTINF:-1, RIO GALLEGOS SANTA CRUZ
+http://video1.veemesoft.com.ar:1935/8682/8682/playlist.m3u8
+#EXTINF:-1, UTN32 SANTA CRUZ
+http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8
 #EXTINF:-1,C5N
 http://ar.watcha.live/ch1/hi.m3u8
 #EXTINF:-1,A24
