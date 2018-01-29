@@ -2,50 +2,7 @@
  
 
  
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/Y2qu7KLWlBTzjqOy51Kc8tWBPPmYqPl87DD2TDXioMMVCaOV9Hu9Yr0v7Sul7DFG6xio=w300", -[COLOR blue]===ENTRETENIMIENTO===[/COLOR]-
-http://127.0.0.1
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/azteca-trece.png" group-title="Entretenimiento",AZTECA TRECE HD(opc1)
-http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca13)/index.m3u8?Tecnovatvonline0qeij0bji_1@26639
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/NewLogo2016.png" group-title="Entretenimiento",Las Estrellas HD
-http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/master.m3u8?Tecnovatvonline0qeij0bji_1@26639
-#EXTINF:-1 tvg-name="Trecevisión Yucatan" tvg-logo="http://img.fenixzone.net/i/ngkSjve.png" group-title="Nacional",Trecevisión Yucatán
-http://streamingcws10.com:1935/trecevision/videotrecevision/playlist.m3u
-#EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/canal5.jpg" group-title="MEXICO", CANAL 5 HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(XHGC)/index.m3u8
-#EXTINF:-1 tvg-logo="http://y.cdn.entutele.com/media/channels/big/azteca-7.gif" group-title="Entretenimiento", AZTECA 7 HD
-http://live.izzitv.mx/Content/HLS/Live/Channel(Azteca7)/index.m3u8?Tecnovatvonline0qeij0bji_1@26639
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/LogoGalavision2013.png" group-title="MEXICO", GALATV
-http://live.izzitv.mx/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_04/large.XEIPN-TDT_Logo_2015.png.0fbe8ca85692dfe134d7d763391e54c9.png" group-title="MEXICO",Canal Once HD
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/master.m3u8
-#EXTINF:-1 tvg-name="TV UNAM" tvg-logo="http://tv.unam.mx/wp-content/plugins/empldoc/fotos_fichas/tvunam.png" group-title="Nacional",TV UNAM
-http://api.new.livestream.com/accounts/12380647/events/3843134/live.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HsKaIiPbNsQ/AAAAAAAAAAI/AAAAAAAAAAA/aqPPxVBIf04/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="MEXICO",Canal 22 Nacional
-http://api.new.livestream.com/accounts/16458468/events/4574813/live.m3u8?
-#EXTINF:-1 tvg-name="Foro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="Nacional",Foro TV
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8?
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/LogoGalavision2013.png" group-title="MEXICO", GALATV Merida
-http://74.222.3.185:1935/live/ngrp:galatvmerida_all/plalist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/33mcQ7fgYpI/maxresdefault.jpg" group-title="Entretenimiento", AZTECA A+
-http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2017_03/large.58c547d552942_XHTVM-ADN40.png.bc83280d75016331f3449af51be5ecba.png" group-title="Entretenimiento", ADN 40 
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.oncetv-ipn.net/onceninos/images/logo_comomandartusvideos.png" group-title="Infantil",Once Niños
-http://tvnet.iptvsur.com:25461/live/ginson/200/3883.ts
-#EXTINF:-1 tvg-logo="http://i.imgur.com/YyuQA.png" group-title="MEXICO",Television Mexiquense 
-http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8?Tecnovatvonline0qeij0bji_1@26639
-#EXTINF:0 tvg-logo="https://jefedejefes.files.wordpress.com/2009/04/logo_teaser.jpg" group-title="MEXICO",Efekto Tv HD
-http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://www.televisioneducativa.gob.mx/work/models/DGTVE/Template/resource/canales/img/ingenio.png" group-title="MEXICO",Ingenio TV
-http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/aprende_tv.jpg" group-title="Cultura", Aprende TV
-http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://uno1one.files.wordpress.com/2009/02/logo-mm1.jpg" group-title="Libres" , MULTIMEDIOS TV
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:-1 tvg-name="Telesur Yucatán" tvg-logo="http://img.fenixzone.net/i/pcmByFz.png" group-title="Nacional",Telesur Yucatán
-http://api.new.livestream.com/accounts/1003100/events/4130805/live.m3u8*************************************
-#EXTINF:-1 tvg-logo="https://la.canalsony.com/sites/la.set/files/logos/sony-primary-nav_0.png" group-title="PREMIUM", SONY
-http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(01)/index.m3u8  
+
 #EXTINF:-1 tvg-logo="http://www.onlinetv.planetfools.com/imagenes/warner.jpg" group-title="LATINO", WARNER BROTHER
 http://live.izzitv.mx/Content/HLS/Live/Channel(WARNER)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lnRYeBB.png" group-title="LATINO",HispanTV
