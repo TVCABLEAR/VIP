@@ -94,7 +94,7 @@ http://api.new.livestream.com/accounts/15754920/events/5198653/live.m3u8
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.uestv.cl/sites/all/themes/uestv/images/logo.png" group-title="CHILE",UESTV
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://forounivers.com/uploads/monthly_2017_01/large.PX-Sports.png.c552f2462e893fd44d90b9f1b4346cf9.png" group-title="LATINO",PX Sports
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="LATINO", PX SportsSports
 https://latamonly-lh.akamaihd.net/i/pxtv_1@576425/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/770996446913069056/T4wPuZ4v.jpg" group-title="LATINO",Telemundo 51 Miami
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
