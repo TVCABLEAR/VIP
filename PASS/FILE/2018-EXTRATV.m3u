@@ -1,0 +1,397 @@
+#EXTM3U
+
+#EXTINF:-0,Lista mamalona
+#EXTINF:-1,mega_kids
+https://clutch.vaughnsoft.net/ord/vl/mega_kids.m3u8
+#EXTINF:-1,estrellatv
+https://clutch.vaughnsoft.net/ord/vl/estrellatv.m3u8
+#EXTINF:-1,cine_calidad
+https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8
+#EXTINF:-1,cine_star
+https://clutch.vaughnsoft.net/ord/vl/cine_star.m3u8
+
+
+
+#EXTINF:-1 tvg-name="Las Estrellas " tvg-logo="http://adminweb.onlycable.net/img/Canale/small/Canal-de-las-Estrellas/Canal-de-las-Estrellas_.png" group-title="Mexico",Las Estrellas -2hrs
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:-1,MULTIMEDIOS MONTERREY HD
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1,TELEVISA
+http://189.216.247.113/Content/HLS/Live/Channel(ESTRELLAS_SD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_400_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, PARAMOUNT CHANNELL
+http://189.216.247.113/Content/HLS/Live/Channel(PARAMOUNT_CHANNEL)/Stream(01)/index.m3u8
+
+#EXTINF:-1,TDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/Stream(04)/index.m3u8
+
+#EXTINF:-1,UDN
+http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/Stream(01)/index.m3u8
+
+#EXTINF:-1,LAS ESTRELLAS
+http://142.0.43.4:25461/live/televal1l1/televall1956/7.m3u8
+
+#EXTINF:-1,GOLDEN EDGE
+http://iptv.premiumtutv.com/canal_37_goldenedge.m3u8
+
+#EXTINF:-1, SONY  Television 
+http://iptv.premiumtutv.com/canal_11_sony.m3u8
+
+#EXTINF:-1, DISNEY JR.
+http://iptv.premiumtutv.com/canal_25_disneyjr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Las estrellas (canal 2)
+http://iptv.premiumtutv.com/canal_7_lasestrellascanal2.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Fox
+http://iptv.premiumtutv.com/canal_8_fox.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Tlnovelas
+http://iptv.premiumtutv.com/canal_9_tlnovelas.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", MTV	
+http://iptv.premiumtutv.com/canal_10_mtv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Sony
+http://iptv.premiumtutv.com/canal_11_sony.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Azteca 13
+http://iptv.premiumtutv.com/canal_12_azteca13.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Azteca 7
+http://iptv.premiumtutv.com/canal_13_azteca7.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Azteca 7
+http://iptv.premiumtutv.com/canal_13_azteca7.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Canal 5
+http://iptv.premiumtutv.com/canal_14_canal5.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", TNT
+http://iptv.premiumtutv.com/canal_15_tnt.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Cartoon Network
+http://iptv.premiumtutv.com/canal_16_cartoonnetwork.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Once TV
+http://iptv.premiumtutv.com/canal_18_oncetv.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Discovery Channel
+http://iptv.premiumtutv.com/canal_19_discoverychannel.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Disney Channel
+http://iptv.premiumtutv.com/canal_20_disneychannel.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Nickelodeon (Nick)
+http://iptv.premiumtutv.com/canal_21_nickelodeonnick.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Discovery Kids
+http://iptv.premiumtutv.com/canal_22_discoverykids.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", NatGeo
+http://iptv.premiumtutv.com/canal_23_natgeo.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", El Financiero Bloomberg
+http://iptv.premiumtutv.com/canal_24_elfinancierobloomberg.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Disney Jr
+http://iptv.premiumtutv.com/canal_25_disneyjr.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Multimedios Monterrey
+http://iptv.premiumtutv.com/canal_26_multimediosmonterrey.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Cinecanal (W)
+http://iptv.premiumtutv.com/canal_27_cinecanalw.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Animal Planet
+http://iptv.premiumtutv.com/canal_28_animalplanet.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", FX
+http://iptv.premiumtutv.com/canal_29_fx.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Disney XD
+http://iptv.premiumtutv.com/canal_30_disneyxd.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Tooncast	
+http://iptv.premiumtutv.com/canal_31_tooncast.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", TVE
+http://iptv.premiumtutv.com/canal_32_tve.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Universal Channel	
+http://iptv.premiumtutv.com/canal_33_universalchannel.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Lifetime
+http://iptv.premiumtutv.com/canal_34_lifetime.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", ESPN 2
+http://iptv.premiumtutv.com/canal_35_espn2.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", ESPN 3
+http://iptv.premiumtutv.com/canal_36_espn3.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Golden Edge
+http://iptv.premiumtutv.com/canal_37_goldenedge.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", TNT Series
+http://iptv.premiumtutv.com/canal_39_tntseries.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", TIIN
+http://iptv.premiumtutv.com/canal_40_tiin.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Ritmoson Latino
+http://iptv.premiumtutv.com/canal_41_ritmosonlatino.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Syfy
+http://iptv.premiumtutv.com/canal_42_syfy.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Unicable
+http://iptv.premiumtutv.com/canal_43_unicable.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Fox life
+http://iptv.premiumtutv.com/canal_44_foxlife.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", E! Entertainment Television
+http://iptv.premiumtutv.com/canal_45_eentertainmenttelevision.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Fox Movies
+http://iptv.premiumtutv.com/canal_46_foxmovieshd.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", AyM Sports
+http://iptv.premiumtutv.com/canal_47_aymsports.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", A&E
+http://iptv.premiumtutv.com/canal_48_ae.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Nick Jr
+http://iptv.premiumtutv.com/canal_49_nickjr.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", CBeebies	
+http://iptv.premiumtutv.com/canal_50_cbeebies.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Boomerang	
+http://iptv.premiumtutv.com/canal_51_boomerang.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Fox Classics	
+http://iptv.premiumtutv.com/canal_52_foxclassics.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Fox Cinéma
+http://iptv.premiumtutv.com/canal_53_foxcinma.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Golden
+http://iptv.premiumtutv.com/canal_54_golden.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Studio Universal
+http://iptv.premiumtutv.com/canal_56_studiouniversal.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", TCM	
+http://iptv.premiumtutv.com/canal_57_tcm.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", BBC Entertainment
+http://iptv.premiumtutv.com/canal_58_bbcentertainment.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Comedy Central
+http://iptv.premiumtutv.com/canal_59_comedycentral.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", TBS	
+http://iptv.premiumtutv.com/canal_60_tbs.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Discovery Civilization
+http://iptv.premiumtutv.com/canal_61_discoverycivilization.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Discovery Science
+http://iptv.premiumtutv.com/canal_62_discoveryscience.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Discovery Turbo
+http://iptv.premiumtutv.com/canal_63_discoveryturbo.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Discovery Theater
+http://iptv.premiumtutv.com/canal_64_discoverytheater.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Investigación Discovery
+http://iptv.premiumtutv.com/canal_65_investigacindiscovery.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Home and Health
+http://iptv.premiumtutv.com/canal_66_homeandhealth.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Glitz	
+http://iptv.premiumtutv.com/canal_67_glitz.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", HMX TV
+http://iptv.premiumtutv.com/canal_68_hmxtv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", I.Sat
+http://iptv.premiumtutv.com/canal_69_i.sat.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Nick Toons
+http://iptv.premiumtutv.com/canal_70_nicktoons.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", El Gourmet	
+http://iptv.premiumtutv.com/canal_71_elgourmet.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Gala TV
+http://iptv.premiumtutv.com/canal_72_galatv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", TruTV
+http://iptv.premiumtutv.com/canal_73_trutv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", AXN
+http://iptv.premiumtutv.com/canal_74_axn.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Warner	
+http://iptv.premiumtutv.com/canal_76_warner.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Fox Sports 2
+http://iptv.premiumtutv.com/canal_77_foxsports2.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Universal
+http://iptv.premiumtutv.com/canal_78_universal.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", The Film Zone
+http://iptv.premiumtutv.com/canal_79_thefilmzone.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Nick
+http://iptv.premiumtutv.com/canal_80_nick.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Space	
+http://iptv.premiumtutv.com/canal_81_space.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", NatGeo Wild
+http://iptv.premiumtutv.com/canal_82_natgeowild.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", History
+http://iptv.premiumtutv.com/canal_83_history.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Bandamax	
+http://iptv.premiumtutv.com/canal_84_bandamax.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", De Película
+http://iptv.premiumtutv.com/canal_85_depelcula.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Discovery World
+http://iptv.premiumtutv.com/canal_87_discoveryworld.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Fox Action
+http://iptv.premiumtutv.com/canal_88_foxaction.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Fox 1
+http://iptv.premiumtutv.com/canal_89_fox1.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Az Corazón
+http://iptv.premiumtutv.com/canal_90_azcorazn.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", VH1
+http://iptv.premiumtutv.com/canal_91_vh1.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", VH1 Classic
+http://iptv.premiumtutv.com/canal_92_vh1classic.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", MTV Hits
+http://iptv.premiumtutv.com/canal_93_mtvhits.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", MTV Live
+http://iptv.premiumtutv.com/canal_94_mtvlive.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", ESPN
+http://iptv.premiumtutv.com/canal_95_espn.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", AMC
+http://iptv.premiumtutv.com/canal_96_amc.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Fox NatGeo
+http://iptv.premiumtutv.com/canal_98_foxnatgeo.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", TeleFormula
+http://iptv.premiumtutv.com/canal_99_teleformula.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Telehit
+http://iptv.premiumtutv.com/canal_100_telehit.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Foro TV
+http://iptv.premiumtutv.com/canal_101_forotv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Fox Sports
+http://iptv.premiumtutv.com/canal_102_foxsports.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", ESPN +
+http://iptv.premiumtutv.com/canal_103_espn+.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Garaje TV
+http://iptv.premiumtutv.com/canal_104_garajetv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", TLC	
+http://iptv.premiumtutv.com/canal_105_tlc.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", WOBI TV
+http://iptv.premiumtutv.com/canal_107_wobitv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", UTV
+http://iptv.premiumtutv.com/canal_108_utv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Proyecto 40
+http://iptv.premiumtutv.com/canal_109_proyecto40.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", HOLA TV
+http://iptv.premiumtutv.com/canal_110_holatv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Milenio TV
+http://iptv.premiumtutv.com/canal_111_mileniotv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Fashion
+http://iptv.premiumtutv.com/canal_112_fashiontv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Az Mundo
+http://iptv.premiumtutv.com/canal_113_azmundo.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Az Cinéma
+http://iptv.premiumtutv.com/canal_114_azcinma.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Cinemax (O)
+http://iptv.premiumtutv.com/canal_115_cinemaxo.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Az Click!
+http://iptv.premiumtutv.com/canal_116_azclick.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Imagen TV
+http://iptv.premiumtutv.com/canal_118_imagentv.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Cinecanal
+http://iptv.premiumtutv.com/canal_119_cinecanal.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Distrito Comedia FIXED
+http://iptv.premiumtutv.com/canal_121_distritocomediafixed.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Universal Channel TEST
+http://iptv.premiumtutv.com/canal_129_universalchanneltest.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Nat Geo Kids
+http://iptv.premiumtutv.com/canal_132_natgeokids.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV",  History
+http://iptv.premiumtutv.com/canal_83_history.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Azteca 13 (uno)
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_2_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Gala_tv
+http://iptv.premiumtutv.com/canal_72_gala.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Cine canal
+http://iptv.premiumtutv.com/canal_119_cinecanal.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Cinemax
+http://iptv.premiumtutv.com/canal_115_cinemaxo.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Fox +
+http://iptv.premiumtutv.com/canal_89_fox1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", The Film Zone
+http://iptv.premiumtutv.com/canal_79_thefilmzone.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PreTV", Distrito comedia
+http://iptv.premiumtutv.com/canal_121_distritocomediafixed.m3u8
+
