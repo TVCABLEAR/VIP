@@ -343,8 +343,10 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 https://latamonly-lh.akamaihd.net/i/fixfoxi_1@576421/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gamba.fm/wp/wp-content/uploads/2017/09/Futurama.jpg" group-title="LATINO",Futurama VOD [NoRoku]
 https://goo.gl/DZSUJc
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.fotogramas.es/var/ezflow_site/storage/images/cinefilia/las-25-curiosidades-de-los-simpson-que-no-conocias/31602553-1-esl-ES/Las-25-curiosidades-de-Los-Simpson-que-no-conocias_landscape.jpg" group-title="LATINO",Los Simpson VOD [NoRoku]
 https://goo.gl/PWd25F
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/mega_extremo_320.jpg" group-title="LATINO",Mega Extremo
 https://clutch.vaughnsoft.net/ord/vl/mega_extremo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/mega_movieshd_320.jpg" group-title="LATINO",Mega Movies HD
@@ -361,7 +363,7 @@ http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
 https://latamonly-lh.akamaihd.net/i/aymsports_1@576423/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AlG8pAu.png" group-title="MEXICO",Canal Once Mexico City (Opt-2)
 https://latamonly-lh.akamaihd.net/i/oncetv_1@574620/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_06/thumb.507_tvc-platino.png.9a062e386a1e8460ad2ebf323df9fae9.png" group-title="MEXICO",Cinema Platino
+#EXTINF:-1  tvg-logo="https://www.foromedios.com/uploads/monthly_2017_06/thumb.507_tvc-platino.png.9a062e386a1e8460ad2ebf323df9fae9.png" group-title="MEXICO",Cinema Platino
 https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
 #EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="https://i.imgur.com/8kw91e7.png" group-title="MEXICO",Las Estrellas (-2)
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
@@ -399,7 +401,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.ssb.com.pe/images/monterrico%20tv.jpg" group-title="PERU",Monterrico TV
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.paraguay.com/photos/images/000/124/527/regular_unica.jpg.jpg" group-title="PARAGUAY",Unicanal
+EXTINF:-1 tvg-logo="http://cdn.paraguay.com/photos/images/000/124/527/regular_unica.jpg.jpg" group-title="PARAGUAY",Unicanal
 http://strm.unicanal.com.py/live/unicanal_mid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/LogoRepretelC6.png/120px-LogoRepretelC6.png" group-title="COSTA RICA",Repretel 6
 http://d3ha0sloduwpku.cloudfront.net/cr/canal6/smil:v2.smil/playlist.m3u8
@@ -423,8 +425,7 @@ http://controlstreams.com:1935/tves2/tves2/playlist.m3u8
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports HD (Opt-1)
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1 group-title="z-omitir", [COLOR YELLOW] [/COLOR] COMPRO USADO
-https://www.facebook.com/COMPRO.7946
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2 SD (Opt-1)
 http://selevision9878-i.akamaihd.net/hls/live/219133/98785/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png" group-title="UAE",Abu Dhabi Sports 2 HD (Opt-2)
