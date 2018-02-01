@@ -24,7 +24,7 @@ https://clutch.vaughnsoft.net/ord/vl/umbrella_corps.m3u8
 http://ar.watcha.live/ch8/full.m3u8
 #EXTINF:-1,Investigación Discovery
 http://iptv.premiumtutv.com/canal_65_investigacindiscovery.m3u8
- #EXTINF:-1 group-title="z-omitir", [COLOR YELLOW] [/COLOR] COMPRO USADO
+ #EXTINF:-1 group-title="z-omitir", COMPRO USADO
 https://www.facebook.com/COMPRO.7946
 #EXTINF:-1,tvg-logo="http://www.olympicchannel.com/static/images/oc-share-preview.jpg"tvg-name="Olympic Channel"group-title="Deportes",Olympic Channel
 https://live.olympicchannel.com/ocs/channel01b/NBC_OCS1_VIDEO_7_6064000.m3u8 
@@ -71,21 +71,21 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
 #EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]multipremier
 https://latamonly-lh.akamaihd.net/i/multipremier_1@576702/master.m3u8
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]TELEMUNDO 51
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",TELEMUNDO 51
 http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1 group-title="z-omitir", [COLOR YELLOW] [/COLOR] COMPRO USADO
 https://www.facebook.com/COMPRO.7946
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]MOVISTAR FUTBOL
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",MOVISTAR FUTBOL
 http://185.231.160.42/608/1/index.m3u8
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]MOVISTAR FUTBOL
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",]MOVISTAR FUTBOL
 http://185.231.160.42/608/1/index.m3u8
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]MOVISTAR FUTBOL
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",MOVISTAR FUTBOL
 http://185.231.160.42/608/1/index.m3u8
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]BEIN SPORTS 2
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",BEIN SPORTS 2
 http://185.231.160.42/598/1/index.m3u8
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]UNIVISION_TDN
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",UNIVISION_TDN
 http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
-#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",[COLOR WHITE] [/COLOR]BEIN SPORTS
+#EXTINF:0 tvg-logo="http://i68.tinypic.com/2sb0oxt.png",BEIN SPORTS
 http://185.231.160.42/607/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.wixstatic.com/media/8e49c2_81abefc1f065440fb44306391fe6f9a3%7Emv2.png" group-title="PANAMA",COS
 http://cdnlive.medcom.com.pa/medcom-livestream/cos-live/cos-live/streamout-480p/chunks.m3u8
