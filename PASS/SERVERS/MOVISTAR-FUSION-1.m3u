@@ -1,0 +1,120 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ___ ESPAGNE ___ 
+http://136.243.48.19:1985/live/1234567890/1234567890/2010.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: LA 1 
+http://136.243.48.19:1985/live/1234567890/1234567890/2435.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: LA 2 
+http://136.243.48.19:1985/live/1234567890/1234567890/1929.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: Antenna 3 
+http://136.243.48.19:1985/live/1234567890/1234567890/2128.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: Cuatro 
+http://136.243.48.19:1985/live/1234567890/1234567890/2127.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: Telecinco 
+http://136.243.48.19:1985/live/1234567890/1234567890/1931.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: La Sexta 
+http://136.243.48.19:1985/live/1234567890/1234567890/1926.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: LaLigaTV 
+http://136.243.48.19:1985/live/1234567890/1234567890/1925.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: Barca TV 
+http://136.243.48.19:1985/live/1234567890/1234567890/1928.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: Canal+ Golf 
+http://136.243.48.19:1985/live/1234567890/1234567890/3214.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: Canal + FUTBOL HD 
+http://136.243.48.19:1985/live/1234567890/1234567890/3270.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: MANA TV SPAIN 
+http://136.243.48.19:1985/live/1234567890/1234567890/1860.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: Galica 
+http://136.243.48.19:1985/live/1234567890/1234567890/2107.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: Fox Life 
+http://136.243.48.19:1985/live/1234567890/1234567890/2109.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: Fox 
+http://136.243.48.19:1985/live/1234567890/1234567890/2108.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: EURONEWS 
+http://136.243.48.19:1985/live/1234567890/1234567890/1923.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: Cosmo 
+http://136.243.48.19:1985/live/1234567890/1234567890/2110.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: #0 
+http://136.243.48.19:1985/live/1234567890/1234567890/1927.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: Canal+ Accion 
+http://136.243.48.19:1985/live/1234567890/1234567890/1924.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: Canal+ Series 
+http://136.243.48.19:1985/live/1234567890/1234567890/3018.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: Canal+ Estrenos 
+http://136.243.48.19:1985/live/1234567890/1234567890/3020.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: AXN HD 
+http://136.243.48.19:1985/live/1234567890/1234567890/2105.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: ANDALUCIA TV 
+http://136.243.48.19:1985/live/1234567890/1234567890/1859.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES: TV Glicia 
+http://136.243.48.19:1985/live/1234567890/1234567890/2122.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES:  Caza Y Pesca 
+http://136.243.48.19:1985/live/1234567890/1234567890/3019.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Teledeporte 
+http://136.243.48.19:1985/live/1234567890/1234567890/3754.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Sport CDO HD 
+http://136.243.48.19:1985/live/1234567890/1234567890/3760.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Real Madrid 
+http://136.243.48.19:1985/live/1234567890/1234567890/3757.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Movie Star F1 
+http://136.243.48.19:1985/live/1234567890/1234567890/3752.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: M. MotoGp 
+http://136.243.48.19:1985/live/1234567890/1234567890/3753.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: M. GOLF 
+http://136.243.48.19:1985/live/1234567890/1234567890/3746.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: M. Futbol 
+http://136.243.48.19:1985/live/1234567890/1234567890/3744.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: M. Depotes 1 
+http://136.243.48.19:1985/live/1234567890/1234567890/3747.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: La Liga TV Bar 
+http://136.243.48.19:1985/live/1234567890/1234567890/3748.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Eurosport 1 
+http://136.243.48.19:1985/live/1234567890/1234567890/3759.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Canal Partidazo {Match Only} 
+http://136.243.48.19:1985/live/1234567890/1234567890/3743.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Canal  Liga 2 HD 
+http://136.243.48.19:1985/live/1234567890/1234567890/3741.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Canal  Liga 
+http://136.243.48.19:1985/live/1234567890/1234567890/3740.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: CANAL  FUTBOL HD 
+http://136.243.48.19:1985/live/1234567890/1234567890/3742.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Canal  Deportes 2 
+http://136.243.48.19:1985/live/1234567890/1234567890/3750.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Canal   Toros 
+http://136.243.48.19:1985/live/1234567890/1234567890/3756.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: CANAL   LIGA HD 
+http://136.243.48.19:1985/live/1234567890/1234567890/3739.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Canal   Golf HD 
+http://136.243.48.19:1985/live/1234567890/1234567890/3755.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Canal   Futbol 
+http://136.243.48.19:1985/live/1234567890/1234567890/3745.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Canal   Deportes 
+http://136.243.48.19:1985/live/1234567890/1234567890/3749.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: BeIN Sports Espana 
+http://136.243.
+ 48.19:1985/live/1234567890/1234567890/3738.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Bein La Liga HD 
+http://136.243.48.19:1985/live/1234567890/1234567890/3737.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: beIN La Liga 
+http://136.243.48.19:1985/live/1234567890/1234567890/3751.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SP: Barca TV 
+http://136.243.48.19:1985/live/1234567890/1234567890/3758.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES_Taquilla_01 
+http://136.243.48.19:1985/live/1234567890/1234567890/3730.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES_Taquilla_02 
+http://136.243.48.19:1985/live/1234567890/1234567890/3729.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES_Taquilla_03 
+http://136.243.48.19:1985/live/1234567890/1234567890/3728.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES_Taquilla_04 
+http://136.243.48.19:1985/live/1234567890/1234567890/3727.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES_Taquilla_05 
+http://136.243.48.19:1985/live/1234567890/1234567890/3726.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ES_taquilla_06 
+http://136.243.48.19:1985/live/1234567890/1234567890/3725.m3u8
