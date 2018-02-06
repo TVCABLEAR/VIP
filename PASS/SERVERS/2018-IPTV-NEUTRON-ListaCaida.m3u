@@ -1,12 +1,48 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", PANICO
+https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
-https://github.com/TVCABLEAR/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", CINEMA PLATINO
+https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
-https://github.com/TVCABLEAR/
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", CINE MEXICANO
+https://latamonly-lh.akamaihd.net/i/cinemex_1@578060/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", MULTIPREMIER
+https://latamonly-lh.akamaihd.net/i/multipremier_1@576702/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", MULTICINEMA
+https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png",  ZONA FILMS 
+http://tecnotv.xyz/tvmex/films
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png",  MEGA MOVIES
+http://tecnotv.xyz/tvmex/movies
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png",  MEGA EXTREMO
+http://tecnotv.xyz/tvmex/extremo
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png",  LATINO KIDS
+http://tecnotv.xyz/tvmex/kids
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png",  CINE TV
+http://tecnotv.xyz/tvmex/cine
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png",  TV CINE
+http://tecnotv.xyz/tvmex/katy
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png",  CINE STAR
+http://tecnotv.xyz/tvmex/star
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", CINE HOGAR
+http://tecnotv.xyz/tvmex/hogar
+ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", CINE CALIDAD
+http://tecnotv.xyz/tvmex/calidad
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Las estrellas (canal 2)
 http://iptv.premiumtutv.com/canal_7_lasestrellascanal2.m3u8
@@ -364,46 +400,4 @@ http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_1_av-b.m3u8
 #EXTINF:-1   , tvg-logo="http://vertelevisor.com/imagenes/SFC.jpg" group-title= "Deportes", Sevilla FC
 http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8#1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", PANICO
-https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", CINEMA PLATINO
-https://latamonly-lh.akamaihd.net/i/cineplatino_1@578062/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", CINE MEXICANO
-https://latamonly-lh.akamaihd.net/i/cinemex_1@578060/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", MULTIPREMIER
-https://latamonly-lh.akamaihd.net/i/multipremier_1@576702/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", MULTICINEMA
-https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png",  ZONA FILMS 
-http://tecnotv.xyz/tvmex/films
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png",  MEGA MOVIES
-http://tecnotv.xyz/tvmex/movies
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png",  MEGA EXTREMO
-http://tecnotv.xyz/tvmex/extremo
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png",  LATINO KIDS
-http://tecnotv.xyz/tvmex/kids
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png",  CINE TV
-http://tecnotv.xyz/tvmex/cine
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png",  Katy TV CINE
-http://tecnotv.xyz/tvmex/katy
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png",  CINE STAR
-http://tecnotv.xyz/tvmex/star
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Cine Hogar .
-http://tecnotv.xyz/tvmex/hogar
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Cine Calidad .
-http://tecnotv.xyz/tvmex/calidad
