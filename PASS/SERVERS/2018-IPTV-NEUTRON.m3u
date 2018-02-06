@@ -1,0 +1,226 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-------TVCABLEAR------
+https://github.com/TVCABLEAR/
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png" group-title="SSIPTV",-----Globalentv@gmail.com----
+https://github.com/TVCABLEAR/
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Las estrellas (canal 2)
+http://iptv.premiumtutv.com/canal_7_lasestrellascanal2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", FOX
+http://iptv.premiumtutv.com/canal_8_fox.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", TLNOVELAS
+http://iptv.premiumtutv.com/canal_9_tlnovelas.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", MTV
+http://iptv.premiumtutv.com/canal_10_mtv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SONY
+http://iptv.premiumtutv.com/canal_11_sony.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Azteca 13
+http://iptv.premiumtutv.com/canal_12_azteca13.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Azteca 7
+http://iptv.premiumtutv.com/canal_13_azteca7.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Canal 5
+http://iptv.premiumtutv.com/canal_14_canal5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", TNT
+http://iptv.premiumtutv.com/canal_15_tnt.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Cartoon Network
+http://iptv.premiumtutv.com/canal_16_cartoonnetwork.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Once TV
+http://iptv.premiumtutv.com/canal_18_oncetv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Discovery Channel
+http://iptv.premiumtutv.com/canal_19_discoverychannel.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Disney Channel
+http://iptv.premiumtutv.com/canal_20_disneychannel.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Nickelodeon (Nick)
+http://iptv.premiumtutv.com/canal_21_nickelodeonnick.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Discovery Kids
+http://iptv.premiumtutv.com/canal_22_discoverykids.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", NatGeo
+http://iptv.premiumtutv.com/canal_23_natgeo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", El Financiero Bloomberg
+http://iptv.premiumtutv.com/canal_24_elfinancierobloomberg.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Disney Jr
+http://iptv.premiumtutv.com/canal_25_disneyjr.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Multimedios Monterrey
+http://iptv.premiumtutv.com/canal_26_multimediosmonterrey.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Cinecanal (W)
+http://iptv.premiumtutv.com/canal_27_cinecanalw.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Animal Planet
+http://iptv.premiumtutv.com/canal_28_animalplanet.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", FX
+http://iptv.premiumtutv.com/canal_29_fx.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Disney XD
+http://iptv.premiumtutv.com/canal_30_disneyxd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Tooncast
+http://iptv.premiumtutv.com/canal_31_tooncast.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", TVE
+http://iptv.premiumtutv.com/canal_32_tve.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Universal Channel  
+http://iptv.premiumtutv.com/canal_33_universalchannel.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Lifetime
+http://iptv.premiumtutv.com/canal_34_lifetime.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ESPN 2
+http://iptv.premiumtutv.com/canal_35_espn2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ESPN 3
+http://iptv.premiumtutv.com/canal_36_espn3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Golden Edge
+http://iptv.premiumtutv.com/canal_37_goldenedge.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", TNT Series
+http://iptv.premiumtutv.com/canal_39_tntseries.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", TIIN
+http://iptv.premiumtutv.com/canal_40_tiin.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Ritmoson Latino
+http://iptv.premiumtutv.com/canal_41_ritmosonlatino.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", SY FY
+http://iptv.premiumtutv.com/canal_42_syfy.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Unicable
+http://iptv.premiumtutv.com/canal_43_unicable.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Fox life
+http://iptv.premiumtutv.com/canal_44_foxlife.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", E! Entertainment Television
+http://iptv.premiumtutv.com/canal_45_eentertainmenttelevision.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Fox Movies HD
+http://iptv.premiumtutv.com/canal_46_foxmovieshd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", AyM Sports
+http://iptv.premiumtutv.com/canal_47_aymsports.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", A&E
+http://iptv.premiumtutv.com/canal_48_ae.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Nick Jr
+http://iptv.premiumtutv.com/canal_49_nickjr.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", CBeebies
+http://iptv.premiumtutv.com/canal_50_cbeebies.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Boomerang  
+http://iptv.premiumtutv.com/canal_51_boomerang.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Fox Classics
+http://iptv.premiumtutv.com/canal_52_foxclassics.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Fox Cinéma
+http://iptv.premiumtutv.com/canal_53_foxcinma.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Golden
+http://iptv.premiumtutv.com/canal_54_golden.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Studio Universal
+http://iptv.premiumtutv.com/canal_56_studiouniversal.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", TCM
+http://iptv.premiumtutv.com/canal_57_tcm.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", BBC Entertainment
+http://iptv.premiumtutv.com/canal_58_bbcentertainment.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Comedy Central
+http://iptv.premiumtutv.com/canal_59_comedycentral.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", TBS
+http://iptv.premiumtutv.com/canal_60_tbs.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Discovery Civilization
+http://iptv.premiumtutv.com/canal_61_discoverycivilization.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Discovery Science
+http://iptv.premiumtutv.com/canal_62_discoveryscience.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Discovery Turbo
+http://iptv.premiumtutv.com/canal_63_discoveryturbo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Discovery Theater
+http://iptv.premiumtutv.com/canal_64_discoverytheater.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Investigación Discovery
+http://iptv.premiumtutv.com/canal_65_investigacindiscovery.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Home and Health
+http://iptv.premiumtutv.com/canal_66_homeandhealth.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Glitz  
+http://iptv.premiumtutv.com/canal_67_glitz.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", HMX TV
+http://iptv.premiumtutv.com/canal_68_hmxtv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", I.Sat
+http://iptv.premiumtutv.com/canal_69_i.sat.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Nick Toons
+http://iptv.premiumtutv.com/canal_70_nicktoons.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", El Gourmet  
+http://iptv.premiumtutv.com/canal_71_elgourmet.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Gala TV
+http://iptv.premiumtutv.com/canal_72_galatv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", TruTV
+http://iptv.premiumtutv.com/canal_73_trutv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", AXN
+http://iptv.premiumtutv.com/canal_74_axn.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", WARNER  
+http://iptv.premiumtutv.com/canal_76_warner.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Fox Sports 2
+http://iptv.premiumtutv.com/canal_77_foxsports2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Universal
+http://iptv.premiumtutv.com/canal_78_universal.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", The Film Zone
+http://iptv.premiumtutv.com/canal_79_thefilmzone.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Nick
+http://iptv.premiumtutv.com/canal_80_nick.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Space  
+http://iptv.premiumtutv.com/canal_81_space.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", NatGeo Wild
+http://iptv.premiumtutv.com/canal_82_natgeowild.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", History
+http://iptv.premiumtutv.com/canal_83_history.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Bandamax
+http://iptv.premiumtutv.com/canal_84_bandamax.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", De Película
+http://iptv.premiumtutv.com/canal_85_depelcula.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Discovery World
+http://iptv.premiumtutv.com/canal_87_discoveryworld.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Fox Action
+http://iptv.premiumtutv.com/canal_88_foxaction.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Fox 1
+http://iptv.premiumtutv.com/canal_89_fox1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Az Corazón
+http://iptv.premiumtutv.com/canal_90_azcorazn.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", VH1
+http://iptv.premiumtutv.com/canal_91_vh1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", VH1 Classic
+http://iptv.premiumtutv.com/canal_92_vh1classic.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", MTV Hits
+http://iptv.premiumtutv.com/canal_93_mtvhits.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", MTV Live
+http://iptv.premiumtutv.com/canal_94_mtvlive.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ESPN
+http://iptv.premiumtutv.com/canal_95_espn.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", AMC
+http://iptv.premiumtutv.com/canal_96_amc.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Fox NatGeo
+http://iptv.premiumtutv.com/canal_98_foxnatgeo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", TeleFormula
+http://iptv.premiumtutv.com/canal_99_teleformula.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Telehit
+http://iptv.premiumtutv.com/canal_100_telehit.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Foro TV
+http://iptv.premiumtutv.com/canal_101_forotv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Fox Sports
+http://iptv.premiumtutv.com/canal_102_foxsports.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", ESPN +
+http://iptv.premiumtutv.com/canal_103_espn+.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Garaje TV
+http://iptv.premiumtutv.com/canal_104_garajetv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", TLC
+http://iptv.premiumtutv.com/canal_105_tlc.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", WOBI TV
+http://iptv.premiumtutv.com/canal_107_wobitv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", UTV
+http://iptv.premiumtutv.com/canal_108_utv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Proyecto 40
+http://iptv.premiumtutv.com/canal_109_proyecto40.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", HOLA TV
+http://iptv.premiumtutv.com/canal_110_holatv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Milenio TV
+http://iptv.premiumtutv.com/canal_111_mileniotv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Fashion TV
+http://iptv.premiumtutv.com/canal_112_fashiontv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Az Mundo
+http://iptv.premiumtutv.com/canal_113_azmundo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Az Cinéma
+http://iptv.premiumtutv.com/canal_114_azcinma.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Cinemax (O)
+http://iptv.premiumtutv.com/canal_115_cinemaxo.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Az Click!
+http://iptv.premiumtutv.com/canal_116_azclick.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Imagen TV
+http://iptv.premiumtutv.com/canal_118_imagentv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Cinecanal
+http://iptv.premiumtutv.com/canal_119_cinecanal.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Distrito Comedia FIXED
+http://iptv.premiumtutv.com/canal_121_distritocomediafixed.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Universal Channel TEST
+http://iptv.premiumtutv.com/canal_129_universalchanneltest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TVCABLEAR/iptv/master/TVCABLEAR.png", Nat Geo Kids
+http://iptv.premiumtutv.com/canal_132_natgeokids.m3u8
