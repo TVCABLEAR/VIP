@@ -93,7 +93,7 @@ http://ar.watcha.live/ch12/hi.m3u8
 #EXTINF:-1,ARGENTINA: DXTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/master.m3u8
 
-#EXTM3U
+
 
 #EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="PainelIPTVGratis.com", PainelIPTVGratis.com - Lista Gerada Gratuitamente
 http://paineliptvgratis.com/intro.mp4
