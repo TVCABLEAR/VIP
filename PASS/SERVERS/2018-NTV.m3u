@@ -90,8 +90,381 @@ http://ar.watcha.live/ch7/hi.m3u8
 #EXTINF:-1,ARGENTINA:360 TV
 http://ar.watcha.live/ch12/hi.m3u8
  
-#EXTINF:-1, dxtv
+#EXTINF:-1,ARGENTINA: DXTV
 http://186.33.227.198/DXTV/smil:DXTV.smil/master.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="PainelIPTVGratis.com", PainelIPTVGratis.com - Lista Gerada Gratuitamente
+http://paineliptvgratis.com/intro.mp4
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Latina Peru
+http://m3u.iptvla.xyz/usuarios/src4/LatinaPeru/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", BHTV Peru
+http://m3u.iptvla.xyz/usuarios/src4/BHTV/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Canal 25 Peru
+http://qs1.distream.net:2126/c25_str/canal25/chunklist_w216033882.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", 7x08L Dexter: Argentina
+http://cdnv10.ec.cx/RedeCanais/RedeCanais/RCServer03/ondemand/DEXTERS07EP08.mp4?ONSeries
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/wonderfulengineering.com/wp-content/uploads/2015/07/Argentina-flag-2.jpg" group-title="Categoria", ARGENTINA
+http://painel.serveron.com.br:8018/stream;
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", ARGENTINA:Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", ARGENTINA:Canal 9 Salta
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", ARGENTINA:Telemax Arg
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", ARGENTINA:Telpin
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Canal 26 Argentina
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/foromedios.com/uploads/gallery/album_2/gallery_1163_2_120274.png" group-title="Categoria", CANAL 26 HD Argentina
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", DEPORTV ARGENTINA
+http://186.33.227.200/DXTV/smil:DXTV.smil/chunklist_w222748973_b800000_slesp.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", El 13 Argentina
+http://m3u.iptvla.xyz/usuarios/src4/El13Argentina/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/2.bp.blogspot.com/-_A-jiGtuVp8/UW_Qs9-lOJI/AAAAAAAAAEg/NsmFv_C60B0/s1600/TOPMUSIC.gif" group-title="Categoria", Music Top Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Spanish: DxTV Argentina
+http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w788509661_b800000_slesp.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Spanish: XFN TV Mar del Plata Argentina
+http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", THD Argentina
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Cronica TV
+http://ar.watcha.live/ch18/mid.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/RgvkelR.jpg" group-title="Categoria", SYFY
+http://live.tvplayerlatino.com/streaming/src1/GU0FE?238e82&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", SyFy
+http://m3u.iptvla.xyz/usuarios/src1/SyFy/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/media.entutele.com/channels/big/syfy.gif" group-title="Categoria", Syfy
+http://ragnaroktv.com/live/STREAM/SYFY/MzQ31jMyMdUzNdAzMjAyNAQA/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/revenda.kudaplay.tv/tema/canais_logo/SD_SYFY.png" group-title="Categoria", Syfy
+http://listaiptv.servidorfull.com:8080/SD_SYFY/mpegts?token=a804f6e138ff63e3fbfe7cbca6c94bfa
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", SYFY
+http://149.56.26.35:8080/HD_SYFY/video.m3u8?token=c1fd5cba29c6ddf188b989d3fefff37c
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", SYFY
+http://144.217.72.15:80/SYFYHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/EFM7Lb" group-title="Categoria", SyFy
+http://144.217.72.15/SYFYHD/tracks-v1a1/index.m3u8?token=2763ca2ff5cd103c676065c8ef1a3b0e
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Syfy
+http://painel.iptvhot.com:25461/live/testando33/testando33/40.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Syfy
+http://painel.iptvmove.com:25461/live/tiago123/tiago123/1250.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ewedit.files.wordpress.com/2017/05/syfy.jpg?w=1020&h=1077" group-title="Categoria", SYFY (Copyright © 2017 by TeamBlue)
+http://188.165.13.95:8080/28/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Canal+ Toros
+http://m3u.iptvla.xyz/usuarios/src5/Toros/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/KXZE1Qb.png" group-title="Categoria", TOROS TV (Copyright © 2017 by TeamBlue)
+http://188.165.13.95:8080/26/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Movistar Dcine
+http://185.231.160.42/646/2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Movistar Action
+http://185.231.160.42/609/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Movistar Comedia
+http://m3u.iptvla.xyz/usuarios/src5/MoviComedia/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Movistar Comedia
+http://185.231.160.42/613/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette1.wikia.nocookie.net/logopedia/images/e/e4/MComedia.png/revision/latest?cb=20160707185637" group-title="Categoria", MOVISTAR COMEDIA (Copyright © 2017 by TeamBlue)
+http://185.231.160.35/613/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette3.wikia.nocookie.net/logopedia/images/c/c3/MovistarDeportes1.png/revision/latest?cb=20160818140254" group-title="Categoria", MOVISTAR DEPORTES 1 (Copyright © 2017 by TeamBlue)
+http://92.60.237.19:8880/play/Mdeportes1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Movistar Futbol
+http://185.231.160.42/608/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="Categoria", MOVISTAR GOLF (Copyright © 2017 by TeamBlue)
+http://185.231.160.35/601/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Movistar Music
+http://B36642.cdn.telefonica.com/36642/ch09/3.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Movistar Xtra
+http://m3u.iptvla.xyz/usuarios/src5/MoviXtra/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/0/0b/Fusion_TV_2013_logo.png" group-title="Categoria", FUSION TV
+http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/yt3.ggpht.com/-938RbJUYCN4/AAAAAAAAAAI/AAAAAAAAAAA/Pvv9I-Gj3_8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Categoria", Fusion TV
+http://ragnaroktv.com/hls/izzi/4/7/FUSION.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/yt3.ggpht.com/-938RbJUYCN4/AAAAAAAAAAI/AAAAAAAAAAA/Pvv9I-Gj3_8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Categoria", Fusion TV
+http://ragnaroktv.com/hls/issi/4/7/FUSION.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/yt3.ggpht.com/-938RbJUYCN4/AAAAAAAAAAI/AAAAAAAAAAA/Pvv9I-Gj3_8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Categoria", Fusion TV
+http://ragnaroktv.com/hls/2/src2/4/7/FUSION.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/gyP1fmt.png" group-title="Categoria", Comedy Central
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/media.entutele.com/channels/big/comedy-central.gif" group-title="Categoria", Comedy Central
+http://ragnaroktv.com/live/STREAM/COMEDYC/MzQ31jMyMdUzNdAzMjAyNAQA/.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", COMEDY CENTRAL
+http://216.31.255.235/hlsl/1/Ze5abrUben5dCOMEDY/Ze5abrUben5dCOMEDY.m3u8?FORMIGATV
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", COMEDY CENTRAL
+http://ragnaroktv.com/hls/TEST/COMEDY_CENTRAL_HD/M7Sw0DM0NAFiAz1DSzMTcwA=/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/9PhkrX" group-title="Categoria", Comedy Central
+http://165.227.159.208/stream/oN2jdB328HXRdi0LvrIG2KsVdQtvyvOZ.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/9PhkrX" group-title="Categoria", Comedy Central
+http://185.152.66.43/BR1/3249-br/index.m3u8?token=9eb81f8af7eddb1ff89f90da169ce8c0
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/0956PZG.png" group-title="Categoria", Comedy Central
+http://painel.iptvhot.com:25461/live/testando33/testando33/172.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Comedy Central
+http://painel.iptvmove.com:25461/live/tiago123/tiago123/1336.ts
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Comedy Central ES
+http://185.231.160.42/604/1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Comedy Central HD
+http://m3u.iptvla.xyz/usuarios/src1/ComedyCentralHD/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Distrito Comedia
+http://m3u.iptvla.xyz/usuarios/src1/DistritoComedia/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Distrito Comedia
+http://ragnaroktv.com/hls/izzi/4/0/DISTRITO_COMEDIA.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Distrito Comedia
+http://ragnaroktv.com/hls/issi/4/0/DISTRITO_COMEDIA.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Distrito Comedia
+http://ragnaroktv.com/hls/2/src3/4/0/DISTRITO_COMEDIA.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", English: Distrito Comedia
+http://live.tvplayerlatino.com/streaming/src1/VGGNc?455ff1
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Spanish: Distrito Comedia
+http://live.tvplayerlatino.com/streaming/src1/VGGNc?58afba
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", French: AXN BLACK
+http://n-3-9.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_black_1/2933/0/tv-ss/live.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Polish: AXN  HD
+http://n-0-134.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_HD_1/1938/0/tv-ss/live.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Polish: AXN Black
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_black_1/2933/0/tv-ss/live.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/x.cdn.entutele.com/media/channels/medium/telemundo.gif" group-title="Categoria", TELEMUNDO
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Pasiones
+https://latamonly-lh.akamaihd.net/i/pasiones_1@580283/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", English: RCN Novelas
+http://live.tvplayerlatino.com/streaming/src5/IwJKQ?238e82&f=.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Spanish: TLNOVELAS
+http://live.tvplayerlatino.com/streaming/src1/3iDkr?58afba
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Tlnovelas
+http://m3u.iptvla.xyz/usuarios/src5/Tlnovelas/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/media.entutele.com/channels/big/tlnovelas.gif" group-title="Categoria", Tlnovelas
+http://ragnaroktv.com/live/STREAM/TLNOVELAS/MzQ31jMyMdUzNdAzMjAyNAQA/.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", TLNOVELAS
+http://ragnaroktv.com/hls/TEST/TLNOVELAS/M7Sw0DM0NAFiAz1DSzMTcwA=/.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Univision Tlnovelas
+http://m3u.iptvla.xyz/usuarios/src5/UnivisionTlnovelas/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/radionotas.com/wp-content/uploads/2017/03/Orden-canales-TV-.jpg" group-title="Categoria", Imagen tv
+https://ssh101.com/m3u8/dyn/imagentvmx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/4.bp.blogspot.com/_NkxplKALmA8/TEzauMuNqNI/AAAAAAAAAPI/OgWgg0qB9go/s600-c/chv+2006.jpg" group-title="Categoria", Chilevision
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", 39cnn chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", CDO (Chile)
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w1050144887.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", CHILE:Canal 9 Bio Bio Concepción SD
+http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", CHILE:Cappissima Multimedial Arica
+http://cl.streaminghd.cl:80/cappissima/cappissima/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", CNN (Noticias Chile)
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", English: CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", NOTICIAS:CNN Chile
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x1-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=1cc64f024d643278&CompartilhandoIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x1-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=1cc64f024d643278&SerieSD
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x2-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=80dc92690d12fbba&CompartilhandoIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x2-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=80dc92690d12fbba&SerieSD
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x3-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=2d6d9fed1748e64e&CompartilhandoIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x3-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=2d6d9fed1748e64e&SerieSD
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x4-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=10f9ef9da5070616&CompartilhandoIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x4-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=10f9ef9da5070616&SerieSD
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x5-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=650693b2b807b8d6&CompartilhandoIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x5-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=650693b2b807b8d6&SerieSD
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x6-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=93e2135c387ea599&CompartilhandoIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x6-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=93e2135c387ea599&SerieSD
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x7-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=cee6fdfcc89e4599&CompartilhandoIPTV
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x7-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=cee6fdfcc89e4599&SerieSD
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/7d7fnd1.jpg" group-title="Categoria", 1x8-LEG Las Chicas del Cable
+https://www.blogger.com/video-play.mp4?contentId=efcb49ea8f5b7d64&CompartilhandoIPTV
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Spanish: 5 Chi UOCT Chile 813776 - Unidad operativa de control de transito
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", English: TV Peru 7.3
+http://cdnh5.iblups.com/hls/RMuwrdk7M9.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/fotos.subefotos.com/28f13138cbaed59f465655d2a11c0388o.png" group-title="Categoria", PACÍFICO TV Perú
+http://cdn2.ujjina.com:1935/iptvpacifico/livepacificotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.youthscape.co.uk/assets/open_me/img/interface/prayer-icon.png" group-title="Categoria", ~ Religion TV ~
+http://191.252.102.161:8040/stream
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", COSTA RICA:Colosal TV
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", COSTA RICA:Telered
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", COSTA RICA:TeleUno TV
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", carton network
+http://142.44.137.23/CARTOON/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", carton network
+http://142.44.137.23/CARTOON/preview.mp4
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Cartoon Network
+http://m3u.iptvla.xyz/usuarios/src1/CartoonNetwork/Fanstv/uC2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/media.entutele.com/channels/big/cartoon-network.gif" group-title="Categoria", Cartoon Network
+http://ragnaroktv.com/live/STREAM/CARTOONNETWORK/MzQ31jMyMdUzNdAzMjAyNAQA/.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ragnaroktv.com/logostv/infantiles/2.png" group-title="Categoria", Cartoon Network
+http://ragnaroktv.com/hls/izzi/4/8/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/jjsijgj8t/og_Logo.png" group-title="Categoria", CARTOON NETWORK
+http://wowza2.mysoltv.com:1992/UK_ENG_CARTOON_NETWORK_gaaa/tracks-v1a1/index.m3u8?CANAISGLAU
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ragnaroktv.com/logostv/infantiles/2.png" group-title="Categoria", Cartoon Network
+http://ragnaroktv.com/hls/issi/4/8/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ragnaroktv.com/logostv/infantiles/2.png" group-title="Categoria", Cartoon Network
+http://ragnaroktv.com/hls/2/src3/4/8/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/2soJd5" group-title="Categoria", Cartoon Network
+http://144.217.72.15/CartoonNetworkHD/tracks-v1a1/index.m3u8?token=2763ca2ff5cd103c676065c8ef1a3b0e
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", CARTOON NETWORK
+http://144.217.72.15:80/CartoonNetworkHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/S5PsDDR.png" group-title="Categoria", Cartoon Network
+http://painel.iptvhot.com:25461/live/testando33/testando33/176.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Cartoon Network
+http://painel.iptvmove.com:25461/live/tiago123/tiago123/1339.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="Categoria", CARTOON NETWORK (Copyright © 2017 by TeamBlue)
+http://asdp.ddns.net:8000/live/adriano/adriano/393.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png" group-title="Categoria", CARTOON NETWORK (Copyright © 2017 by TeamBlue)
+http://188.165.13.95:8080/79/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/mFDFUjt.png" group-title="Categoria", Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ragnaroktv.com/logostv/peliculas/10.png" group-title="Categoria", ISAT
+http://ragnaroktv.com/hls/izzi/4/6/ISAT.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ragnaroktv.com/logostv/peliculas/10.png" group-title="Categoria", ISAT
+http://ragnaroktv.com/hls/issi/4/6/ISAT.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ragnaroktv.com/logostv/peliculas/10.png" group-title="Categoria", ISAT
+http://ragnaroktv.com/hls/2/src3/4/6/ISAT.m3u8
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8?CompartilhandoIPTV
+
+#EXTINF:-1 tvg-logo="http://paineliptvgratis.com/assets/favicons/ms-icon-310x310.png" group-title="Categoria", CANAL 26 (ARG) 
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+
 
 #EXTINF:-1, -----DEPORTES [1080]------
 http://tv.latintvweb.com:8000/live/Juanca/Juanca/18349.m3u8
