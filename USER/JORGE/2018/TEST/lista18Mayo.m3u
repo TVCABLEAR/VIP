@@ -1,0 +1,393 @@
+#EXTM3U 
+
+#EXTINF:-1,Russia Today Español 
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on 
+
+#EXTINF:-1,ADN 40 
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8
+
+#EXTINF:-1,Cantinazo 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8 
+
+#EXTINF:-1,Cable Noticias 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8 
+
+#EXTINF:-1,Canal 10 Chetumal 
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8 
+
+#EXTINF:-1,TELERITMO 
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8 
+
+#EXTINF:-1,Las Estrellas G67 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8 
+
+##############################################################################################
+#                           LISTA SEGUNDA LISTA
+##############################################################################################
+
+#EXTINF:-1,Telemundo 51 
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on 
+
+#EXTINF:-1,RCN | SD 
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8 
+
+#EXTINF:-1,Caracol TV | SD 
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8 
+
+#EXTINF:-1,Animax 
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
+
+#EXTINF:-1,PakaPaka 
+http://lsd2-latam.secure2.footprint.net/hls-live/streamroot_lsd2latam-pkpk/_definst_/live/stream1.m3u8 
+#EXTINF:-1,Locomotion 
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8 
+
+#EXTINF:-1,El Chavo 
+http://tecnotv.xyz/chavo.php 
+
+#EXTINF:-1,Yes 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?www.tecnotv.info 
+
+#EXTINF:-1,IPE 
+http://cdnh4.iblups.com/hls/irtp.m3u8
+
+#EXTINF:-1,Los Simpson Random 
+http://tecnotv.xyz/simpson.php
+
+#EXTINF:-1,Futurama 
+http://tecnotv.xyz/futurama.php 
+
+#EXTINF:-1,Azteca A+ | SD 
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/master.m3u8 
+#EXTINF:-1,Azteca 13 | SD 
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8 
+#EXTINF:-1,Canal 10 Chetumal | HD 
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8 
+#EXTINF:-1,ADN 40 |SD 
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/master.m3u8 
+#EXTINF:-1,TV Mas | SD 
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8 
+#EXTINF:-1,Multimedios Monterrey | HD 
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8 
+#EXTINF:-1,Multimedios Laguna | HD 
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8 
+#EXTINF:-1,Canal de las Estrellas | SD 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8 
+#EXTINF:-1,Foro TV | SD 
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8 
+#EXTINF:-1,Milenio | SD 
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8 
+#EXTINF:-1,Mexiquense | SD 
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8 
+#EXTINF:-1,Ultra TV Puebla | HD 
+https://180ce25c70.site.internapcdn.net/puebla_live/chunklist.m3u8 
+#EXTINF:-1,Ultra TV Aguacalientes | HD 
+https://180ce25c70.site.internapcdn.net/aguascalientes_live/chunklist.m3u8 
+#EXTINF:-1,Teleritmo | SD 
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8 
+#EXTINF:-1,Canal Once IPN Int. | HD 
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8 
+#EXTINF:-1,Ingenio TV | SD 
+http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8 
+#EXTINF:-1,Canal del Congreso | SD 
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/playlist.m3u8 
+#EXTINF:-1,Canal 4 | SD 
+http://162.241.190.126:1935/live/canal4/playlist.m3u8 
+#EXTINF:-1,Canal 20 Zacatecas | SD http://wowza.zuperdns.net:1935/zuperhosting.live.grupob.canal20zacatecas/smil:livestream.smil/playlist.m3u8 
+#EXTINF:-1,Tlaxcala TV | SD 
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8 
+#EXTINF:-1,Capital 21 | SD 
+http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc 
+#EXTINF:-1,RCG | SD 
+http://wowzacontrol.com:1936/stream34/stream34/playlist.m3u8 
+#EXTINF:-1,RCG 2 | SD 
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8 
+#EXTINF:-1,RCG 3 | SD 
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8 
+#EXTINF:-1,TV Cuatro 4.1 | HD 
+https://5a3911d64928b.streamlock.net/tv4/videotv4/playlist.m3u8 
+#EXTINF:-1,TV Cuatro 4.2 | HD 
+https://5a3911d64928b.streamlock.net/tv42/videotv42/playlist.m3u8 
+#EXTINF:-1,C7 Jalisco | SD 
+http://streamingcws10.com:1935/c7noticias/videoc7noticias/playlist.m3u8?DVR 
+#EXTINF:-1,C7 Cultura | SD 
+http://streamingcws10.com:1935/c7cultura/videoc7cultura/playlist.m3u8?DVR 
+#EXTINF:-1,Puebla TV | SD 
+http://189.203.247.136/live/pueblatv/playlist.m3u8 
+#EXTINF:-1,TVP Mazatlan | FHD 
+https://5a3911d64928b.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8 
+#EXTINF:-1,Telemax Sonora | HD 
+http://s5.mexside.net:1935/telemax_1/telemax_1/playlist.m3u8 
+#EXTINF:-1,15TV Sabinas | SD 
+http://live.gvstream.net:554/e-tv-video/play.stream/playlist.m3u8 
+#EXTINF:-1,Ocho TV (Guadalajara) | FHD 
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8 
+
+#################################################################################################
+#                    ESPAÑA - M O V I S T A R  - O N L Y B E S T  T V
+#################################################################################################
+
+#EXTINF:-1,M+ DCine 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8 
+#EXTINF:-1,FOX Life Spain 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8 
+#EXTINF:-1,FOX Spain 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8 
+#EXTINF:-1,Hollywood HD 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8 
+#EXTINF:-1,AXN White Spain 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8 
+#EXTINF:-1,FilmBox Premium 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/552/index.m3u8 
+#EXTINF:-1,FilmBox Arthouse 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/480/index.m3u8 
+#EXTINF:-1,FilmBox 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/948/index.m3u8 
+#EXTINF:-1,FilmBox Action 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/554/index.m3u8 
+#EXTINF:-1,Eurosport 2 HD 
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/77/index.m3u8 
+#EXTINF:-1,Sky Sports 1 DE 
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/737/index.m3u8 
+#EXTINF:-1,Sky Sports 2 DE 
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/733/index.m3u8 
+#EXTINF:-1,Rai Sports 
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/528/index.m3u8 
+
+#EXTINF:-1,MOVISTAR ACCION 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8 
+#EXTINF:-1,MOVISTAR ACCION HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8 
+#EXTINF:-1,MOVISTAR COMEDIA 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8 
+#EXTINF:-1,AXN 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8 
+#EXTINF:-1,AXN HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8 
+#EXTINF:-1,COMEDY CENTRAL HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8 
+#EXTINF:-1,AMC HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u 
+#EXTINF:-1,FOX LIFE 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8 
+#EXTINF:-1,FOX LIFE HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8 
+#EXTINF:-1,AXN WHITE 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8 
+#EXTINF:-1,FOX 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8 
+#EXTINF:-1,FOX 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8 
+#EXTINF:-1,AXN 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8 
+#EXTINF:-1,AXN HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8 
+#EXTINF:-1,COMEDY CENTRAL HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8 
+#EXTINF:-1,AMC HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8 
+#EXTINF:-1,FOX LIFE 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8 
+#EXTINF:-1,FOX LIFE HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8 
+#EXTINF:-1,AXN WHITE 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8 
+#EXTINF:-1,ATRESERIES HD 
+http://a3live-lh.akamaihd.net:80/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8 
+#EXTINF:-1,MOVISTAR ACCION 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8 
+#EXTINF:-1,MOVISTAR ACCION HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8 
+#EXTINF:-1,TNT 
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8 #
+EXTINF:-1,A3S 
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on 
+#EXTINF:-1,NEOX 
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?www.tecnotv.info? 
+#EXTINF:-1,SPACE HD 
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8 
+#EXTINF:-1,SPACE HD 
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8 
+#EXTINF:-1,FOX 
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+
+#EXTINF:-1,”CINE Y SERIES”:Extrema TV 
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
+#EXTINF:-1,España:LA SEXTA HD 
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?JoCaRoIPTV.m3u8 
+#EXTINF:-1,España:MEGA ESPANA 
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?JoCaRoIPTV.m3u8 
+#EXTINF:-1,FOX 
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+
+#EXTINF:-1,”Entretenimiento”:Atres Series 
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8 
+#EXTINF:-1,”ESPAÑA”:NEOX SERIES 
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8 
+#EXTINF:-1,”ESPAÑA”:NEOX 
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1,FOX Life Spain 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8 
+#EXTINF:-1,FOX Spain 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8 
+#EXTINF:-1,Wscv Live 
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8 
+#EXTINF:-1,Cosmo Spain 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8 
+#EXTINF:-1,NOVA 
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8 
+#EXTINF:-1,MEGA 
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8?JoCaRoIPTV.m3u8 
+#EXTINF:-1,AXN 
+White Spain http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8
+
+#################################################################################################
+#                 M E X I C O
+#################################################################################################
+
+#EXTINF:-1,Azteca+ Plus 
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Aristegui NOTICIAS 
+https://vod.livestream.com/events/00000000006147c6/42a5ebd3-9d01-4ab5-ba7b-f6b01afb7752_1756.m3u8?token=0_595a9bd5_aa2ebcad66b28c4fc4b122ab115e3d6b5bd98b3e&start=106&end=14498 
+
+#EXTINF:-1,Canal del Congreso 
+http://live10.cdnmedia.tv/cngmexicolive/smil:diputados1.smil/chunklist_b500000.m3u8
+
+#EXTINF:-1,AZTECA 13 G67 
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,CANAL ONCE G67 
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1,TV Más G67 
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1,TV MEXIQUENSE
+http://1-fss-fso36.streamhoster.com/lv_tvmexiquense/_definst_/broadcast1/playlist.m3u8
+
+#EXTINF:-1,MEXICO:TELEMUNDO 51 HD 
+http://bit.ly/2iIFCmC
+
+#EXTINF:-1,MULTIMEDIOS MONTERREY HD 
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8 
+#EXTINF:-1,Azteca UNO 
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8 
+#EXTINF:-1,Azteca 7 
+http://aztecalive-lh.akamaihd.net/i/0pq46e6vw_1@502477/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,ADN 40 
+http://aztecalive-lh.akamaihd.net/i/0qeij0bji_1@26639/index_3_av-p.m3u8?sd=10&rebase=on 
+
+
+
+#################################################################################################
+#                 M O V I S T A R   S E R I E S
+#################################################################################################
+
+#EXTINF:-1,FOX 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8 
+#EXTINF:-1,AXN 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8 
+#EXTINF:-1,AXN HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8 
+#EXTINF:-1,COMEDY CENTRAL HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8 
+#EXTINF:-1,AMC HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8 
+#EXTINF:-1,FOX LIFE hd 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8 
+#EXTINF:-1,FOX LIFE HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8 
+#EXTINF:-1,AXN WHITE HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8 
+#EXTINF:-1,MOVISTAR ACCION 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8 
+#EXTINF:-1,MOVISTAR ACCION HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8 
+#EXTINF:-1,MOVISTAR COMEDIA 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8 
+#EXTINF:-1,MOVISTAR COMEDIA HD 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8 
+#EXTINF:-1,MOVISTAR DCINE 
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8 
+#EXTINF:-1,M+ Series Xtra HD 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8 
+#EXTINF:-1,M+ Accion HD 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/576/index.m3u8 
+#EXTINF:-1,M+ Comedia 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/606/index.m3u8 
+#EXTINF:-1,M+ DCine 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/607/index.m3u8 
+#EXTINF:-1,M+ Xtra 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/568/index.m3u8 
+#EXTINF:-1,FOX Life Spain
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/567/index.m3u8
+
+#EXTINF:-1,FOX Spain 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/608/index.m3u8 
+#EXTINF:-1,Cosmo Spain 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/570/index.m3u8 
+#EXTINF:-1,Hollywood HD 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/577/index.m3u8 
+#EXTINF:-1,AXN White Spain 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/609/index.m3u8 
+#EXTINF:-1,FilmBox Premium 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/552/index.m3u8 
+#EXTINF:-1,FilmBox Arthouse 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/480/index.m3u8 
+#EXTINF:-1,FilmBox 
+http://playlist.onlybest.tv/ru/channel/f772b8505cfea04b38985616da5f973f/948/index.m3u8
+
+#################################################################################################
+#                 V A R I E D A D E S
+#################################################################################################
+
+#EXTINF:-1,UNIVISION 
+http://nlds134.cdnak.dal.neulion.com/nlds/univisionnow/univision_east/as/live/univision_east_hd_androidtab.m3u8?hdnea=expires=1496782118~access=/nlds/univisionnow/univision_east/as/live/*~md5=a4f512d96d77b9a4f5e4d8f31bbf5361 
+
+#EXTINF:-1,TELEMUNDO 
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/index_1500_av-b.m3u8?sd=10&rebase;=on
+
+#################################################################################################
+#                 C H I L E
+#################################################################################################
+
+#EXTINF:-1,Mundo Auto TV 
+https://593b04c4c5670.streamlock.net/8702/8702/chunklist.m3u8 
+#EXTINF:-1,Holvoet TV Chile 
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8 
+#EXTINF:-1,TELEVISION 2 
+http://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/playlist.m3u8
+#EXTINF:-1,CNN (Chile) 
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8 
+#EXTINF:-1,NOTICIAS:CNN Chile 
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8?iptvgratis?chile.m3u8 
+#EXTINF:-1,CHILEVISION TV 
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8 
+#EXTINF:-1,INTERNACIONAL:UCV3 HD CHILE 
+http://movilstream.digitalproserver.com/ucvtv2/ucvtv2vivo/livestream1/chunklist.m3u8
+#EXTINF:-1,CHV CHILE 
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8 
+#EXTINF:-1,CNN CHILE 
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8 
+#EXTINF:-1,MEGA ES 
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8 
+#EXTINF:-1,13 Max Digital 
+http://coninfo.net:1935/13max/live/chunklist.m3u8 
+#EXTINF:-1,TLX 
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?
+
+#################################################################################################
+#                 A R G E N T I N A
+#################################################################################################
+#EXTINF:-1,Canal Rural 
+http://painel.iptvmove.com:25461/live/Sbnsnsmsmsns/12345/4907.m3u8 
+#EXTINF:-1,Canal 9 Salta 
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8? 
+#EXTINF:-1,TDC 
+http://painel.serveron.com.br:1935/8166/8166/live.m3u8 
+#EXTINF:-1,Litus Tv 
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8 
+#EXTINF:-1,MLB TV 
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLB_Network_Linear_Stream_Tuesday_20170704_1499230681478/2400K/2400_slide.m3u8 
