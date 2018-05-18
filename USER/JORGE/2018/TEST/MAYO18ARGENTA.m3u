@@ -1,54 +1,80 @@
 #EXTM3U
 
-#EXTINF:-1,~ Argentina ~ 
-#EXTINF:0,24/7 Noticias 
-#EXTINF:-1,24/7 Noticias 
-#EXTINF:-1,24/7 Noticias 
-#EXTINF:-1,24/7 Noticias 
-http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8 
-#EXTINF:-1,CINE Y SERIES:Europa Europa 
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8 
-#EXTINF:-1,TELEFE 
-http://coninfo.net:1935/13max/live/chunklist.m3u8 
-#EXTINF:-1,Music Top (ARG) 
-http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8 
-#EXTINF:-1,DeporTV 
-http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8 
-#EXTINF:-1,ARGENTINA:Canal 26 
-http://200.115.193.177/live/26hd-720/.m3u8 
-#EXTINF:-1,Canal 26 1 
-http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8 
-#EXTINF:-1,Canal 26 2 
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8 
-#EXTINF:-1,Canal 26 3 
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8 #EXTINF:-1,Canal 2 Telpin Tv http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgratis?chile.m3u8 
-#EXTINF:-1,Canal 9 Salta 
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8 
-#EXTINF:-1,Canal 4 Jujuy 
-http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8?iptvgratis?chile.m3u8 
-#EXTINF:-1,TDC 
-http://painel.serveron.com.br:1935/8166/8166/live.m3u8 
-#EXTINF:-1,Nacional:Telemax 
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8 
-#EXTINF:-1,Nacional:Televisión Rionegrina 
-http://panel.dattalive.com:1935/8204/8204/playlist.m3u8 
-#EXTINF:-1,Nacional:Canal 4 Posadas 
-http://184.154.28.210:1935/canal4/canal4/playlist.m3u8 
-#EXTINF:-1,Nacional:TDC Firmat Santa Fe 
-http://painel.serveron.com.br:1935/8166/8166/playlist.m3u8 
-#EXTINF:-1,Nacional:Aire de Santa Fe 
-http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8 
-#EXTINF:-1,Nacional:Canal 4 Esquel 
-http://arcast.tv:1935/envivo/canal4esquel/playlist.m3u8 
-#EXTINF:-1,Nacional:XFN Canal 41 
-http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8 
-#EXTINF:-1,group-title="Argentina",canal N
-http://192.99.46.56:1935/envivo/marcos/playlist.m3u8 
-#EXTINF:-1,group-title="Argentina", CANAL NN 
-http://www.coninfo.net:1935/13max/live/.m3u8 
-#EXTINF:-1,Deportes:Garage TV http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
-#EXTINF:-1,13 Max Digital http://www.coninfo.net:1935/13max/live/playlist.m3u8 #EXTINF:-1,~ Venezuela ~ #EXTINF:-1,SUN CHANNEL #EXTINF:-1,SUN CHANNEL #EXTINF:-1,SUN CHANNEL #EXTINF:-1,SUN CHANNEL http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8 #EXTINF:-1,TvES http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8 
+#EXTINF:-1,24/7 Noticias 
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
+
+#EXTINF:-1,Europa Europa 
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w18055663.m3u8
+
+#EXTINF:-1,TELEFE 
+http://coninfo.net:1935/13max/live/chunklist.m3u8
+
+#EXTINF:-1,Music Top (ARG) 
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1,DeporTV 
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
+
+#EXTINF:-1,ARGENTINA:Canal 26 
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1,Canal 26 1 
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal 26 2 
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal 26 3 
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal 2 Telpin Tv 
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal 9 Salta 
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,Canal 4 Jujuy 
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8?iptvgratis?chile.m3u8
+
+#EXTINF:-1,TDC 
+http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+
+#EXTINF:-1,Nacional:Telemax 
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1,Nacional:Televisión Rionegrina 
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+
+#EXTINF:-1,Nacional:Canal 4 Posadas 
+http://184.154.28.210:1935/canal4/canal4/playlist.m3u8
+
+#EXTINF:-1,Nacional:TDC Firmat Santa Fe 
+http://painel.serveron.com.br:1935/8166/8166/playlist.m3u8
+
+#EXTINF:-1,Nacional:Aire de Santa Fe 
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+
+#EXTINF:-1,Nacional:Canal 4 Esquel 
+http://arcast.tv:1935/envivo/canal4esquel/playlist.m3u8
+
+#EXTINF:-1,Nacional:XFN Canal 41 
+http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8
+
+#EXTINF:-1,group-title="Argentina",canal MARCOS
+http://192.99.46.56:1935/envivo/marcos/playlist.m3u8
+
+#EXTINF:-1,group-title="Argentina", CANAL 13MAX 
+http://www.coninfo.net:1935/13max/live/.m3u8
+
+#EXTINF:-1,Deportes:Garage TV 
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+
+#EXTINF:-1,13 Max Digital 
+http://www.coninfo.net:1935/13max/live/playlist.m3u8
+
+#EXTINF:-1,~ Venezuela ~ #EXTINF:-1,SUN CHANNEL #EXTINF:-1,SUN CHANNEL #EXTINF:-1,SUN CHANNEL #EXTINF:-1,SUN CHANNEL http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_manifest.m3u8 #EXTINF:-1,TvES http://controlstreams.com:1935/tves2/tves2/chunklist_w1083729129.m3u8 
 #EXTINF:-1,TVO http://edge.wms28.lorini.net/tvo/tvo/playlist.m3u8?iptvgratis?chile.m3u8 #EXTINF:-1,La Tele Tuya http://enc-fwt.lorini.net/telet/telet/tracks-v1a1/index.m3u8?iptvgratis?chile.m3u8 #EXTINF:-1,~ Ecuador ~ #EXTINF:-1,UCSG #EXTINF:-1,UCSG #EXTINF:-1,UCSG #EXTINF:-1,UCSG http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8 #EXTINF:-1,INTERNACIONAL:TC HD ECUADOR http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8 #EXTINF:-1,INTERNACIONAL:TC HD ECUADOR http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8 #EXTINF:-1,TC http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8 #EXTINF:-1,~ Paraguay ~ #EXTINF:-1,UNICANAL #EXTINF:-1,UNICANAL #EXTINF:-1,UNICANAL #EXTINF:-1,UNICANAL http://strm.unicanal.com.py/live/unicanal_src.m3u8?JoCaRoIPTV.m3u8 #EXTINF:-1,SUPER 5 TV COSTA RICA http://k4.usastreams.com/superC/superC_1/chunklist_w1276676761.m3u8 #EXTINF:-1,TV Sur 14 http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8 #EXTINF:-1,Canal UCR http://163.178.170.181:1935/envivo/envivo/playlist.m3u8 #EXTINF:-1,CANAL 9 http://k3.usastreams.com:1935/tvsur1/tvsur1/chunklist_w1185370442.m3u8 
 #EXTINF:-1,Telered http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8 #EXTINF:-1,Telesur http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8 #EXTINF:-1,TeleUno TV http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8 #EXTINF:-1,~ Colombia ~ #EXTINF:-1,Canal Antiestres #EXTINF:-1,Canal Antiestres #EXTINF:-1,Canal Antiestres #EXTINF:-1,Canal Antiestres http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?tecnotv.info?iptv.m3u8? #EXTINF:-1,COLOMBIA:Cosmovision http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?tecnotv.info?iptv.m3u8?iptvgratis?chile.m3u8 #EXTINF:-1,TV MEDELLIN http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8 #EXTINF:-1,ESPN DEPORTES http://51.15.222.188/live/espndeportes/index.m3u8 #EXTINF:-1,Canal U COL http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8 #EXTINF:-1,Caracol https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8 #EXTINF:-1,COLOMBIA:RCN https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8 #EXTINF:-1,Cable Noticias http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8 #EXTINF:-1,COLOMBIA TELEANTIOQUIA http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8 #EXTINF:-1,COLOMBIA TELECAFE http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8 #EXTINF:-1,COLOMBIA VE PLUS http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8 #EXTINF:-1,COLOMBIA Canal CNC Medellin | SD http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8 #EXTINF:-1,COLOMBIA NTN24 | HD http://api.new.livestream.com/accounts/13988764/events/4133355/live.m3u8 #EXTINF:-1,COLOMBIA RCN - Colombia | HD http://bit.ly/RCN-TvNinjaxD?Colombia.m3u8 #EXTINF:-1,COLOMBIA:El Tiempo http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?iptvgratis?chile.m3u8 #EXTINF:-1,COLOMBIA TV Agro | SD http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8 
 #EXTINF:-1,COLOMBIA:Yes http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?tecnotv.info?iptv.m3u8?iptvgratis?chile.m3u8 #EXTINF:-1,~ Peru ~ #EXTINF:-1,CANAL 9 teleritmo #EXTINF:-1,CANAL 9 teleritmo #EXTINF:-1,CANAL 9 teleritmo #EXTINF:-1,CANAL 9 teleritmo http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8 #EXTINF:-1,Canal BHtv http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8 #EXTINF:-1,Capital TV (Peru) http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live/stream1.m3u8 #EXTINF:-1,CTV Peru http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8 #EXTINF:-1,Monterrico TV http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8 #EXTINF:-1,Ovacion http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8 #EXTINF:-1,Central TV PerÃº http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8 #EXTINF:-1,Mega TV Araquipa http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8 #EXTINF:-1,Entretenimiento:Wow TV http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8? #EXTINF:-1,~ Honduras ~ #EXTINF:-1,Univision Deportes #EXTINF:-1,Univision Deportes #EXTINF:-1,Univision Deportes #EXTINF:-1,Univision Deportes http://51.15.222.188/live/udn/index.m3u8 #EXTINF:-1,Wapa Deportes https://dcunilive30-lh.akamaihd.net/i/dclive_1@535231/master.m3u8 
